@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=526"
+  },
+  "data": {
+    "id": "526",
+    "date": "2018-06-28T00:00:00.000Z",
+    "title": "Sanktionen bei Hartz IV und Sozialhilfe (Antrag der Fraktion Die Linke)",
+    "topTitle": "42. Sitzung vom 28.06.2018, TOP 6 Sanktionen bei Hartz IV und Sozialhilfe",
+    "description": "Beschlussempfehlung des Ausschusses für Arbeit und Soziales (11. Ausschuss) zu dem Antrag der Abgeordneten Katja Kipping, Sabine Zimmermann (Zwickau), Matthias W. Birkwald, weiterer Abgeordneter und der Fraktion Die Linke: Sanktionen bei Hartz IV und Leistungseinschränkungen bei der Sozialhilfe abschaffen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900103.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/103 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/103</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/027/1902748.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2748 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2748</a>)",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) <br/>– zu dem Antrag der Fraktion DIE LINKE. <br/>Sanktionen bei Hartz IV und Leistungseinschränkungen bei der Sozialhilfe abschaffen<br/>– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Soziale Teilhabe und Selbstbestimmung in der Grundsicherung statt Sanktionen und Ausgrenzung<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900103.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/103 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/103</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/017/1901711.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1711 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1711</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/027/1902748.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2748 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2748</a><br/><br/>Namentliche Abstimmungen<br/>",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/001/1900103.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/027/1902748.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=526&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 534,
+        "no": 126,
+        "abstain": 1,
+        "na": 48
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 232,
+            "no": 0,
+            "abstain": 0,
+            "na": 14
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 141,
+            "no": 0,
+            "abstain": 1,
+            "na": 10
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 83,
+            "no": 0,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 75,
+            "no": 0,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 64,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 62,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 3,
+            "no": 0,
+            "abstain": 0,
+            "na": 1
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19042.pdf#P.4164",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7249232",
+      "mediathekURL": "https://dbtg.tv/fvid/7249232",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7249232/7249232_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7249232/7249232_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7249232/7249232_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7249232/7249232_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249236#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Schmidt (Wetzlar), Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523328/3x4/170/227/8b8df014ddee0750f117da67aa67e28/tf/schmidt_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249237#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schneider, Jörg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526746/3x4/170/227/283ac483d7c97d536b56ef275ae2f449/ut/schneider_joerg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249239#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Whittaker, Kai",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524574/3x4/170/227/6aff2aee3d78e7a5d3f1d082761488b3/jI/whittaker_kai_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249240#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kober, Pascal",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527268/3x4/170/227/9f22ab5767c475e8881bbb16648ac873/BM/kober_pascal_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249241#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Kipping, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521010/3x4/170/227/dc9212f4a58dd4bbbf0482d6cb6c49d3/Fn/kipping_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249243#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Lehmann, Sven",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527402/3x4/170/227/c97139c67c217eb94e38e4b4118ccc7f/ZV/lehmann_sven_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249244#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Bartke, Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518160/3x4/170/227/347fa14a02a3902de2ed31f19a379aa2/tn/bartke_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249245#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Mansmann, Till",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526490/3x4/170/227/a788ae3054839690afbbfafe007efa0c/XC/mansmann_till_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249246#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Zimmer, Prof. Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524808/3x4/170/227/e9251b199c2d1dd96dd617691d98f78/xI/zimmer_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249248#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Petry, Dr. Frauke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526780/3x4/170/227/8af489b12cc3b683caf03eea54d7c69a/LM/petry_frauke_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249249#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Rosemann, Dr. Martin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523018/3x4/170/227/feb14c8fe4957b43baf607f7dc9ba184/Cc/rosemann_martin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249251#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Aumer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527254/3x4/170/227/3f465eff73507b5836fbcd6e1f4629d/ru/aumer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249252#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7249254#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

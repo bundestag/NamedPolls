@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=508"
+  },
+  "data": {
+    "id": "508",
+    "date": "2018-03-22T00:00:00.000Z",
+    "title": "Bundeswehreinsatz in Südsudan (UNMISS)",
+    "topTitle": "23. Sitzung vom 22.03.2018, TOP 10 Bundeswehreinsatz in Südsudan (UNMISS)",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in der Republik Südsudan (UNMISS) auf Grundlage der Resolution 1996 (2011) des Sicherheitsrates der Vereinten Nationen vom 8. Juli 2011 und Folgeresolutionen, zuletzt 2392 (2017) vom 14. Dezember 2017 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/010/1901095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1095</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/013/1901303.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1303 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1303</a>)",
+    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in der Republik Südsudan (UNMISS) auf Grundlage der Resolution 1996 (2011) des Sicherheitsrates der Vereinten Nationen vom 8. Juli 2011 und Folgeresolutionen, zuletzt 2392 (2017) vom 14. Dezember 2017<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/010/1901095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1095</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/013/1901303.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1303 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1303</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/013/1901337.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1337 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1337</a><br/><br/>(namentliche Abstimmung)",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/010/1901095.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/013/1901303.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=508&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 578,
+        "no": 59,
+        "abstain": 4,
+        "na": 68
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 222,
+            "no": 0,
+            "abstain": 0,
+            "na": 24
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 141,
+            "no": 0,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 75,
+            "no": 4,
+            "abstain": 4,
+            "na": 8
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 78,
+            "no": 0,
+            "abstain": 0,
+            "na": 2
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 52,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 62,
+            "no": 1,
+            "abstain": 0,
+            "na": 4
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 0,
+            "no": 2,
+            "abstain": 0,
+            "na": 2
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19023.pdf#P.2095",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7213190",
+      "mediathekURL": "https://dbtg.tv/fvid/7213190",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7213190/7213190_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7213190/7213190_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7213190/7213190_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7213190/7213190_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213193#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Matschie, Christoph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526440/3x4/170/227/ab4e42f580fdb4ec6dbf74d3b2ebb5a4/md/matschie_christoph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213196#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Otten, Gerold",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529626/3x4/170/227/7a3206a21a5e0332791e059d208b16d2/NC/otten_gerold_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213197#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213198#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Nick, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213200#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Faber, Dr. Marcus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527352/3x4/170/227/2c59fb29730d253663646ecb9d91e24e/BD/faber_marcus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213201#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Vogler, Kathrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524286/3x4/170/227/f1bf283837a492236dbf48040b3d7ebb/Lz/vogler_kathrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213202#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Bause, Margarete",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518224/3x4/170/227/fc5040df6766078e565d9971fa4cb4fe/kK/bause_margarete_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213206#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Heinrich, Gabriela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520236/3x4/170/227/e7fa8125324b90ccb146109ccf1f2975/kX/heinrich_gabriela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213207#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kuffer, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529172/3x4/170/227/fe3d34fa91b636c24c421a546a892d1d/LV/kuffer_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213209#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Löbel, Nikolas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521674/3x4/170/227/a475ad9aca234d3bc9b2ade9827b8ff5/RE/loebel_nikolas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213210#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213212#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

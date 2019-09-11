@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=331"
+  },
+  "data": {
+    "id": "331",
+    "date": "2015-03-26T00:00:00.000Z",
+    "title": "Nachhaltige Waldbewirtschaftung",
+    "topTitle": "97. Sitzung vom 26.03.2015, TOP 9 Waldbewirtschaftung",
+    "description": "Beschlussempfehlung des Ausschusses für Ernährung und Landwirtschaft zu dem Antrag der Fraktion Bündnis 90/Die Grünen - Nachhaltige Waldbewirtschaftung sicherstellen - Kooperative Holzvermarktung ermöglichen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/028/1802876.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2876 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2876</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/035/1803578.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3578 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3578</a>)",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) <br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Nachhaltige Waldbewirtschaftung sicherstellen – Kooperative Holzvermarktung ermöglichen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/028/1802876.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2876 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2876</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/035/1803578.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3578 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3578</a><br/>",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/028/1802876.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/035/1803578.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=331&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 448,
+        "no": 115,
+        "abstain": 0,
+        "na": 68
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 276,
+            "no": 1,
+            "abstain": 0,
+            "na": 34
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 172,
+            "no": 0,
+            "abstain": 0,
+            "na": 21
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 59,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 0,
+            "no": 55,
+            "abstain": 0,
+            "na": 8
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18097.pdf#P.9247",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=4810229",
+      "mediathekURL": "https://dbtg.tv/fvid/4810229",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4810229/4810229_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4810229/4810229_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4810229/4810229_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4810229/4810229_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4810230#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Kovac, Kordula",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/242596/3x4/170/227/1a0300471ae82ef9d3b715cbfa7bbc99/BL/kovac_kordula_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4810231#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Tackmann, Dr. Kirsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524008/3x4/170/227/ab648f9304846531be0fda13ec74ee79/gv/tackmann_kirsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4810249#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Crone, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240844/3x4/170/227/a22230597e2220ae13c3c8cd95e20450/yR/crone_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4810305#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ebner, Harald",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519192/3x4/170/227/66825d04a784b3ece7aa8a2708c36f0b/GR/ebner_harald_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4810331#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Rainer, Alois",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522780/3x4/170/227/8183cdd8144739fbbeaca122fdc4866e/Ph/rainer_alois_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4810332#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Gerig, Alois",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519710/3x4/170/227/1bfc3fa51e8b135508cb7a3a9ada6fb/jG/gerig_alois_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4810340#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4810341#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

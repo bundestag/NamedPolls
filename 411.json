@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=411"
+  },
+  "data": {
+    "id": "411",
+    "date": "2016-07-08T00:00:00.000Z",
+    "title": "Erneuerbare-Energie-Gesetz",
+    "topTitle": "184. Sitzung vom 08.07.2016, TOP 33 Erneuerbare-Energien-Gesetz",
+    "description": "Gesetzentwurf der Fraktionen der CDU/CSU und SPD: Entwurf eines Gesetzes zur Einführung von Ausschreibungen für Strom aus erneuerbaren Energien und zu weiteren Änderungen des Rechts der erneuerbaren Energien (Erneuerbare Energie-Gesetz- EEG 2016) (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/088/1808860.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8860 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8860</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/090/1809096.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9096 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9096</a>)",
+    "detailedDescription": "- Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD <br/>eingebrachten Entwurfs eines Gesetzes zur Einführung von Ausschreibungen für Strom aus erneuerbaren Energien und zu weiteren Änderungen des Rechts der erneuerbaren Energien <br/>(Erneuerbare-Energien-Gesetz – EEG 2016)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/088/1808860.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8860 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8860</a><br/>- Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Einführung von Ausschreibungen für Strom aus erneuerbaren Energien und zu weiteren Änderungen des Rechts der erneuerbaren Energien <br/>(Erneuerbare-Energien-Gesetz – EEG 2016)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/088/1808832.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8832 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8832</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/089/1808972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8972</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/090/1809096.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9096 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9096</a><br/>",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/088/1808860.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/090/1809096.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=411&ajax=true",
+    "votes": {
+      "all": {
+        "total": 630,
+        "yes": 444,
+        "no": 121,
+        "abstain": 9,
+        "na": 56
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 310,
+            "yes": 276,
+            "no": 5,
+            "abstain": 4,
+            "na": 25
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 168,
+            "no": 3,
+            "abstain": 5,
+            "na": 17
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 53,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 0,
+            "no": 60,
+            "abstain": 0,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18184.pdf#P.18222",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6970752",
+      "mediathekURL": "https://dbtg.tv/fvid/6970752",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6970752/6970752_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6970752/6970752_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6970752/6970752_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6970752/6970752_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970755#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Saathoff, Johann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523106/3x4/170/227/580359fcb73bb1ecef36b1bfc8d2bd14/Tw/saathoff_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970756#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Bulling-Schröter, Eva",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240754/3x4/170/227/f9e431beca301086a252287ea3cd01ab/lX/bulling_schroeter_eva_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970759#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Pfeiffer, Dr. Joachim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522614/3x4/170/227/ca2d9df770ddc5b942ad4054dbfeaafe/tk/pfeiffer_joachim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970763#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Verlinden, Dr. Julia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524254/3x4/170/227/44c88b07b931609fe044c361220b261a/eS/verlinden_julia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970764#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Gabriel, Sigmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519624/3x4/170/227/4b0c72944d359001bce8269e25d09880/en/gabriel_sigmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970928#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister des Auswärtigen",
+        "party": null
+      },
+      {
+        "deputyName": "Lenkert, Ralph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521570/3x4/170/227/7199e9a077034081fb1b143e31288422/Yz/lenkert_ralph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970939#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Nüßlein, Dr. Georg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522418/3x4/170/227/ad15824b58a43e1580aca4db95005550/dR/nuesslein_georg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970952#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hofreiter, Dr. Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520474/3x4/170/227/564f6d447a10d765f4224f8a80aa33ce/ab/hofreiter_anton_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970964#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Westphal, Bernd",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524558/3x4/170/227/4b04bf565b5b5b0d64f4bfe0e52af885/AF/westphal_bernd_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970977#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lenz, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521574/3x4/170/227/368eba7dd46c013401d6f0c2bf2b74ba/rm/lenz_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6970990#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6971003#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
+  }
+}

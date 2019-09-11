@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=19"
+  },
+  "data": {
+    "id": "19",
+    "date": "2011-07-07T00:00:00.000Z",
+    "title": "Verbot der Speicherung von Kohlendioxid im Untergrund",
+    "topTitle": "120. Sitzung vom 07.07.2011, TOP 16 Kohlendioxid-Speicherung",
+    "description": "Gesetzentwurf der Fraktion Die Linke zum Verbot der Speicherung von Kohlendioxid in den Untergrund des Hoheitsgebietes der Bundesrepublik Deutschland (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/052/1705232.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5232 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5232</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/065/1706507.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6507 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6507</a>)",
+    "detailedDescription": "16.a) Zweite und dritte Beratung BReg\r<br/>Zur Demonstration und Anwendung von Technologien zur Abscheidung, zum Transport und zur dauerhaften Speicherung von Kohlendioxid\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/057/1705750.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5750 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5750</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/062/1706264.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6264 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6264</a> -\r<br/>-  Zweite und dritte Beratung DIE LINKE.\r<br/>Zum Verbot der Speicherung von Kohlendioxid in den Untergrund des Hoheitsgebietes der Bundesrepublik Deutschland (CO2-Speicher-Verbotsgesetz - CSpVG)\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/052/1705232.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5232 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5232</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/065/1706507.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6507 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6507</a> -\r<br/>16.b) Beratung BeschlEmpf u Ber (16.A)\r<br/>zum Antrag CDU/CSU, FDP\r<br/>Umfassende Datenbasis für Nutzungsmöglichkeiten des Untergrunds schaffen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/030/1703056.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3056 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3056</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/065/1706507.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6507 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6507</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/052/1705232.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/065/1706507.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=19&ajax=true",
+    "votes": {
+      "all": {
+        "total": 620,
+        "yes": 65,
+        "no": 445,
+        "abstain": 65,
+        "na": 45
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 237,
+            "yes": 0,
+            "no": 221,
+            "abstain": 1,
+            "na": 15
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 0,
+            "no": 136,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 0,
+            "no": 88,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 65,
+            "no": 0,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 0,
+            "no": 0,
+            "abstain": 64,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17120.pdf#P.13959",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1219268",
+      "mediathekURL": "https://dbtg.tv/fvid/1219268",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1219268/1219268_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1219268/1219268_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1219268/1219268_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219271#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Koeppen, Jens",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521168/3x4/170/227/f42976ad2f015b3192996b4e63d114b3/BM/koeppen_jens_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219272#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Miersch, Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522028/3x4/170/227/2adb849a5885929a95a0d01f4f5d6451/Fm/miersch_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219276#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Breil, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219277#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Bulling-Schröter, Eva",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240754/3x4/170/227/f9e431beca301086a252287ea3cd01ab/lX/bulling_schroeter_eva_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219278#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Krischer, Oliver",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521320/3x4/170/227/9d0652608f931457c84c330f2c228c6d/EG/krischer_oliver_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219291#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Nüßlein, Dr. Georg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522418/3x4/170/227/ad15824b58a43e1580aca4db95005550/dR/nuesslein_georg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219292#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kauch, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219296#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1219297#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      }
+    ]
+  }
+}

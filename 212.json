@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=212"
+  },
+  "data": {
+    "id": "212",
+    "date": "2013-02-28T00:00:00.000Z",
+    "title": "Keine Privatisierung der Wasserversorgung",
+    "topTitle": "225. Sitzung vom 28.02.2013, TOP 9, ZP 7 Privatisierung der Wasserversorgung",
+    "description": "Antrag der Fraktion Bündnis 90/Die Grünen Keine Privatisierung der Wasserversorgung durch die Hintertür (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/123/1712394.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12394 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12394</a>)",
+    "detailedDescription": "9.a) Beratung Antrag B90/GRÜNE\r<br/>Keine Privatisierung der Wasserversorgung durch die Hintertür\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/123/1712394.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12394 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12394</a> -\r<br/>9.b) Beratung Antrag DIE LINKE.\r<br/>Wasser ist Menschenrecht - Privatisierung verhindern\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/124/1712482.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12482 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12482</a> -\r<br/>ZP 7.) Beratung Antrag SPD\r<br/>Kommunale Wasserversorgung stärken - Ausschreibungspflicht bei Dienstleistungskonzessionen für den Bereich Wasser ablehnen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/125/1712519.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12519 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12519</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/123/1712394.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=212&ajax=true",
+    "votes": {
+      "all": {
+        "total": 620,
+        "yes": 249,
+        "no": 291,
+        "abstain": 8,
+        "na": 72
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 237,
+            "yes": 5,
+            "no": 212,
+            "abstain": 6,
+            "na": 14
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 121,
+            "no": 0,
+            "abstain": 0,
+            "na": 25
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 0,
+            "no": 79,
+            "abstain": 2,
+            "na": 12
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 75,
+            "yes": 62,
+            "no": 0,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 60,
+            "no": 0,
+            "abstain": 0,
+            "na": 8
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17225.pdf#P.27973",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2200476",
+      "mediathekURL": "https://dbtg.tv/fvid/2200476",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2200476/2200476_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2200476/2200476_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2200476/2200476_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2200476/2200476_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200469#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Haßelmann, Britta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520130/3x4/170/227/37053cb5513f7938bd825c7b6a6857b7/YC/hasselmann_britta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200477#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200478#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lange, Ulrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521484/3x4/170/227/193c9556c3c439ee361a2c19b3cf30eb/Du/lange_ulrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200501#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Haßelmann, Britta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520130/3x4/170/227/37053cb5513f7938bd825c7b6a6857b7/YC/hasselmann_britta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200502#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lange, Ulrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521484/3x4/170/227/193c9556c3c439ee361a2c19b3cf30eb/Du/lange_ulrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200503#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200504#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schwanholz, Dr. Martin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200521#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Otto (Frankfurt), Hans-Joachim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200544#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "PSts",
+        "party": null
+      },
+      {
+        "deputyName": "Lötzer, Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200547#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Nink, Manfred",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200548#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200561#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      }
+    ]
+  }
+}

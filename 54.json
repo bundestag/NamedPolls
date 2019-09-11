@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=54"
+  },
+  "data": {
+    "id": "54",
+    "date": "2010-06-17T00:00:00.000Z",
+    "title": "UN-Mandatsverlängerung im Libanon",
+    "topTitle": "49. Sitzung vom 17.06.2010, TOP 7 Streitkräfte im Lebanon",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/021/1702171.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2171 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2171</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/019/1701905.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1905 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1905</a>) abgelehnt",
+    "detailedDescription": "7.) Beratung Beschlussempfehlung und Bericht (3. A)\r<br/>zum Antrag Bundesregierung\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der United Nations Interim Force in Lebanon (UNIFIL) auf Grundlage der Resolution 1701\r<br/>(2006) vom 11.08.2006 und folgender Resolutionen, zuletzt 1884 (2009) vom 27.08.2009 des Sicherheitsrates der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/019/1701905.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1905 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1905</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/021/1702171.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2171 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2171</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/021/1702177.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2177 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2177</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/021/1702171.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/019/1701905.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=54&ajax=true",
+    "votes": {
+      "all": {
+        "total": 622,
+        "yes": 486,
+        "no": 76,
+        "abstain": 9,
+        "na": 51
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 239,
+            "yes": 226,
+            "no": 0,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 121,
+            "no": 4,
+            "abstain": 3,
+            "na": 18
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 84,
+            "no": 2,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 0,
+            "no": 68,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 55,
+            "no": 2,
+            "abstain": 6,
+            "na": 5
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17049.pdf#P.5030",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=659915",
+      "mediathekURL": "https://dbtg.tv/fvid/659915",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659915/659915_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659915/659915_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659915/659915_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659918#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Stinner, Dr. Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659919#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Gloser, Günter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659920#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Beyer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659926#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Höger, Inge",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241096/3x4/170/227/f939b8fc56ec6ee77f8dab2a1954daa/wZ/hoeger_inge_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659928#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller (Köln), Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659929#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Haibach, Holger",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659930#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Evers-Meyer, Karin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240906/3x4/170/227/b059a228abc3a854e18ca36b625d818/Rp/evers_meyer_karin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659932#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Gädechens, Ingo",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519628/3x4/170/227/612e5b3ef55321b2ef2ad20f842b242e/XL/gaedechens_ingo_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659933#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659938#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
+  }
+}

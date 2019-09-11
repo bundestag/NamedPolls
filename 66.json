@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=66"
+  },
+  "data": {
+    "id": "66",
+    "date": "2010-05-06T00:00:00.000Z",
+    "title": "Hartz IV-Gesetzgebung kippen",
+    "topTitle": "40. Sitzung vom 06.05.2010, TOP 26 Reform der Mindestsicherung",
+    "description": "Beschlussempfehlung des Ausschusses für Arbeit und Soziales (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/009/1700953.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/953 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/953</a>) angenommen, das bedeutet: Antrag der Fraktion Die Linke (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/006/1700659.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/659 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/659</a>) abgelehnt",
+    "detailedDescription": "26.) Beratung BeschlEmpf u Ber (11.A)\r<br/>zum Antrag DIE LINKE.\r<br/>Weg mit Hartz IV - Für gute Arbeit und eine sanktionsfreie, bedarfsgerechte Mindestsicherung\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/006/1700659.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/659 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/659</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/009/1700953.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/953 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/953</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/009/1700953.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/006/1700659.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=66&ajax=true",
+    "votes": {
+      "all": {
+        "total": 622,
+        "yes": 477,
+        "no": 62,
+        "abstain": 0,
+        "na": 83
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 239,
+            "yes": 214,
+            "no": 0,
+            "abstain": 0,
+            "na": 25
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 121,
+            "no": 0,
+            "abstain": 0,
+            "na": 25
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 84,
+            "no": 0,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 0,
+            "no": 62,
+            "abstain": 0,
+            "na": 14
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 58,
+            "no": 0,
+            "abstain": 0,
+            "na": 10
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17040.pdf#P.3902",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=605249",
+      "mediathekURL": "https://dbtg.tv/fvid/605249",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/605249/605249_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/605249/605249_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/605249/605249_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605252#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brehmer, Heike",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518656/3x4/170/227/724b894bc836d0b0a9ed056fedcb106a/ZW/brehmer_heike_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605253#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Krüger-Leißner, Angelika",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/495114/3x4/170/227/d497439dbb33317c376476ae351cec9a/QP/krueger_leissner_angelika.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605254#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kober, Pascal",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527268/3x4/170/227/9f22ab5767c475e8881bbb16648ac873/BM/kober_pascal_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605256#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Birkwald, Matthias W.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518428/3x4/170/227/ac3ae01e8b99ad0ca3a1ca789c4d6c61/IR/birkwald_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605257#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Kurth, Markus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521420/3x4/170/227/6a3d6bef997261d8f4841a548d6f5013/Qm/kurth_markus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605261#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lehrieder, Paul",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521540/3x4/170/227/dab346c0492a8336a3d760bfa9a0912d/jk/lehrieder_paul_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605262#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605263#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
+  }
+}

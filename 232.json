@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=232"
+  },
+  "data": {
+    "id": "232",
+    "date": "2013-06-13T00:00:00.000Z",
+    "title": "Bundeswehreinsatz in Kosovo (KFOR)",
+    "topTitle": "246. Sitzung vom 13.06.2013, TOP 11 Bundeswehreinsatz in Kosovo (KFOR)",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/136/1713661.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13661 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13661</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/139/1713955.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13955 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13955</a>)",
+    "detailedDescription": "11.) Beratung BeschlEmpf u Ber (3.A)\r<br/>Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo auf der Grundlage der Resolution 1244 (1999) des Sicherheitsrates der Vereinten Nationen vom 10. Juni 1999 und des Militärisch-Technichen Abkommens zwischen der internationalen Sicherheitspräsenz (KFOR) und den Regierungen \r<br/>der Bundesrepublik Jugoslawien (jetzt: Republik Serbien) und der Republik Serbien vom 9. Juni 1999\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/136/1713661.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13661 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13661</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/139/1713955.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13955 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13955</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/139/1713956.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13956 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13956</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/136/1713661.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/139/1713955.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=232&ajax=true",
+    "votes": {
+      "all": {
+        "total": 620,
+        "yes": 495,
+        "no": 50,
+        "abstain": 8,
+        "na": 67
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 237,
+            "yes": 221,
+            "no": 0,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 129,
+            "no": 0,
+            "abstain": 2,
+            "na": 15
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 88,
+            "no": 0,
+            "abstain": 1,
+            "na": 4
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 75,
+            "yes": 0,
+            "no": 49,
+            "abstain": 0,
+            "na": 26
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 57,
+            "no": 0,
+            "abstain": 5,
+            "na": 6
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17246.pdf#P.31364",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2437940",
+      "mediathekURL": "https://dbtg.tv/fvid/2437940",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2437940/2437940_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2437940/2437940_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2437940/2437940_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2437940/2437940_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2437932#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Stinner, Dr. Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2437941#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Kastner, Susanne",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2437955#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Beyer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2437956#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Dagdelen, Sevim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2437981#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Beck (Bremen), Marieluise",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240838/3x4/170/227/66e83c9287feaafaa159f46ffcdec93a/rt/beck_marieluise_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2437982#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brand, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518616/3x4/170/227/1b1451923951b6c20199c0787a33d26a/Qj/brand_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2437988#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2437998#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      }
+    ]
+  }
+}

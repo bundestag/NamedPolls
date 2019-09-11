@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=285"
+  },
+  "data": {
+    "id": "285",
+    "date": "2014-06-27T00:00:00.000Z",
+    "title": "Reform des Erneuerbare-Energien-Gesetzes",
+    "topTitle": "",
+    "description": "Gesetzentwurf der Bundesregierung zur grundlegenden Reform des Erneuerbare-Energien-Gesetzes und zur Änderung weiterer Bestimmungen des Energiewirtschaftsrechts (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/013/1801304.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1304 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1304</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/015/1801573.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1573 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1573</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/018/1801891.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1891 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1891</a>)",
+    "detailedDescription": "",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/013/1801304.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/015/1801573.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/018/1801891.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=285&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 447,
+        "no": 124,
+        "abstain": 7,
+        "na": 53
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 273,
+            "no": 13,
+            "abstain": 2,
+            "na": 23
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 174,
+            "no": 1,
+            "abstain": 5,
+            "na": 13
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 51,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 0,
+            "no": 59,
+            "abstain": 0,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "",
+    "media": {
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
+    },
+    "speeches": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=251"
+  },
+  "data": {
+    "id": "251",
+    "date": "2014-01-30T00:00:00.000Z",
+    "title": "Gentechnisch veränderte Maislinie 1507 für den Anbau in der EU",
+    "topTitle": "11. Sitzung vom 30.01.2014, TOP 6 Abschließende Beratungen ohne Aussprache",
+    "description": "Beschlussempfehlung des Ausschusses für Ernährung und Landwirtschaft zu dem Antrag der Fraktion Bündnis 90/Die Grünen \"Keine Zulassung der gentechnisch veränderten Maislinie 1507 für den Anbau in der EU\" hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/001/1800180.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/180 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/180</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/003/1800397.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/397 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/397</a>)",
+    "detailedDescription": "6.) Abschließende Beratungen ohne Aussprache",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/001/1800180.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/003/1800397.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=251&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 451,
+        "no": 121,
+        "abstain": 18,
+        "na": 41
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 291,
+            "no": 5,
+            "abstain": 3,
+            "na": 12
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 160,
+            "no": 0,
+            "abstain": 15,
+            "na": 18
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 58,
+            "abstain": 0,
+            "na": 6
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 0,
+            "no": 58,
+            "abstain": 0,
+            "na": 5
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18011.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3086800",
+      "mediathekURL": "https://dbtg.tv/fvid/3086800",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3086800/3086800_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3086800/3086800_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3086800/3086800_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3086800/3086800_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Hintze, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3086801#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

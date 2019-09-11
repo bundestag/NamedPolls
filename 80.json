@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=80"
+  },
+  "data": {
+    "id": "80",
+    "date": "2010-05-06T00:00:00.000Z",
+    "title": "Erneuerbare-Energien-Gesetz",
+    "topTitle": "40. Sitzung vom 06.05.2010, TOP 6 Solarstromförderung",
+    "description": "Gesetzentwurf der Fraktionen der CDU/CSU und FDP (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/011/1701147.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1147 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1147</a>) in der Fassung des Buchstaben a der Beschlussempfehlung des Ausschusses für Umwelt, Naturschutz und Reaktorsicherheit (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/016/1701604.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1604 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1604</a>) angenommen",
+    "detailedDescription": "6.a) Zweite und dritte Beratung CDU/CSU, FDP\r<br/>Änderung des Erneuerbare-Energien-Gesetzes\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/011/1701147.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1147 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1147</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/016/1701604.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1604 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1604</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/016/1701607.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1607 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1607</a> -\r<br/>6.b) Beratung BeschlEmpf u Ber (16.A)\r<br/>zum Antrag DIE LINKE.\r<br/>Solarstromförderung wirksam ausgestalten\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/011/1701144.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1144 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1144</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/016/1701604.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1604 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1604</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/011/1701147.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/016/1701604.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=80&ajax=true",
+    "votes": {
+      "all": {
+        "total": 622,
+        "yes": 314,
+        "no": 266,
+        "abstain": 1,
+        "na": 41
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 239,
+            "yes": 227,
+            "no": 0,
+            "abstain": 1,
+            "na": 11
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 0,
+            "no": 134,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 87,
+            "no": 1,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 0,
+            "no": 67,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 0,
+            "no": 64,
+            "abstain": 0,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17040.pdf#P.3871",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=605163",
+      "mediathekURL": "https://dbtg.tv/fvid/605163",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/605163/605163_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/605163/605163_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/605163/605163_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605169#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Ruck, Dr. Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605170#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ruck, Dr. Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605177#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Miersch, Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522028/3x4/170/227/2adb849a5885929a95a0d01f4f5d6451/Fm/miersch_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605181#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kauch, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605182#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Lenkert, Ralph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521570/3x4/170/227/7199e9a077034081fb1b143e31288422/Yz/lenkert_ralph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605185#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Grund, Manfred",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519942/3x4/170/227/314abc63b58e56078a079de4af64b074/tO/grund_manfred_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605186#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lenkert, Ralph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521570/3x4/170/227/7199e9a077034081fb1b143e31288422/Yz/lenkert_ralph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605187#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Fell, Hans-Josef",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605191#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Röttgen, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522998/3x4/170/227/87d7e0005b8fc642e951b54ac51360e0/XL/roettgen_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605192#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
+        "deputyName": "Wolff (Wolmirstedt), Waltraud",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241774/3x4/170/227/dea92b46e0821349bb1bb4fdee3311b8/ON/wolff_waltraud_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605200#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Meierhofer, Horst",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605201#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Scheer, Dr. Hermann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605205#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Flachsbarth, Dr. Maria",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519464/3x4/170/227/c7e30a1a8437509fccb65715a644e527/fk/flachsbarth_maria_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605206#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605207#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "-, -",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/537846/3x4/170/227/109af7c1b5844de7947163ceec0a9913/BA/plenum.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605226#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "???label.party.???"
+      },
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=605227#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      }
+    ]
+  }
+}

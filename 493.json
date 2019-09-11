@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=493"
+  },
+  "data": {
+    "id": "493",
+    "date": "2017-12-13T00:00:00.000Z",
+    "title": "Bundeswehreinsatz in Darfur (UNAMID)",
+    "topTitle": "5. Sitzung vom 13.12.2017, TOP 12 Bundeswehreinsatz in Darfur (UNAMID)",
+    "description": "Beschlussempfehlung des Hauptausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU-/VN Hybrid-Operation in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des Sicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und folgender Resolution, zuletzt 2363 (2017) vom 29. Juni 2017 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900019.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900174.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/174 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/174</a>)",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Hauptausschusses <br/>zu dem Antrag der Bundesregierung<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU-/VN-Hybrid-Operation in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des Sicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und folgender Resolution, zuletzt 2363 (2017) vom 29. Juni 2017<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900019.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900174.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/174 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/174</a><br/>- Namentliche Abstimmung -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/000/1900019.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/001/1900174.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=493&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 606,
+        "no": 72,
+        "abstain": 0,
+        "na": 31
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 236,
+            "no": 0,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 144,
+            "no": 1,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 84,
+            "no": 4,
+            "abstain": 0,
+            "na": 3
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 76,
+            "no": 0,
+            "abstain": 0,
+            "na": 4
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 66,
+            "abstain": 0,
+            "na": 3
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 64,
+            "no": 1,
+            "abstain": 0,
+            "na": 2
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 2,
+            "no": 0,
+            "abstain": 0,
+            "na": 2
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19005.pdf#P.345",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7181744",
+      "mediathekURL": "https://dbtg.tv/fvid/7181744",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7181744/7181744_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7181744/7181744_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7181744/7181744_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7181744/7181744_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/ca3939ce55b6915c63a633d99c84f8c/zk/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181747#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Vöpel, Dirk",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524276/3x4/170/227/5c23145a957ce9c8a0ca2c3514194d59/zZ/voepel_dirk_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181748#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Beyer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181750#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Otten, Gerold",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529626/3x4/170/227/7a3206a21a5e0332791e059d208b16d2/NC/otten_gerold_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181751#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Strack-Zimmermann, Dr. Marie-Agnes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527426/3x4/170/227/61f8a9bbb895b999664257c031a6379/GC/strack_zimmermann_marie_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181752#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181755#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schmidt, Dr. Frithjof",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523338/3x4/170/227/7984d4028a33b58f906e594770965bd/XS/schmidt_frithjof_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181756#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181758#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/ca3939ce55b6915c63a633d99c84f8c/zk/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181760#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
+  }
+}

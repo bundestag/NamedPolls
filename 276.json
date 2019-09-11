@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=276"
+  },
+  "data": {
+    "id": "276",
+    "date": "2014-05-22T00:00:00.000Z",
+    "title": "Sukzessivadoption durch Lebenspartner",
+    "topTitle": "36. Sitzung vom 22.05.2014, TOP 8 Sukzessivadoption durch Lebenspartner",
+    "description": "Änderungsantrag der Fraktion Bündnis 90/Die Günen zu dem Gesetzentwurf der Bundesregierung zur Umsetzung der Entscheidung des Bundesverfassungsgerichts zur Sukzessivadoption durch Lebenspartner (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/012/1801285.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1285 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1285</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/014/1801488.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1488 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1488</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/014/1801494.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1494 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1494</a>)",
+    "detailedDescription": "a) – Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Entscheidung des Bundesverfassungsgerichts zur Sukzessivadoption durch Lebenspartner<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/008/1800841.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/841 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/841</a> <br/>– Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Entscheidung des Bundesverfassungsgerichts zur Sukzessivadoption durch Lebenspartner<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/012/1801285.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1285 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1285</a> <br/>Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/014/1801488.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1488 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1488</a><br/><br/>b) Zweite und dritte Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Ergänzung des Lebenspartnerschaftsgesetzes und anderer Gesetze im Bereich des Adoptionsrechts<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800577.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/577 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/577</a> (neu)<br/>Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/014/1801488.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1488 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1488</a><br/><br/>c) Zweite und dritte Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zum Europäischen Übereinkommen über die Adoption von Kindern (revidiert) <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/008/1800842.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/842 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/842</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)<br/>Drucksache 18/1488",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/012/1801285.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/014/1801488.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/014/1801494.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=276&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 111,
+        "no": 432,
+        "abstain": 20,
+        "na": 68
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 1,
+            "no": 283,
+            "abstain": 2,
+            "na": 25
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 4,
+            "no": 149,
+            "abstain": 18,
+            "na": 22
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 52,
+            "no": 0,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 54,
+            "no": 0,
+            "abstain": 0,
+            "na": 9
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18036.pdf#P.3098",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3440243",
+      "mediathekURL": "https://dbtg.tv/fvid/3440243",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3440243/3440243_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3440243/3440243_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3440243/3440243_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3440243/3440243_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440247#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Lange (Backnang), Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521478/3x4/170/227/eba0c1c19bb6b1d7f0651f05ba7e2aae/cj/lange_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440249#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Parlamentarischer Staatssekretär der Justiz und für Verbraucherschutz",
+        "party": null
+      },
+      {
+        "deputyName": "Petzold (Havelland), Harald",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/242036/3x4/170/227/6c60bc1ebb1a71582f267d65ab7a5040/PI/petzold_harald_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440250#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Sütterlin-Waack, Dr. Sabine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241644/3x4/170/227/acfddcae48e7f9485465254b1f4afd44/Qd/suetterlin-waack_sabine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440256#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schauws, Ulle",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523194/3x4/170/227/d5830ccb70322cb8e82f5754c7c9464c/YG/schauws_ulle_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440295#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brunner, Dr. Karl-Heinz",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518732/3x4/170/227/e7293292805c93024ac9b7e12ff57e90/qJ/brunner_karlheinz_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440296#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ullrich, Dr. Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524210/3x4/170/227/50b690341cbf9bac4d588dc2c40a22f5/LT/ullrich_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440299#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kahrs, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520782/3x4/170/227/60a3e62dc1c5cbcf96917b84dde19b14/PS/kahrs_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440300#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440340#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

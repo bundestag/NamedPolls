@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=490"
+  },
+  "data": {
+    "id": "490",
+    "date": "2017-12-12T00:00:00.000Z",
+    "title": "Bundeswehreinsatz im Irak",
+    "topTitle": "4. Sitzung vom 12.12.2017, TOP 3 Bundeswehreinsatz im Irak",
+    "description": "Beschlussempfehlung des Hauptausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte zur Ausbildungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak und der irakischen Streitkräfte (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900025.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900178.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/178 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/178</a>)",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Hauptausschusses <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte zur Ausbildungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak und der irakischen Streitkräfte<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900025.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900178.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/178 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/178</a><br/>- Namentliche Abstimmung -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/000/1900025.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/001/1900178.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=490&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 435,
+        "no": 196,
+        "abstain": 37,
+        "na": 41
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 230,
+            "no": 0,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 129,
+            "no": 9,
+            "abstain": 2,
+            "na": 12
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 0,
+            "no": 89,
+            "abstain": 0,
+            "na": 2
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 76,
+            "no": 0,
+            "abstain": 0,
+            "na": 4
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 64,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 31,
+            "abstain": 35,
+            "na": 1
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 0,
+            "no": 3,
+            "abstain": 0,
+            "na": 1
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19004.pdf#P.224",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7180637",
+      "mediathekURL": "https://dbtg.tv/fvid/7180637",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7180637/7180637_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7180637/7180637_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7180637/7180637_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7180637/7180637_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/ca3939ce55b6915c63a633d99c84f8c/zk/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180639#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Annen, Niels",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517942/3x4/170/227/6bdac247e634d39fe7820ff75a1697cc/FK/annen_niels_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180642#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/ca3939ce55b6915c63a633d99c84f8c/zk/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180643#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Wadephul, Dr. Johann David",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180644#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Malsack-Winkemann, Dr. Birgit",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530376/3x4/170/227/4605e8892f54607afe96b8b312c9266b/hm/malsack_winkemann_birgit_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180645#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Lambsdorff, Alexander Graf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527356/3x4/170/227/8423505fda7259e6437440483e13bb5c/ZE/lambsdorff_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180646#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höhn, Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529200/3x4/170/227/c84ff94088bb0d8842137681b9ca8385/Bo/hoehn_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180647#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Trittin, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524162/3x4/170/227/36e0074986224945a3eceb3aa288f5c2/ik/trittin_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180648#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180649#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180652#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

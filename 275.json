@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=275"
+  },
+  "data": {
+    "id": "275",
+    "date": "2014-06-05T00:00:00.000Z",
+    "title": "Bundeswehreinsatz im Kosovo (KFOR)",
+    "topTitle": "",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo auf der Grundlage der Resolution 1244 (1999) des Sicherheitsrates der Vereinten Nationen vom 20. Juni 1999 und des Militärisch-Technischen Abkommens zwischen der internationalen Sicherheitspräsenz (KFOR) und den Regierungen der Bundesrepublik Jugoslawien (jetzt: Republik Serbien) und der Republik Serbien vom 9. Juni 1999 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/014/1801415.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1415 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1415</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/016/1801653.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1653 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1653</a>)",
+    "detailedDescription": "",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/014/1801415.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/016/1801653.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=275&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 531,
+        "no": 59,
+        "abstain": 7,
+        "na": 34
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 298,
+            "no": 0,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 180,
+            "no": 2,
+            "abstain": 2,
+            "na": 9
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 56,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 53,
+            "no": 1,
+            "abstain": 5,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "",
+    "media": {
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
+    },
+    "speeches": []
+  }
+}

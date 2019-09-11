@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=326"
+  },
+  "data": {
+    "id": "326",
+    "date": "2015-02-26T00:00:00.000Z",
+    "title": "Bundeswehreinsatz in Mali (EUTM Mali)",
+    "topTitle": "88. Sitzung vom 26.02.2015, TOP 6 Bundeswehreinsatz in Mali (EUTM Mali)",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses zum Antrag der Bundesregierung auf Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Militärmission der Europäischen Union als Beitrag zur Ausbildung der malischen Streitkräfte (EUTM MALI) auf Grundlage des Ersuchens der malischen Regierung sowie der Beschlüsse 2013/34/GASP und 2013/87/GASP des Rates der Europäischen Union (EU) vom 17. Januar 2013 und vom 18. Februar 2013 in Verbindung mit den Resolutionen 2071 (2012), 2085 (2012), 2100 (2013) des Sicherheitsrates der Vereinten Nationen sowie 2164 (2014) vom 25. Juni 2014 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/038/1803836.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3836 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3836</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/041/1804109.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4109 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4109</a>)",
+    "detailedDescription": "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Militärmission der Europäischen Union als Beitrag zur Ausbildung der malischen Streitkräfte (EUTM Mali) auf Grundlage des Ersuchens der malischen Regierung sowie der Beschlüsse 2013/34/GASP und 2013/87/GASP des Rates der Europäischen Union (EU) vom 17. Januar 2013 und vom 18. Februar 2013 in Verbindung mit den Resolutionen 2071 (2012), 2085 (2012), 2100 (2013) des Sicherheitsrates der Vereinten Nationen sowie 2164 (2014) vom 25. Juni 2014<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/038/1803836.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3836 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3836</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/041/1804109.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4109 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4109</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/041/1804117.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4117 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4117</a><br/>",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/038/1803836.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/041/1804109.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=326&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 516,
+        "no": 61,
+        "abstain": 3,
+        "na": 51
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 290,
+            "no": 0,
+            "abstain": 1,
+            "na": 20
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 170,
+            "no": 4,
+            "abstain": 1,
+            "na": 18
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 54,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 56,
+            "no": 3,
+            "abstain": 1,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18088.pdf#P.8318",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=4661928",
+      "mediathekURL": "https://dbtg.tv/fvid/4661928",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4661928/4661928_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4661928/4661928_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4661928/4661928_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4661928/4661928_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4661931#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Juratovic, Josip",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520756/3x4/170/227/b3922a9a62ba535a367ffd6bca9abaea/qY/juratovic_josip_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4661932#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4661939#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Wadephul, Dr. Johann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4661991#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Keul, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4661992#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hahn, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4662014#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Weber, Gabi",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524446/3x4/170/227/6cf8adc760f6f3aec378b0c56d59baae/ae/weber_gabriele_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4662015#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Frei, Thorsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4662024#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4662083#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

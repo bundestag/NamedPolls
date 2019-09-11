@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=557"
+  },
+  "data": {
+    "id": "557",
+    "date": "2018-11-23T00:00:00.000Z",
+    "title": "Änderungsantrag FDP zu Haushaltsgesetz 2019 - Einzelplan 60",
+    "topTitle": "66. Sitzung vom 23.11.2018, TOP I.20 Allgemeine Finanzverwaltung",
+    "description": "Änderungsantrag der Fraktion der FDP zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2019 (Haushaltsgesetz 2019) hier: Einzelplan 60 Allgemeine Finanzverwaltung (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/034/1903400.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3400 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3400</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/034/1903402.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3402 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3402</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/046/1904623.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4623 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4623</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/046/1904624.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4624 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4624</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/046/1904625.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4625 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4625</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/046/1904626.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4626 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4626</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/059/1905901.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5901 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5901</a>)",
+    "detailedDescription": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier: Einzelplan 60 <br/>Allgemeine Finanzverwaltung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/046/1904623.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4623 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4623</a><br/><br/>Namentliche Abstimmung",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/034/1903400.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/034/1903402.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/046/1904623.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/046/1904624.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/046/1904625.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/046/1904626.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/059/1905901.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=557&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 270,
+        "no": 353,
+        "abstain": 1,
+        "na": 85
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 0,
+            "no": 223,
+            "abstain": 0,
+            "na": 23
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 0,
+            "no": 129,
+            "abstain": 0,
+            "na": 23
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 75,
+            "no": 0,
+            "abstain": 1,
+            "na": 15
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 73,
+            "no": 0,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 58,
+            "no": 0,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 63,
+            "no": 0,
+            "abstain": 0,
+            "na": 4
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 1,
+            "no": 1,
+            "abstain": 0,
+            "na": 2
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19066.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7294155",
+      "mediathekURL": "https://dbtg.tv/fvid/7294155",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7294155/7294155_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7294155/7294155_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7294155/7294155_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7294155/7294155_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/ca3939ce55b6915c63a633d99c84f8c/zk/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7294158#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
+  }
+}

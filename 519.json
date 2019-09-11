@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=519"
+  },
+  "data": {
+    "id": "519",
+    "date": "2018-06-14T00:00:00.000Z",
+    "title": "Bundeswehreinsatz im Libanon (UNIFIL)",
+    "topTitle": "39. Sitzung vom 14.06.2018, TOP 7 Bundeswehreinsatz im Libanon (UNIFIL)",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der \"United Nations Interim Force in Lebanon\" (UNIFIL) auf Grundlage der Resolution 1701 (2006) des Sicherheitsrates der Vereinten Nationen und Folgeresolutionen, zuletzt 2373 (2017) vom 30. August 2017 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/023/1902383.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2383 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2383</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/026/1902669.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2669 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2669</a>)",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL) auf Grundlage der Resolution 1701 (2006) des Sicherheitsrates der Vereinten Nationen und Folgeresolutionen, zuletzt Resolution 2373 (2017) vom 30. August 2017<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/023/1902383.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2383 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2383</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/026/1902669.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2669 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2669</a><br/><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/027/1902736.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2736 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2736</a><br/><br/>Namentliche Abstimmung",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/023/1902383.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/026/1902669.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=519&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 512,
+        "no": 143,
+        "abstain": 3,
+        "na": 51
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 234,
+            "no": 0,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 144,
+            "no": 1,
+            "abstain": 1,
+            "na": 6
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 0,
+            "no": 79,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 75,
+            "no": 0,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 60,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 57,
+            "no": 2,
+            "abstain": 2,
+            "na": 6
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 2,
+            "no": 1,
+            "abstain": 0,
+            "na": 1
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19039.pdf#P.3817",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7245756",
+      "mediathekURL": "https://dbtg.tv/fvid/7245756",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245756/7245756_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245756/7245756_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245756/7245756_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245756/7245756_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245759#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Hendricks, Dr. Barbara",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520274/3x4/170/227/d2d846d433c29e3914cb286546b82139/gr/hendricks_barbara_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245760#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Bystron, Petr",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530322/3x4/170/227/73e2a29b9eee04d05982f87ff4c9f786/xy/bystran_petr_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245761#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245762#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Djir-Sarai, Bijan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527266/3x4/170/227/2878e5fccebe31320a4f6522d83adbaa/FE/djir_sarai_bijan_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245763#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höhn, Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529200/3x4/170/227/c84ff94088bb0d8842137681b9ca8385/Bo/hoehn_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245764#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Lindner, Dr. Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245766#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hitschler, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520404/3x4/170/227/8deee36cbab6924d9a617f009f547dfa/Cc/hitschler_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245767#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Nick, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245768#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245770#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245771#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

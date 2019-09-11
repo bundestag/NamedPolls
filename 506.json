@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=506"
+  },
+  "data": {
+    "id": "506",
+    "date": "2018-03-22T00:00:00.000Z",
+    "title": "Bundeswehreinsatz in Afghanistan (Resolute Support)",
+    "topTitle": "23. Sitzung vom 22.03.2018, TOP 8 Bundeswehreinsatz in Afghanistan (Resolute Support)",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/010/1901094.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1094 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1094</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/013/1901301.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1301 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1301</a>)",
+    "detailedDescription": "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)<br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/010/1901094.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1094 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1094</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/013/1901301.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1301 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1301</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/013/1901335.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1335 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1335</a><br/><br/>(namentliche Abstimmung)",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/010/1901094.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/013/1901301.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=506&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 447,
+        "no": 180,
+        "abstain": 16,
+        "na": 66
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 222,
+            "no": 0,
+            "abstain": 0,
+            "na": 24
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 131,
+            "no": 8,
+            "abstain": 2,
+            "na": 11
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 0,
+            "no": 82,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 76,
+            "no": 0,
+            "abstain": 2,
+            "na": 2
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 55,
+            "abstain": 0,
+            "na": 14
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 18,
+            "no": 33,
+            "abstain": 12,
+            "na": 4
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 0,
+            "no": 2,
+            "abstain": 0,
+            "na": 2
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19023.pdf#P.2072",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7213158",
+      "mediathekURL": "https://dbtg.tv/fvid/7213158",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7213158/7213158_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7213158/7213158_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7213158/7213158_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7213158/7213158_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213160#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "De Ridder, Dr. Daniela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522916/3x4/170/227/cbccf0f3d0d813f79fa3887497326b2c/DO/de_ridder_daniela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213162#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Friesen, Dr. Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530346/3x4/170/227/feaa3ae04208acbe717c24bae3bad0da/hx/friesen_anton_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213163#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213165#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213166#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Djir-Sarai, Bijan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527266/3x4/170/227/2878e5fccebe31320a4f6522d83adbaa/FE/djir_sarai_bijan_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213167#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Pflüger, Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/533896/3x4/170/227/814e291a4a5fb7253eb0a6394fa7d218/kh/pflueger_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213168#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/c8c8407c51d31f38d37ec16a1788f455/gO/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213169#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brunner, Dr. Karl-Heinz",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518732/3x4/170/227/e7293292805c93024ac9b7e12ff57e90/qJ/brunner_karlheinz_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213170#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Otte, Henning",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213171#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Stefinger, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523828/3x4/170/227/a40f9316e8448b9e5d40130d8c113ba1/yK/stefinger_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213175#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213176#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=434"
+  },
+  "data": {
+    "id": "434",
+    "date": "2016-11-25T00:00:00.000Z",
+    "title": "Haushaltsgesetz 2017",
+    "topTitle": "204. Sitzung vom 25.11.2016, TOP III Haushaltsgesetz 2017 (3. Beratung)",
+    "description": "Gesetzentwurf der Bundesregierung Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2017 (Haushaltsgesetz 2017) (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9802</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9809 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9809</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9810 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9810</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9811 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9811</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9812 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9812</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9813</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9814</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9815</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9822</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9823</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9826</a>)",
+    "detailedDescription": "Dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2017 (Haushaltsgesetz 2017)<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9809 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9809</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9810 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9810</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9811 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9811</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9812 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9812</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9813</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9814</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9815</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9822</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9823</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9826</a><br/>- namentliche Abstimmung -<br/>",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=434&ajax=true",
+    "votes": {
+      "all": {
+        "total": 630,
+        "yes": 458,
+        "no": 115,
+        "abstain": 0,
+        "na": 57
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 310,
+            "yes": 282,
+            "no": 0,
+            "abstain": 0,
+            "na": 28
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 176,
+            "no": 0,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 58,
+            "abstain": 0,
+            "na": 6
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 0,
+            "no": 57,
+            "abstain": 0,
+            "na": 6
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18204.pdf#P.20411",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7036110",
+      "mediathekURL": "https://dbtg.tv/fvid/7036110",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7036110/7036110_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7036110/7036110_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7036110/7036110_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7036110/7036110_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036113#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Lötzsch, Dr. Gesine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521684/3x4/170/227/f0abe0a5b92f3676a9a387e0796f8e56/ii/loetzsch_gesine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036118#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Berghegger, Dr. André",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518330/3x4/170/227/a54c45e5916c788743d7ab9799494989/Hd/berghegger_andre_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036122#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lindner, Dr. Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036123#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kahrs, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520782/3x4/170/227/60a3e62dc1c5cbcf96917b84dde19b14/PS/kahrs_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036125#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/ca3939ce55b6915c63a633d99c84f8c/zk/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036128#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister der Finanzen",
+        "party": null
+      },
+      {
+        "deputyName": "Claus, Roland",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240846/3x4/170/227/edbb79346e9d7e629d520bb23a53914a/or/claus_roland_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036130#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Steffen, Sonja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523822/3x4/170/227/ddd38de948da7f9a1798f8e51a01b3e8/gx/steffen_sonja_amalie_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036133#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Hajduk, Anja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520050/3x4/170/227/3897b4f069677d473164fdc9b856ec52/ME/hajduk_anja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036134#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Radomski, Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522766/3x4/170/227/8681508d2bfe2cfa0ed05c45c1b4b7ba/UP/radomski_kerstin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036137#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schurer, Ewald",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523546/3x4/170/227/42b28d776d3d4e76c86aeb7d09023cdf/Ve/schurer_ewald_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036143#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036147#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Gerster, Martin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519716/3x4/170/227/7d521adfba044843db9dcff52ec406b1/pc/gerster_martin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036148#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Rehberg, Eckhardt",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522824/3x4/170/227/61a30183e35ddaeecb6a2488f86ad345/VM/rehberg_eckhardt_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036151#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Gottschalck, Ulrike",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240958/3x4/170/227/814a29917205f2cc424b537fef2aab29/uZ/gottschalck_ulrike_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036156#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7036161#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
+  }
+}

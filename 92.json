@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=92"
+  },
+  "data": {
+    "id": "92",
+    "date": "2011-11-25T00:00:00.000Z",
+    "title": "Änderungsantrag der SPD zum Haushaltsgesetz 2012 (Verkehr)",
+    "topTitle": "144. Sitzung vom 25.11.2011, TOP II.21 Haushaltsgesetz 2012",
+    "description": "Änderungsantrag der SPD-Fraktion (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/078/1707837.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7837 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7837</a>) abgelehnt",
+    "detailedDescription": "II.21) Haushaltsgesetz 2012\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/071/1707124.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7124 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7124</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/071/1707125.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7125 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7125</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/078/1707837.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=92&ajax=true",
+    "votes": {
+      "all": {
+        "total": 620,
+        "yes": 250,
+        "no": 306,
+        "abstain": 0,
+        "na": 64
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 237,
+            "yes": 0,
+            "no": 222,
+            "abstain": 0,
+            "na": 15
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 136,
+            "no": 0,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 0,
+            "no": 84,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 57,
+            "no": 0,
+            "abstain": 0,
+            "na": 19
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 57,
+            "no": 0,
+            "abstain": 0,
+            "na": 11
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17144.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1433815",
+      "mediathekURL": "https://dbtg.tv/fvid/1433815",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1433815/1433815_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1433815/1433815_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1433815/1433815_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1433815/1433815_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1433817#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
+  }
+}

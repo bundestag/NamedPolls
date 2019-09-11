@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=68"
+  },
+  "data": {
+    "id": "68",
+    "date": "2011-03-17T00:00:00.000Z",
+    "title": "Soziale Fortschrittsklausel ins EU-Vertragswerk",
+    "topTitle": "96. Sitzung vom 17.03.2011, TOP 33 Abschließende Beratungen ohne Aussprache",
+    "description": "Beschlussempfehlung des Ausschusses für die Angelegenheiten der Europäischen Union (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/047/1704773.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4773 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4773</a>) angenommen, das bedeutet: Antrag der Fraktion Die Linke (<a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/009/1700902.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/902 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/902</a>) abgelehnt",
+    "detailedDescription": "33.) Abschließende Beratungen ohne Aussprache",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/047/1704773.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/009/1700902.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=68&ajax=true",
+    "votes": {
+      "all": {
+        "total": 621,
+        "yes": 434,
+        "no": 64,
+        "abstain": 63,
+        "na": 60
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 238,
+            "yes": 217,
+            "no": 0,
+            "abstain": 0,
+            "na": 21
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 129,
+            "no": 0,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 88,
+            "no": 0,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 0,
+            "no": 64,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 0,
+            "no": 0,
+            "abstain": 63,
+            "na": 5
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17096.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1043323",
+      "mediathekURL": "https://dbtg.tv/fvid/1043323",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1043323/1043323_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1043323/1043323_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1043323/1043323_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1043330#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      }
+    ]
+  }
+}

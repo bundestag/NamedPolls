@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=259"
+  },
+  "data": {
+    "id": "259",
+    "date": "2014-04-03T00:00:00.000Z",
+    "title": "Bundeswehreinsatz EUTM Somalia",
+    "topTitle": "26. Sitzung vom 03.04.2014, TOP 6 Bundeswehreinsatz EUTM Somalia",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Ausbildungsmission EUTM Somalia auf Grundlage des Ersuchens der somalischen Regierung mit Schreiben vom 27. November 2012 und 11. Januar 2013 sowie der Beschlüsse des Rates der Europäischen Union 2010/96/GASP vom 15. Februar 2010 und 2013/44/GASP vom 22. Januar 2013 in Verbindung mit der Resolution 1872 (2009) des Sicherheitsrates der Vereinten Nationen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/008/1800857.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/857 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/857</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800994.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/994 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/994</a>)",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung <br/>Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Ausbildungsmission EUTM Somalia auf Grundlage des Ersuchens der somalischen Regierung mit Schreiben vom 27. November 2012 und 11. Januar 2013 sowie der Beschlüsse des Rates der Europäischen Union 2010/96-GASP vom 15. Februar 2010 und 2013/44-GASP vom 22. Januar 2013 in Verbindung mit der Resolution 1872 (2009) des Sicherheitsrates der Vereinten Nationen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/008/1800857.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/857 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/857</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800994.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/994 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/994</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache 18/995",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/008/1800857.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/009/1800994.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=259&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 469,
+        "no": 118,
+        "abstain": 2,
+        "na": 42
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 301,
+            "no": 0,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 168,
+            "no": 6,
+            "abstain": 2,
+            "na": 17
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 55,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 0,
+            "no": 57,
+            "abstain": 0,
+            "na": 6
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18026.pdf#P.2057",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3273547",
+      "mediathekURL": "https://dbtg.tv/fvid/3273547",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3273547/3273547_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3273547/3273547_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3273547/3273547_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3273547/3273547_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Hintze, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273549#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Freitag, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519524/3x4/170/227/fd619019471f6769c02bb2b79073d4a0/DE/freitag_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273550#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Dagdelen, Sevim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273574#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Mißfelder, Philipp",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241362/3x4/170/227/44b82cfd74668946391edf63449e6471/UM/missfelder_philipp_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273575#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273581#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hitschler, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520404/3x4/170/227/8deee36cbab6924d9a617f009f547dfa/Cc/hitschler_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273585#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brähmig, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240830/3x4/170/227/61c2ce8fa429d4dd5dcb881db0124656/mt/braehmig_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273586#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bartz, Julia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273613#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hintze, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3273614#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

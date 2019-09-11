@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=29"
+  },
+  "data": {
+    "id": "29",
+    "date": "2011-02-25T00:00:00.000Z",
+    "title": "Regelbedarf - Änderung des Sozialgesetzbuches",
+    "topTitle": "94. Sitzung vom 25.02.2011, TOP ZP 4 Vermittlungsergebnis zu Hartz IV",
+    "description": "Beschlussempfehlung des Vermittlungsausschusses (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/048/1704830.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4830 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4830</a>) angenommen, das bedeutet: Das vom Bundestag in seiner 79. Sitzung beschlossene Gesetz wird geändert",
+    "detailedDescription": "ZP.4) Beschlussempfehlung VermA\r<br/>Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zweiten und Zwölften Buches Sozialgesetzbuch\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/034/1703404.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3404 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3404</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/039/1703958.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3958 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3958</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/039/1703982.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3982 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3982</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/040/1704032.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4032 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4032</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/040/1704058.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4058 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4058</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/040/1704095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4095</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/043/1704303.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4303 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4303</a>, 4304, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/047/1704719.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4719 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4719</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/047/1704770.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4770 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4770</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/048/1704830.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4830 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4830</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/048/1704830.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=29&ajax=true",
+    "votes": {
+      "all": {
+        "total": 622,
+        "yes": 433,
+        "no": 132,
+        "abstain": 2,
+        "na": 55
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 239,
+            "yes": 222,
+            "no": 0,
+            "abstain": 1,
+            "na": 16
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 130,
+            "no": 1,
+            "abstain": 1,
+            "na": 14
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 81,
+            "no": 0,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 0,
+            "no": 69,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 0,
+            "no": 62,
+            "abstain": 0,
+            "na": 6
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17094.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1012970",
+      "mediathekURL": "https://dbtg.tv/fvid/1012970",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012970/1012970_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012970/1012970_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012970/1012970_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012973#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=248"
+  },
+  "data": {
+    "id": "248",
+    "date": "2013-11-28T00:00:00.000Z",
+    "title": "Bundeswehreinsatz in Südsudan",
+    "topTitle": "3. Sitzung vom 28.11.2013, TOP 2 Bundeswehreinsatz in Südsudan (UNMISS)",
+    "description": "Antrag der Bundesregierung auf Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der von den Vereinten Nationen geführten Friedensmission in Südsudan (UNMISS) (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/000/1800071.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/71 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/71</a>)",
+    "detailedDescription": "2.) Beratung Antrag BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der von den Vereinten Nationen geführten Friedensmission in Südsudan (UNMISS) auf Grundlage der Resolutionen 1996 (2011) des Sicherheitsrates der Vereinten Nationen vom 8. Juli 2011 und Folgeresolutionen, zuletzt 2109 (2013) vom 11. Juli 2013\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/000/1800071.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/71 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/71</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/000/1800071.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=248&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 540,
+        "no": 60,
+        "abstain": 2,
+        "na": 29
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 300,
+            "no": 0,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 181,
+            "no": 0,
+            "abstain": 2,
+            "na": 10
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 60,
+            "abstain": 0,
+            "na": 4
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 59,
+            "no": 0,
+            "abstain": 0,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18003.pdf#P.80",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2901720",
+      "mediathekURL": "https://dbtg.tv/fvid/2901720",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2901720/2901720_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2901720/2901720_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2901720/2901720_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2901720/2901720_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901724#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Maizière, Dr. Thomas de",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521818/3x4/170/227/6fd1f6f2854e0d6d3a2e9fc75b262dc/Zy/maiziere_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901725#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister des Innern",
+        "party": null
+      },
+      {
+        "deputyName": "Strässer, Christoph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241634/3x4/170/227/8df83a9788c2812658ee79cf7a223bde/wo/straesser_christoph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901744#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901750#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901751#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Mißfelder, Philipp",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241362/3x4/170/227/44b82cfd74668946391edf63449e6471/UM/missfelder_philipp_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901757#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901758#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901759#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2901779#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
+  }
+}

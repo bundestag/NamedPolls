@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=568"
+  },
+  "data": {
+    "id": "568",
+    "date": "2018-11-29T00:00:00.000Z",
+    "title": "Globaler Pakt für Migration",
+    "topTitle": "68. Sitzung vom 29.11.2018, TOP ZP 3-6 Globaler Pakt für Migration",
+    "description": "Antrag der Fraktionen CDU/CSU und SPD: Mit dem Globalen Pakt für eine sichere, geordnete und reguläre Migration die internationale Zusammenarbeit in der Migrationspolitik stärken und Migration besser regeln und steuern (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/060/1906056.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6056 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6056</a>)",
+    "detailedDescription": "ZP 3) Beratung des Antrags der Fraktionen der CDU/CSU und SPD<br/>Mit dem Globalen Pakt für eine sichere, geordnete und reguläre Migration die internationale Zusammenarbeit in der Migrationspolitik stärken und Migration besser regeln und steuern<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/060/1906056.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6056 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6056</a><br/><br/>ZP 4) Beratung des Antrags der Fraktion DIE LINKE. <br/>Völkerrechtliche Standards durch Global Compact for Migration wahren – International Rechte für Migrantinnen und Migranten stärken<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/061/1906101.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6101 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6101</a><br/><br/>ZP 5) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss) <br/>zu dem Antrag der Fraktion der FDP<br/>Geordnete Zuwanderung erfordert mehr als den <br/>UN-Migrationspakt – Entwurf eines Einwanderungsgesetzbuches vorlegen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/055/1905534.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5534 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5534</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/061/1906100.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6100 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6100</a><br/><br/>ZP 6) Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Umsetzung des Global Compact for Migration – Globale Standards für die Rechte von Migrantinnen und Migranten stärken<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/055/1905547.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5547 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5547</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/061/1906141.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6141 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6141</a><br/><br/>Namentliche Abstimmung",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/060/1906056.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=568&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 372,
+        "no": 153,
+        "abstain": 141,
+        "na": 43
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 229,
+            "no": 4,
+            "abstain": 2,
+            "na": 11
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 143,
+            "no": 0,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 0,
+            "no": 84,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 0,
+            "abstain": 77,
+            "na": 3
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 62,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 0,
+            "abstain": 61,
+            "na": 6
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 0,
+            "no": 3,
+            "abstain": 1,
+            "na": 0
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19068.pdf#P.7733",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7296289",
+      "mediathekURL": "https://dbtg.tv/fvid/7296289",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7296289/7296289_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7296289/7296289_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7296289/7296289_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7296289/7296289_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296292#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Maas, Heiko",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527336/3x4/170/227/3939ee734092f1afdd7e5ff7cd7f6ce3/uk/maas_heiko_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296294#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister des Auswärtigen",
+        "party": null
+      },
+      {
+        "deputyName": "Curio, Dr. Gottfried",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525748/3x4/170/227/d301a73e32fe67399d453669dd421c43/VD/curio_gottfried_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296295#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Lindholz, Andrea",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521634/3x4/170/227/75b9ebbdc097813cee856261937f41f8/Ey/lindholz_andrea_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296298#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Thomae, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527112/3x4/170/227/29806502e5fe3ed62679c6d434c70c5d/pS/thomae_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296299#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296300#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296301#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Ziemiak, Paul",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524778/3x4/170/227/d7b5401021964c7b0ed9b2854915bfc8/it/ziemiak_paul_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296303#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lambsdorff, Alexander Graf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527356/3x4/170/227/8423505fda7259e6437440483e13bb5c/ZE/lambsdorff_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296304#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Heinrich, Gabriela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520236/3x4/170/227/e7fa8125324b90ccb146109ccf1f2975/kX/heinrich_gabriela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296306#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Sichert, Martin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530402/3x4/170/227/e1562c988b3c5bc4ec444f0e334511d7/SZ/sichert_martin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296307#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Heinrich, Gabriela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520236/3x4/170/227/e7fa8125324b90ccb146109ccf1f2975/kX/heinrich_gabriela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296308#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Middelberg, Dr. Mathias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522024/3x4/170/227/762a58d3d0b7840af46301903f5057d7/Yb/Middelberg_Mathias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296310#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Petry, Dr. Frauke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526780/3x4/170/227/8af489b12cc3b683caf03eea54d7c69a/LM/petry_frauke_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296311#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Ullrich, Dr. Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524210/3x4/170/227/50b690341cbf9bac4d588dc2c40a22f5/LT/ullrich_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296398#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296400#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

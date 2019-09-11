@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=150"
+  },
+  "data": {
+    "id": "150",
+    "date": "2011-02-24T00:00:00.000Z",
+    "title": "Privatisierung von Äckern, Seen und Wäldern",
+    "topTitle": "93. Sitzung vom 24.02.2011, TOP 34 Abschließende Beratungen ohne Aussprache",
+    "description": "Beschlussempfehlung des Haushaltsausschusses zu dem Antrag der Fraktion Die Linke über keine Privatisierung von Äckern, Seen und Wäldern (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/002/1700239.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/239 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/239</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/005/1700587.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/587 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/587</a>)",
+    "detailedDescription": "34) Abschließende Beratungen ohne Aussprache",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/002/1700239.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/005/1700587.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=150&ajax=true",
+    "votes": {
+      "all": {
+        "total": 622,
+        "yes": 313,
+        "no": 69,
+        "abstain": 196,
+        "na": 44
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 239,
+            "yes": 229,
+            "no": 0,
+            "abstain": 1,
+            "na": 9
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 0,
+            "no": 0,
+            "abstain": 133,
+            "na": 13
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 83,
+            "no": 0,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 0,
+            "no": 69,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 1,
+            "no": 0,
+            "abstain": 62,
+            "na": 5
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17093.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1012152",
+      "mediathekURL": "https://dbtg.tv/fvid/1012152",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012152/1012152_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012152/1012152_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012152/1012152_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012154#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
+  }
+}

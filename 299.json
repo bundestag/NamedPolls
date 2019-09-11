@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=299"
+  },
+  "data": {
+    "id": "299",
+    "date": "2014-09-25T00:00:00.000Z",
+    "title": "Freihandelsabkommen der EU mit USA und Kanada, 1. Entschließungsantrag",
+    "topTitle": "54. Sitzung vom 25.09.2014, TOP 4 + ZP 2,3 Freihandelsabkommen der EU mit USA und Kanada",
+    "description": "Entschließungsantrag der Fraktion Die Linke (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/026/1802611.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2611 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2611</a>) zu der Beratung der Antwort der Bundesregierung auf die Große Anfrage der Fraktion Die Linke: Soziale ökologische, ökonomische und politische Effekte des EU-USA Freihandelsabkommens (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/004/1800432.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/432 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/432</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/021/1802100.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2100 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2100</a>)",
+    "detailedDescription": "a) Beratung der Antwort der Bundesregierung auf die Große Anfrage der Fraktion DIE LINKE.<br/>Soziale, ökologische, ökonomische und politische Effekte des EU-USA Freihandelsabkommens<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/004/1800432.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/432 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/432</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/002/1800210.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/210 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/210</a><br/><br/>b) Beratung des Antrags der Fraktion DIE LINKE.<br/>Freihandelsabkommen zwischen der EU und Kanada CETA zurückweisen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/026/1802604.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2604 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2604</a><br/><br/>ZP2) Beratung des Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Keine Klageprivilegien für Konzerne - CETA-Vertragsentwurf ablehnen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/026/1802620.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2620 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2620</a><br/><br/>ZP3) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss) <br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Für fairen Handel ohne Klageprivilegien für Konzerne<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/014/1801458.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1458 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1458</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/026/1802646.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2646 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2646</a><br/>",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/026/1802611.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/004/1800432.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/021/1802100.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=299&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 113,
+        "no": 466,
+        "abstain": 6,
+        "na": 46
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 0,
+            "no": 290,
+            "abstain": 1,
+            "na": 20
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 0,
+            "no": 176,
+            "abstain": 1,
+            "na": 16
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 57,
+            "no": 0,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 56,
+            "no": 0,
+            "abstain": 4,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18054.pdf#P.4904",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3909293",
+      "mediathekURL": "https://dbtg.tv/fvid/3909293",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3909293/3909293_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3909293/3909293_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3909293/3909293_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3909293/3909293_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909294#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Ernst, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519308/3x4/170/227/5bce7b8e1daaac7a1a9e25b82ee53d7c/rr/ernst_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909302#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Gabriel, Sigmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519624/3x4/170/227/4b0c72944d359001bce8269e25d09880/en/gabriel_sigmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909338#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister des Auswärtigen",
+        "party": null
+      },
+      {
+        "deputyName": "Hofreiter, Dr. Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520474/3x4/170/227/564f6d447a10d765f4224f8a80aa33ce/ab/hofreiter_anton_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909347#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Tauber, Dr. Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524030/3x4/170/227/40c0a3282f1e1467175b15f78cfc4772/gW/tauber_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909351#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Höhn, Bärbel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241100/3x4/170/227/b6f10f9400bbc9d31b25f9fdcafcb858/vB/hoehn_baerbel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909352#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Tauber, Dr. Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524030/3x4/170/227/40c0a3282f1e1467175b15f78cfc4772/gW/tauber_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909353#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Gabriel, Sigmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519624/3x4/170/227/4b0c72944d359001bce8269e25d09880/en/gabriel_sigmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909349#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Dröge, Katharina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519144/3x4/170/227/79423c3dde18b44080c006bcac022d7a/cQ/droege_katharina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909350#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Tiefensee, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241758/3x4/170/227/8f147728027af257a165d541e6b5c2af/So/tiefensee_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909387#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ulrich, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524214/3x4/170/227/849c0eb82fe3a8837517b60cefdcd1b8/fy/ulrich_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909386#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Heil (Peine), Hubertus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520208/3x4/170/227/3675ad7aa802dd0610e6e58b921832a/iI/heil_hubertus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909392#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ulrich, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524214/3x4/170/227/849c0eb82fe3a8837517b60cefdcd1b8/fy/ulrich_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909393#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909394#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Gabriel, Sigmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519624/3x4/170/227/4b0c72944d359001bce8269e25d09880/en/gabriel_sigmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909395#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister des Auswärtigen",
+        "party": null
+      },
+      {
+        "deputyName": "Ulrich, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524214/3x4/170/227/849c0eb82fe3a8837517b60cefdcd1b8/fy/ulrich_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909396#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Lämmel, Andreas G.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521444/3x4/170/227/cd7d3c07b792cbf6895da5e66ed62f3a/oV/laemmel_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909400#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Dröge, Katharina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519144/3x4/170/227/79423c3dde18b44080c006bcac022d7a/cQ/droege_katharina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909437#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Wiese, Dirk",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524590/3x4/170/227/8612c415f74237aca6ad8b3720f1b1f4/BH/wiese_dirk_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909447#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909450#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Raabe, Dr. Sascha",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522748/3x4/170/227/78e1dfed266e0c0ba2101cdcb18b88ad/Nd/raabe_sascha_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909451#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Heider, Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520190/3x4/170/227/c8b41318f2378d4cf00e04a4796d6175/CP/heider_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909485#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Beyer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909489#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3909525#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

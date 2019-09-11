@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=226"
+  },
+  "data": {
+    "id": "226",
+    "date": "2013-05-16T00:00:00.000Z",
+    "title": "Beitritt der Republik Kroatien zur EU",
+    "topTitle": "240. Sitzung vom 16.05.2013, TOP 7 Beitritt der Republik Kroatien zur EU",
+    "description": "Gesetzentwurf der Bundesregierung zum Vertrag vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/118/1711872.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11872 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11872</a>)",
+    "detailedDescription": "7.a) Zweite Beratung u Schlussabst BReg\r<br/>Vertrag vom 9. Dezember 2011 über den Beitritt der Republik Kroatien zur Europäischen Union\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/118/1711872.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11872 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11872</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/134/1713444.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13444 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13444</a> -\r<br/>7.b) Beratung BeschlEmpf u Ber (21.A)\r<br/>zum Antrag SPD\r<br/>EU-Beitritt der Republik Kroatiens zum Erfolg führen\r<br/>zum Antrag SPD, B90/GRÜNE\r<br/>Zivilgesellschaft stärker an EU-Beitrittsprozessen beteiligen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/121/1712182.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12182 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12182</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/128/1712821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/134/1713444.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13444 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13444</a> -\r<br/>7.c) Zweite und dritte Beratung BReg\r<br/>Anpassung von Rechtsvorschriften des Bundes infolge des Beitritts der Republik Kroatien zur Europäischen Union\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/127/1712769.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12769 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12769</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/128/1712852.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12852 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12852</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/134/1713445.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13445 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13445</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/118/1711872.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=226&ajax=true",
+    "votes": {
+      "all": {
+        "total": 620,
+        "yes": 583,
+        "no": 0,
+        "abstain": 6,
+        "na": 31
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 237,
+            "yes": 224,
+            "no": 0,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 137,
+            "no": 0,
+            "abstain": 3,
+            "na": 6
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 90,
+            "no": 0,
+            "abstain": 0,
+            "na": 3
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 75,
+            "yes": 66,
+            "no": 0,
+            "abstain": 2,
+            "na": 7
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 66,
+            "no": 0,
+            "abstain": 0,
+            "na": 2
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17240.pdf#P.30224",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2364071",
+      "mediathekURL": "https://dbtg.tv/fvid/2364071",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2364071/2364071_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2364071/2364071_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2364071/2364071_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2364071/2364071_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364074#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Luksic, Oliver",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527286/3x4/170/227/e9e49d8f99b980f993bb8cb7ba3d5145/mL/luksic_oliver_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364097#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Nietan, Dietmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522360/3x4/170/227/255f887864f8e526b3f7bd6719943dd7/hy/nietan_dietmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364098#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Dörflinger, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240866/3x4/170/227/5eb64edcb11b8af57080eb4c2de15521/VL/doerflinger_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364101#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Nord, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522392/3x4/170/227/efeb66bcfadb7088bf4167cfb409f387/Lx/nord_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364106#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Sarrazin, Manuel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523124/3x4/170/227/fc35e15e20cbd26a18019f7e6420fb43/qg/sarrazin_manuel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364107#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Westerwelle, Dr. Guido",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/242904/3x4/170/227/a951c16368e5268eda77407c4b1474da/OE/westerwelle_guido_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364130#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
+        "deputyName": "Juratovic, Josip",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520756/3x4/170/227/b3922a9a62ba535a367ffd6bca9abaea/qY/juratovic_josip_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364131#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Holmeier, Karl",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520492/3x4/170/227/5332af2bbbb8be5f0583e1dd907b76be/Fn/holmeier_karl_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364134#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Meierhofer, Horst",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364135#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364162#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
+  }
+}

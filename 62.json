@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=62"
+  },
+  "data": {
+    "id": "62",
+    "date": "2012-05-10T00:00:00.000Z",
+    "title": "Keine Erdgasförderung auf Kosten des Trinkwassers",
+    "topTitle": "178. Sitzung vom 10.05.2012, TOP 10 Förderung von unkonventionellem Erdgas",
+    "description": "Beschlussempfehlung des Ausschusses für Wirtschaft und Technologie (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/091/1709196.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9196 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9196</a>) angenommen, das bedeutet: Antrag der Fraktion Die Linke (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/060/1706097.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6097 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6097</a>) abgelehnt",
+    "detailedDescription": "10.a) Beratung BeschlEmpf u Ber (16.A)\r<br/>zum Antrag SPD\r<br/>Leitlinien für Transparenz und Umweltverträglichkeit bei der Förderung von unkonventionellem Erdgas\r<br/>zum Antrag B90/GRÜNE\r<br/>Transparenz und Kontrolle bei der Förderung von unkonventionellem Erdgas in Deutschland\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/076/1707612.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7612 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7612</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/055/1705573.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5573 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5573</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/094/1709450.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9450 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9450</a> -\r<br/>10.b) Beratung BeschlEmpf u Ber (9.A)\r<br/>zum Antrag DIE LINKE.\r<br/>Keine Erdgasförderung auf Kosten des Trinkwassers - Fracking bei der Erdgasförderung verbieten\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/060/1706097.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6097 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6097</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/091/1709196.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9196 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9196</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/091/1709196.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/060/1706097.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=62&ajax=true",
+    "votes": {
+      "all": {
+        "total": 620,
+        "yes": 429,
+        "no": 60,
+        "abstain": 62,
+        "na": 69
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 235,
+            "yes": 216,
+            "no": 0,
+            "abstain": 0,
+            "na": 19
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 145,
+            "yes": 129,
+            "no": 0,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 90,
+            "yes": 78,
+            "no": 0,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 74,
+            "yes": 0,
+            "no": 58,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 0,
+            "abstain": 61,
+            "na": 6
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17178.pdf#P.21161",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1693237",
+      "mediathekURL": "https://dbtg.tv/fvid/1693237",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1693237/1693237_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1693237/1693237_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1693237/1693237_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1693237/1693237_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693240#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Röttgen, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522998/3x4/170/227/87d7e0005b8fc642e951b54ac51360e0/XL/roettgen_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693241#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
+        "deputyName": "Schwabe, Frank",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523556/3x4/170/227/80a7923a30d0f7f56560f7dbebe65d5f/nb/schwabe_frank_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693246#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Meierhofer, Horst",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693247#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Voß, Johanna",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693248#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Krischer, Oliver",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521320/3x4/170/227/9d0652608f931457c84c330f2c228c6d/EG/krischer_oliver_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693251#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Paul, Dr. Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693252#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Breil, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693258#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1693262#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      }
+    ]
+  }
+}

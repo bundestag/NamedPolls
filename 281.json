@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=281"
+  },
+  "data": {
+    "id": "281",
+    "date": "2014-06-25T00:00:00.000Z",
+    "title": "Bundeswehreinsatz in Libanon (UNIFIL)",
+    "topTitle": "42. Sitzung vom 25.06.2014, TOP IV Bundeswehreinsatz in Libanon (UNIFIL)",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der \"United Nations Interim Force in Lebanon\" (UNIFIL) auf Grundlage der Resolutionen 1701 (2006) vom 11. August 2006 und folgender Resolutionen, zuletzt 2115 (2013) vom 29. August 2013 des Sicherheitsrates der Vereinten Nationen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/014/1801417.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1417 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1417</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/018/1801813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1813</a>)",
+    "detailedDescription": "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der \"United Nations Interim Force in Lebanon\" (UNIFIL) auf Grundlage der Resolution 1701 (2006) vom 11. August 2006 und folgender Resolutionen, zuletzt 2115 (2013) vom 29. August 2013 des Sicherheitsrates der Vereinten Nationen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/014/1801417.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1417 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1417</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/018/1801813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1813</a> <br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache 18/1814",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/014/1801417.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/018/1801813.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=281&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 514,
+        "no": 66,
+        "abstain": 8,
+        "na": 43
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 294,
+            "no": 0,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 170,
+            "no": 7,
+            "abstain": 1,
+            "na": 15
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 57,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 50,
+            "no": 2,
+            "abstain": 7,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18042.pdf#P.3733",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3563410",
+      "mediathekURL": "https://dbtg.tv/fvid/3563410",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3563410/3563410_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3563410/3563410_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3563410/3563410_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3563410/3563410_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3563412#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Wadephul, Dr. Johann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3563413#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3563414#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Kunert, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241228/3x4/170/227/31b20d7a4e07dde793c5a4eec5a7ccfa/nX/kunert_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3563418#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Mützenich, Dr. Rolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3563420#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3563421#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Bartz, Julia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3563460#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3563461#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

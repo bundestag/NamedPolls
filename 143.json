@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=143"
+  },
+  "data": {
+    "id": "143",
+    "date": "2011-12-15T00:00:00.000Z",
+    "title": "Rente mit 67",
+    "topTitle": "149. Sitzung vom 15.12.2011, TOP 4 Rente ab 67",
+    "description": "Entschließungsantrag der Fraktion Die Linke über Rente erst ab 67 - Risiken für Jung und Alt (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/051/1705106.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5106 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5106</a> 17/7966 und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/081/1708151.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8151 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8151</a>)",
+    "detailedDescription": "4.) Beratung GrAnfrage DIE LINKE.\r<br/>Rente erst ab 67 - Risiken für Jung und Alt\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/051/1705106.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5106 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5106</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/079/1707966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7966</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/051/1705106.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/081/1708151.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=143&ajax=true",
+    "votes": {
+      "all": {
+        "total": 620,
+        "yes": 71,
+        "no": 487,
+        "abstain": 16,
+        "na": 46
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 237,
+            "yes": 0,
+            "no": 221,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 6,
+            "no": 124,
+            "abstain": 6,
+            "na": 10
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 0,
+            "no": 86,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 65,
+            "no": 0,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 0,
+            "no": 56,
+            "abstain": 10,
+            "na": 2
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17149.pdf#P.17784",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1465356",
+      "mediathekURL": "https://dbtg.tv/fvid/1465356",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1465356/1465356_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1465356/1465356_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1465356/1465356_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1465356/1465356_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465360#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Ernst, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519308/3x4/170/227/5bce7b8e1daaac7a1a9e25b82ee53d7c/rr/ernst_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465361#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Leyen, Dr. Ursula von der",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521600/3x4/170/227/e4a505c9d4df382b949016261ba0372b/xd/von_der_leyen_ursula_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465362#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
+        "deputyName": "Ernst, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519308/3x4/170/227/5bce7b8e1daaac7a1a9e25b82ee53d7c/rr/ernst_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465363#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Leyen, Dr. Ursula von der",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521600/3x4/170/227/e4a505c9d4df382b949016261ba0372b/xd/von_der_leyen_ursula_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465366#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
+        "deputyName": "Ferner, Elke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240952/3x4/170/227/16f3ad49038f1a432a31d35a9492888b/td/ferner_elke_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465367#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kolb, Dr. Heinrich L.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465374#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Strengmann-Kuhn, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523942/3x4/170/227/d182a9cb9b94401749d242a41fe8049f/Np/strengmann_kuhn_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465375#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Schiewerling, Karl",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241534/3x4/170/227/e670f5acffde29fcf19114880b4146de/Qh/Schiewerling_Karl_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465380#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schaaf, Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465381#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kolb, Dr. Heinrich L.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465382#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Schaaf, Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465383#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kober, Pascal",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527268/3x4/170/227/9f22ab5767c475e8881bbb16648ac873/BM/kober_pascal_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465385#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Birkwald, Matthias W.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518428/3x4/170/227/ac3ae01e8b99ad0ca3a1ca789c4d6c61/IR/birkwald_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465386#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Straubinger, Max",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523938/3x4/170/227/c52a77996ca6d7c3decec07e5907d244/xb/straubinger_max_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465388#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Vogel (Lüdenscheid), Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526950/3x4/170/227/e36f8e4b2e061a7c6595f1cfcfec2811/sa/vogel_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465397#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Weiß (Emmendingen), Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524512/3x4/170/227/9c0b26d9a3436cf004ef3d284bf44f47/Tq/weiss_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465401#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Heinrich, Frank",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520230/3x4/170/227/c6433a910e406c67b9dad0f5bc73d0a0/ou/heinrich_frank_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465405#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oswald, Eduard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465406#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=339"
+  },
+  "data": {
+    "id": "339",
+    "date": "2015-05-21T00:00:00.000Z",
+    "title": "Bundeswehreinsatz UNMIL in Liberia",
+    "topTitle": "106. Sitzung vom 21.05.2015, TOP 14 Bundeswehreinsatz UNMIL in Liberia",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Beteiligung bewaffneter deutscher Streitkräfte an der durch die Vereinten Nationen geführten Mission UNMIL in Liberia auf Grundlage der Resolution 1509 (2003) und nachfolgender Verlängerungsresolutionen des Sicherheitsrates der Vereinten Nationen, zuletzt Resolution 2190 (2014) vom 15. Dezember 2014 und der Resolution 2215 (2015) vom 2. April 2015 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/047/1804768.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4768 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4768</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/049/1804965.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4965 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4965</a>)",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Beteiligung bewaffneter deutscher Streitkräfte an der durch die Vereinten Nationen geführten Mission UNMIL in Liberia auf Grundlage der Resolution 1509 (2003) und nachfolgender Verlängerungsresolutionen des Sicherheitsrates der Vereinten Nationen, zuletzt Resolution 2190 (2014) vom 15. Dezember 2014 und der Resolution 2215 (2015) vom 2. April 2015<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/047/1804768.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4768 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4768</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/049/1804965.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4965 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4965</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/049/1804977.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4977 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4977</a><br/>",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/18/047/1804768.pdf",
+      "http://dip21.bundestag.de/dip21/btd/18/049/1804965.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=339&ajax=true",
+    "votes": {
+      "all": {
+        "total": 631,
+        "yes": 522,
+        "no": 59,
+        "abstain": 3,
+        "na": 47
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 311,
+            "yes": 293,
+            "no": 0,
+            "abstain": 0,
+            "na": 18
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 193,
+            "yes": 174,
+            "no": 2,
+            "abstain": 2,
+            "na": 15
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 0,
+            "no": 57,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 55,
+            "no": 0,
+            "abstain": 1,
+            "na": 7
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18106.pdf#P.10166",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=5115811",
+      "mediathekURL": "https://dbtg.tv/fvid/5115811",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5115811/5115811_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5115811/5115811_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5115811/5115811_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5115811/5115811_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115814#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Kofler, Dr. Bärbel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521196/3x4/170/227/e9861ae3a9452951102828e706a375c3/St/kofler_baerbel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115815#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Dagdelen, Sevim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115867#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115886#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115887#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115895#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115896#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}
