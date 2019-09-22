@@ -6,9 +6,9 @@
     "id": "572",
     "date": "2019-01-18T00:00:00.000Z",
     "title": "Änderung des Asylgesetzes (Gesetzentwurf der BReg)",
-    "topTitle": "",
+    "topTitle": "75. Sitzung vom 18.01.2019, TOP 18 Änderung des Asylgesetzes",
     "description": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Einstufung Georgiens, der Demokratischen Volksrepublik Algerien, des Königreichs Marokko und der Tunesischen Republik als sichere Herkunftsstaaten (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/053/1905314.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5314 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5314</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/065/1906538.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6538 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6538</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Zweite und dritte Beratung des von der Bundesregierung<br/>eingebrachten Entwurfs eines Gesetzes zur Einstufung Georgiens, der Demokratischen Volksrepublik Algerien, des Königreichs Marokko und der Tunesischen Republik als sichere Herkunftsstaaten<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/053/1905314.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5314 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5314</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Inneres und Heimat (4. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/065/1906538.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6538 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6538</a><br/><br/>Namentliche Abstimmungen",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/053/1905314.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/065/1906538.pdf"
@@ -95,12 +95,121 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19075.pdf#P.8759",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7317969",
+      "mediathekURL": "https://dbtg.tv/fvid/7317969",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7317969/7317969_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7317969/7317969_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7317969/7317969_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7317969/7317969_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/ca3939ce55b6915c63a633d99c84f8c/zk/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317971#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Seehofer, Horst",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/547290/3x4/170/227/129cb0f3adff90bdecb0f6c4c015a3e7/ya/seehofer_horst_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317972#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister des Innern, für Bau und Heimat",
+        "party": null
+      },
+      {
+        "deputyName": "Herrmann, Lars",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529282/3x4/170/227/601fa69cd54fbc61d81816a806732957/Qa/herrmann_lars_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317974#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Lindh, Helge",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317977#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Teuteberg, Linda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527244/3x4/170/227/28893e129fa510c4ae7781019c34a7ef/VA/teuteberg_linda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317980#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Jelpke, Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317981#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Amtsberg, Luise",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517910/3x4/170/227/5512c5f16ee362daf1579bf53c7597c6/WM/amtsberg_luise_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317984#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Frei, Thorsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317985#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Maier, Prof. Dr. Lothar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525922/3x4/170/227/5dfb929ea6719266f9a75786bbb5b612/PC/maier_lothar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317986#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Throm, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526850/3x4/170/227/93f9dcc24c1067432d283c544feb5665/Pr/throm_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317987#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Thomae, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527112/3x4/170/227/29806502e5fe3ed62679c6d434c70c5d/pS/thomae_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317988#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Oster, Josef",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522494/3x4/170/227/c44ebab5cb67232ee2689488650ef7b5/xe/oster_josef_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317989#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/ca3939ce55b6915c63a633d99c84f8c/zk/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7317993#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
   }
 }
