@@ -6,9 +6,9 @@
     "id": "320",
     "date": "2014-12-18T00:00:00.000Z",
     "title": "Bundeswehreinsatz in Afghanistan",
-    "topTitle": "76. Sitzung vom 18.12.2014, TOP 7 + ZP 6 Bundeswehreinsatz in Afghanistan (RSM)",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Entsendung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support Mission für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Sicherheitskräfte in Afghanistan (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803246.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3246 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3246</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/035/1803583.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3583 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3583</a>)",
-    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Entsendung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support Mission für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Sicherheitskräfte in Afghanistan<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803246.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3246 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3246</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/035/1803583.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3583 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3583</a> <br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/035/1803592.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3592 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3592</a><br/><br/>ZP 6) Unterrichtung durch die Bundesregierung<br/>Fortschrittsbericht zur Lage in Afghanistan 2014 einschließlich einer Zwischenbilanz des Afghanistan-Engagements<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803270.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3270 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3270</a><br/>",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/032/1803246.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/035/1803583.pdf"
@@ -65,100 +65,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18076.pdf#P.7270",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=4292519",
-      "mediathekURL": "https://dbtg.tv/fvid/4292519",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4292519/4292519_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4292519/4292519_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4292519/4292519_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4292519/4292519_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292521#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Leyen, Dr. Ursula von der",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521600/3x4/170/227/e4a505c9d4df382b949016261ba0372b/xd/von_der_leyen_ursula_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292574#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundesministerin der Verteidigung",
-        "party": null
-      },
-      {
-        "deputyName": "Aken, Jan van",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240714/3x4/170/227/be23238d3921acf3e9fa694ab1ae41f8/Yu/aken_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292593#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Sarrazin, Manuel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523124/3x4/170/227/fc35e15e20cbd26a18019f7e6420fb43/qg/sarrazin_manuel_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292594#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Aken, Jan van",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240714/3x4/170/227/be23238d3921acf3e9fa694ab1ae41f8/Yu/aken_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292595#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Annen, Niels",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/517942/3x4/170/227/6bdac247e634d39fe7820ff75a1697cc/FK/annen_niels_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292665#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Koenigs, Tom",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241236/3x4/170/227/75a7a3ae80c1164a2c875341e3e89d11/Kr/koenigs_tom_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292666#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Nick, Dr. Andreas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292676#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hahn, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292677#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4292685#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

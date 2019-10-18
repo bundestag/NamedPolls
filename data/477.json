@@ -6,9 +6,9 @@
     "id": "477",
     "date": "2017-06-01T00:00:00.000Z",
     "title": "Neue Lagebeurteilung für Afghanistan, Antrag CDU/CSU, SPD",
-    "topTitle": "237. Sitzung vom 01.06.2017, TOP 47n + ZP 10,11 Abschiebungen nach Afghanistan",
+    "topTitle": "",
     "description": "Antrag der Fraktionen CDU/CSU und SPD: Neue Lagebeurteilung für Afghanistan (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/126/1812638.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12638 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12638</a>)",
-    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Innenausschusses (4. Ausschuss)<br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Abschiebungen nach Afghanistan aussetzen <br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/120/1812099.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12099 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12099</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/124/1812414.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12414 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12414</a><br/><br/>ZP 10) Beratung des Antrags der Fraktion DIE LINKE.<br/>Sofortiger Abschiebestopp nach Afghanistan<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/126/1812639.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12639 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12639</a><br/><br/>ZP 11) Beratung des Antrags der Fraktionen der CDU/CSU und SPD<br/>Neue Lagebeurteilung für Afghanistan<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/126/1812638.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12638 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12638</a><br/>",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/126/1812638.pdf"
     ],
@@ -64,93 +64,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18237.pdf#P.24138",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7115290",
-      "mediathekURL": "https://dbtg.tv/fvid/7115290",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7115290/7115290_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7115290/7115290_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7115290/7115290_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7115290/7115290_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115294#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Kiesewetter, Roderich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115295#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Jelpke, Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115296#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Lischka, Burkhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521666/3x4/170/227/22af704fdc9cc4ff22acc3a11b2e1d1d/Tc/lischka_burkhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115297#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115298#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Frieser, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519568/3x4/170/227/e473c79e181339fa4187f228b746f0dc/Qs/frieser_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115299#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Nouripour, Omid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/c8c8407c51d31f38d37ec16a1788f455/gO/nouripour_omid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115300#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Frieser, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519568/3x4/170/227/e473c79e181339fa4187f228b746f0dc/Qs/frieser_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115301#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Noll, Michaela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522380/3x4/170/227/62e85b2ca60a9c169cf8bbf890a50a0a/VY/noll_michaela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7115303#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

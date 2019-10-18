@@ -6,9 +6,9 @@
     "id": "328",
     "date": "2015-03-05T00:00:00.000Z",
     "title": "Dämpfung des Mietanstiegs, 2. Änderungsantrag Bündnis 90/Die Grünen",
-    "topTitle": "91. Sitzung vom 05.03.2015, TOP 4 Dämpfung des Mietanstiegs",
+    "topTitle": "",
     "description": "Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu dem Gesetzentwurf der Bundesregierung zur Dämpfung des Mietanstiegs auf angespannten Wohnungsmärkten und zur Stärkung des Bestellerprinzips bei der Wohnungsvermittlung (Mietrechtsnovellierungsgesetz - MietNovG) (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803121.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3121 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3121</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803250.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3250 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3250</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/042/1804220.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4220 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4220</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/042/1804225.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4225 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4225</a>)",
-    "detailedDescription": "a) Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Dämpfung des Mietanstiegs auf angespannten Wohnungsmärkten und zur Stärkung des Bestellerprinzips bei der Wohnungsvermittlung (Mietrechtsnovellierungsgesetz - MietNovG)<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803121.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3121 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3121</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803250.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3250 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3250</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/042/1804220.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4220 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4220</a>\t<br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE. <br/>Mietenanstieg stoppen, soziale Wohnungswirtschaft entwickeln und dauerhaft sichern<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800504.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/504 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/504</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/042/1804219.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4219 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4219</a><br/><br/>",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/031/1803121.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/032/1803250.pdf",
@@ -67,128 +67,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18091.pdf#P.8594",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=4696300",
-      "mediathekURL": "https://dbtg.tv/fvid/4696300",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4696300/4696300_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4696300/4696300_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4696300/4696300_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4696300/4696300_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Prof. Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4696302#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Bartol, Sören",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518166/3x4/170/227/7c2e083a96405d409ffb7af4c6539e94/sj/bartol_soeren_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4696303#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Lay, Caren",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521510/3x4/170/227/2a98dd41cbb84339ac088340cd07572c/SI/lay_caren_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698110#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Luczak, Dr. Jan-Marco",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521728/3x4/170/227/7d25c3d1df5330d6664b19001598c93a/fG/luczak_jan_marco_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698111#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Künast, Renate",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521390/3x4/170/227/d1362e180cd0401a16429603b8740ebc/JJ/kuenast_renate_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698120#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Maas, Heiko",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527336/3x4/170/227/3939ee734092f1afdd7e5ff7cd7f6ce3/uk/maas_heiko_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698169#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundesminister der Justiz und für Verbraucherschutz",
-        "party": null
-      },
-      {
-        "deputyName": "Wawzyniak, Halina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241804/3x4/170/227/8abaf6ea82c4b48348ddefe9ed8461b4/Mq/wawzyniak_halina_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698170#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Winkelmeier-Becker, Elisabeth",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524616/3x4/170/227/d78fbff7395810fd94e87030a364e79b/gR/winkelmeier_becker_elisabeth_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698191#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kühn (Tübingen), Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521380/3x4/170/227/1dbaa31873f9634d46e8fca633b26cca/HK/kuehn_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698199#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Rohde, Dennis",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523004/3x4/170/227/dea6ea01c95d644510e29c65c89a5167/lJ/rohde_dennis_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698200#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Weisgerber, Dr. Anja",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524504/3x4/170/227/699545d3bead2ef530b909ee4e912874/VT/weisgerber_anja_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698243#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hakverdi, Metin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520056/3x4/170/227/11bdbffa4b20ebe21c20bd07dc0df85f/An/hakverdi_metin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698244#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Magwas, Yvonne",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521798/3x4/170/227/e88a826adaba83e8b9ce5cae424b3b66/nO/magwas_yvonne_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hintze, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4698329#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
