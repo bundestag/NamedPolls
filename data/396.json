@@ -6,9 +6,9 @@
     "id": "396",
     "date": "2016-05-12T00:00:00.000Z",
     "title": "Bahnstreckenstilllegungen - Beschlussempfehlung",
-    "topTitle": "",
+    "topTitle": "170. Sitzung vom 12.05.2016, TOP 8 Bahnstreckenstilllegungen",
     "description": "Beschlussempfehlung des Ausschusses für Verkehr und digitale Infrastruktur (15. Ausschuss) Antrag der Fraktion DIE LINKE. Drohende Streckenstilllegungen verhindern - Regionalisierungsmittel erhöhen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/080/1808074.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8074 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8074</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/083/1808362.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8362 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8362</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung des Antrags der Fraktion DIE LINKE.<br/>Drohende Streckenstilllegungen verhindern – Keine Kürzung bei Regionalisierungsmitteln in Ostdeutschland<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/083/1808392.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8392 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8392</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Verkehr und digitale Infrastruktur (15. Ausschuss) zu dem Antrag der Fraktion DIE LINKE.<br/>Drohende Streckenstilllegungen verhindern – Regionalisierungsmittel erhöhen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/080/1808074.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8074 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8074</a>, 18/8362",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/080/1808074.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/083/1808362.pdf"
@@ -65,12 +65,114 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18170.pdf#P.16762",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6831156",
+      "mediathekURL": "https://dbtg.tv/fvid/6831156",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6831156/6831156_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6831156/6831156_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6831156/6831156_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6831156/6831156_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831158#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Lay, Caren",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521510/3x4/170/227/2a98dd41cbb84339ac088340cd07572c/SI/lay_caren_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831215#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Donth, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519108/3x4/170/227/6b99e888f79285b447304bfd44444063/GD/donth_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831216#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Leidig, Sabine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521546/3x4/170/227/c3376ecb0ec3bc69bff9cd7e7d339d59/Fu/leidig_sabine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831220#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Donth, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519108/3x4/170/227/6b99e888f79285b447304bfd44444063/GD/donth_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831221#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831222#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Kühn (Dresden), Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521386/3x4/170/227/55530d4631cf9559959470ff80e6a71a/PF/kuehn_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831223#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Groschek, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831228#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Minister für Bauen, Wohnen, Stadtentwicklung und Verkehr, Nordrhein-Westfalen",
+        "party": null
+      },
+      {
+        "deputyName": "Holmeier, Karl",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520492/3x4/170/227/5332af2bbbb8be5f0583e1dd907b76be/Fn/holmeier_karl_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831286#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hartmann, Sebastian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520116/3x4/170/227/2772d9cc4d633e4845eed3ea5a53b339/sx/hartmann_sebastian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831287#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brackmann, Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518564/3x4/170/227/310e1ee4d892cce6fce64533e0253cd1/dy/brackmann_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831291#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831292#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

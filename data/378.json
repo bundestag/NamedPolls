@@ -6,9 +6,9 @@
     "id": "378",
     "date": "2015-12-04T00:00:00.000Z",
     "title": "Bundeswehreinsatz gegen Terrororganisation IS",
-    "topTitle": "",
+    "topTitle": "144. Sitzung vom 04.12.2015, TOP ZP 5 Bundeswehreinsatz gegen Terrororganisation IS",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Einsatz bewaffneter deutscher Streitkräfte zur Verhütung und Unterbindung terroristischer Handlungen durch die Terrororganisation IS auf Grundlage von Artikel 51 der Satzung der Vereinten Nationen in Verbindung mit Artikel 42 Absatz 7 des Vertrages über die Europäische Union sowie den Resolutionen 2170 (2014), 2199 (2015), 2249 (2015) des Sicherheitsrates der Vereinten Nationen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/068/1806866.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6866 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6866</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/069/1806912.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6912 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6912</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung <br/>Einsatz bewaffneter deutscher Streitkräfte zur Verhütung und Unterbindung terroristischer Handlungen durch die Terrororganisation IS auf Grundlage von Artikel 51 der Satzung der Vereinten Nationen in Verbindung mit Artikel 42 Absatz 7 des Vertrages über die Europäische Union sowie den Resolutionen 2170 (2014), 2199 (2015), 2249 (2015) des Sicherheitsrates der Vereinten Nationen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/068/1806866.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6866 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6866</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/069/1806912.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6912 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6912</a><br/>Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache 18/6913",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/068/1806866.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/069/1806912.pdf"
@@ -65,12 +65,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18144.pdf#P.14110",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6248696",
+      "mediathekURL": "https://dbtg.tv/fvid/6248696",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6248696/6248696_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6248696/6248696_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6248696/6248696_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6248696/6248696_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248699#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Mützenich, Dr. Rolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248719#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Wagenknecht, Dr. Sahra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524344/3x4/170/227/c9dc1c532d7f830e8276d7e3a88b90e3/VG/wagenknecht_sahra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248727#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Röttgen, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522998/3x4/170/227/87d7e0005b8fc642e951b54ac51360e0/XL/roettgen_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248793#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Neu, Dr. Alexander S.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522324/3x4/170/227/ac1eb5153b265e488b9628f0ce8dfd49/iq/neu_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248794#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Hofreiter, Dr. Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520474/3x4/170/227/564f6d447a10d765f4224f8a80aa33ce/ab/hofreiter_anton_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248804#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Arnold, Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240720/3x4/170/227/591732dde823711479c2956b4139698c/AO/arnold_rainer_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248888#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Otte, Henning",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248896#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248949#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Wadephul, Dr. Johann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248950#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6248963#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
   }
 }

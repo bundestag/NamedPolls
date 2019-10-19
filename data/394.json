@@ -6,9 +6,9 @@
     "id": "394",
     "date": "2016-05-12T00:00:00.000Z",
     "title": "Behindertengleichstellungsrecht - Änderungsantrag",
-    "topTitle": "",
+    "topTitle": "170. Sitzung vom 12.05.2016, TOP 6 Behindertengleichstellungsrecht",
     "description": "Änderungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung Entwurf eines Gesetzes zur Weiterentwicklung des Behindertengleichstellungsrechts (Drucksachen. <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/078/1807824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/084/1808428.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8428 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8428</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/084/1808432.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8432 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8432</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Weiterentwicklung des Behindertengleichstellungsrechts<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/078/1807824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7824</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales (11. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/084/1808428.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8428 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8428</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) <br/>– zu dem Antrag der Fraktion DIE LINKE.<br/>Eine halb barrierefreie Gesellschaft reicht nicht aus – Privatwirtschaft zur Barrierefreiheit verpflichten<br/>– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Behindertengleichstellungsrecht mutig weiterentwickeln<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/078/1807874.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7874 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7874</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/078/1807877.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7877 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7877</a>, 18/8428",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/078/1807824.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/084/1808428.pdf",
@@ -66,12 +66,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18170.pdf#P.16748",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6830851",
+      "mediathekURL": "https://dbtg.tv/fvid/6830851",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6830851/6830851_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6830851/6830851_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6830851/6830851_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6830851/6830851_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6830854#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Nahles, Andrea",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522262/3x4/170/227/471276d4b82d1dee736b876a032f930c/xf/nahles_andrea_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6830906#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesministerin für Arbeit und Soziales",
+        "party": null
+      },
+      {
+        "deputyName": "Werner, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524546/3x4/170/227/22c3e33ed4f8e06e6b4d05e05977c3/KQ/werner_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6830908#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schummer, Uwe",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523542/3x4/170/227/397faf1a87556c7e59da8107c5481154/MC/schummer_uwe_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831084#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Rüffer, Corinna",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523066/3x4/170/227/1219c35048ed9538c610cd4a6c20421f/xV/rueffer_corinna_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831088#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Tack, Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524012/3x4/170/227/dca5c9abc22bfb379dfc23ceaf7dd348/ti/tack_kerstin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831091#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Freudenstein, Dr. Astrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519538/3x4/170/227/aa05df61f1592f2991e7816ea556e84c/cn/freudenstein_astrid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831149#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831157#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

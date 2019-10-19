@@ -6,9 +6,9 @@
     "id": "452",
     "date": "2017-01-26T00:00:00.000Z",
     "title": "Bundeswehreinsatz in Mali (MINUSMA)",
-    "topTitle": "",
+    "topTitle": "215. Sitzung vom 26.01.2017, TOP 7 Bundeswehreinsatz in Mali (MINUSMA)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Fortsetzung und Erweiterung der Beteiligung bewaffneter deutscher Streitkräfte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA) auf Grundlage der Resolutionen 2100 (2013), 2164 (2014), 2227 (2015) und 2295 (2016) des Sicherheitsrates der Vereinten Nationen vom 25. April 2013, 25. Juni 2014, 29. Juni 2015 und 29. Juni 2016 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10819</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10967</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung und Erweiterung der Beteiligung bewaffneter deutscher Streitkräfte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA) auf Grundlage der Resolutionen 2100 (2013), 2164 (2014), 2227 (2015) und 2295 (2016) des Sicherheitsrates der Vereinten Nationen vom 25. April 2013, 25. Juni 2014, 29. Juni 2015 und 29. Juni 2016<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10819</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10967</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810988.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10988 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10988</a><br/>- Namentliche Abstimmung -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf"
@@ -65,12 +65,93 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18215.pdf#P.21512",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7063880",
+      "mediathekURL": "https://dbtg.tv/fvid/7063880",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7063880/7063880_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7063880/7063880_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7063880/7063880_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7063880/7063880_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063882#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Ernstberger, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240902/3x4/170/227/6ba601373b5f2a059007389a42296d5b/Av/ernstberger_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063885#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Movassat, Niema",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522134/3x4/170/227/e03960182b1c9cde412465d48618c44/lo/movassat_niema_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063886#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Otte, Henning",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063890#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063897#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Motschmann, Elisabeth",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522130/3x4/170/227/5c5f7c8982e7d331a0b4194e9896b0dd/Mf/motschmann_elisabeth_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063898#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Vöpel, Dirk",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524276/3x4/170/227/5c23145a957ce9c8a0ca2c3514194d59/zZ/voepel_dirk_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063902#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063903#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7063908#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
