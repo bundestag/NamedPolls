@@ -6,9 +6,9 @@
     "id": "542",
     "date": "2018-10-19T00:00:00.000Z",
     "title": "Menschenrecht auf Religionsfreiheit - Antrag CDU/CSU und SPD",
-    "topTitle": "",
+    "topTitle": "59. Sitzung vom 19.10.2018, TOP 27 Menschenrecht auf Religionsfreiheit",
     "description": "Antrag der Fraktionen der CDU/CSU und SPD Menschenrecht auf Religionsfreiheit weltweit stärken (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/050/1905041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5041 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5041</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung des Antrags der Fraktion der CDU/CSU und SPD<br/>Menschenrecht auf Religionsfreiheit weltweit stärken<br/>Drucksache 195041<br/><br/>b) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Einsatz für Religions- und Weltanschauungsfreiheit weltweit verstärken<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/045/1904559.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4559 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4559</a><br/><br/>c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Menschenrechte und humanitäre Hilfe (17. Ausschuss)<br/>zu dem Antrag der Fraktion der AfD<br/>Christenverfolgung stoppen und sanktionieren <br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/016/1901698.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1698 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1698</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/051/1905115.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5115 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5115</a><br/><br/>Namentliche Abstimmungen<br/>",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/050/1905041.pdf"
     ],
@@ -94,12 +94,128 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19059.pdf#P.6616",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7282981",
+      "mediathekURL": "https://dbtg.tv/fvid/7282981",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282981/7282981_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282981/7282981_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282981/7282981_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282981/7282981_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282985#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Özoguz, Aydan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522460/3x4/170/227/f5769dd18a8a449978ca089ecbe9af83/Tx/oezoguz_aydan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282987#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Braun, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530320/3x4/170/227/471e115166264cfda10a101384642d88/Ad/braun_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282989#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Brand (Fulda), Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518616/3x4/170/227/1b1451923951b6c20199c0787a33d26a/Qj/brand_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282990#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ruppert, Dr. Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527064/3x4/170/227/1a39acb087ee87db88d46031145bf55d/CN/ruppert_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282991#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282992#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Gehring, Kai",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519678/3x4/170/227/b0df8361d48be98b37d1fd2f2f60aacd/ur/gehring_kai_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282994#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Schwabe, Frank",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523556/3x4/170/227/80a7923a30d0f7f56560f7dbebe65d5f/nb/schwabe_frank_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282996#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Friesen, Dr. Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530346/3x4/170/227/feaa3ae04208acbe717c24bae3bad0da/hx/friesen_anton_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282997#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Grübel, Markus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519920/3x4/170/227/450a9d5c6e84c053564d6ad7bb8c7583/Ql/gruebel_markus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282998#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Jensen, Gyde",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526442/3x4/170/227/f3e3c12d5e62e70921bd5072b6b141e7/EC/jensen_gyde_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283000#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Brehm, Sebastian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527068/3x4/170/227/68792a14352299d47b7d4e91db1d7ebb/QI/brehm_sebastian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283001#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hirte, Prof. Dr. Heribert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520398/3x4/170/227/2def6ddace2f14556309eb978481d541/nx/hirte_heribert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283004#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283006#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }

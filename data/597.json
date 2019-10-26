@@ -6,9 +6,9 @@
     "id": "597",
     "date": "2019-05-09T00:00:00.000Z",
     "title": "Bundeswehreinsatz in Mali (MINUSMA)",
-    "topTitle": "",
+    "topTitle": "98. Sitzung vom 09.05.2019, TOP 7 Bundeswehreinsatz in Mali (MINUSMA)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA) (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8972</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909932.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9932 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9932</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA)<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8972</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909932.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9932 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9932</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10006</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/089/1908972.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/099/1909932.pdf"
@@ -95,12 +95,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19098.pdf#P.11794",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7352933",
+      "mediathekURL": "https://dbtg.tv/fvid/7352933",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7352933/7352933_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7352933/7352933_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7352933/7352933_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7352933/7352933_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352937#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Matschie, Christoph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526440/3x4/170/227/ab4e42f580fdb4ec6dbf74d3b2ebb5a4/md/matschie_christoph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352938#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lucassen, Rüdiger",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529134/3x4/170/227/2bcb123102469a2d0927ee7ab2ba6a8f/aH/lucassen_ruediger_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352939#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Otte, Henning",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352940#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Faber, Dr. Marcus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527352/3x4/170/227/2c59fb29730d253663646ecb9d91e24e/BD/faber_marcus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352941#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352942#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schmidt, Dr. Frithjof",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523338/3x4/170/227/7984d4028a33b58f906e594770965bd/XS/schmidt_frithjof_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352943#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Nick, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352944#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hitschler, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520404/3x4/170/227/8deee36cbab6924d9a617f009f547dfa/Cc/hitschler_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352946#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ullrich, Dr. Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524210/3x4/170/227/50b690341cbf9bac4d588dc2c40a22f5/LT/ullrich_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352947#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7352950#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
