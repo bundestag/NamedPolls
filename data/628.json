@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=628"
+  },
+  "data": {
+    "id": "628",
+    "date": "2019-11-07T00:00:00.000Z",
+    "title": "Änderungsantrag der FDP (19/14882)",
+    "topTitle": "124. Sitzung vom 07.11.2019, TOP 10 Steuerliche Förderung von Forschung",
+    "description": "Änderungsantrag der Abgeordneten Dr. Florian Toncar, Christian Dürr, Frank Schäffler, weiterer Abgeordneter und der Fraktion der FDP (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/148/1914882.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14882 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14882</a>)",
+    "detailedDescription": "a) – Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur steuerlichen Förderung von Forschung und Entwicklung (Forschungszulagengesetz – FZulG) <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/109/1910940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10940</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/117/1911728.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11728 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11728</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/131/1913175.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13175 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13175</a> Nr. 11<br/>Beschlussempfehlung und Bericht des Finanzausschusses (7. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/148/1914875.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14875 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14875</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/148/1914876.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14876 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14876</a>\t<br/>b) Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7. Ausschuss) <br/>zu dem Antrag der Fraktion der AfD <br/>Für ein innovationsfreundliches Steuersystem – Steuerliche Forschungs- und Entwicklungsförderung einführen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/048/1904844.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4844 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4844</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/148/1914875.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14875 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14875</a><br/>c) Zweite und dritte Beratung der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>eingebrachten Entwurfs eines Gesetzes zur steuerlichen Förderung von Forschung und Entwicklung kleinerer und mittlerer Unternehmen (KMU-Forschungsförderungsgesetz)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/048/1904827.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4827 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4827</a><br/>Beschlussempfehlung und Bericht des Finanzausschusses (7. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/079/1907958.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7958 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7958</a><br/>d) Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7. Ausschuss) <br/>zu dem Antrag der Fraktion der FDP <br/>Einführung einer steuerlichen Forschungsförderung<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/031/1903175.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3175 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3175</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/079/1907958.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7958 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7958</a><br/><br/>",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/148/1914882.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=628&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 269,
+        "no": 358,
+        "abstain": 0,
+        "na": 82
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 0,
+            "no": 221,
+            "abstain": 0,
+            "na": 25
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 0,
+            "no": 136,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 91,
+            "yes": 76,
+            "no": 1,
+            "abstain": 0,
+            "na": 14
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 73,
+            "no": 0,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 60,
+            "no": 0,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 59,
+            "no": 0,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 4,
+            "yes": 1,
+            "no": 0,
+            "abstain": 0,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19124.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7400186",
+      "mediathekURL": "https://dbtg.tv/fvid/7400186",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7400186/7400186_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7400186/7400186_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7400186/7400186_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7400186/7400186_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400188#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Schüle, Dr. Manja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527152/3x4/170/227/927a0acb1717f0bdec3cbf01243926aa/kE/schuele_manja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400189#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Keuter, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529204/3x4/170/227/86ba5debb59aa710a162581c93449de7/vk/keuter_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400190#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Maizière, Dr. Thomas de",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521818/3x4/170/227/6fd1f6f2854e0d6d3a2e9fc75b262dc/Zy/maiziere_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400191#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hessel, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527242/3x4/170/227/b61b29560201cfa75fde51f1854554e1/wG/hessel_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400192#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "De Masi, Fabio",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521882/3x4/170/227/c30c396d3e595bddd63dc7c437c11c7b/fY/de_masi_fabio_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400193#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Bayaz, Dr. Danyal",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/531546/3x4/170/227/52a1b0b4714bd239f00dc599baedc047/FJ/bayaz_danyal_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400194#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Michelbach, Dr. h. c. (Univ Kyiv) Hans",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522014/3x4/170/227/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/MD/michelbach_hans_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400195#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Binding (Heidelberg), Lothar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518418/3x4/170/227/e7c1cbef5d0f4e3141ad805d308d5e89/Wv/binding_lothar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400196#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Güntzler, Fritz",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519958/3x4/170/227/ffe75ce3508b19055d15aba55d3a24f/QR/guentzler_fritz_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400197#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7400198#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}
