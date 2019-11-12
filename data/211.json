@@ -6,9 +6,9 @@
     "id": "211",
     "date": "2013-02-28T00:00:00.000Z",
     "title": "Holzhandel-Sicherungs-Gesetz",
-    "topTitle": "",
+    "topTitle": "225. Sitzung vom 28.02.2013, TOP ZP 6 Holzhandel-Sicherungs-Gesetz",
     "description": "Gesetzentwurf der Bundesregierung zur Änderung des Holzhandels-Sicherungs-Gesetzes (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/120/1712033.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12033 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12033</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/124/1712400.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12400 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12400</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "ZP 6.) Dritte Beratung Bundesregierung\r<br/>Erstes Gesetz zur Änderung des Holzhandel-Sicherungs-Gesetzes\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/120/1712033.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12033 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12033</a> -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/120/1712033.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/124/1712400.pdf"
@@ -75,12 +75,37 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17225.pdf",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2200474",
+      "mediathekURL": "https://dbtg.tv/fvid/2200474",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2200474/2200474_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2200474/2200474_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2200474/2200474_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2200474/2200474_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2200467#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      }
+    ]
   }
 }
