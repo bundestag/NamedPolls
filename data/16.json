@@ -4,29 +4,178 @@
   },
   "data": {
     "id": "16",
-    "date": null,
-    "title": "",
-    "topTitle": "",
-    "description": "",
-    "detailedDescription": "",
-    "documents": [],
-    "deputyVotesURL": "",
+    "date": "2012-06-28T00:00:00.000Z",
+    "title": "Eheschließungsgesetz für gleichgeschlechtliche Personen",
+    "topTitle": "187. Sitzung vom 28.06.2012, TOP 11 Ungleichbehandlung von Lebenspartnerschaften",
+    "description": "Gesetzentwurf der Fraktion Bündnis 90/Die Grünen (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/063/1706343.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6343 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6343</a>) gemäß Buchstabe a der Beschlussempfehlung des Rechtsausschusses (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/096/1709611.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9611 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9611</a>) abgelehnt",
+    "detailedDescription": "11.a) Beratung Große Anfrage B90/GRÜNE\r<br/>Verfassungsmäßigkeit der bestehenden Ungleichbehandlung Eingetragener Lebenspartnerschaften gegenüber Ehen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/041/1704112.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4112 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4112</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/082/1708248.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8248 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8248</a> -\r<br/>11.b) Zweite und dritte Beratung B90/GRÜNE\r<br/>Einführung des Rechts auf Eheschließung für Personen gleichen Geschlechts\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/063/1706343.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6343 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6343</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/096/1709611.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9611 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9611</a> -\r<br/>11.c) Beratung BeschlEmpf u Ber (6.A)\r<br/>zum Antrag SPD\r<br/>Recht auf Eheschließung auch gleichgeschlechtlichen Paaren ermöglichen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/081/1708155.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8155 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8155</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/096/1709611.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9611 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9611</a> -",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/17/063/1706343.pdf",
+      "http://dip21.bundestag.de/dip21/btd/17/096/1709611.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=16&ajax=true",
     "votes": {
       "all": {
-        "total": null,
-        "yes": null,
-        "no": null,
-        "abstain": null,
-        "na": null
+        "total": 620,
+        "yes": 260,
+        "no": 309,
+        "abstain": 12,
+        "na": 39
       },
-      "parties": []
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 237,
+            "yes": 0,
+            "no": 224,
+            "abstain": 3,
+            "na": 10
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 136,
+            "no": 0,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 0,
+            "no": 85,
+            "abstain": 4,
+            "na": 4
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 59,
+            "no": 0,
+            "abstain": 5,
+            "na": 12
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 65,
+            "no": 0,
+            "abstain": 0,
+            "na": 3
+          }
+        }
+      ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17187.pdf#P.22404",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1770570",
+      "mediathekURL": "https://dbtg.tv/fvid/1770570",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1770570/1770570_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1770570/1770570_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1770570/1770570_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1770570/1770570_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770580#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Beck (Köln), Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771284#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Silberhorn, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523690/3x4/170/227/171361ff2ce0daeade87efbbc7457a46/GP/silberhorn_thomas_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771288#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Steffen, Sonja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523822/3x4/170/227/ddd38de948da7f9a1798f8e51a01b3e8/gx/steffen_sonja_amalie_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771289#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Thomae, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527112/3x4/170/227/29806502e5fe3ed62679c6d434c70c5d/pS/thomae_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771295#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höll, Dr. Barbara",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771296#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Kauch, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771302#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Beck (Köln), Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771303#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kauch, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771304#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Kahrs, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520782/3x4/170/227/60a3e62dc1c5cbcf96917b84dde19b14/PS/kahrs_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771307#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Oswald, Eduard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1771316#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }
