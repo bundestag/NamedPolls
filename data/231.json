@@ -6,9 +6,9 @@
     "id": "231",
     "date": "2013-06-07T00:00:00.000Z",
     "title": "Arzneimittelversorgung",
-    "topTitle": "",
+    "topTitle": "244. Sitzung vom 07.06.2013, TOP 8 Arzneimittelversorgung",
     "description": "Gesetzentwurf der Fraktionen der CDU/CSU und FDP zur Änderung arzneimittelrechtlicher und anderer Vorschriften (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/130/1713083.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13083 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13083</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/137/1713770.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13770 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13770</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "8.a) Zweite und dritte Beratung BReg\r<br/>Förderung der Sicherstellung des Notdienstes von Apotheken (Apothekennotdienstsicherstellungsgesetz - ANSG)\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/134/1713403.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13403 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13403</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/137/1713769.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13769 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13769</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/137/1713771.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13771 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13771</a> -\r<br/>8.b) Zweite und dritte Beratung CDU/CSU, FDP\r<br/>Arzneimittelrechtliche und andere Vorschriften/3.Änd\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/130/1713083.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13083 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13083</a> \r<br/>- Zweite und dritte Beratung BReg\r<br/>Arzneimittelrechtliche und andere Vorschriften/3.Änd\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/134/1713404.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13404 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13404</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/137/1713770.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13770 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13770</a> -\r<br/>8.c) Beratung BeschlEmpf u Ber (14.A)\r<br/>zum Antrag SPD\r<br/>Versorgung mit Arzneimitteln sicherstellen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/128/1712847.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12847 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12847</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/137/1713770.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13770 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13770</a> -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/130/1713083.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/137/1713770.pdf"
@@ -75,12 +75,37 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17244.pdf",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2421108",
+      "mediathekURL": "https://dbtg.tv/fvid/2421108",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2421108/2421108_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2421108/2421108_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2421108/2421108_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2421108/2421108_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2421114#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
   }
 }
