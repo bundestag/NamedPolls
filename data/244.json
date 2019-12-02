@@ -6,9 +6,9 @@
     "id": "244",
     "date": "2013-06-27T00:00:00.000Z",
     "title": "2. Änderungsantrag von Bündnis 90/Die Grünen zum Einkommensteuergesetz",
-    "topTitle": "250. Sitzung vom 27.06.2013, TOP 13 Einkommensteuerrecht - Gleichstellung",
+    "topTitle": "",
     "description": "Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu dem Gesetzentwurf der Fraktionen der CDU/CSU und FDP zur Änderung des Einkommensteuergesetzes in Umsetzung der Entscheidung des Bundesverfassungsgerichtes vom 7. Mai 2013 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/138/1713870.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13870 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13870</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/141/1714195.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14195 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14195</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/142/1714260.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14260 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14260</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/142/1714233.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14233 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14233</a>)",
-    "detailedDescription": "13.a) Zweite und dritte Beratung CDU/CSU, FDP<br/>Einkommensteuergesetz in Umsetzung der Entscheidung des Bundesverfassungsgerichtes vom 7. Mai 2013<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/138/1713870.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13870 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13870</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/141/1714195.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14195 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14195</a>, 1714206 -<br/>13.b) Zweite und dritte Beratung SPD<br/>Gleichstellung der Lebenspartnerschaft mit der Ehe im Einkommensteuerrecht<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/138/1713871.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13871 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13871</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/141/1714195.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14195 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14195</a> -<br/>13.c) Zweite und dritte Beratung B90/GRÜNE<br/>Umsetzung der Entscheidung des Bundesverfassungsgerichts vom 7.5.2013 zur Gleichstellung der eingetragenen Lebenspartnerschaft mit der Ehe im Einkommensteuerrecht<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/138/1713872.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13872 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13872</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/141/1714195.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14195 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14195</a> -",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/138/1713870.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/141/1714195.pdf",
@@ -77,100 +77,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17250.pdf#P.32047",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2480465",
-      "mediathekURL": "https://dbtg.tv/fvid/2480465",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2480465/2480465_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2480465/2480465_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2480465/2480465_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2480465/2480465_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480468#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Gutting, Olav",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519976/3x4/170/227/f324ddc39f32be99338c3f543b03dfbd/EE/gutting_olav_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480474#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Arndt-Brauer, Ingrid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/517970/3x4/170/227/9fbc1e9b2e61249b0c4c5d501018be93/Mi/arndt_brauer_ingrid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480475#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Volk, Dr. Daniel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480481#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Höll, Dr. Barbara",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480482#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Beck (Köln), Volker",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480505#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Michelbach, Dr. Hans",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522014/3x4/170/227/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/MD/michelbach_hans_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480506#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kahrs, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520782/3x4/170/227/60a3e62dc1c5cbcf96917b84dde19b14/PS/kahrs_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480513#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Kauch, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480514#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Oswald, Eduard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480570#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }

@@ -24,10 +24,10 @@
     "votes": {
       "all": {
         "total": 708,
-        "yes": 82,
-        "no": 552,
-        "abstain": 0,
-        "na": 74
+        "yes": 83,
+        "no": 559,
+        "abstain": 1,
+        "na": 65
       },
       "parties": [
         {
@@ -35,9 +35,9 @@
           "votes": {
             "total": 246,
             "yes": 0,
-            "no": 230,
+            "no": 235,
             "abstain": 0,
-            "na": 16
+            "na": 11
           }
         },
         {
@@ -45,19 +45,19 @@
           "votes": {
             "total": 152,
             "yes": 0,
-            "no": 135,
+            "no": 136,
             "abstain": 0,
-            "na": 17
+            "na": 16
           }
         },
         {
           "name": "AfD",
           "votes": {
             "total": 91,
-            "yes": 82,
+            "yes": 83,
             "no": 0,
-            "abstain": 0,
-            "na": 9
+            "abstain": 1,
+            "na": 7
           }
         },
         {
@@ -85,9 +85,9 @@
           "votes": {
             "total": 67,
             "yes": 0,
-            "no": 59,
+            "no": 60,
             "abstain": 0,
-            "na": 8
+            "na": 7
           }
         },
         {
