@@ -6,9 +6,9 @@
     "id": "625",
     "date": "2019-10-24T00:00:00.000Z",
     "title": "Beschlussempfehlung zu Bundeswehreinsatz zur Bekämpfung des IS-Terrors",
-    "topTitle": "121. Sitzung vom 24.10.2019, TOP 7 Bundeswehreinsatz zur Bekämpfung des IS-Terrors",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Einsatz bewaffneter deutscher Streitkräfte - Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung fördern in Irak und Syrien (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/132/1913290.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13290 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13290</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/142/1914287.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14287 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14287</a>)",
-    "detailedDescription": "a) - Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Einsatz bewaffneter deutscher Streitkräfte - Stabilisierung sichern, Wiedererstarken IS verhindern, Versöhnung fördern in Irak und Syrien<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/132/1913290.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13290 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13290</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/142/1914287.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14287 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14287</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/142/1914288.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14288 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14288</a><br/>b) Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE.<br/>Bundeswehr sofort aus dem Anti-IS-Einsatz zurückrufen <br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/135/1913503.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13503 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13503</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/142/1914289.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14289 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14289</a><br/><br/>Namentliche Abstimmung<br/>",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/132/1913290.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/142/1914287.pdf"
@@ -95,100 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19121.pdf#P.14954",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7396598",
-      "mediathekURL": "https://dbtg.tv/fvid/7396598",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7396598/7396598_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7396598/7396598_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7396598/7396598_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7396598/7396598_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396597#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Maas, Heiko",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527336/3x4/170/227/3939ee734092f1afdd7e5ff7cd7f6ce3/uk/maas_heiko_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396599#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundesminister des Auswärtigen",
-        "party": null
-      },
-      {
-        "deputyName": "Otten, Gerold",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529626/3x4/170/227/7a3206a21a5e0332791e059d208b16d2/NC/otten_gerold_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396600#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Wadephul, Dr. Johann David",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396601#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Strack-Zimmermann, Dr. Marie-Agnes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527426/3x4/170/227/61f8a9bbb895b999664257c031a6379/GC/strack_zimmermann_marie_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396602#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Neu, Dr. Alexander S.",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522324/3x4/170/227/ac1eb5153b265e488b9628f0ce8dfd49/iq/neu_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396603#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Lindner, Dr. Tobias",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396604#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Hahn, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396605#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kiesewetter, Roderich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396606#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7396607#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
