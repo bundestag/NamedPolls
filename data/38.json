@@ -6,9 +6,9 @@
     "id": "38",
     "date": "2011-09-29T00:00:00.000Z",
     "title": "Änderung des Bundeswahlgesetzes",
-    "topTitle": "",
+    "topTitle": "130. Sitzung vom 29.09.2011, TOP 5 Bundeswahlgesetz",
     "description": "Gesetzentwurf der CDU/CSU und FDP (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/062/1706290.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6290 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6290</a>) in der Fassung des Buchstaben a der Beschlussempfehlung des Innenausschusses (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/070/1707069.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7069 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7069</a>) angenommen",
-    "detailedDescription": "",
+    "detailedDescription": "5.) Zweite u dritte Ber CDU/CSU, FDP\r<br/>19. Gesetz zur Änderung des Bundeswahlgesetzes\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/062/1706290.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6290 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6290</a> - \r<br/>Zweite und dritte Beratung SPD\r<br/>19. Gesetz zur Änderung des Bundeswahlgesetzes\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/058/1705895.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5895 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5895</a> - \r<br/>Zweite u. dritte Ber DIE LINKE.\r<br/>Änderung des Grundgesetzes und zur Reformierung des Wahlrechts\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/058/1705896.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5896 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5896</a> - \r<br/>Zweite u dritte Ber B90/DIE GRÜNEN\r<br/>Änderung des Bundeswahlgesetzes\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/046/1704694.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4694 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4694</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/070/1707069.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7069 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7069</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/070/1707070.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7070 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7070</a> -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/062/1706290.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/070/1707069.pdf"
@@ -75,12 +75,114 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17130.pdf#P.15292",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1344144",
+      "mediathekURL": "https://dbtg.tv/fvid/1344144",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1344144/1344144_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1344144/1344144_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1344144/1344144_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1344144/1344144_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344148#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Krings, Dr. Günter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521316/3x4/170/227/b3f448923cd6199b2ed41e81b62e9cc7/Fa/krings_guenter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344150#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344156#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ruppert, Dr. Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527064/3x4/170/227/1a39acb087ee87db88d46031145bf55d/CN/ruppert_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344157#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Wawzyniak, Halina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241804/3x4/170/227/8abaf6ea82c4b48348ddefe9ed8461b4/Mq/wawzyniak_halina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344163#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Beck (Köln), Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344164#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Altmaier, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517884/3x4/170/227/cbefed3b99408e01e454e1f81ad35676/jD/altmaier_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344169#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Fograscher, Gabriele",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240916/3x4/170/227/34fcfd86c64f22e2d698b36160e97a45/kt/fograscher_gabriele_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344170#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Essen, Jörg van",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344171#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Wieland, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344173#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Uhl, Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241724/3x4/170/227/6923e44a90d48ae0c844c743f8cfae8/au/uhl_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344174#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1344181#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
   }
 }
