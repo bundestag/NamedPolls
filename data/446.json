@@ -6,9 +6,9 @@
     "id": "446",
     "date": "2016-12-15T00:00:00.000Z",
     "title": "Beschlussempfehlung Bundeswehreinsatz in Afghanistan",
-    "topTitle": "",
+    "topTitle": "209. Sitzung vom 15.12.2016, TOP 9 Bundeswehreinsatz in Afghanistan",
     "description": "Beschlussempfehlung des Auswärtigen Amtes (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810347.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10347 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10347</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810638.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10638 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10638</a> (neu))",
-    "detailedDescription": "",
+    "detailedDescription": "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810347.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10347 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10347</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810638.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10638 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10638</a> (neu)<br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810657.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10657 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10657</a><br/>- namentliche Abstimmung -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/103/1810347.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/106/1810638.pdf"
@@ -65,12 +65,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18209.pdf#P.20904",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7045720",
+      "mediathekURL": "https://dbtg.tv/fvid/7045720",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7045720/7045720_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7045720/7045720_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7045720/7045720_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7045720/7045720_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045721#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Annen, Niels",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517942/3x4/170/227/6bdac247e634d39fe7820ff75a1697cc/FK/annen_niels_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045722#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Gehrcke, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240998/3x4/170/227/2ff52a617213aa02c7babe74e0972263/dP/gehrcke_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045727#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045728#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/c8c8407c51d31f38d37ec16a1788f455/gO/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045736#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Klingbeil, Lars",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521074/3x4/170/227/db3ffeed8f2196dd8b91cdb94a489497/VH/klingbeil_lars_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045742#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045743#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Klingbeil, Lars",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521074/3x4/170/227/db3ffeed8f2196dd8b91cdb94a489497/VH/klingbeil_lars_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045744#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Frei, Thorsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045745#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Obermeier, Julia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045752#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045756#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
