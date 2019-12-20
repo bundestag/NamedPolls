@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=646"
+  },
+  "data": {
+    "id": "646",
+    "date": "2019-12-19T00:00:00.000Z",
+    "title": "Vorgehen gegen die Hisbollah",
+    "topTitle": "137. Sitzung vom 19.12.2019, TOP ZP 3-5 Vorgehen gegen die Hisbollah",
+    "description": "Beschlussempfehlung des Ausschusses für Inneres und Heimat (4. Ausschuss) zu dem Antrag der Abgeordneten Beatrix von Storch, Marc Bernhard, Stephan Brandner, weiterer Abgeordneter und der Fraktion der AfD: Verbot der Hisbollah (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/106/1910624.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10624 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10624</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/161/1916145.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16145 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16145</a>)",
+    "detailedDescription": "ZP 3) Beratung des Antrags der Fraktionen der CDU/CSU, SPD und FDP<br/>Wirksames Vorgehen gegen die Hisbollah<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916046.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16046 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16046</a><br/><br/>ZP 4) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Betätigungsverbot gegen Hisbollah entschlossen durchsetzen und ihre Netzwerke in Deutschland zerschlagen, Israel beistehen, Zivilgesellschaft in Libanon unterstützen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16050</a><br/><br/>ZP 5) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss) <br/>zu dem Antrag der Fraktion der AfD<br/>Verbot der Hisbollah <br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/106/1910624.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10624 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10624</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/161/1916145.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16145 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16145</a><br/><br/>namentliche Abstimmung",
+    "documents": [
+      "http://dip21.bundestag.de/dip21/btd/19/106/1910624.pdf",
+      "http://dip21.bundestag.de/dip21/btd/19/161/1916145.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=646&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 569,
+        "no": 77,
+        "abstain": 3,
+        "na": 60
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 230,
+            "no": 0,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 139,
+            "no": 0,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 90,
+            "yes": 0,
+            "no": 75,
+            "abstain": 3,
+            "na": 12
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 73,
+            "no": 0,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 60,
+            "no": 0,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 65,
+            "no": 0,
+            "abstain": 0,
+            "na": 2
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 5,
+            "yes": 2,
+            "no": 2,
+            "abstain": 0,
+            "na": 1
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19137.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7408252",
+      "mediathekURL": "https://dbtg.tv/fvid/7408252",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7408252/7408252_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7408252/7408252_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7408252/7408252_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7408252/7408252_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408250#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Frei, Thorsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408251#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Storch, Beatrix von",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523914/3x4/170/227/780da440e3da5d4966b84377b3900272/fn/storch_beatrix_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408253#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Müller-Rosentritt, Frank",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527344/3x4/170/227/c55dac7434b12599ec3bd26c3b8a36c9/Em/mueller_rosentritt_frank_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408254#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Storch, Beatrix von",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523914/3x4/170/227/780da440e3da5d4966b84377b3900272/fn/storch_beatrix_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408255#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Högl, Dr. Eva",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520416/3x4/170/227/a54bdcef227556c71696c355618d82b6/Bd/hoegl_eva_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408256#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408257#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Strasser, Benjamin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529146/3x4/170/227/c60cbef823a4432af3b8f8fa9e059ca/BF/strasser_benjamin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408258#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Hunko, Andrej",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520576/3x4/170/227/7da57ab6350dc8bc3e4177d493cf24b6/RX/hunko_andrej_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408259#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Mihalic, Dr. Irene",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522034/3x4/170/227/8802aef4b3cf432a958a6bbc33d69ee7/Ww/mihalic_irene_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408260#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Wadephul, Dr. Johann David",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408261#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schmid, Dr. Nils",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527066/3x4/170/227/5499615c6f46017d09a87ca22a55480c/EV/schmid_nils_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408262#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Mieruch, Mario",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530218/3x4/170/227/fba40e2ddc0770bd9cf4063ab58267a4/Uk/mieruch_mario_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408264#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408265#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}
