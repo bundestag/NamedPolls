@@ -6,9 +6,9 @@
     "id": "260",
     "date": "2014-04-09T00:00:00.000Z",
     "title": "Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz",
-    "topTitle": "29. Sitzung vom 10.04.2014, TOP 4 Bundeswehreinsatz VN/OVCW (Syrische C-Waffen)",
+    "topTitle": "",
     "description": "Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz bei der Hydrolyse syrischer Chemiewaffen an Bord der CAPE RAY im Rahmen der gemeinsamen VN/OVCW-Mission zur Vernichtung der syrischen Chemiewaffen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/984 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/984</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a>)",
-    "detailedDescription": "–\tBeratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung <br/>Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz bei der Hydrolyse syrischer Chemiewaffen an Bord der CAPE RAY im Rahmen der gemeinsamen VN/OVCW-Mission zur Vernichtung der syrischen Chemiewaffen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/984 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/984</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a><br/>–\tBericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>\tDrucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801096.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1096 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1096</a><br/>",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf"
@@ -65,100 +65,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18029.pdf#P.2377",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3290872",
-      "mediathekURL": "https://dbtg.tv/fvid/3290872",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3290872/3290872_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3290872/3290872_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3290872/3290872_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3290872/3290872_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290875#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Mützenich, Dr. Rolf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290879#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Aken, Jan van",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240714/3x4/170/227/be23238d3921acf3e9fa694ab1ae41f8/Yu/aken_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290882#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Wadephul, Dr. Johann",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290907#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Nouripour, Omid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/c8c8407c51d31f38d37ec16a1788f455/gO/nouripour_omid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290908#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Frei, Thorsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290912#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Bartz, Julia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290913#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hintze, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290916#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Groth, Annette",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240990/3x4/170/227/b5e0d8670acf41cc606186434bd91e12/YJ/groth_annette_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290917#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Hintze, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3290918#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
