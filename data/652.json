@@ -6,9 +6,9 @@
     "id": "652",
     "date": "2019-12-20T00:00:00.000Z",
     "title": "Antrag DIE LINKE: Keine Anschaffung, sondern Ächtung bewaffneter Drohnen",
-    "topTitle": "",
+    "topTitle": "138. Sitzung vom 20.12.2019, TOP 24, ZP 16 Beschaffung von bewaffneten Drohnen",
     "description": "Antrag der Abgeordneten Tobias Pflüger, Andrej Hunko, Heike Hänsel, weiterer Abgeordneter und der Fraktion DIE LINKE. Keine Anschaffung, sondern Ächtung bewaffneter Drohnen (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16041 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16041</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung der Beschlussempfehlung und des Berichts des Verteidigungsausschusses (12. Ausschuss)<br/>zu dem Antrag der Fraktion der FDP <br/>Schutz der Soldatinnen und Soldaten der Bundeswehr durch die Beschaffung von bewaffneten Drohnen stärken<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/156/1915675.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15675 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15675</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/161/1916149.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16149 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16149</a><br/>b) Beratung der Beschlussempfehlung und des Berichts des Verteidigungsausschusses (12. Ausschuss) <br/>zu dem Antrag der Fraktion der AfD<br/>Beschaffung bewaffneter unbemannter Luftfahrzeuge<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/135/1913527.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13527 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13527</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/144/1914499.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14499 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14499</a><br/><br/>ZP 16) Beratung des Antrags der Fraktion DIE LINKE.<br/>Keine Anschaffung, sondern Ächtung bewaffneter Drohnen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16041 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16041</a><br/><br/>namentliche Abstimmungen",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/160/1916041.pdf"
     ],
@@ -94,12 +94,93 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19138.pdf#P.17285",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7409819",
+      "mediathekURL": "https://dbtg.tv/fvid/7409819",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7409819/7409819_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7409819/7409819_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7409819/7409819_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7409819/7409819_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409754#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Otte, Henning",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409760#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Otten, Gerold",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529626/3x4/170/227/7a3206a21a5e0332791e059d208b16d2/NC/otten_gerold_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409761#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Möller, Siemtje",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409767#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Faber, Dr. Marcus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527352/3x4/170/227/2c59fb29730d253663646ecb9d91e24e/BD/faber_marcus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409768#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Pflüger, Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/533896/3x4/170/227/814e291a4a5fb7253eb0a6394fa7d218/kh/pflueger_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409774#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Keul, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409775#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hahn, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409781#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7409787#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
