@@ -6,9 +6,9 @@
     "id": "637",
     "date": "2019-11-14T00:00:00.000Z",
     "title": "Beschlussempfehlung zu Einsatz chemischer Pflanzenschutzmittel",
-    "topTitle": "",
+    "topTitle": "127. Sitzung vom 14.11.2019, TOP 18 Gesundheits-, Tier- und Pflanzenschutz",
     "description": "Beschlussempfehlung des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) zu dem Antrag der Fraktion der AfD: Den Einsatz chemischer Pflanzenschutzmittel wirksam reduzieren (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/074/1907429.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7429 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7429</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/084/1908462.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8462 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8462</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) zu dem Antrag der AfD<br/>Den Einsatz chemischer Pflanzenschutzmittel wirksam reduzieren<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/074/1907429.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7429 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7429</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/084/1908462.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8462 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8462</a><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) zu dem Antrag der Fraktion der AfD<br/>Förderung einer gesundheitsbewussten Ernährung – Bessere Kennzeichnungspflichten, hochwertigeres Schulessen, keine EU-Ausschreibungspflicht<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/070/1907033.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7033 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7033</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/136/1913639.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13639 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13639</a> Buchstabe a<br/>c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) zu dem Antrag der AfD <br/>Verbot von Tierexporten aus Deutschland – Insbesondere in Nicht-EU-Länder, bei nicht EU-rechtskonformen Transport-, Haltungs- und Schlachtbedingungen sowie Sicherstellung der Einhaltung der EU-Tiertransportvorgaben auf dem Gebiet der Bundesrepublik Deutschland und Ausarbeitung von geeigneten Straf- beziehungsweise Ordnungswidrigkeitsvorschriften für Verstöße gegen die EU-Tiertransportvorgaben<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/055/1905532.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5532 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5532</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/091/1909107.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9107 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9107</a><br/><br/>Namentliche Abstimmung<br/><br/>",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/074/1907429.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/084/1908462.pdf"
@@ -95,12 +95,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19127.pdf#P.15928",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7401815",
+      "mediathekURL": "https://dbtg.tv/fvid/7401815",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401815/7401815_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401815/7401815_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401815/7401815_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401815/7401815_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401814#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Straubinger, Max",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523938/3x4/170/227/c52a77996ca6d7c3decec07e5907d244/xb/straubinger_max_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401816#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Protschka, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527022/3x4/170/227/3861b1b3181414edaecb6359e52ed6d3/bo/protschka_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401817#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Schulte, Ursula",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523506/3x4/170/227/9dc65b594ae15e736dc5e32e6ff394f8/NG/schulte_ursula_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401818#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Konrad, Carina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529140/3x4/170/227/acce558ffc9d831467b91fd4fa19709e/nj/konrad_carina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401819#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Tackmann, Dr. Kirsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524008/3x4/170/227/ab648f9304846531be0fda13ec74ee79/gv/tackmann_kirsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401820#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Künast, Renate",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521390/3x4/170/227/d1362e180cd0401a16429603b8740ebc/JJ/kuenast_renate_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401821#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Pahlmann, Ingrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522526/3x4/170/227/4e9a378734ee9e7f717d450826eec5e7/sK/pahlmann_ingrid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401822#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Mackensen, Isabel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/653546/3x4/170/227/c47ad5b95e8fdd18fc4e5087420f3ef3/mP/mackensen_isabel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401823#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Stier, Dieter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523888/3x4/170/227/a11ea46610ba64819e2521f8666338b7/Mb/stier_dieter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401824#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401825#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
