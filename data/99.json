@@ -6,9 +6,9 @@
     "id": "99",
     "date": "2011-07-08T00:00:00.000Z",
     "title": "Keine Rüstungsgüter in Spannungsgebiete",
-    "topTitle": "121. Sitzung vom 08.07.2011, TOP ZP 10 - 12 Panzerverkauf an Saudi-Arabien",
+    "topTitle": "",
     "description": "Antrag der Fraktion der SPD (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/065/1706540.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6540 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6540</a>) abgelehnt",
-    "detailedDescription": "ZP.10) Beratung Antrag DIE LINKE.<br/>Keine Panzer an Saudi-Arabien verkaufen<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/065/1706528.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6528 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6528</a> -<br/>ZP.11) Beratung Antrag SPD<br/>Keine Rüstungsgüter in Spannungsgebiete - Für die Einhaltung einer restriktiven Rüstungsexportpolitik<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/065/1706540.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6540 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6540</a> -<br/>ZP.12) Beratung Antrag B90/GRÜNE<br/>Keine Genehmigung zur Lieferung von Kriegswaffen an Saudi-Arabien<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/065/1706529.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6529 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6529</a> -",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/065/1706540.pdf"
     ],
@@ -74,145 +74,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17121.pdf#P.14303",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1220830",
-      "mediathekURL": "https://dbtg.tv/fvid/1220830",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1220830/1220830_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1220830/1220830_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1220830/1220830_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220832#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Gysi, Dr. Gregor",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/815cd00fcb21a5295e8466536e067e55/CF/gysi_gregor_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220833#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Kiesewetter, Roderich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220834#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Gabriel, Sigmar",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519624/3x4/170/227/4b0c72944d359001bce8269e25d09880/en/gabriel_sigmar_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220835#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Stinner, Dr. Rainer",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220840#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Gabriel, Sigmar",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519624/3x4/170/227/4b0c72944d359001bce8269e25d09880/en/gabriel_sigmar_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220841#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220842#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Lindner (Berlin), Dr. Martin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220843#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Gysi, Dr. Gregor",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/815cd00fcb21a5295e8466536e067e55/CF/gysi_gregor_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220844#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220845#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lindner (Berlin), Dr. Martin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220856#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Keul, Katja",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220857#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Nüßlein, Dr. Georg",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522418/3x4/170/227/ad15824b58a43e1580aca4db95005550/dR/nuesslein_georg_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220865#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Ströbele, Hans-Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241608/3x4/170/227/4d05d573dfd7afb85be8a7387460a2fd/yh/stroebele_hans_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220866#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Arnold, Rainer",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240720/3x4/170/227/591732dde823711479c2956b4139698c/AO/arnold_rainer_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220867#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Nüßlein, Dr. Georg",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522418/3x4/170/227/ad15824b58a43e1580aca4db95005550/dR/nuesslein_georg_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220868#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220874#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      }
-    ]
+    "speeches": []
   }
 }

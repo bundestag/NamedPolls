@@ -6,9 +6,9 @@
     "id": "138",
     "date": "2012-11-22T00:00:00.000Z",
     "title": "Änderungsantrag zum Haushalt 2013 (Familie)",
-    "topTitle": "208. Sitzung vom 22.11.2012, TOP I.16 Einzelplan 17: Familie, Senioren, Frauen und Jugend",
+    "topTitle": "",
     "description": "Änderungsantrag der SPD zum Bundeshaushaltsplans 2013: Einzelplan 17 Bundesministeriums für Familie, Senioren, Frauen und Jugend (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/102/1710200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/102/1710202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/108/1710816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10816</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/108/1710823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10823</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/108/1710824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/108/1710825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10825</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/115/1711548.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11548 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11548</a>)",
-    "detailedDescription": "I.16.) Beratung BeschlEmpf u Ber (8.A)\r<br/>hier: Einzelplan 17\r<br/>Bundesministerium für Familie, Senioren, Frauen und Jugend\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/108/1710816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10816</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/108/1710823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10823</a> -",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/102/1710200.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/102/1710202.pdf",
@@ -80,142 +80,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17208.pdf#P.25418",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2027506",
-      "mediathekURL": "https://dbtg.tv/fvid/2027506",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2027506/2027506_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2027506/2027506_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2027506/2027506_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2027506/2027506_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027502#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Marks, Caren",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521860/3x4/170/227/1571a38eac13a829c8752086b597f35b/Us/marks_caren_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027507#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Mattfeldt, Andreas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521894/3x4/170/227/1e7758904799bed2cc42f2513aa0eb4e/KB/mattfeldt_andreas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027511#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Bockhahn, Steffen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027515#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Gruß, Miriam",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027516#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Kindler, Sven-Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520998/3x4/170/227/e78871466578255361b017edcac92f0c/qQ/kindler_sven_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027518#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Schröder (Wiesbaden), Dr. Kristina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241250/3x4/170/227/736736906fa11ead45c329e94612aedb/Ub/schroeder_kristina_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027523#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "BMin",
-        "party": null
-      },
-      {
-        "deputyName": "Schwanitz, Rolf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027530#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Toncar, Dr. Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527240/3x4/170/227/788642beaede3c698e01a2166ba3319b/Lh/toncar_florian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027531#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Wunderlich, Jörn",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241802/3x4/170/227/c97270ecc0f813f157181cfff71cd5ec/Uh/wunderlich_joern_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027541#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Bär, Dorothee",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518094/3x4/170/227/53f62356d66500d2b61ba3ee4e21e9ca/kL/baer_dorothee_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027542#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Deligöz, Ekin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518992/3x4/170/227/dd92647b6570e05c078bee0e7e8d61bd/bQ/deligoez_ekin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027543#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Polheim , Jörg von",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027547#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Rix, Sönke",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522960/3x4/170/227/f83a24a96ee643dd6f30b91d697960b7/lm/rix_soenke_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027548#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Rüddel, Erwin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523062/3x4/170/227/6ce0c875e08dc110ec32d6a846a22f15/FE/rueddel_erwin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027552#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2027559#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      }
-    ]
+    "speeches": []
   }
 }
