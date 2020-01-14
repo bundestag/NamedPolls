@@ -6,9 +6,9 @@
     "id": "173",
     "date": "2012-12-12T00:00:00.000Z",
     "title": "Beschneidung, Änderungsantrag der Gruppe Jerzy Montag",
-    "topTitle": "",
+    "topTitle": "213. Sitzung vom 12.12.2012, TOP 1 Beschneidung",
     "description": "Änderungsantrag der Abgeordneten Jerzy Montag, Kerstin Andreae, Volker Beck und weiterer Abgeordneter zu dem Gesetzentwurf der Bundesregierung über den Umfang der Personensorge bei einer Beschneidung des männlichen Kindes (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/112/1711295.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11295 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11295</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/118/1711800.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11800 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11800</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/118/1711814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11814</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/118/1711816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11816</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "1.) Zweite und dritte Beratung BReg\r<br/>Umfang der Personensorge bei einer Beschneidung des männlichen Kindes\r<br/>Zweite und dritte Beratung Abg. M.Rupprecht, K.Dörner, D.Golze u. weiterer Abg.\r<br/>Umfang der Personensorge und die Rechte des männlichen Kindes bei einer Beschneidung\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/112/1711295.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11295 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11295</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/114/1711430.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11430 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11430</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/118/1711800.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11800 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11800</a>, 17/... -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/112/1711295.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/118/1711800.pdf",
@@ -77,12 +77,170 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17213.pdf#P.26073",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2062540",
+      "mediathekURL": "https://dbtg.tv/fvid/2062540",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2062540/2062540_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2062540/2062540_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2062540/2062540_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2062540/2062540_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062537#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Thomae, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527112/3x4/170/227/29806502e5fe3ed62679c6d434c70c5d/pS/thomae_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062541#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Steinmeier, Dr. Frank-Walter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241582/3x4/170/227/37d414461e972647a9e87c4e142401d2/wX/steinmeier_frank_walter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062542#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Voßhoff, Andrea Astrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062548#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Golze, Diana",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240988/3x4/170/227/be1017fb6c22c7b8c898a4ee718451f9/jk/golze_diana_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062549#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Künast, Renate",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521390/3x4/170/227/d1362e180cd0401a16429603b8740ebc/JJ/kuenast_renate_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062552#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Toncar, Dr. Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527240/3x4/170/227/788642beaede3c698e01a2166ba3319b/Lh/toncar_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062554#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Rupprecht (Tuchenbach), Marlene",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062557#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062560#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Jochimsen, Dr. Lukrezia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062561#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Keul, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062573#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Geis, Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062574#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lambrecht, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521458/3x4/170/227/eb137a528acce58436765126c7f8e2a5/zm/lambrecht_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062577#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Heilmann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526768/3x4/170/227/bc6cb382e22affca70282afa71b26a64/MT/heilmann_thomas_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062579#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Sen BE",
+        "party": null
+      },
+      {
+        "deputyName": "Montag, Jerzy",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062580#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062581#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ã–zoguz, Aydan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522460/3x4/170/227/f5769dd18a8a449978ca089ecbe9af83/Tx/oezoguz_aydan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062585#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062603#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schwanitz, Rolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062604#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2062605#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }

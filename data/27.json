@@ -6,9 +6,9 @@
     "id": "27",
     "date": "2010-03-25T00:00:00.000Z",
     "title": "Änderung des Umsatzsteuergesetzes",
-    "topTitle": "",
+    "topTitle": "34. Sitzung vom 25.03.2010, TOP 5 Kommunalfinanzen, Umsatzsteuerrecht",
     "description": "Gesetzentwurf der Fraktion der SPD (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/005/1700520.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/520 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/520</a>) gemäß Buchstabe a der Beschlussempfehlung des Finanzauschusses (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/008/1700869.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/869 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/869</a>) abgelehnt",
-    "detailedDescription": "",
+    "detailedDescription": "5.a) Beratung Antrag SPD\r<br/>Rettungsschirm für Kommunen - Strategie für handlungsfähige Städte, Gemeinden und Landkreise\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/011/1701152.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1152 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1152</a> -\r<br/>5.b) Beratung Antrag DIE LINKE.\r<br/>Verbindliches Mitwikungsrecht für Kommunen bei der Erarbeitung von Gesetzentwürfen und Verordnungen sowie im Gesetzgebungsverfahren\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/011/1701142.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1142 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1142</a> -\r<br/>5c) Beratung Antrag DIE LINKE.\r<br/>Zukunft der Kommunalfinanzen - Transparenz gewährleisten und Öffentlichkeit herstellen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/011/1701143.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1143 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1143</a> -\r<br/>5.d) Zweite und dritte Beratung SPD\r<br/>Umsatzsteuergesetz/Änd\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/005/1700520.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/520 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/520</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/008/1700869.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/869 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/869</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/008/1700872.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/872 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/872</a> - \r<br/>5.e) Beratung BeschlEmpf u Bericht (7. A)\r<br/>zum Antrag B90/GRÜNE\r<br/>Umsatzsteuerermäßigung für Hotellerie zurücknehmen\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/004/1700447.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/447 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/447</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/008/1700869.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/869 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/869</a> -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/005/1700520.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/008/1700869.pdf"
@@ -75,12 +75,166 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17034.pdf#P.3120",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=548200",
+      "mediathekURL": "https://dbtg.tv/fvid/548200",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/548200/548200_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/548200/548200_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/548200/548200_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548203#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Scheelen, Bernd",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548204#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548205#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Tillmann, Antje",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524122/3x4/170/227/a52d60dbbd4a484750c62d561376d6c4/eq/tillmann_antje_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548213#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lötzsch, Dr. Gesine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521684/3x4/170/227/f0abe0a5b92f3676a9a387e0796f8e56/ii/loetzsch_gesine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548214#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Reinemund, Dr. Birgit",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548236#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Haßelmann, Britta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520130/3x4/170/227/37053cb5513f7938bd825c7b6a6857b7/YC/hasselmann_britta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548237#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Michelbach, Dr. Hans",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522014/3x4/170/227/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/MD/michelbach_hans_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548238#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bätzing, Sabine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240742/3x4/170/227/9b2175a728aecc184e48024dfca45eca/BH/baetzing_sabine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548240#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Piltz, Gisela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548241#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Haßelmann, Britta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520130/3x4/170/227/37053cb5513f7938bd825c7b6a6857b7/YC/hasselmann_britta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548242#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Piltz, Gisela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548243#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Remmers, Ingrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526844/3x4/170/227/970dfb7c5e8afa4166cb6e607b9b6ba4/Zf/remmers_ingrid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548247#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548252#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
+        "deputyName": "Gambke, Dr. Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241004/3x4/170/227/75639d6731d575a9272c62c96658b0a6/cq/gambke_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548253#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kaster, Bernhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241240/3x4/170/227/3abc118dea1bdd476a69f2bcc5a2a35b/If/kaster_bernhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548254#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548255#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Poß, Joachim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241454/3x4/170/227/e4d09a24973ce095911bfeb8342f99f9/OK/poss_joachim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548256#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Middelberg, Dr. Mathias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522024/3x4/170/227/762a58d3d0b7840af46301903f5057d7/Yb/Middelberg_Mathias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=548290#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      }
+    ]
   }
 }

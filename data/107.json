@@ -6,9 +6,9 @@
     "id": "107",
     "date": "2010-12-02T00:00:00.000Z",
     "title": "Irland unterstützen und Steuerharmonisierung vorantreiben",
-    "topTitle": "",
+    "topTitle": "78. Sitzung vom 02.12.2010, TOP ZP 7, ZP 8, ZP 9, ZP Finanzielle Unterstützung für Irland",
     "description": "Antrag der Fraktion BÜNDNIS 90/Die GRÜNEN (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/040/1704065.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4065 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4065</a>) abgelehnt",
-    "detailedDescription": "",
+    "detailedDescription": "ZP 7) Beratung Antrag B90/GRÜNE<br/>Irland unterstützen und Steuerharmonisierung vorantreiben<br/>hier:\tStellungnahme des Deutschen Bundestages gemäß Artikel 23 Absatz 3 des Grundgesetzes i. V. m. § 9 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/040/1704065.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4065 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4065</a> -<br/>ZP 8) Beratung Antrag CDU/CSU, FDP<br/>Irland unterstützen - Euro stabilisieren<br/>hier:\tStellungnahme des Deutschen Bundestages gemäß Artikel 23 des Grundgesetzes i. V. m. § 9 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/040/1704082.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4082 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4082</a> -<br/>ZP 9) Beratung Antrag SPD<br/>Irland unterstützen und gerechten, wirksamen Mechanismus zur Bewältigung von Staatsfinanzierungskrisen schaffen<br/>hier:\tStellungnahme des Deutschen Bundestages nach Artikel 23 Absatz 3 des Grundgesetzes i. V. m. § 9 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/040/1704014.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4014 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4014</a> -<br/>ZP 10) Beratung Antrag DIE LINKE.<br/>zum Antrag der Republik Irland auf finanzielle Unterstützung im Rahmen des Europäischen Finanzstabilisierungsmechanismaus (EuB-BReg 126/2010)<br/>hier:\tStellungnahme des Deutschen Bundestages nach Artikel 23 Absatz 2 des Grundgesetzes i. V. m. § 9 Absatz 1 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union<br/>Profiteure der Krise zur Kasse bitten - Keine weitere Verstaatlichung fauler Bankkredite bei Finanzhilfen für Irland<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/040/1704029.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4029 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4029</a> -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/040/1704065.pdf"
     ],
@@ -74,12 +74,82 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17078.pdf#P.8596",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=885801",
+      "mediathekURL": "https://dbtg.tv/fvid/885801",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885801/885801_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885801/885801_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885801/885801_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885807#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Sarrazin, Manuel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523124/3x4/170/227/fc35e15e20cbd26a18019f7e6420fb43/qg/sarrazin_manuel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885814#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Barthle, Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518152/3x4/170/227/5b19036b1c70e727fd5239bd26aa53f8/Pt/barthle_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885819#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schneider (Erfurt), Carsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523398/3x4/170/227/e3f020a903aee30cbb1c985d82eff393/IT/schneider_carsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885820#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Luksic, Oliver",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527286/3x4/170/227/e9e49d8f99b980f993bb8cb7ba3d5145/mL/luksic_oliver_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885821#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Nord, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522392/3x4/170/227/efeb66bcfadb7088bf4167cfb409f387/Lx/nord_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885832#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Karl, Alois",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520852/3x4/170/227/3dc856a8bd7b4df367d045ca678af129/Eq/karl_alois_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885833#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885843#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
   }
 }
