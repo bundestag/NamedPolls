@@ -6,9 +6,9 @@
     "id": "635",
     "date": "2019-11-14T00:00:00.000Z",
     "title": "Wettbewerbsfähigkeit der deutschen Wirtschaft",
-    "topTitle": "",
+    "topTitle": "127. Sitzung vom 14.11.2019, TOP 9 Wettbewerbsfähigkeit der deutschen Wirtschaft",
     "description": "Beschlussempfehlung des Finanzausschusses (7. Ausschuss) zu dem Antrag der Fraktion der FDP Erhalt und Verbesserung der Wettbewerbsfähigkeit der deutschen Wirtschaft durch eine moderne Unternehmensbesteuerung (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/078/1907898.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7898 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7898</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/143/1914304.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14304 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14304</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7. Ausschuss) <br/>zu dem Antrag der Fraktion der FDP<br/>Erhalt und Verbesserung der Wettbewerbsfähigkeit der deutschen Wirtschaft durch eine moderne Unternehmensbesteuerung<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/078/1907898.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7898 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7898</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/143/1914304.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14304 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14304</a><br/><br/>Namentliche Abstimmungen<br/>",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/078/1907898.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/143/1914304.pdf"
@@ -95,12 +95,142 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19127.pdf#P.15792",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7401432",
+      "mediathekURL": "https://dbtg.tv/fvid/7401432",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401432/7401432_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401432/7401432_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401432/7401432_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401432/7401432_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401430#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Binding (Heidelberg), Lothar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518418/3x4/170/227/e7c1cbef5d0f4e3141ad805d308d5e89/Wv/binding_lothar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401431#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Glaser, Albrecht",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519744/3x4/170/227/5bd3ddc224eab3c2117a397cb1f6bda4/ea/glaser_albrecht_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401433#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401434#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Güntzler, Fritz",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519958/3x4/170/227/ffe75ce3508b19055d15aba55d3a24f/QR/guentzler_fritz_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401436#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Toncar, Dr. Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527240/3x4/170/227/788642beaede3c698e01a2166ba3319b/Lh/toncar_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401437#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "De Masi, Fabio",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521882/3x4/170/227/c30c396d3e595bddd63dc7c437c11c7b/fY/de_masi_fabio_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401438#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Bayaz, Dr. Danyal",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/531546/3x4/170/227/52a1b0b4714bd239f00dc599baedc047/FJ/bayaz_danyal_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401439#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kiziltepe, Cansel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521020/3x4/170/227/bb0b8e4f1e7b208a59abc636ea1ebb02/Qj/kiziltepe_cansel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401440#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Gottschalk, Kay",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527512/3x4/170/227/45448863c916be198c375b24b83f7394/cP/gottschalk_kay_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401441#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Brehm, Sebastian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527068/3x4/170/227/68792a14352299d47b7d4e91db1d7ebb/QI/brehm_sebastian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401442#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hessel, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527242/3x4/170/227/b61b29560201cfa75fde51f1854554e1/wG/hessel_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401443#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Dehm, Dr. Diether",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518986/3x4/170/227/79da11e9c14f616dcc3f84c10d90b504/nd/dehm_diether_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401444#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Hessel, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527242/3x4/170/227/b61b29560201cfa75fde51f1854554e1/wG/hessel_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401445#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Daldrup, Bernhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518960/3x4/170/227/fcde0357d0982d2ff6204597c739afcb/fG/daldrup_bernhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401446#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401447#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
