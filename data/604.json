@@ -6,9 +6,9 @@
     "id": "604",
     "date": "2019-05-17T00:00:00.000Z",
     "title": "BDS-Bewegung verurteilen - Existenz des Staates Israel schützen",
-    "topTitle": "102. Sitzung vom 17.05.2019, TOP ZP 11, 12, 14 BDS-Bewegung",
+    "topTitle": "",
     "description": "Antrag der Abgeordneten Jürgen Braun, Beatrix von Storch, Dr. Anton Friesen, weiterer Abgeordneter und der Fraktion der AfD: BDS-Bewegung verurteilen - Existenz des Staates Israel schützen (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/097/1909757.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9757 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9757</a>)",
-    "detailedDescription": "ZP 11) Beratung des Antrags der Fraktionen CDU/CSU, SPD, FDP und BÜNDNIS 90/DIE GRÜNEN <br/>Der BDS-Bewegung entschlossen entgegentreten – Antisemitismus bekämpfen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910191.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10191 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10191</a><br/><br/>ZP 12) Beratung des Antrags der Fraktion der AfD <br/>BDS-Bewegung verurteilen – Existenz des Staates Israel schützen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/097/1909757.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9757 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9757</a><br/><br/>ZP 14) Beratung des Antrags der Fraktion DIE LINKE. <br/>BDS-Bewegung ablehnen – Friedliche Lösung im Nahen Osten befördern<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910261.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10261 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10261</a><br/><br/>Namentliche Abstimmung<br/>",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/097/1909757.pdf"
     ],
@@ -94,107 +94,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19102.pdf#P.12523",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7356252",
-      "mediathekURL": "https://dbtg.tv/fvid/7356252",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7356252/7356252_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7356252/7356252_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7356252/7356252_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7356252/7356252_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356255#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Müller, Axel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/532000/3x4/170/227/a0b42c499102c14e7546a9ea0a5d97c9/vS/mueller_axel_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356256#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Braun, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530320/3x4/170/227/471e115166264cfda10a101384642d88/Ad/braun_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356257#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Lange (Backnang), Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521478/3x4/170/227/eba0c1c19bb6b1d7f0651f05ba7e2aae/cj/lange_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356259#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Parlamentarischer Staatssekretär der Justiz und für Verbraucherschutz",
-        "party": null
-      },
-      {
-        "deputyName": "Djir-Sarai, Bijan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527266/3x4/170/227/2878e5fccebe31320a4f6522d83adbaa/FE/djir_sarai_bijan_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356260#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Hänsel, Heike",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520018/3x4/170/227/7406458d6d10f279c60fea756a4ff7d/Ww/haensel_heike_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356261#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Nouripour, Omid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/c8c8407c51d31f38d37ec16a1788f455/gO/nouripour_omid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356264#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Mieruch, Mario",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530218/3x4/170/227/fba40e2ddc0770bd9cf4063ab58267a4/Uk/mieruch_mario_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356265#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "fraktionslos "
-      },
-      {
-        "deputyName": "Brehm, Sebastian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527068/3x4/170/227/68792a14352299d47b7d4e91db1d7ebb/QI/brehm_sebastian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lindh, Helge",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356267#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7356270#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

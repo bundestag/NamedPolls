@@ -6,9 +6,9 @@
     "id": "606",
     "date": "2019-06-06T00:00:00.000Z",
     "title": "Erreichung der Klimaziele",
-    "topTitle": "104. Sitzung vom 06.06.2019, TOP ZP 10, ZP 11 Erreichung der Klimaziele",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Ausschusses für Umwelt, Naturschutz und nukleare Sicherheit zu dem Antrag der Fraktion der FDP Klimaziele verantwortungsbewusst erreichen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/008/1900821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/821</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910031.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10031 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10031</a>)",
-    "detailedDescription": "ZP 10) Beratung der Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Naturschutz und nukleare Sicherheit (16. Ausschuss)<br/>zu dem Antrag der Fraktion der FDP <br/>Klimaziele verantwortungsbewusst erreichen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/008/1900821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910031.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10031 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10031</a><br/><br/>ZP 11) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz und nukleare Sicherheit (16. Ausschuss) <br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Wirksames Klimaschutzgesetz vorlegen – Maßnahmen und Regelungen für alle Sektoren<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/061/1906103.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6103 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6103</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/072/1907273.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7273 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7273</a><br/><br/>namentliche Abstimmung<br/>",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/008/1900821.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/100/1910031.pdf"
@@ -95,100 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19104.pdf#P.12755",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7362161",
-      "mediathekURL": "https://dbtg.tv/fvid/7362161",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7362161/7362161_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7362161/7362161_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7362161/7362161_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7362161/7362161_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362165#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Scheer, Dr. Nina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523198/3x4/170/227/85a3d903ae5af5eb9b86ffd9ea2d48ef/AK/scheer_nina_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362166#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362167#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Bleck, Andreas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530312/3x4/170/227/d46dae066271823050228cccd2683d9/Lg/bleck_andreas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362168#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Schulze, Dr. Klaus-Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523518/3x4/170/227/179d5f27eddf35a8bb02a5b6e58fd10a/Bk/schulze_klaus-peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362170#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Köhler, Dr. Lukas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526308/3x4/170/227/c3e68bc953d212b1779f8f4dddc247e6/Mp/koehler_lukas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362172#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Beutin, Lorenz Gösta",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518388/3x4/170/227/75156bc57ca8826c27991573e5dd4fac/nR/beutin_lorenz_goesta_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362173#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Verlinden, Dr. Julia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524254/3x4/170/227/44c88b07b931609fe044c361220b261a/eS/verlinden_julia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362175#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Mindrup, Klaus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522044/3x4/170/227/ffa05a0aaabe6bbfe87dd2e119c549c1/GS/mindrup_klaus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362176#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362179#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

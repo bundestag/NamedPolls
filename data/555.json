@@ -6,9 +6,9 @@
     "id": "555",
     "date": "2018-11-08T00:00:00.000Z",
     "title": "Zwei-Prozent-Rüstungsziel der NATO",
-    "topTitle": "61. Sitzung vom 08.11.2018, TOP 7 Zwei-Prozent-Rüstungsziel der NATO",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Verteidigungsausschusses (12. Ausschuss) zu dem Antrag der Abgeordneten Heike Hänsel, Michel Brandt, Christine Buchholz, weiterer Abgeordneter und der Fraktion DIE LINKE.: Zwei-Prozent Rüstungsziel der NATO ablehnen (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900445.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/445 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/445</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/010/1901033.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1033 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1033</a>)",
-    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Verteidigungsausschusses (12. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE.<br/>Zwei-Prozent-Rüstungsziel der NATO ablehnen <br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900445.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/445 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/445</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/010/1901033.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1033 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1033</a><br/><br/>Namentliche Abstimmung",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/004/1900445.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/010/1901033.pdf"
@@ -95,163 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19061.pdf#P.6845",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7289159",
-      "mediathekURL": "https://dbtg.tv/fvid/7289159",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289159/7289159_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289159/7289159_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289159/7289159_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289159/7289159_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Kubicki, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289161#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Otte, Henning",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289162#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lucassen, Rüdiger",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529134/3x4/170/227/2bcb123102469a2d0927ee7ab2ba6a8f/aH/lucassen_ruediger_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289165#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Felgentreu, Dr. Fritz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519404/3x4/170/227/19366b28aee261fad3d4c642ac91f500/ms/felgentreu_fritz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289166#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Strack-Zimmermann, Dr. Marie-Agnes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527426/3x4/170/227/61f8a9bbb895b999664257c031a6379/GC/strack_zimmermann_marie_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289168#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Hänsel, Heike",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520018/3x4/170/227/7406458d6d10f279c60fea756a4ff7d/Ww/haensel_heike_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289169#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Trittin, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524162/3x4/170/227/36e0074986224945a3eceb3aa288f5c2/ik/trittin_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289170#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lehmann, Jens",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/531392/3x4/170/227/28f42022041eb8ab408f911b744687ad/MZ/lehmann_jens_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289171#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Otten, Gerold",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529626/3x4/170/227/7a3206a21a5e0332791e059d208b16d2/NC/otten_gerold_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289172#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Möller, Siemtje",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289173#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Faber, Dr. Marcus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527352/3x4/170/227/2c59fb29730d253663646ecb9d91e24e/BD/faber_marcus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289174#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Trittin, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524162/3x4/170/227/36e0074986224945a3eceb3aa288f5c2/ik/trittin_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289175#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Hänsel, Heike",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520018/3x4/170/227/7406458d6d10f279c60fea756a4ff7d/Ww/haensel_heike_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289176#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Möller, Siemtje",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289177#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Strenz, Karin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523946/3x4/170/227/a2ed90dc3d5e853d4c44c50883a1d9e6/cz/strenz_karin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289179#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Brunner, Dr. Karl-Heinz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518732/3x4/170/227/e7293292805c93024ac9b7e12ff57e90/qJ/brunner_karlheinz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289180#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Mieruch, Mario",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530218/3x4/170/227/fba40e2ddc0770bd9cf4063ab58267a4/Uk/mieruch_mario_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289182#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "fraktionslos "
-      },
-      {
-        "deputyName": "Gnodtke, Eckhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529946/3x4/170/227/5ecd9a2df1e241573a9882293e8ef6ae/OQ/gnodtke_eckhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289183#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289187#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

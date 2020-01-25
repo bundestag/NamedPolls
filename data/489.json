@@ -6,9 +6,9 @@
     "id": "489",
     "date": "2017-12-12T00:00:00.000Z",
     "title": "Bundeswehreinsatz gegen die Terrororganisation IS",
-    "topTitle": "4. Sitzung vom 12.12.2017, TOP 2 Bundeswehreinsatz gegen die Terrororganisation IS",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Hauptausschusses zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte zur Verhütung und Unterbindung terroristischer Handlungen durch die Terrororganisation IS auf Grundlage von Artikel 51 der Charta der Vereinten Nationen in Verbindung mit Artikel 42 Absatz 7 des Vertrages über die Europäische Union und den Resolutionen 2170 (2014), 2199 (2015), 2249 (2015) des Sicherheitsrates der Vereinten Nationen sowie des Beschlusses der Staats- und Regierungschefs vom Nato-Gipfel am 8./9. Juli 2016 und konkretisierenden Folgebeschlüssen des Nordatlantikrats (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900023.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900192.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/192 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/192</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900205.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/205 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/205</a>)",
-    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Hauptausschusses <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte zur Verhütung und Unterbindung terroristischer Handlungen durch die Terrororganisation IS auf Grundlage von Artikel 51 der Charta der Vereinten Nationen in Verbindung mit Artikel 42 Absatz 7 des Vertrages über die Europäische Union und den Resolutionen 2170 (2014), 2199 (2015), 2249 (2015) des Sicherheitsrates der Vereinten Nationen sowie des Beschlusses der Staats- und Regierungschefs vom NATO-Gipfel am 8./9. Juli 2016 und konkretisierenden Folgebeschlüssen des Nordatlantikrats<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900023.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900192.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/192 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/192</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900205.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/205 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/205</a><br/>- Namentliche Abstimmung -",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/000/1900023.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/001/1900192.pdf",
@@ -96,100 +96,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19004.pdf#P.214",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7180624",
-      "mediathekURL": "https://dbtg.tv/fvid/7180624",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7180624/7180624_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7180624/7180624_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7180624/7180624_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7180624/7180624_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180626#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Müntefering, Michelle",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522226/3x4/170/227/f53edad9cfa8c76ac23bc49aff2ef688/NT/muentefering_michelle_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180627#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hardt, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180628#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180629#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Felser, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529624/3x4/170/227/de5c220cc90ee9040ab79929a019a2c5/Qb/felser_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180630#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Link, Michael Georg",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527250/3x4/170/227/a59049f47f648cca2e0a02362786334c/cP/link_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180632#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Neu, Dr. Alexander S.",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522324/3x4/170/227/ac1eb5153b265e488b9628f0ce8dfd49/iq/neu_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180633#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Trittin, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524162/3x4/170/227/36e0074986224945a3eceb3aa288f5c2/ik/trittin_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180635#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Hahn, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180636#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7180638#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
