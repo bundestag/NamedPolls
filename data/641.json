@@ -6,9 +6,9 @@
     "id": "641",
     "date": "2019-11-27T00:00:00.000Z",
     "title": "Einzelplan 04 - Geschäftsbereich der Bundeskanzlerin und des Bundeskanzleramtes",
-    "topTitle": "",
+    "topTitle": "130. Sitzung vom 27.11.2019, TOP I.9 Bundeskanzlerin und Bundeskanzleramt",
     "description": "Entwürfe der Gesetze über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2020 (Haushaltsgesetz 2020) (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/118/1911800.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11800 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11800</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/118/1911802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11802</a>) sowie zur Ergänzung des Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2020 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/118/1911800.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11800 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11800</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/118/1911802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11802</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/138/1913800.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13800 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13800</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/138/1913801.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13801 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13801</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/138/1913802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13802</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/139/1913924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13924</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/139/1913925.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13925 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13925</a>) hier: Einzelplan 04 - Geschäftsbereich der Bundeskanzlerin und des Bundeskanzleramtes",
-    "detailedDescription": "",
+    "detailedDescription": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 04<br/>Bundeskanzlerin und Bundeskanzleramt<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/139/1913924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13924</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/139/1913925.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13925 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13925</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/118/1911800.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/118/1911802.pdf",
@@ -102,12 +102,226 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19130.pdf#P.16267",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7404232",
+      "mediathekURL": "https://dbtg.tv/fvid/7404232",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7404232/7404232_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7404232/7404232_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7404232/7404232_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7404232/7404232_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404234#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Gauland, Dr. Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519652/3x4/170/227/a8e470e03a85e25b09610ae9ba24fcd4/Xc/gauland_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404235#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Merkel, Dr. Angela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521966/3x4/170/227/5b540b9f5294257c2163925e6cb288fb/Sv/merkel_angela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404236#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundeskanzlerin",
+        "party": null
+      },
+      {
+        "deputyName": "Lindner, Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525066/3x4/170/227/58b49fb7af6c863309dc5626870b02a3/JY/lindner_christian_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404237#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Mützenich, Dr. Rolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404238#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Bartsch, Dr. Dietmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518172/3x4/170/227/ba92899420a2320415f0eb937930749f/gR/bartsch_dietmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404239#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Hofreiter, Dr. Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520474/3x4/170/227/564f6d447a10d765f4224f8a80aa33ce/ab/hofreiter_anton_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404240#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brinkhaus, Ralph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518688/3x4/170/227/2e4f5d2fc645f27211d3d5d008b780cc/DG/brinkhaus_ralph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404241#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Weidel, Dr. Alice",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530382/3x4/170/227/1939c50873d78d71a73fbc0028f9f1f0/Za/weidel_alice_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404242#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Post (Minden), Achim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522692/3x4/170/227/550f4c8dcc518ba2bd1724f25e36112f/pp/post_achim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404243#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Fricke, Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525440/3x4/170/227/8bd0a696d28f88942e75b3a6bbbdeaee/OK/fricke_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404244#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Achelwilm, Doris",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526142/3x4/170/227/ee875f542984d08ba149023f7abc4d81/sP/achelwilm_doris_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404245#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Hajduk, Anja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520050/3x4/170/227/3897b4f069677d473164fdc9b856ec52/ME/hajduk_anja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404246#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Dobrindt, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519074/3x4/170/227/1b48868d158e23fc94a67dc417400c49/KO/dobrindt_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404248#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Renner, Martin Erwin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527196/3x4/170/227/c3565b73d45f10f6574daeb8fa0979af/Gy/renner_martin_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404249#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Kahrs, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520782/3x4/170/227/60a3e62dc1c5cbcf96917b84dde19b14/PS/kahrs_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404250#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ebbing, Hartmut",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527166/3x4/170/227/af6b515735943cb5f92cb48f20dd5682/lD/ebbing_hartmut_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404251#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Christmann, Dr. Anna",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518876/3x4/170/227/866141d9ba4187ec390a806fc4a3f99e/fh/christmann_anna_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404252#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lips, Patricia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521662/3x4/170/227/4dab05c17ebef2485fc873a4e5af530c/EN/lips_patricia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404253#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Cotar, Joana",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518920/3x4/170/227/232a41c82e442a5d7f401708af6fd56e/Kk/cotar_joana_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404254#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Stadler, Svenja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523792/3x4/170/227/d05c45dc3e2a010d5fb9e10b76f2feb9/PR/stadler_svenja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404255#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Bülow, Marco",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518778/3x4/170/227/d5fa648db487ed3f3992ffa54d9aa58c/mr/buelow_marco_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404256#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Schön, Nadine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523426/3x4/170/227/53e3b1910e80e240017a9603cf1759f4/YE/schoen_nadine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404257#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Petry, Dr. Frauke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526780/3x4/170/227/8af489b12cc3b683caf03eea54d7c69a/LM/petry_frauke_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404258#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Rabanus, Martin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522758/3x4/170/227/f1a09b3e0ce692a163759a03e0c59a9a/xv/rabanus_martin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404259#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Motschmann, Elisabeth",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522130/3x4/170/227/5c5f7c8982e7d331a0b4194e9896b0dd/Mf/motschmann_elisabeth_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404260#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Zimmermann, Dr. Jens",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524792/3x4/170/227/7a14094953ada7cb0fd10d78852d6ba1/nd/zimmermann_jens_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404261#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7404262#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

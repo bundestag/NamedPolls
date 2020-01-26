@@ -6,9 +6,9 @@
     "id": "620",
     "date": "2019-09-26T00:00:00.000Z",
     "title": "Antrag CDU/CSU, SPD - EU-Beitrittsantrag Albaniens",
-    "topTitle": "",
+    "topTitle": "115. Sitzung vom 26.09.2019, TOP 18, ZP 16 EU-Beitrittsantrag Nordmazedoniens und Albaniens",
     "description": "Antrag der Fraktionen der CDU/CSU und SPD - Einvernehmensherstellung von Bundestag und Bundesregierung zum Beitrittsantrag der Republik Albanien zur Europäischen Union und zur Empfehlung von Europäischer Kommission und Hoher Vertreterin vom 29. Mai 2019 zur Aufnahme von Beitrittsverhandlungen (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/135/1913509.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13509 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13509</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung des Antrags der Fraktionen der CDU/CSU und SPD <br/>Einvernehmensherstellung von Bundestag und Bundesregierung zum Beitrittsantrag der Republik Nordmazedonien zur Europäischen Union und zur Empfehlung von europäischer Kommission und Hoher Vertreterin vom 29. Mai 2019 zur Aufnahme von Beitrittsverhandlungen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/135/1913508.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13508 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13508</a><br/>b) Beratung des Antrags der Fraktionen der CDU/CSU und SPD <br/>Einvernehmensherstellung von Bundestag und Bundesregierung zum Beitrittsantrag der Republik Albanien zur Europäischen Union und zur Empfehlung von europäischer Kommission und Hoher Vertreterin vom 29. Mai 2019 zur Aufnahme von Beitrittsverhandlungen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/135/1913509.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13509 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13509</a><br/><br/>ZP 16) Beratung des Antrags der Fraktion der FDP <br/>Aufnahme von Beitrittsgesprächen mit Albanien erst nach weiteren Reformfortschritten<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/135/1913518.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13518 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13518</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/135/1913509.pdf"
     ],
@@ -94,12 +94,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19115.pdf#P.14105",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7391261",
+      "mediathekURL": "https://dbtg.tv/fvid/7391261",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7391261/7391261_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7391261/7391261_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7391261/7391261_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7391261/7391261_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391260#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Juratovic, Josip",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520756/3x4/170/227/b3922a9a62ba535a367ffd6bca9abaea/qY/juratovic_josip_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391262#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Droese, Siegbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530340/3x4/170/227/24c745c32feb9aa0eabebc1c9453fce4/tu/droese_siegbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391263#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Hahn, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391264#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hacker, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527020/3x4/170/227/c4b416b7dba347f2f3349a5f46395323/UC/hacker_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391265#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Hunko, Andrej",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520576/3x4/170/227/7da57ab6350dc8bc3e4177d493cf24b6/RX/hunko_andrej_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Sarrazin, Manuel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523124/3x4/170/227/fc35e15e20cbd26a18019f7e6420fb43/qg/sarrazin_manuel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391267#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hakverdi, Metin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520056/3x4/170/227/11bdbffa4b20ebe21c20bd07dc0df85f/An/hakverdi_metin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391268#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Beyer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391269#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Petry, Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522600/3x4/170/227/d4e2b4b403e04e8d2992b725f3484a58/Fv/petry_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391270#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7391271#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
