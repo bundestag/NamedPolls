@@ -25,71 +25,71 @@
         {
           "name": "CDU/CSU",
           "votes": {
-            "total": 447,
+            "total": 246,
             "yes": 0,
-            "no": 400,
-            "abstain": 2,
-            "na": 45
+            "no": 220,
+            "abstain": 1,
+            "na": 25
           }
         },
         {
           "name": "SPD",
           "votes": {
-            "total": 304,
+            "total": 152,
             "yes": 0,
-            "no": 274,
+            "no": 137,
             "abstain": 0,
-            "na": 30
+            "na": 15
           }
         },
         {
           "name": "AfD",
           "votes": {
-            "total": 178,
+            "total": 89,
             "yes": 0,
-            "no": 146,
-            "abstain": 6,
-            "na": 26
+            "no": 73,
+            "abstain": 3,
+            "na": 13
           }
         },
         {
           "name": "FDP",
           "votes": {
-            "total": 160,
-            "yes": 156,
+            "total": 80,
+            "yes": 78,
             "no": 0,
             "abstain": 0,
-            "na": 4
+            "na": 2
           }
         },
         {
           "name": "DIE LINKE.",
           "votes": {
-            "total": 138,
+            "total": 69,
             "yes": 0,
             "no": 0,
-            "abstain": 114,
-            "na": 24
+            "abstain": 57,
+            "na": 12
           }
         },
         {
           "name": "B90/GRÜNE",
           "votes": {
-            "total": 134,
+            "total": 67,
             "yes": 0,
             "no": 0,
-            "abstain": 120,
-            "na": 14
+            "abstain": 60,
+            "na": 7
           }
         },
         {
           "name": "fraktionslose",
           "votes": {
-            "total": 12,
+            "total": 6,
             "yes": 0,
-            "no": 2,
-            "abstain": 8,
-            "na": 2
+            "no": 1,
+            "abstain": 4,
+            "na": 1
           }
         }
       ]
