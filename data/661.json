@@ -94,7 +94,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19143.pdf",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19143.pdf#P.17918",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7424705",
       "mediathekURL": "https://dbtg.tv/fvid/7424705",
@@ -120,77 +120,77 @@
     "speeches": [
       {
         "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240942/3x4/170/227/24919454eda639a9be15453da974f60f/To/friedrich_hans_peter_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424704#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": "Bundestagsvizepräsident",
         "party": null
       },
       {
         "deputyName": "Giffey, Dr. Franziska",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/547018/3x4/170/227/b152923f5551631057aff9b5924a31ec/BL/giffey_franziska_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424706#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": "Bundesministerin für Familie, Senioren, Frauen und Jugend",
         "party": null
       },
       {
         "deputyName": "Höchst, Nicole",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530008/3x4/170/227/b27882c01b4596d2bd785cffda53c977/cv/hoechst_nicole_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424707#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "AfD"
       },
       {
         "deputyName": "Schön, Nadine",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523426/3x4/170/227/53e3b1910e80e240017a9603cf1759f4/YE/schoen_nadine_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241626/3x4/170/227/192b897f4a0c40fb4005b8cec417f744/Oh/schoen_nadine_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424708#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
       },
       {
         "deputyName": "Aggelidis, Grigorios",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527060/3x4/170/227/4ddc37ff7d2955db2b3cda9c4b428807/Vd/aggelidis_grigorios_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424709#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "FDP"
       },
       {
         "deputyName": "Werner, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524546/3x4/170/227/22c3e33ed4f8e06e6b4d05e05977c3/KQ/werner_katrin_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241754/3x4/170/227/7e6e422ce1f78eb655d2ea24e62973dd/lz/werner_katrin_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424710#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "Die Linke"
       },
       {
         "deputyName": "Schulz-Asche, Kordula",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523512/3x4/170/227/13a9113bb2a6daff2ffe59156e4a0832/Mp/schulz-asche_kordula_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241538/3x4/170/227/4094d21d88724a0b702788cfca18392d/Jp/schulz-asche_kordula_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424711#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "Bündnis 90/Die Grünen"
       },
       {
         "deputyName": "Kaiser, Elisabeth",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529176/3x4/170/227/d1e1155ff5a831aa8721d76942c4d95c/MY/kaiser_elisabeth_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424712#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "SPD"
       },
       {
         "deputyName": "Patzelt, Martin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522550/3x4/170/227/25dc86c8b5fac644764d24ff65b9039f/CF/patzelt_martin_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241436/3x4/170/227/af1318a5bf2e15718b365694f3e58142/Hx/patzelt_martin_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424714#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
       },
       {
         "deputyName": "Connemann, Gitta",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518898/3x4/170/227/57aeea1c59dff23676df14f39a3c9c6e/Ws/connemann_gitta_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240848/3x4/170/227/e0011087f3f52f709ac50cde34f38cdd/SY/connemann_gitta_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424715#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
       },
       {
         "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240942/3x4/170/227/24919454eda639a9be15453da974f60f/To/friedrich_hans_peter_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424716#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": "Bundestagsvizepräsident",
         "party": null
