@@ -75,7 +75,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17114.pdf#P.13072",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17114.pdf",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1174772",
       "mediathekURL": "https://dbtg.tv/fvid/1174772",
@@ -94,63 +94,6 @@
         }
       ]
     },
-    "speeches": [
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174777#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Stinner, Dr. Rainer",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174778#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Evers-Meyer, Karin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174780#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hahn, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174781#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Buchholz, Christine",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174782#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Müller (Köln), Kerstin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174783#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Gädechens, Ingo",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174788#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174789#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      }
-    ]
+    "speeches": []
   }
 }

@@ -76,7 +76,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17201.pdf#P.24352",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17201.pdf",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1975820",
       "mediathekURL": "https://dbtg.tv/fvid/1975820",
@@ -99,91 +99,6 @@
         }
       ]
     },
-    "speeches": [
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975822#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Gutting, Olav",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975826#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Binding (Heidelberg), Lothar",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975827#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Volk, Dr. Daniel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975833#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Höll, Dr. Barbara",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975834#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Paus, Lisa",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975842#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lips, Patricia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975843#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Bätzing-Lichtenthäler, Sabine",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975846#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975847#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Beck (Köln), Volker",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975848#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Kauch, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975850#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975852#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }

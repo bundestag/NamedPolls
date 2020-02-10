@@ -77,7 +77,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17250.pdf#P.32047",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17250.pdf",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2480465",
       "mediathekURL": "https://dbtg.tv/fvid/2480465",
@@ -100,77 +100,6 @@
         }
       ]
     },
-    "speeches": [
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480468#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Gutting, Olav",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519976/3x4/170/227/f324ddc39f32be99338c3f543b03dfbd/EE/gutting_olav_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480474#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Arndt-Brauer, Ingrid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/517970/3x4/170/227/9fbc1e9b2e61249b0c4c5d501018be93/Mi/arndt_brauer_ingrid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480475#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Volk, Dr. Daniel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480481#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Höll, Dr. Barbara",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480482#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Beck (Köln), Volker",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480505#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Michelbach, Dr. Hans",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522014/3x4/170/227/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/MD/michelbach_hans_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480506#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kahrs, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520782/3x4/170/227/60a3e62dc1c5cbcf96917b84dde19b14/PS/kahrs_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480513#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Kauch, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480514#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Oswald, Eduard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480570#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }

@@ -6,9 +6,9 @@
     "id": "206",
     "date": "2010-10-28T00:00:00.000Z",
     "title": "Haushaltsbegleitgesetz 2011",
-    "topTitle": "68. Sitzung vom 28.10.2010, TOP 7 Haushaltsbegleitgesetz 2011",
+    "topTitle": "",
     "description": "Gesetzentwurf der Bundesregierung über ein Haushaltsbegleitgesetz 2011 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/030/1703030.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3030 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3030</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/033/1703361.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3361 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3361</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/034/1703406.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3406 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3406</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/034/1703452.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3452 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3452</a>)",
-    "detailedDescription": "7.) Zweite und dritte Beratung BReg\r<br/>Haushaltsbegleitgesetz 2011 (HBeglG 2011)\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/030/1703030.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3030 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3030</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/033/1703361.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3361 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3361</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/034/1703406.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3406 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3406</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/034/1703452.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3452 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3452</a> -",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/030/1703030.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/033/1703361.pdf",
@@ -77,110 +77,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17068.pdf#P.7261",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=837466",
-      "mediathekURL": "https://dbtg.tv/fvid/837466",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/837466/837466_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/837466/837466_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/837466/837466_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Hasselfeldt, Gerda",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837468#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Barthle, Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837471#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hagedorn, Bettina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837472#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Fricke, Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837487#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Claus, Roland",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837488#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Bonde, Alexander",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837491#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Brackmann, Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837492#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schneider (Erfurt), Carsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837493#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Toncar, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837494#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Mattfeldt, Andreas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837514#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kalb, Bartholomäus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837515#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837520#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      }
-    ]
+    "speeches": []
   }
 }
