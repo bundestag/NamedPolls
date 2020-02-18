@@ -6,9 +6,9 @@
     "id": "224",
     "date": "2013-04-25T00:00:00.000Z",
     "title": "Einleitung eines NPD-Verbotsverfahrens",
-    "topTitle": "",
+    "topTitle": "237. Sitzung vom 25.04.2013, TOP 5, ZP 5, 6, 7 Einleitung eines NPD-Verbotsverfahrens",
     "description": "Antrag der Fraktion der SPD auf Entscheidung des Deutschen Bundestages über die Einleitung eines Verfahrens zur Feststellung der Verfassungswidrigkeit der \"Nationaldemokratischen Partei Deutschlands\" gemäß Artikel 21 Absatz 2 des Grundgesetzes i.V.m. § 13 Nummer 2, § 43 ff. des Bundesverfassungsgerichtsgesetzes (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/132/1713227.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13227 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13227</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "5.a) Beratung Antrag SPD<br/>Antrag auf Entscheidung des Deutschen Bundestages über die Einleitung eines Verfahrens zur Feststellung der Verfassungswidrigkeit der Nationaldemokratischen Partei Deutschlands gemäß Artikel 21 Absatz 2 des<br/>Grundgesetzes i.V.m. §§ 13 Nummer 2, 43 ff des Bundesverfassungsgerichtsgesetzes<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/132/1713227.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13227 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13227</a> -<br/>ZP 5.) Beratung Antrag CDU/CSU, FDP<br/>Rechtsextremismus entschlossen bekämpfen<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/132/1713225.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13225 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13225</a> -<br/>ZP 6. Beratung Antrag DIE LINKE<br/>NPD verbieten<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/132/1713231.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13231 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13231</a> -<br/>ZP 7. Beratung Antrag BÜNDNIS 90/DIE GRÜNEN<br/>Rechtsextremismus umfassend bekämpfen<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/132/1713240.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13240 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13240</a> -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/132/1713227.pdf"
     ],
@@ -74,12 +74,142 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17237.pdf#P.29705",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2311815",
+      "mediathekURL": "https://dbtg.tv/fvid/2311815",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2311815/2311815_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2311815/2311815_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2311815/2311815_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2311815/2311815_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Oswald, Eduard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311821#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311823#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Krings, Dr. Günter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521316/3x4/170/227/b3f448923cd6199b2ed41e81b62e9cc7/Fa/krings_guenter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311824#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Jelpke, Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311826#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Ruppert, Dr. Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527064/3x4/170/227/1a39acb087ee87db88d46031145bf55d/CN/ruppert_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311829#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Beck (Köln), Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311832#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Uhl, Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241724/3x4/170/227/6923e44a90d48ae0c844c743f8cfae8/au/uhl_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311833#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pistorius, Boris",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311839#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "LMin NI",
+        "party": null
+      },
+      {
+        "deputyName": "Wolff (Rems-Murr), Hartfrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311840#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Gysi, Dr. Gregor",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/815cd00fcb21a5295e8466536e067e55/CF/gysi_gregor_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311841#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Wolff (Rems-Murr), Hartfrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311842#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Jung, Dr. Franz Josef",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241130/3x4/170/227/3b9dad752ba5595da7387268405fbf6d/Qr/jung_franz_josef_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311843#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hartmann (Wackernheim), Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241034/3x4/170/227/2314a15717811083c22fd6e63b19180a/EQ/hartmann_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311845#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brandt, Helmut",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240842/3x4/170/227/ccca5abb4512e43ad8ce8c7c7d27c3e7/gQ/brandt_helmut_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311849#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Dagdelen, Sevim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311850#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2311857#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      }
+    ]
   }
 }
