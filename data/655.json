@@ -6,9 +6,9 @@
     "id": "655",
     "date": "2020-01-15T00:00:00.000Z",
     "title": "Einsatz der Bundeswehr im Irak",
-    "topTitle": "139. Sitzung vom 15.01.2020, TOP 4 Einsatz der Bundeswehr im Irak",
+    "topTitle": "",
     "description": "Antrag der Fraktion der AfD: Erneute Abstimmung über das Mandat \"Einsatz bewaffneter deutscher Streitkräfte im Irak\" im Deutschen Bundestag (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916482.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16482 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16482</a>)",
-    "detailedDescription": "Beratung des Antrags der Fraktion der AfD<br/>Erneute Abstimmung über das Mandat „Einsatz bewaffneter deutscher Streitkräfte im Irak“ im Deutschen Bundestag<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916482.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16482 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16482</a><br/><br/>namentliche Abstimmung",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/164/1916482.pdf"
     ],
@@ -94,107 +94,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19139.pdf#P.17382",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7413896",
-      "mediathekURL": "https://dbtg.tv/fvid/7413896",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7413896/7413896_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7413896/7413896_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7413896/7413896_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7413896/7413896_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Oppermann, Thomas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413900#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Lucassen, Rüdiger",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529134/3x4/170/227/2bcb123102469a2d0927ee7ab2ba6a8f/aH/lucassen_ruediger_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413901#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Kiesewetter, Roderich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413902#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Müller, Alexander",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522150/3x4/170/227/b8e4fda3abb47c37f654047c76046938/iD/mueller_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413903#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "De Ridder, Dr. Daniela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522916/3x4/170/227/cbccf0f3d0d813f79fa3887497326b2c/DO/de_ridder_daniela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413904#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Neu, Dr. Alexander S.",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522324/3x4/170/227/ac1eb5153b265e488b9628f0ce8dfd49/iq/neu_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413905#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Lindner, Dr. Tobias",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413906#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Erndl, Thomas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530764/3x4/170/227/5d3aff41993755235996e27129f9ada2/gH/erndl_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413907#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Möller, Siemtje",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413908#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Manderla, Gisela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521838/3x4/170/227/80af4d6e92d1a23cafee69b112371c26/ep/manderla_gisela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413909#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Oppermann, Thomas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7413911#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
