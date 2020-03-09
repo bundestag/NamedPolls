@@ -6,9 +6,9 @@
     "id": "184",
     "date": "2011-12-01T00:00:00.000Z",
     "title": "EU-Operation Atalanta",
-    "topTitle": "146. Sitzung vom 01.12.2011, TOP 8 EU-Operation Atalanta",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung über die Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation Atalanta (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/077/1707742.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7742 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7742</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/079/1707996.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7996 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7996</a>)",
-    "detailedDescription": "8.) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation Atalanta zur Bekämpfung der Piraterie vor der Küste Somalias auf Grundlage des Seerechtsübereinkommens der Vereinten Nationen \r<br/>von 1982 und der Resolutionen 1814 (2008) vom 15.05.2008, 1816 (2008) vom 2.6.2008, 1838 (2008) vom 7.10.2008, 1846 (2008) vom 2.12.2008, 897 (2009) vom 30.11.2009, 1950 (2010) vom 23.11.2010 und nachfolgender Resolutionen \r<br/>des Sicherheitsrates der Vereinten Nationen in Verbindung mit der Gemeinsamen Aktion 2008/851/GASP des Rates der Europäischen Union vom 10.11.2008, dem  8.(2008) vom 2.6.2008, 1838 (2008) vom 7.10.2008, 846 (2008) vom 2.12.2008, 1897 (2009) vom 30.11.2009, 1950(2010) vom 23.11.2010 und nachfolgender Resolutionen des Sicherheitsrates der Vereinten Nationen in Verbindung mit der Gemeinsamen Aktion 2008/851/GASP des Rates der Europäischen Union vom 10.11.2008, dem  8.Beschluss 2009/907/GASP des \r<br/>Rates der Europäischen Union vom 8.12.2009, dem Beschluss 2010/437/GASP des Rates der Europäischen Union vom 30.7.2010 und dem Beschluss 010/766/GASP des Rates der Europäischen Union vom 7.12.2010\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/077/1707742.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7742 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7742</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/079/1707996.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7996 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7996</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/080/1708004.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8004 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8004</a> -",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/077/1707742.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/079/1707996.pdf"
@@ -75,121 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17146.pdf#P.17396",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1443504",
-      "mediathekURL": "https://dbtg.tv/fvid/1443504",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443504/1443504_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443504/1443504_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443504/1443504_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443504/1443504_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443508#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Spatz, Joachim",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443509#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Evers-Meyer, Karin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240906/3x4/170/227/b059a228abc3a854e18ca36b625d818/Rp/evers_meyer_karin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443512#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hahn, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443515#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Aken, Jan van",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240714/3x4/170/227/be23238d3921acf3e9fa694ab1ae41f8/Yu/aken_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443516#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Müller (Köln), Kerstin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443520#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Müller-Sönksen, Burkhardt",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443521#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Ströbele, Hans-Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241608/3x4/170/227/4d05d573dfd7afb85be8a7387460a2fd/yh/stroebele_hans_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443527#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Müller-Sönksen, Burkhardt",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443528#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Fischer (Göttingen), Hartwig",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443529#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Gehrcke, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240998/3x4/170/227/2ff52a617213aa02c7babe74e0972263/dP/gehrcke_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443530#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Fischer (Göttingen), Hartwig",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443531#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443535#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      }
-    ]
+    "speeches": []
   }
 }
