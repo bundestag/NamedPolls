@@ -6,9 +6,9 @@
     "id": "208",
     "date": "2010-10-28T00:00:00.000Z",
     "title": "Jahressteuergesetz 2010",
-    "topTitle": "",
+    "topTitle": "68. Sitzung vom 28.10.2010, TOP 9, ZP 6 Steuerpolitik",
     "description": "Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu dem Gesetzentwurf der Bundesregierung über ein Jahressteuergesetz 2010 (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/022/1702249.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2249 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2249</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/028/1702823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2823</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/034/1703449.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3449 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3449</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/035/1703549.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3549 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3549</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "9.) Zweite und dritte Beratung BReg\r<br/>Jahressteuergesetz 2010 (JStG 2010)\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/022/1702249.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2249 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2249</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/028/1702823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2823</a> -\r<br/>Zweite u dritte Beratung DIE LINKE.\r<br/>Abschaffung des Progressionsvorbehalts für Kurzarbeitergeld\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/002/1700255.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/255 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/255</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/034/1703449.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3449 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3449</a> - \r<br/>ZP 6) Erste Beratung B90/GRÜNE\r<br/>Gleichstellung der Lebenspartnerschaften mit der Ehe im Bereich des Steuerrechts\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/032/1703218.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3218 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3218</a> -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/022/1702249.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/028/1702823.pdf",
@@ -77,12 +77,82 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17068.pdf#P.7290",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=837543",
+      "mediathekURL": "https://dbtg.tv/fvid/837543",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/837543/837543_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/837543/837543_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/837543/837543_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837547#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Gutting, Olav",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519976/3x4/170/227/f324ddc39f32be99338c3f543b03dfbd/EE/gutting_olav_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837549#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Binding (Heidelberg), Lothar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518418/3x4/170/227/e7c1cbef5d0f4e3141ad805d308d5e89/Wv/binding_lothar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837550#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Volk, Dr. Daniel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837553#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höll, Dr. Barbara",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837554#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schick, Dr. Gerhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523238/3x4/170/227/3a5389691e36bb1731840c4aa10b53f2/US/schick_gerhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837555#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Aumer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527254/3x4/170/227/3f465eff73507b5836fbcd6e1f4629d/ru/aumer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837558#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837571#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
   }
 }

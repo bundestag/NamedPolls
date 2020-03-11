@@ -6,9 +6,9 @@
     "id": "84",
     "date": "2011-06-09T00:00:00.000Z",
     "title": "UN-Mandatsverlängerung im Libanon",
-    "topTitle": "",
+    "topTitle": "114. Sitzung vom 09.06.2011, TOP 9 Bundeswehreinsatz (UNIFIL)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/061/1706133.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6133 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6133</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/058/1705864.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5864 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5864</a>) angenommen",
-    "detailedDescription": "",
+    "detailedDescription": "9.) Beratung Antrag BReg<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der United Nations Interim Force in Lebanon (UNIFIL) auf Grundlage der Resolution 1701 (2006) vom 11.8.2006 und folgender Resolutionen, zuletzt 1937 (2010) vom 30.8.2010 des Sicherheitsrates der Vereinten Nationen<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/058/1705864.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/5864 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/5864</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/061/1706133.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6133 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6133</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/061/1706134.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6134 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6134</a> -",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/061/1706133.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/058/1705864.pdf"
@@ -75,12 +75,82 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17114.pdf#P.13072",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1174772",
+      "mediathekURL": "https://dbtg.tv/fvid/1174772",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1174772/1174772_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1174772/1174772_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1174772/1174772_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174777#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Stinner, Dr. Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174778#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Evers-Meyer, Karin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240906/3x4/170/227/b059a228abc3a854e18ca36b625d818/Rp/evers_meyer_karin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174780#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Hahn, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174781#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174782#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller (Köln), Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174783#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Gädechens, Ingo",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519628/3x4/170/227/612e5b3ef55321b2ef2ad20f842b242e/XL/gaedechens_ingo_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174788#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1174789#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
   }
 }
