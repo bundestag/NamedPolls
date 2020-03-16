@@ -6,9 +6,9 @@
     "id": "436",
     "date": "2016-11-11T00:00:00.000Z",
     "title": "Gesetzentwurf zur 4. Änderung arzneimittelrechtlicher und anderer Vorschriften",
-    "topTitle": "200. Sitzung vom 11.11.2016, TOP 36 Arzneimittelrechtliche Vorschriften (3. Lesung)",
+    "topTitle": "",
     "description": "Gesetzentwurf der Bundesregierung: Entwurf eines Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/080/1808034.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8034 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8034</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/083/1808333.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8333 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8333</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/100/1810056.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10056 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10056</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810280.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10280 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10280</a>)",
-    "detailedDescription": "Dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/080/1808034.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8034 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8034</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/083/1808333.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8333 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8333</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/084/1808461.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8461 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8461</a> Nr. 1.5, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810280.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10280 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10280</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Gesundheit (14. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/100/1810056.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10056 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10056</a><br/>- namentliche Abstimmung -<br/>",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/080/1808034.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/083/1808333.pdf",
@@ -67,107 +67,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18200.pdf#P.19995",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7030393",
-      "mediathekURL": "https://dbtg.tv/fvid/7030393",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7030393/7030393_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7030393/7030393_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7030393/7030393_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7030393/7030393_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Prof. Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030395#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Michalk, Maria",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241384/3x4/170/227/8555c2a0941e18f9367c538694d0882c/Oe/michalk_maria_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030397#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Wöllert, Birgit",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241810/3x4/170/227/6345f8031a2e51ad53737d02b92efdae/CV/woellert_brigit_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030398#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Stamm-Fibich, Martina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523804/3x4/170/227/822eab6d274ef3659ebbfe96fff2b4bc/yz/stamm-fibich_martina_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030401#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Schulz-Asche, Kordula",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523512/3x4/170/227/13a9113bb2a6daff2ffe59156e4a0832/Mp/schulz-asche_kordula_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030406#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lauterbach, Prof. Dr. Karl",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521506/3x4/170/227/aa22ff8650cb5286d4a2446638688c17/Dc/lauterbach_karl_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030407#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Schulz-Asche, Kordula",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523512/3x4/170/227/13a9113bb2a6daff2ffe59156e4a0832/Mp/schulz-asche_kordula_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030408#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Irlstorfer, Erich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520616/3x4/170/227/63228ef20a858edb33573fcb2a8601ed/Xj/irlstorfer_erich_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030409#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Franke, Dr. Edgar",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519496/3x4/170/227/47c80d2002cf1dc0e3ac3a6ae17a6eb5/Hc/franke_edgar_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030414#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Albani, Stephan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/517860/3x4/170/227/3d1b75d0a10a96be14b90c5ab6830c2f/id/albani_stephan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030415#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lammert, Prof. Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7030418#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
