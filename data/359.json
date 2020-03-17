@@ -6,9 +6,9 @@
     "id": "359",
     "date": "2015-10-02T00:00:00.000Z",
     "title": "Renten in Ostdeutschland",
-    "topTitle": "",
+    "topTitle": "128. Sitzung vom 02.10.2015, TOP 19 Renten in Ostdeutschland",
     "description": "Beschlussempfehlung des Ausschusses für Arbeit und Soziales (11. Ausschuss) zu dem Antrag der Fraktion Die Linke: Spezifische Altersarmut Ost durch Korrektur der Rentenüberleitung beheben (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/016/1801644.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1644 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1644</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/052/1805290.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5290 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5290</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung des Antrags der Fraktion DIE LINKE. <br/>Ungerechtigkeiten bei Mütterrente in Ostdeutschland und beim Übergangszuschlag beheben<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/049/1804972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4972</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE. <br/>Spezifische Altersarmut Ost durch Korrektur der Rentenüberleitung beheben<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/016/1801644.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1644 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1644</a>, 18/5290",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/016/1801644.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/052/1805290.pdf"
@@ -65,12 +65,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/18/18128.pdf#P.12457",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=5897098",
+      "mediathekURL": "https://dbtg.tv/fvid/5897098",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5897098/5897098_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5897098/5897098_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5897098/5897098_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5897098/5897098_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5897099#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Bartsch, Dr. Dietmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518172/3x4/170/227/ba92899420a2320415f0eb937930749f/gR/bartsch_dietmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5897100#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schimke, Jana",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523266/3x4/170/227/a193fe99dd151f8d9beb2eb2d522a401/hk/schimke_jana_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5897181#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kurth, Markus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521420/3x4/170/227/6a3d6bef997261d8f4841a548d6f5013/Qm/kurth_markus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5897182#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Wolff (Wolmirstedt), Waltraud",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241774/3x4/170/227/dea92b46e0821349bb1bb4fdee3311b8/ON/wolff_waltraud_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5897194#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Freudenstein, Dr. Astrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519538/3x4/170/227/aa05df61f1592f2991e7816ea556e84c/cn/freudenstein_astrid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5897248#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Rosemann, Dr. Martin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523018/3x4/170/227/feb14c8fe4957b43baf607f7dc9ba184/Cc/rosemann_martin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5897249#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5897261#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

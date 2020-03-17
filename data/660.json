@@ -95,7 +95,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19143.pdf#P.17918",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19143.pdf#P.17918",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7424705",
       "mediathekURL": "https://dbtg.tv/fvid/7424705",
@@ -149,7 +149,7 @@
       },
       {
         "deputyName": "Aggelidis, Grigorios",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527060/3x4/170/227/4ddc37ff7d2955db2b3cda9c4b428807/Vd/aggelidis_grigorios_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527060/3x4/170/227/8b7483738680fc1b7b616540a5a61fc2/Es/aggelidis_grigorios_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424709#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "FDP"

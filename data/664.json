@@ -95,7 +95,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/19/19153.pdf",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19153.pdf",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7434276",
       "mediathekURL": "https://dbtg.tv/fvid/7434276",
