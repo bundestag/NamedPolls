@@ -6,9 +6,9 @@
     "id": "25",
     "date": "2010-06-17T00:00:00.000Z",
     "title": "Änderung des Grundgesetzes (Artikel 91e)",
-    "topTitle": "49. Sitzung vom 17.06.2010, TOP 3 Grundgesetz: Änderung Artikel 91e",
+    "topTitle": "",
     "description": "Gesetzentwürfe der Bundesregierung (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/019/1701939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1939</a>) und der Fraktionen der CDU/CSU, SPD und FDP (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/015/1701554.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1554 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1554</a>) angenommen",
-    "detailedDescription": "3.a) Zweite und dritte Beratung Bundesregierung\r<br/>Änderung des Grundgesetzes (Artikel 91e)\r<br/>Zweite und dritte Beratung CDU/CSU, SPD,FDP \r<br/>Änderung des Grundgesetzes (Artikel 91e)\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/019/1701939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1939</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/015/1701554.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1554 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1554</a> - \r<br/>3.b) Zweite und dritte Beratung Bundesregierung\r<br/>Weiterentwicklung der Organisation der Grundsicherung für Arbeitsuchende\r<br/>Zweite und dritte Beratung CDU/CSU, SPD, FDP\r<br/>Weiterentwicklung der Organisation der Grundsicherung für Arbeitssuchende\r<br/>- Drs <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/019/1701940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1940</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/020/1702057.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2057 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2057</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/015/1701555.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1555 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1555</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/021/1702188.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2188 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2188</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/021/1702190.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2190 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2190</a> -",
+    "detailedDescription": "",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/17/019/1701939.pdf",
       "http://dip21.bundestag.de/dip21/btd/17/015/1701554.pdf"
@@ -75,131 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "http://dipbt.bundestag.de/dip21/btp/17/17049.pdf#P.4951",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=659772",
-      "mediathekURL": "https://dbtg.tv/fvid/659772",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659772/659772_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659772/659772_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659772/659772_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659774#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Leyen, Dr. Ursula von der",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521600/3x4/170/227/e4a505c9d4df382b949016261ba0372b/xd/von_der_leyen_ursula_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659778#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "BMin",
-        "party": null
-      },
-      {
-        "deputyName": "Kramme, Anette",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521276/3x4/170/227/9d45252eec356a1100f7184cb9889ac/Ol/kramme_anette_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659779#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Kolb, Dr. Heinrich L.",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659783#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Zimmermann, Sabine",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524802/3x4/170/227/c862b011f3f3c2e78dfdb207ec9b3d5f/KD/zimmermann_sabine_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659784#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Schiewerling, Karl",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241534/3x4/170/227/e670f5acffde29fcf19114880b4146de/Qh/Schiewerling_Karl_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659786#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pothmer, Brigitte",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241464/3x4/170/227/adf804508ace38e86254fa78454ffaec/lO/pothmer_brigitte_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659790#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Krüger-Leißner, Angelika",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/495114/3x4/170/227/d497439dbb33317c376476ae351cec9a/QP/krueger_leissner_angelika.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659791#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Ahrendt, Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659792#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Kipping, Katja",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521010/3x4/170/227/dc9212f4a58dd4bbbf0482d6cb6c49d3/Fn/kipping_katja_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659793#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Dörflinger, Thomas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240866/3x4/170/227/5eb64edcb11b8af57080eb4c2de15521/VL/doerflinger_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659794#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hasselfeldt, Gerda",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659795#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lösekrug-Möller, Gabriele",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241272/3x4/170/227/7bcf8a79a0e4f08a51aadceadd370eef/SG/loesekrug_moeller_gabriele_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659796#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Straubinger, Max",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523938/3x4/170/227/c52a77996ca6d7c3decec07e5907d244/xb/straubinger_max_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659797#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hasselfeldt, Gerda",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659800#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }
