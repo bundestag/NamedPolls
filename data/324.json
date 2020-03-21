@@ -6,9 +6,9 @@
     "id": "324",
     "date": "2015-01-29T00:00:00.000Z",
     "title": "Ausbildungsunterstützungeinsatz Kurdistan-Irak",
-    "topTitle": "",
+    "topTitle": "82. Sitzung vom 29.01.2015, TOP 6 Ausbildungsunterstützungseinsatz Kurdistan-Irak",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zum Antrag der Bundesregierung: Ausbildungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak und der irakischen Streitkräfte (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/035/1803561.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3561 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3561</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/038/1803857.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3857 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3857</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Ausbildungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak und der irakischen Streitkräfte<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/035/1803561.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3561 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3561</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/038/1803857.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3857 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3857</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/038/1803858.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3858 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3858</a><br/>",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/035/1803561.pdf",
       "http://dip21.bundestag.de/dip21/btd/18/038/1803857.pdf"
@@ -65,12 +65,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18082.pdf#P.7814",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=4511519",
+      "mediathekURL": "https://dbtg.tv/fvid/4511519",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4511519/4511519_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4511519/4511519_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4511519/4511519_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4511519/4511519_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511521#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Mützenich, Dr. Rolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511548#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Aken, Jan van",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240714/3x4/170/227/be23238d3921acf3e9fa694ab1ae41f8/Yu/aken_jan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511558#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Otte, Henning",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511559#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/c8c8407c51d31f38d37ec16a1788f455/gO/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511616#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511617#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Obermeier, Julia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511629#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511638#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }

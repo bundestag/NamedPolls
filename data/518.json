@@ -6,9 +6,9 @@
     "id": "518",
     "date": "2018-06-14T00:00:00.000Z",
     "title": "Handelsabkommen mit Kanada und Japan",
-    "topTitle": "",
+    "topTitle": "39. Sitzung vom 14.06.2018, TOP 4, ZP 3 Handelsabkommen mit Kanada und Japan",
     "description": "Gesetzentwurf der Abgeordneten Christian Lindner, Alexander Graf Lambsdorff, Michael Georg Link, weiterer Abgeordneter und der Fraktion FDP: Entwurf eines Gesetzes zu dem umfassenden Wirtschafts- und Handelsabkommen vom 30. Oktober 2016 zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits (Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/009/1900958.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/958 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/958</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/017/1901767.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1767 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1767</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Zweite Beratung und Schlussabstimmung des von der Fraktion der FDP<br/>eingebrachten Entwurfs eines Gesetzes zu dem umfassenden Wirtschafts- und Handelsabkommen vom 30. Oktober 2016 zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/009/1900958.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/958 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/958</a><br/><br/>Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/017/1901767.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1767 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1767</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss) <br/>– zu dem Antrag der Fraktion DIE LINKE. <br/>zu dem Vorschlag für einen Beschluss des Rates über die Unterzeichnung des Wirtschaftspartnerschaftsabkommens zwischen der Europäischen Union und Japan im Namen der Europäischen Union<br/>KOM(2018) 193 endg.; Ratsdok. 7959/18 + ADD 1-11<br/>hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes<br/>Für eine faire Handelspolitik eintreten und das Freihandelsabkommen JEFTA zwischen der EU und Japan ablehnen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/025/1902521.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2521 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2521</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/027/1902729.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2729 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2729</a><br/><br/>ZP 3)Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Keine Zustimmung in dieser Form – JEFTA fair nachverhandeln<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/026/1902696.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2696 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2696</a><br/><br/>Namentliche Abstimmung<br/>",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/19/009/1900958.pdf",
       "http://dip21.bundestag.de/dip21/btd/19/017/1901767.pdf"
@@ -95,12 +95,142 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19039.pdf#P.3754",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7245632",
+      "mediathekURL": "https://dbtg.tv/fvid/7245632",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245632/7245632_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245632/7245632_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245632/7245632_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245632/7245632_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245634#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Lämmel, Andreas G.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521444/3x4/170/227/cd7d3c07b792cbf6895da5e66ed62f3a/oV/laemmel_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245636#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Müller, Hansjörg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522182/3x4/170/227/bea897b5c7c494430889f89cd8c671ce/BR/mueller_hansjoerg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245638#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Töns, Markus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525548/3x4/170/227/b422be90b5a8edb1454df2b15e46e5c4/Ji/toens_markus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245640#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lambsdorff, Alexander Graf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527356/3x4/170/227/8423505fda7259e6437440483e13bb5c/ZE/lambsdorff_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245641#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245642#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Ernst, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519308/3x4/170/227/5bce7b8e1daaac7a1a9e25b82ee53d7c/rr/ernst_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245644#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Dröge, Katharina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519144/3x4/170/227/79423c3dde18b44080c006bcac022d7a/cQ/droege_katharina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245645#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Rouenhoff, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/531158/3x4/170/227/8d67b1a409f101233211844f70b1f2ab/gD/rouenhoff_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245647#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Meiser, Pascal",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526476/3x4/170/227/5f76abb2d300cfb8dc7b87c5c8fd2eef/sE/meiser_pascal_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245648#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Rouenhoff, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/531158/3x4/170/227/8d67b1a409f101233211844f70b1f2ab/gD/rouenhoff_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245649#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Saathoff, Johann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523106/3x4/170/227/580359fcb73bb1ecef36b1bfc8d2bd14/Tw/saathoff_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245650#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Houben, Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527026/3x4/170/227/388caf0be04102b23a5d07b29b015eb5/hq/houben_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245654#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Hajduk, Anja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520050/3x4/170/227/3897b4f069677d473164fdc9b856ec52/ME/hajduk_anja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245655#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Loos, Bernhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530006/3x4/170/227/495f89a976c56159db7ab2c0d0df701f/Fx/loos_bernhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245656#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245658#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
   }
 }

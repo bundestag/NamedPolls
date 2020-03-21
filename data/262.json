@@ -6,9 +6,9 @@
     "id": "262",
     "date": "2014-05-08T00:00:00.000Z",
     "title": "Kooperationen bei Nutzung atomarer Technologien",
-    "topTitle": "",
+    "topTitle": "33. Sitzung vom 08.05.2014, TOP ZP 7 Kooperationen bei Nutzung atomarer Technologien",
     "description": "Antrag der Fraktion Bündnis 90/Die Günen - Kündigung bilateraler Kooperationen im Bereich der Nutzung atomarer Technologien (Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/013/1801336.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1336 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1336</a> (neu))",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Kündigung bilateraler Kooperationen im Bereich der Nutzung atomarer Technologien<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/013/1801336.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1336 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1336</a> (neu)",
     "documents": [
       "http://dip21.bundestag.de/dip21/btd/18/013/1801336.pdf"
     ],
@@ -64,12 +64,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18033.pdf#P.2774",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3391056",
+      "mediathekURL": "https://dbtg.tv/fvid/3391056",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3391056/3391056_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3391056/3391056_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3391056/3391056_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3391056/3391056_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391059#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Kotting-Uhl, Sylvia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521254/3x4/170/227/b685ec27a271c8400b84310b6a1be90c/Cw/kotting_uhl_sylvia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391064#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Motschmann, Elisabeth",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522130/3x4/170/227/5c5f7c8982e7d331a0b4194e9896b0dd/Mf/motschmann_elisabeth_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391099#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Zdebel, Hubertus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524738/3x4/170/227/b164585fddf6ff336810c90f4a3f11fc/NC/zdebel_hubertus_josef_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391100#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Scheer, Dr. Nina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523198/3x4/170/227/85a3d903ae5af5eb9b86ffd9ea2d48ef/AK/scheer_nina_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391138#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391139#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Lengsfeld, Dr. Philipp",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/242030/3x4/170/227/630ff5a0469dfd87b3f27db0921eec98/oK/lengsfeld_philipp_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391140#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391147#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
