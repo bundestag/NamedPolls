@@ -6,9 +6,9 @@
     "id": "368",
     "date": "2015-11-05T00:00:00.000Z",
     "title": "Betreuungsgeld für den Kitaausbau nutzen",
-    "topTitle": "133. Sitzung vom 05.11.2015, TOP 10 Betreuungsgeld",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Ausschusses für Familie, Senioren, Frauen und Jugend zu dem Antrag der Fraktion Die Linke (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/060/1806041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6041 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6041</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/062/1806200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6200</a>)",
-    "detailedDescription": "a) Zweite und dritte Beratung des von der Fraktion DIE LINKE. <br/>eingebrachten Entwurfs eines Gesetzes zur Aufhebung des Betreuungsgeldgesetzes<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/000/1800005.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Familie, Senioren, Frauen und Jugend (13. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/062/1806200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6200</a><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Familie, Senioren, Frauen und Jugend (13. Ausschuss) <br/>- zu dem Antrag der Fraktion DIE LINKE.<br/>Betreuungsgeld für den Kitaausbau nutzen <br/>- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Betreuungsgeld in Kitas investieren<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/060/1806041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6041 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6041</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/060/1806063.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6063 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6063</a>, 18/6200",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/060/1806041.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/062/1806200.pdf"
@@ -65,86 +65,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18133.pdf#P.12971",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6101941",
-      "mediathekURL": "https://dbtg.tv/fvid/6101941",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6101941/6101941_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6101941/6101941_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6101941/6101941_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6101941/6101941_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Hintze, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6101944#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Felgentreu, Dr. Fritz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519404/3x4/170/227/19366b28aee261fad3d4c642ac91f500/ms/felgentreu_fritz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6101968#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Müller, Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522200/3x4/170/227/d0a46a9c80c50d8286fbc61af8816f0b/pP/mueller_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6101969#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Rief, Josef",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522928/3x4/170/227/65067cdf5ee6293d69d63cf1f3082d73/MS/rief_josef_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6101983#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Brantner, Dr. Franziska",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518620/3x4/170/227/b8a3cd7caea4001d6a5051dad0d183a6/rm/brantner_Franziska_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6102044#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Zollner, Gudrun",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241816/3x4/170/227/c84182788da7ba501a58a64d15bbb278/dT/zollner_gudrun_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6102045#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schlegel, Dr. Dorothee",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241692/3x4/170/227/14eb09dd2d066d83b014027be9c3b862/TZ/schlegel_dorothee_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6102063#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Schmidt (Aachen), Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6102082#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

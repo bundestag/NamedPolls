@@ -6,9 +6,9 @@
     "id": "22",
     "date": "2011-12-15T00:00:00.000Z",
     "title": "Fachkräftegewinnung im Bund",
-    "topTitle": "149. Sitzung vom 15.12.2011, TOP 11 Fachkräftegewinnung im Bund",
+    "topTitle": "",
     "description": "Änderungsantrag der Fraktion Bündnis 90/Die Grünen (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/081/1708184.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8184 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8184</a>) abgelehnt",
-    "detailedDescription": "11.) Zweite und dritte Beratung BReg\r<br/>Gesetz zur Unterstützung der Fachkräftegewinnung im Bund und zur Änderung weiterer dienstrechtlicher Vorschriften\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/071/1707142.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7142 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7142</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/081/1708178.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8178 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8178</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/081/1708185.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8185 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8185</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/081/1708184.pdf"
     ],
@@ -74,79 +74,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17149.pdf#P.17875",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1465579",
-      "mediathekURL": "https://dbtg.tv/fvid/1465579",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1465579/1465579_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1465579/1465579_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1465579/1465579_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1465579/1465579_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465575#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Schuster (Weil am Rhein), Armin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523550/3x4/170/227/70f28d753d7e5c384c125aadbde3ebc4/dc/schuster_armin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465585#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hartmann (Wackernheim), Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241034/3x4/170/227/2314a15717811083c22fd6e63b19180a/EQ/hartmann_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465592#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Ruppert, Dr. Stefan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527064/3x4/170/227/1a39acb087ee87db88d46031145bf55d/CN/ruppert_stefan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465593#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Tempel, Frank",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241708/3x4/170/227/637f38ceeecc17076e87b4a984f93680/Ln/tempel_frank_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465594#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Notz, Dr. Konstantin von",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522398/3x4/170/227/658f1c8b9ec11c3b0ae29fc4db632ab3/da/notz_konstantin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465599#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1465605#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }

@@ -6,9 +6,9 @@
     "id": "89",
     "date": "2009-12-18T00:00:00.000Z",
     "title": "Mandatsverlängerung in Bosnien und Herzegowina",
-    "topTitle": "13. Sitzung vom 18.12.2009, TOP 18 Bundeswehreinsatz ALTHEA",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/002/1700275.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/275 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/275</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700180.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/180 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/180</a>) angenommen",
-    "detailedDescription": "18.) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation Althea zur weiteren Stabilisierung des Friedensprozesses in Bosnien und Herzegowina im Rahmen der Implemantierung der Annexe 1-A und 2 der Dayton-Friedensvereinbarung sowie an dem NATO-Hauptquartier Sarajevo und seinen Aufgaben, auf Grundlage der Resolutionen des Sicherheitsrates der\r<br/>Vereinten Nationen 1575 (2004) und folgender, zuletzt 1895 (2009) vom 18. November 2009\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700180.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/180 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/180</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700180.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/180 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/180</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/002/1700275.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/275 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/275</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/002/1700277.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/277 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/277</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/002/1700275.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/001/1700180.pdf"
@@ -75,96 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17013.pdf#P.1081",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=431888",
-      "mediathekURL": "https://dbtg.tv/fvid/431888",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/431888/431888_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/431888/431888_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/431888/431888_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431890#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Djir-Sarai, Dr. Bijan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527266/3x4/170/227/2878e5fccebe31320a4f6522d83adbaa/FE/djir_sarai_bijan_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431891#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Mützenich, Dr. Rolf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431892#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Beyer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431895#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Dagdelen, Sevim",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431896#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Beck (Bremen), Marieluise",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240838/3x4/170/227/66e83c9287feaafaa159f46ffcdec93a/rt/beck_marieluise_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431897#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Brand, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518616/3x4/170/227/1b1451923951b6c20199c0787a33d26a/Qj/brand_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431898#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Körper, Fritz Rudolf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431901#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hahn, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431902#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431903#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }
