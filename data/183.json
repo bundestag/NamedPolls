@@ -6,9 +6,9 @@
     "id": "183",
     "date": "2011-12-01T00:00:00.000Z",
     "title": "NATO-Operation Active Endeavour",
-    "topTitle": "",
+    "topTitle": "146. Sitzung vom 01.12.2011, TOP 6 NATO-Operation Active Endeavour",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung über die Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte bei der NATO-Operation Active Endeavour (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/077/1707743.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7743 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7743</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/079/1707995.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7995 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7995</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "6.) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag BReg\r<br/>Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte bei der Unterstützung der gemeinsamen Raktion auf terroristische Angriffe gege die USA auf Grundlage des Artikels 51 der Satzung der Vereinten Nationen und des \r<br/>Artikels 5 des Nordatlantikvertrags sowie der Resolution 1368 (2001) und 1373 (2001) des Sicherheitsrats der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/077/1707743.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7743 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7743</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/079/1707995.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7995 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7995</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/080/1708002.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8002 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8002</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/077/1707743.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/079/1707995.pdf"
@@ -75,12 +75,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17146.pdf#P.17380",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1443442",
+      "mediathekURL": "https://dbtg.tv/fvid/1443442",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443442/1443442_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443442/1443442_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443442/1443442_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443442/1443442_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Oswald, Eduard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443444#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Spatz, Joachim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443445#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443458#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Hochbaum, Robert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241098/3x4/170/227/29c457e3840c38ff486318940f3f5d28/OE/hochbaum_robert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443463#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Gehrcke, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240998/3x4/170/227/2ff52a617213aa02c7babe74e0972263/dP/gehrcke_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443464#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Oswald, Eduard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443465#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Götzer, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443468#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oswald, Eduard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443472#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }

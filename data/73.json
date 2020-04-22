@@ -6,9 +6,9 @@
     "id": "73",
     "date": "2012-06-28T00:00:00.000Z",
     "title": "UN-Mandatsverlängerung im Libanon",
-    "topTitle": "",
+    "topTitle": "187. Sitzung vom 28.06.2012, TOP 8 Bundeswehreinsatz (UNIFIL)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/101/1710162.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10162 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10162</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/098/1709873.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9873 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9873</a>) angenommen",
-    "detailedDescription": "",
+    "detailedDescription": "8.) Beratung BeschlEmpf u Ber (3.A)\r<br/>Fortsetzung der Beteiligung be waffneter deutscher Streitkräfte an der United Nations Interim Force in Lebanon (UNIFIL) auf Grundlage der Resolution 1701\r<br/>(2006) vom 11.08.2006 und folgen der Resolutionen, zuletzt 2004 (2011) vom 30.08.2011 des Sicher heitsrates der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/098/1709873.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9873 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9873</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/101/1710162.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10162 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10162</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/101/1710163.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10163 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10163</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/101/1710162.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/098/1709873.pdf"
@@ -75,12 +75,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17187.pdf#P.22376",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1770483",
+      "mediathekURL": "https://dbtg.tv/fvid/1770483",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1770483/1770483_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1770483/1770483_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1770483/1770483_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1770483/1770483_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770485#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Homburger, Birgit",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770486#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Gloser, Günter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770487#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Gädechens, Ingo",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519628/3x4/170/227/612e5b3ef55321b2ef2ad20f842b242e/XL/gaedechens_ingo_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770491#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Höger, Inge",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241096/3x4/170/227/f939b8fc56ec6ee77f8dab2a1954daa/wZ/hoeger_inge_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770492#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller (Köln), Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770495#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hahn, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770496#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1770501#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      }
+    ]
   }
 }

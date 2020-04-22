@@ -6,9 +6,9 @@
     "id": "569",
     "date": "2018-11-29T00:00:00.000Z",
     "title": "Änderung des Tierschutzgesetzes",
-    "topTitle": "",
+    "topTitle": "68. Sitzung vom 29.11.2018, TOP 11 Änderung des Tierschutzgesetzes",
     "description": "Gesetzentwurf der Fraktionen der CDU/CSU und SPD: Entwurf eines Vierten Gesetzes zur Änderung des Tierschutzgesetzes (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/055/1905522.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5522 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5522</a>, und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/060/1906000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6000</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung des Tierschutzgesetzes<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/055/1905522.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5522 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5522</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/060/1906000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6000</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) <br/>- zu dem Antrag der Fraktion der AfD <br/>Lokalanästhesie bei der Ferkelkastration ermöglichen<br/>- zu dem Antrag der Fraktion der FDP <br/>Planungssicherheit für Sauenhalter herstellen – Abwanderung ins Ausland verhindern<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/055/1905533.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5533 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5533</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/045/1904532.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4532 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4532</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/060/1906000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6000</a><br/><br/>Namentliche Abstimmung zu TOP 11a<br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/055/1905522.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/060/1906000.pdf"
@@ -95,12 +95,100 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19068.pdf#P.7838",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7296541",
+      "mediathekURL": "https://dbtg.tv/fvid/7296541",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7296541/7296541_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7296541/7296541_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7296541/7296541_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7296541/7296541_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296543#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Breher, Silvia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518650/3x4/170/227/6319e09d769e7e343a2146e72ce2d99f/Kz/breher_silvia_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296544#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Protschka, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527022/3x4/170/227/3861b1b3181414edaecb6359e52ed6d3/bo/protschka_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296546#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Mittag, Susanne",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522056/3x4/170/227/13fc77b1fc6ce71ed1e0bb87ac6fdd40/bc/mittag_susanne_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296547#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Konrad, Carina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529140/3x4/170/227/acce558ffc9d831467b91fd4fa19709e/nj/konrad_carina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296549#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Tackmann, Dr. Kirsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524008/3x4/170/227/ab648f9304846531be0fda13ec74ee79/gv/tackmann_kirsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296550#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Künast, Renate",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521390/3x4/170/227/d1362e180cd0401a16429603b8740ebc/JJ/kuenast_renate_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296552#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Mieruch, Mario",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530218/3x4/170/227/fba40e2ddc0770bd9cf4063ab58267a4/Uk/mieruch_mario_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296553#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Färber, Hermann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519350/3x4/170/227/994ca2fac12a0d38e23a23deb9c8a364/jr/faerber_hermann_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296554#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7296558#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

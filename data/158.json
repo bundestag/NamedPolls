@@ -6,9 +6,9 @@
     "id": "158",
     "date": "2010-11-26T00:00:00.000Z",
     "title": "Zurückweisung des Einspruchs des Bundesrates",
-    "topTitle": "",
+    "topTitle": "76. Sitzung vom 26.11.2010, TOP ZP 2 Zurückweisung eines Einspruchs des Bundesrates",
     "description": "Antrag der Fraktionen CDU/CSU und FDP über die Zurückweisung des Einspruchs des Bundesrates gegen das Sechste Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/000/1700041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/41 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/41</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700137.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/137 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/137</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700143.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/143 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/143</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/003/1700355.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/355 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/355</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/039/1703949.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3949 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3949</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/039/1703950.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3950 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3950</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "ZP 2) Baeratung Antrag CDU/CSU, FDP<br/>Zurückweisung des Einspruchs des Bundesrates gegen das Sechste Gesetz zur Änderung des SGB II<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/000/1700041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/41 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/41</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700137.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/137 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/137</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700143.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/143 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/143</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/003/1700355.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/355 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/355</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/039/1703949.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3949 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3949</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/039/1703950.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3950 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3950</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/000/1700041.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/001/1700137.pdf",
@@ -79,12 +79,61 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17076.pdf#P.8402",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=874308",
+      "mediathekURL": "https://dbtg.tv/fvid/874308",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/874308/874308_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/874308/874308_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/874308/874308_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=874311#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Beck (Köln), Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=874316#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Enkelmann, Dr. Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=874317#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schneider (Erfurt), Carsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523398/3x4/170/227/e3f020a903aee30cbb1c985d82eff393/IT/schneider_carsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=874318#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=874319#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      }
+    ]
   }
 }

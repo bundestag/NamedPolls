@@ -6,9 +6,9 @@
     "id": "102",
     "date": "2011-07-08T00:00:00.000Z",
     "title": "Mandatsverlängerung in Darfur (Sudan)",
-    "topTitle": "",
+    "topTitle": "121. Sitzung vom 08.07.2011, TOP 8, ZP 9 Bundeswehreinsätze UNAMID und UNMISS",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Ducksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/065/1706509.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6509 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6509</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/063/1706322.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6322 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6322</a>) angenommen",
-    "detailedDescription": "",
+    "detailedDescription": "8.) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU/UN-Hybrid-Operation in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des Sicherheitsrates der Vereinten Nationen vom 31.7.2007 und Folgeresolutionen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/063/1706322.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6322 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6322</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/065/1706509.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6509 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6509</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/065/1706510.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6510 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6510</a> -\r<br/>ZP.9) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag der BReg\r<br/>Beteiligung bewaffneter deutscher Streitkräfte an der von den Vereinten Nationen geführten Friedensmission im Südsudan \r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/064/1706449.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6449 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6449</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/065/1706511.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6511 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6511</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/065/1706512.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/6512 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/6512</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/065/1706509.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/063/1706322.pdf"
@@ -75,12 +75,131 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17121.pdf#P.14290",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1220794",
+      "mediathekURL": "https://dbtg.tv/fvid/1220794",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1220794/1220794_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1220794/1220794_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1220794/1220794_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220798#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Schuster, Marina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220799#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Strässer, Christoph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241634/3x4/170/227/8df83a9788c2812658ee79cf7a223bde/wo/straesser_christoph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220806#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Selle, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523644/3x4/170/227/94f1d626e4780848d0fe092647b1118c/iO/Selle_Johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220807#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220808#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Ströbele, Hans-Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241608/3x4/170/227/4d05d573dfd7afb85be8a7387460a2fd/yh/stroebele_hans_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220809#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220810#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Strässer, Christoph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241634/3x4/170/227/8df83a9788c2812658ee79cf7a223bde/wo/straesser_christoph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220816#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220817#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller (Köln), Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220818#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Schäfer (Köln), Paul",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220822#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller (Köln), Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220823#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220824#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Fischer (Göttingen), Hartwig",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220825#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1220831#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      }
+    ]
   }
 }
