@@ -6,9 +6,9 @@
     "id": "392",
     "date": "2016-04-28T00:00:00.000Z",
     "title": "Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik",
-    "topTitle": "",
+    "topTitle": "167. Sitzung vom 28.04.2016, TOP 30 Abschließende Beratungen ohne Aussprache",
     "description": "Gesetzentwurf der Abgeordneten Dr. Julia Verlinden, Annalena Baerbock, Peter Meiwald, weiterer Abgeordneter und der Fraktion Bündnis 90/Die Grünen: Änderung des Bundesberggesetzes zur Untersagung der Fracking-Technik (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/075/1807551.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7551 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7551</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/081/1808125.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8125 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8125</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Abschließende Beratungen ohne Aussprache",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/075/1807551.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/081/1808125.pdf"
@@ -65,12 +65,72 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18167.pdf#P.16400",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6791896",
+      "mediathekURL": "https://dbtg.tv/fvid/6791896",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6791896/6791896_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6791896/6791896_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6791896/6791896_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6791896/6791896_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6791900#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Klingbeil, Lars",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521074/3x4/170/227/db3ffeed8f2196dd8b91cdb94a489497/VH/klingbeil_lars_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6791901#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6791904#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Krischer, Oliver",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521320/3x4/170/227/9d0652608f931457c84c330f2c228c6d/EG/krischer_oliver_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6791905#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Zdebel, Hubertus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524738/3x4/170/227/b164585fddf6ff336810c90f4a3f11fc/NC/zdebel_hubertus_josef_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6791908#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6791964#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
