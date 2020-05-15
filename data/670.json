@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=670"
+  },
+  "data": {
+    "id": "670",
+    "date": "2020-05-14T00:00:00.000Z",
+    "title": "Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite",
+    "topTitle": "160. Sitzung vom 14.05.2020, TOP 8a Pandemieschutz und -hilfe",
+    "description": "Gesetzentwurf der Fraktionen der CDU/CSU und SPD - Entwurf eines Zweiten Gesetzes zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/189/1918967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18967</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/192/1919216.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19216 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19216</a>)",
+    "detailedDescription": "Fortsetzung der Abstimmungen",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/189/1918967.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/192/1919216.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=670&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 369,
+        "no": 214,
+        "abstain": 63,
+        "na": 63
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 225,
+            "no": 0,
+            "abstain": 4,
+            "na": 17
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 144,
+            "no": 0,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 89,
+            "yes": 0,
+            "no": 79,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 75,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 57,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 1,
+            "abstain": 59,
+            "na": 7
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 6,
+            "yes": 0,
+            "no": 2,
+            "abstain": 0,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19160.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7445972",
+      "mediathekURL": "https://dbtg.tv/fvid/7445972",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7445972/7445972_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7445972/7445972_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7445972/7445972_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7445972/7445972_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445970#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}
