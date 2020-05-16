@@ -6,9 +6,9 @@
     "id": "513",
     "date": "2018-04-26T00:00:00.000Z",
     "title": "Ausschluss der NPD von der Parteienfinanzierung",
-    "topTitle": "",
+    "topTitle": "29. Sitzung vom 26.04.2018, TOP 14, ZP 7 Ausschluss der NPD von der Parteienfinanzierung",
     "description": "Antrag der Fraktionen CDU/CSU, SPD und FDP: Ausschluss der NPD von der staatlichen Parteienfinanzierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/018/1901824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1824</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung des Antrags der Fraktionen der CDU/CSU, SPD und FDP<br/>Ausschluss der NPD von der staatlichen Parteienfinanzierung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/018/1901824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1824</a><br/><br/>ZP 7) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Rechtsextremismus umfassend bekämpfen<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/018/1901851.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1851 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1851</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/018/1901824.pdf"
     ],
@@ -94,12 +94,114 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19029.pdf#P.2753",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7222133",
+      "mediathekURL": "https://dbtg.tv/fvid/7222133",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7222133/7222133_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7222133/7222133_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7222133/7222133_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7222133/7222133_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222135#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Harbarth, Dr. Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520098/3x4/170/227/8a69c9b062afaa7d78e152eb51ffa2eb/wO/harbarth_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222137#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brandner, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518600/3x4/170/227/a7750e40078400dcaa7f49099174ac4c/vp/brandner_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222138#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Högl, Dr. Eva",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520416/3x4/170/227/a54bdcef227556c71696c355618d82b6/Bd/hoegl_eva_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222141#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ruppert, Dr. Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527064/3x4/170/227/1a39acb087ee87db88d46031145bf55d/CN/ruppert_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222142#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Jelpke, Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222143#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Künast, Renate",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521390/3x4/170/227/d1362e180cd0401a16429603b8740ebc/JJ/kuenast_renate_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222144#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222145#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Heveling, Ansgar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520358/3x4/170/227/12bec54edaf456ec01e87d0621dec982/ix/heveling_ansgar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222147#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Rüthrich, Susann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523070/3x4/170/227/8dd6a3e39a723d0c0388567cdc263ddf/lQ/ruethrich_susann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222148#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lindholz, Andrea",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521634/3x4/170/227/75b9ebbdc097813cee856261937f41f8/Ey/lindholz_andrea_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222151#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7222152#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
