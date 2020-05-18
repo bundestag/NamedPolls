@@ -6,9 +6,9 @@
     "id": "636",
     "date": "2019-11-14T00:00:00.000Z",
     "title": "Stärkung der Impfprävention (Masernschutz)",
-    "topTitle": "",
+    "topTitle": "127. Sitzung vom 14.11.2019, TOP 10 Stärkung der Impfprävention (Masernschutz)",
     "description": "Gesetzentwurf der Bundesregierung für den Schutz vor Masern und zur Stärkung der Impfprävention (Masernschutzgesetz) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/134/1913452.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13452 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13452</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/138/1913826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13826</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/151/1915164.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15164 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15164</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Zweite und dritte Beratung des von der Bundesregierung<br/>eingebrachten Entwurfs eines Gesetzes für den Schutz vor Masern und zur Stärkung der Impfprävention (Masernschutzgesetz)<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/134/1913452.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13452 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13452</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/138/1913826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13826</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Gesundheit (14. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/151/1915164.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15164 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15164</a><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) <br/>- zu dem Antrag der Fraktion der FDP<br/>Impfquoten wirksam erhöhen – Infektionskrankheiten ausrotten <br/>- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Masern und andere Infektionskrankheiten jetzt eliminieren – Solidarität und Vernunft fördern, Impfquoten nachhaltig steigern<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/140/1914061.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14061 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14061</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/099/1909960.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9960 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9960</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/151/1915164.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15164 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15164</a><br/><br/>Namentliche Abstimmung<br/><br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/134/1913452.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/138/1913826.pdf",
@@ -96,12 +96,156 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19127.pdf#P.15818",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7401450",
+      "mediathekURL": "https://dbtg.tv/fvid/7401450",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401450/7401450_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401450/7401450_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401450/7401450_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7401450/7401450_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401448#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Henke, Rudolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520292/3x4/170/227/84b3c421b8f7861d4011647880cf2253/OK/henke_rudolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401449#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401878#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Spangenberg, Detlev",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529618/3x4/170/227/2fac2aae3eb8f18d9dd0393dcdf51e37/Gt/spangenberg_detlev_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401451#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Bas, Bärbel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518184/3x4/170/227/287c4a58aed33c46211d0edba9e5c910/CT/bas_baerbel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401452#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ullmann, Prof. Dr. Andrew",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527000/3x4/170/227/6012744490bb7283862cfefa8d2fdfc3/HW/ullmann_andrew_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401454#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Lötzsch, Dr. Gesine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521684/3x4/170/227/f0abe0a5b92f3676a9a387e0796f8e56/ii/loetzsch_gesine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401455#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schulz-Asche, Kordula",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523512/3x4/170/227/13a9113bb2a6daff2ffe59156e4a0832/Mp/schulz-asche_kordula_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401456#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Spahn, Jens",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523748/3x4/170/227/ffebe1b57aed4c2c60a4fae6ee231e8b/VC/spahn_jens_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401457#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister für Gesundheit",
+        "party": null
+      },
+      {
+        "deputyName": "Oehme, Ulrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526492/3x4/170/227/6af4f24bf97028f259e37fb62a01abc7/OC/oehme_ulrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401458#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Stamm-Fibich, Martina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523804/3x4/170/227/822eab6d274ef3659ebbfe96fff2b4bc/yz/stamm-fibich_martina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401459#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Helling-Plahr, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525610/3x4/170/227/280fdfa214f666a1dda5f47717053bb9/Yq/helling_plahr_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401460#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Sichert, Martin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530402/3x4/170/227/e1562c988b3c5bc4ec444f0e334511d7/SZ/sichert_martin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401461#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Helling-Plahr, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525610/3x4/170/227/280fdfa214f666a1dda5f47717053bb9/Yq/helling_plahr_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401462#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Nüßlein, Dr. Georg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522418/3x4/170/227/ad15824b58a43e1580aca4db95005550/dR/nuesslein_georg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401463#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Dittmar, Sabine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519066/3x4/170/227/5d5fb93f65d80fba988283f86196b438/ej/dittmar_sabine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401627#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kippels, Dr. Georg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521006/3x4/170/227/e2a1b754c87e718d1858a645aa0dc1fd/pM/kippels_georg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401628#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401629#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
