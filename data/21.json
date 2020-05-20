@@ -110,6 +110,13 @@
         "party": "FDP"
       },
       {
+        "deputyName": "Steinmeier, Dr. Frank-Walter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241582/3x4/170/227/37d414461e972647a9e87c4e142401d2/wX/steinmeier_frank_walter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1055075#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
         "deputyName": "Beck (Reutlingen), Ernst-Reinhard",
         "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1055078#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -131,6 +138,13 @@
         "party": "Bündnis 90/Die Grünen"
       },
       {
+        "deputyName": "Schockenhoff, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241554/3x4/170/227/6cadc3e0aa9c4c7ec0cb9c695b973a3c/wo/schockenhoff_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1055092#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
         "deputyName": "Trittin, Jürgen",
         "deputyImgURL": "https://www.bundestag.de/resource/image/524162/3x4/170/227/36e0074986224945a3eceb3aa288f5c2/ik/trittin_juergen_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1055093#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -143,6 +157,13 @@
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1055323#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": "BMin",
         "party": null
+      },
+      {
+        "deputyName": "Erler, Gernot",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240904/3x4/170/227/d939b7cae80c79a810f6952ec93cbd3b/aY/erler_gernot_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1055324#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
       },
       {
         "deputyName": "Hahn, Florian",

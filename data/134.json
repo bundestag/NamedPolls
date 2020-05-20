@@ -113,6 +113,13 @@
         "party": "CDU/CSU"
       },
       {
+        "deputyName": "Steinbrück, Peer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241704/3x4/170/227/c3a018c03891b3987b989d5551acfe58/Bg/steinbrueck_peer_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2003481#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
         "deputyName": "Meinhardt, Patrick",
         "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2003483#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -132,6 +139,13 @@
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2003485#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "FDP"
+      },
+      {
+        "deputyName": "Golze, Diana",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240988/3x4/170/227/be1017fb6c22c7b8c898a4ee718451f9/jk/golze_diana_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2003487#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
       },
       {
         "deputyName": "Trittin, Jürgen",

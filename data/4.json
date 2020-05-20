@@ -184,11 +184,25 @@
         "party": "CDU/CSU"
       },
       {
+        "deputyName": "Ferner, Elke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240952/3x4/170/227/16f3ad49038f1a432a31d35a9492888b/td/ferner_elke_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1445205#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
         "deputyName": "Pawelski, Rita",
         "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1445210#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/d0de1bee18b37589440127070e6febf5/Al/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1445211#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
       },
       {
         "deputyName": "Pawelski, Rita",

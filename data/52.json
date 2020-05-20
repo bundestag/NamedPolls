@@ -117,11 +117,25 @@
         "party": "SPD"
       },
       {
+        "deputyName": "Schockenhoff, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241554/3x4/170/227/6cadc3e0aa9c4c7ec0cb9c695b973a3c/wo/schockenhoff_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=971071#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
         "deputyName": "Gysi, Dr. Gregor",
         "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/815cd00fcb21a5295e8466536e067e55/CF/gysi_gregor_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=971072#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "Die Linke"
+      },
+      {
+        "deputyName": "Trittin, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524162/3x4/170/227/36e0074986224945a3eceb3aa288f5c2/ik/trittin_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=971360#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
       },
       {
         "deputyName": "Otte, Henning",

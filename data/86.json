@@ -109,6 +109,13 @@
         "party": "CDU/CSU"
       },
       {
+        "deputyName": "Ferner, Elke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240952/3x4/170/227/16f3ad49038f1a432a31d35a9492888b/td/ferner_elke_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=888139#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
         "deputyName": "Kober, Pascal",
         "deputyImgURL": "https://www.bundestag.de/resource/image/527268/3x4/170/227/9f22ab5767c475e8881bbb16648ac873/BM/kober_pascal_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=888143#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -205,6 +212,13 @@
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=888875#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "FDP"
+      },
+      {
+        "deputyName": "Lösekrug-Möller, Gabriele",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241272/3x4/170/227/7bcf8a79a0e4f08a51aadceadd370eef/SG/loesekrug_moeller_gabriele_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=888877#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
       },
       {
         "deputyName": "Seifert, Dr. Ilja",
