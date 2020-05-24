@@ -6,9 +6,9 @@
     "id": "662",
     "date": "2020-01-30T00:00:00.000Z",
     "title": "Antrag der Fraktion der AfD: Schutz von Hinweisgebern auf EU-Ebene",
-    "topTitle": "",
+    "topTitle": "143. Sitzung vom 30.01.2020, TOP 18 Schutz von Hinweisgebern auf EU-Ebene",
     "description": "Antrag der Abgeordneten Corinna Miazga, Stephan Brandner, Jürgen Braun, Matthias Büttner, weiterer Abgeordneter und der Fraktion der AfD zur Richtlinie (EU) 2019/1937 des Europäischen Parlaments und des Rates vom 23. Oktober 2019 zum Schutz von Personen, die Verstöße gegen das Unionsrecht melden KOM (2018) 218 endg.; Ratsdok. 8713/18 hier: Erhebung einer Subsidiaritätsklage gemäß Artikel 8 des Protokolls Nummer 2 zum Vertrag von Lissabon (Anwendung der Grundsätze der Subsidiarität und der Verhältnismäßigkeit) i.V.m. Artikel 263 des Vertrages über die Arbeitsweise der Europäischen Union, Artikel 23 Absatz 1a des Grundgesetzes, § 12 des Integrationsverantwortungsgesetzes Verstoß der Richtlinie des Europäischen Parlaments und des Rates gegen das Subsidiaritätsprinzip, das Verhältnismäßigkeitsprinzip und das Prinzip der begrenzten Einzelermächtigung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/168/1916857.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16857 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16857</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung des Antrags der Fraktion der AfD<br/>zu der Richtlinie (EU) 2019/1937 des Europäischen Parlaments und des Rates vom 23. Oktober 2019 zum Schutz von Personen, die Verstöße gegen das Unionsrecht melden<br/>KOM(2018) 218 endg.; Ratsdok. 8713/18<br/>hier: Erhebung einer Subsidiaritätsklage gemäß Artikel 8 des Protokolls Nummer 2 zum Vertrag von Lissabon (Anwendung der Grundsätze der Subsidiarität und der Verhältnismäßigkeit) <br/>i. V. m. Artikel 263 des Vertrages über die Arbeitsweise der Europäischen Union, Artikel 23 Absatz 1a des Grundgesetzes, § 12 des Integrationsverantwortungsgesetzes <br/>Verstoß der Richtlinie des Europäischen Parlaments und des Rates gegen das Subsidiaritätsprinzip, das Verhältnismäßigkeitsprinzip und das Prinzip der begrenzten Einzelermächtigung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/168/1916857.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16857 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16857</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/168/1916857.pdf"
     ],
@@ -94,12 +94,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19143.pdf#P.17949",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7424732",
+      "mediathekURL": "https://dbtg.tv/fvid/7424732",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7424732/7424732_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7424732/7424732_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7424732/7424732_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7424732/7424732_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424740#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Miazga, Corinna",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530114/3x4/170/227/c711dfff6d9ab3daebed279d5faf9a17/wh/miazga_corinna_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424741#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Hirte, Prof. Dr. Heribert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520398/3x4/170/227/2def6ddace2f14556309eb978481d541/nx/hirte_heribert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424742#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Peterka, Tobias Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530380/3x4/170/227/2870a7135682d08499c42326304d9e09/iJ/peterka_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424743#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Hirte, Prof. Dr. Heribert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520398/3x4/170/227/2def6ddace2f14556309eb978481d541/nx/hirte_heribert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424744#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Martens, Dr. Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527116/3x4/170/227/a7585109e163596bbd761c42f58ffde1/vZ/martens_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424745#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Dilcher, Esther",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530044/3x4/170/227/52a656e3ac23f8067fd5d25c9b9eb722/Gs/dilcher_esther_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424746#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ulrich, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524214/3x4/170/227/849c0eb82fe3a8837517b60cefdcd1b8/fy/ulrich_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424748#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Rottmann, Dr. Manuela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527406/3x4/170/227/212d18a347bbde35405196f9178f8f35/ku/rottmann_manuela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424749#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hoffmann, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520438/3x4/170/227/30e2cc4f715e5128f12fca5e21683eed/Mo/hoffmann_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424750#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7424751#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
