@@ -6,9 +6,9 @@
     "id": "559",
     "date": "2018-11-23T00:00:00.000Z",
     "title": "Entschließungsantrag FDP zu Haushaltsgesetz 2019",
-    "topTitle": "66. Sitzung vom 23.11.2018, TOP I.21 Haushaltsgesetz 2019, Finanzplan 2018 bis 2022",
+    "topTitle": "",
     "description": "Entschließungsantrag der Fraktion der FDP zu der dritten Beratung des Gesetzentwurfs der Bundesregierung Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2019 (Haushaltsgesetz 2019) hier: Einzelplan 11 Geschäftsbereich des Bundesministeriums für Arbeit und Soziales (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/034/1903400.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3400 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3400</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/034/1903402.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3402 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3402</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/046/1904611.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4611 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4611</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/046/1904624.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4624 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4624</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/046/1904625.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4625 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4625</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/046/1904626.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4626 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4626</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/058/1905898.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5898 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5898</a>)",
-    "detailedDescription": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier: Haushaltsgesetz 2019<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/046/1904625.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4625 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4625</a>, 19/4626",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/034/1903400.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/034/1903402.pdf",
@@ -100,37 +100,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19066.pdf",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7294156",
-      "mediathekURL": "https://dbtg.tv/fvid/7294156",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7294156/7294156_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7294156/7294156_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7294156/7294156_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7294156/7294156_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7294159#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
