@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=675"
+  },
+  "data": {
+    "id": "675",
+    "date": "2020-06-17T00:00:00.000Z",
+    "title": "Bundeswehr im Kosovo (KFOR) (Beschlussempfehlung)",
+    "topTitle": "165. Sitzung vom 17.06.2020, TOP 5 Bundeswehreinsatz in Kosovo (KFOR)",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung - Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der internationalen Sicherheitspräsenz in Kosovo (KFOR) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/190/1919001.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19001 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19001</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/195/1919587.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19587 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19587</a>)",
+    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der internationalen Sicherheitspräsenz in Kosovo (KFOR)<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/190/1919001.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19001 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19001</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/195/1919587.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19587 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19587</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/196/1919606.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19606 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19606</a><br/><br/>namentliche Abstimmung",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/190/1919001.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/195/1919587.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=675&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 513,
+        "no": 152,
+        "abstain": 5,
+        "na": 39
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 234,
+            "no": 0,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 143,
+            "no": 0,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 89,
+            "yes": 0,
+            "no": 83,
+            "abstain": 0,
+            "na": 6
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 76,
+            "no": 0,
+            "abstain": 1,
+            "na": 3
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 64,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 60,
+            "no": 2,
+            "abstain": 4,
+            "na": 1
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 6,
+            "yes": 0,
+            "no": 3,
+            "abstain": 0,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19165.pdf#P.20541",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7452423",
+      "mediathekURL": "https://dbtg.tv/fvid/7452423",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7452423/7452423_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7452423/7452423_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7452423/7452423_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7452423/7452423_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452425#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Juratovic, Josip",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520756/3x4/170/227/b3922a9a62ba535a367ffd6bca9abaea/qY/juratovic_josip_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452426#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kestner, Jens",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530388/3x4/170/227/5b49bfa46615ee9c883367c7c46d812/Dj/kestner_jens_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452427#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Beyer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452428#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Sauter, Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/d98ad46e6dffbdf854dc6f9bb0fa60fe/xc/sauter_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452429#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Gysi, Dr. Gregor",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/815cd00fcb21a5295e8466536e067e55/CF/gysi_gregor_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452430#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Keul, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452431#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brecht, Dr. Eberhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518646/3x4/170/227/ab86a978bf768d98b10164f5105196cb/ix/brecht_eberhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452432#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Nick, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452433#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Gnodtke, Eckhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529946/3x4/170/227/5ecd9a2df1e241573a9882293e8ef6ae/OQ/gnodtke_eckhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452434#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452436#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

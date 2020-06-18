@@ -138,20 +138,6 @@
         "party": "Bündnis 90/Die Grünen"
       },
       {
-        "deputyName": "Rösler, Dr. Philipp",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/231714/3x4/170/227/241ec7d3e821f17f2da759b9c80c7fa1/Gj/roesler_philipp_img_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=855680#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "BMin",
-        "party": null
-      },
-      {
-        "deputyName": "Ferner, Elke",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240952/3x4/170/227/16f3ad49038f1a432a31d35a9492888b/td/ferner_elke_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=855682#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
         "deputyName": "Spahn, Jens",
         "deputyImgURL": "https://www.bundestag.de/resource/image/523748/3x4/170/227/ffebe1b57aed4c2c60a4fae6ee231e8b/VC/spahn_jens_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=856855#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -159,25 +145,11 @@
         "party": "CDU/CSU"
       },
       {
-        "deputyName": "Ferner, Elke",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240952/3x4/170/227/16f3ad49038f1a432a31d35a9492888b/td/ferner_elke_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=856858#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
         "deputyName": "Spahn, Jens",
         "deputyImgURL": "https://www.bundestag.de/resource/image/523748/3x4/170/227/ffebe1b57aed4c2c60a4fae6ee231e8b/VC/spahn_jens_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=856859#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Terpe, Dr. Harald",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241694/3x4/170/227/6139b36799e08935ab9c748c4f8af9f0/Di/terpe_harald_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=856862#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
       },
       {
         "deputyName": "Stracke, Stephan",

@@ -137,13 +137,6 @@
         "party": "CDU/CSU"
       },
       {
-        "deputyName": "Schlecht, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241604/3x4/170/227/eb359cbf4b8f69384002fe78816333b3/sW/schlecht_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1043242#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
         "deputyName": "Kauder, Volker",
         "deputyImgURL": "https://www.bundestag.de/resource/image/520886/3x4/170/227/bc85d69c1ceedac5ded1231ed6cd3f58/QF/kauder_volker_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1043243#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -189,20 +182,6 @@
         "deputyName": "Nüßlein, Dr. Georg",
         "deputyImgURL": "https://www.bundestag.de/resource/image/522418/3x4/170/227/ad15824b58a43e1580aca4db95005550/dR/nuesslein_georg_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1043270#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Klimke, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241196/3x4/170/227/ba9796a1d30ab8f6adfa3336f3608fff/Aw/klimke_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1043271#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Steinbach, Erika",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241578/3x4/170/227/81073bd50caa34109b75465b9bf80806/js/steinbach_erika_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1043272#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
       },
