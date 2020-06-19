@@ -102,6 +102,13 @@
         "party": "FDP"
       },
       {
+        "deputyName": "Rösler, Dr. Philipp",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/231714/3x4/170/227/241ec7d3e821f17f2da759b9c80c7fa1/Gj/roesler_philipp_img_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=854477#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
         "deputyName": "Lauterbach, Dr. Karl",
         "deputyImgURL": "https://www.bundestag.de/resource/image/521506/3x4/170/227/aa22ff8650cb5286d4a2446638688c17/Dc/lauterbach_karl_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=854478#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",

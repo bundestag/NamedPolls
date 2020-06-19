@@ -176,6 +176,13 @@
         "party": "Die Linke"
       },
       {
+        "deputyName": "Ströbele, Hans-Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241608/3x4/170/227/4d05d573dfd7afb85be8a7387460a2fd/yh/stroebele_hans_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528419#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
         "deputyName": "Hahn, Florian",
         "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528420#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -193,6 +200,13 @@
         "deputyName": "Dittrich, Heidrun",
         "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528425#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schlecht, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241604/3x4/170/227/eb359cbf4b8f69384002fe78816333b3/sW/schlecht_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528426#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "Die Linke"
       },

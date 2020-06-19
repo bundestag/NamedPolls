@@ -116,11 +116,25 @@
         "party": "SPD"
       },
       {
+        "deputyName": "Brüderle, Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/533276/3x4/170/227/f910d32a8d0739648ceff804ec22c9f5/vA/bruederle_rainer.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837300#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
         "deputyName": "Kelber, Ulrich",
         "deputyImgURL": "https://www.bundestag.de/resource/image/520920/3x4/170/227/566ba2fe2844af58888d3435255d98f9/Hq/kelber_ulrich_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837304#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "SPD"
+      },
+      {
+        "deputyName": "Brüderle, Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/533276/3x4/170/227/f910d32a8d0739648ceff804ec22c9f5/vA/bruederle_rainer.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837305#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
       },
       {
         "deputyName": "Lammert, Dr. Norbert",
@@ -149,6 +163,13 @@
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837319#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": "BMin",
         "party": null
+      },
+      {
+        "deputyName": "Höhn, Bärbel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241100/3x4/170/227/b6f10f9400bbc9d31b25f9fdcafcb858/vB/hoehn_baerbel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837320#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
       },
       {
         "deputyName": "Röttgen, Dr. Norbert",
@@ -249,11 +270,25 @@
         "party": "FDP"
       },
       {
+        "deputyName": "Bulling-Schröter, Eva",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240754/3x4/170/227/f9e431beca301086a252287ea3cd01ab/lX/bulling_schroeter_eva_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837342#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
         "deputyName": "Nüßlein, Dr. Georg",
         "deputyImgURL": "https://www.bundestag.de/resource/image/522418/3x4/170/227/ad15824b58a43e1580aca4db95005550/dR/nuesslein_georg_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837347#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bulling-Schröter, Eva",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240754/3x4/170/227/f9e431beca301086a252287ea3cd01ab/lX/bulling_schroeter_eva_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837348#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
       },
       {
         "deputyName": "Krischer, Oliver",
@@ -326,6 +361,13 @@
         "party": "CDU/CSU"
       },
       {
+        "deputyName": "Gambke, Dr. Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241004/3x4/170/227/75639d6731d575a9272c62c96658b0a6/cq/gambke_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837364#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
         "deputyName": "Schwabe, Frank",
         "deputyImgURL": "https://www.bundestag.de/resource/image/523556/3x4/170/227/80a7923a30d0f7f56560f7dbebe65d5f/nb/schwabe_frank_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837365#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -354,6 +396,13 @@
         "party": "Bündnis 90/Die Grünen"
       },
       {
+        "deputyName": "Becker, Dirk",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240746/3x4/170/227/be35ffa0bb974dd6c2784d1719093b46/BX/becker_dirk_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837370#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
         "deputyName": "Koczy, Ute",
         "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837371#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -366,6 +415,13 @@
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837372#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "SPD"
+      },
+      {
+        "deputyName": "Maisch, Nicole",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241374/3x4/170/227/b6c03fe959b59350a5b7a7f839bd59c9/uL/maisch_nicole_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837373#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
       },
       {
         "deputyName": "Nestle, Ingrid",
@@ -396,6 +452,13 @@
         "party": "SPD"
       },
       {
+        "deputyName": "Pothmer, Brigitte",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241464/3x4/170/227/adf804508ace38e86254fa78454ffaec/lO/pothmer_brigitte_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837389#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
         "deputyName": "Rößner, Tabea",
         "deputyImgURL": "https://www.bundestag.de/resource/image/522994/3x4/170/227/780d45cec4bf6731bc104f170da9a0e7/sK/roessner_tabea_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837390#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -420,6 +483,13 @@
         "deputyName": "Wagner, Daniela",
         "deputyImgURL": "https://www.bundestag.de/resource/image/526516/3x4/170/227/bf429bc3195e03356a0b65b14f80fee7/DD/wagner_daniela_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837396#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Ströbele, Hans-Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241608/3x4/170/227/4d05d573dfd7afb85be8a7387460a2fd/yh/stroebele_hans_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=837398#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "Bündnis 90/Die Grünen"
       },

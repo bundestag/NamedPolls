@@ -114,11 +114,25 @@
         "party": "FDP"
       },
       {
+        "deputyName": "Arnold, Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240720/3x4/170/227/591732dde823711479c2956b4139698c/AO/arnold_rainer_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1715901#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
         "deputyName": "Beyer, Peter",
         "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1715919#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Höger, Inge",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241096/3x4/170/227/f939b8fc56ec6ee77f8dab2a1954daa/wZ/hoeger_inge_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1716524#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
       },
       {
         "deputyName": "Nouripour, Omid",
