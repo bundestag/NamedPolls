@@ -6,9 +6,9 @@
     "id": "605",
     "date": "2019-06-06T00:00:00.000Z",
     "title": "Bekämpfung illegaler Beschäftigung",
-    "topTitle": "104. Sitzung vom 06.06.2019, TOP 7 Bekämpfung illegaler Beschäftigung",
+    "topTitle": "",
     "description": "Gesetzentwurf der Bundesregierung gegen illegale Beschäftigung und Sozialleistungsmissbrauch (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/086/1908691.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8691 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8691</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/097/1909768.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9768 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9768</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/106/1910683.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10683 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10683</a>)",
-    "detailedDescription": "- Zweite und dritte Beratung des von der Bundesregierung<br/>eingebrachten Entwurfs eines Gesetzes gegen illegale Beschäftigung und Sozialleistungsmissbrauch<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/086/1908691.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8691 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8691</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/097/1909768.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9768 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9768</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/100/1910066.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10066 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10066</a> Nr. 1.7<br/>Beschlussempfehlung und Bericht des Finanzausschusses (7. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/106/1910683.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10683 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10683</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/106/1910697.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10697 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10697</a><br/><br/>Namentliche Abstimmung",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/086/1908691.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/097/1909768.pdf",
@@ -96,107 +96,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19104.pdf#P.12680",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7361857",
-      "mediathekURL": "https://dbtg.tv/fvid/7361857",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7361857/7361857_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7361857/7361857_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7361857/7361857_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7361857/7361857_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361861#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Arndt-Brauer, Ingrid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/517970/3x4/170/227/9fbc1e9b2e61249b0c4c5d501018be93/Mi/arndt_brauer_ingrid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361863#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Gottschalk, Kay",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527512/3x4/170/227/45448863c916be198c375b24b83f7394/cP/gottschalk_kay_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361864#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Steiniger, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523858/3x4/170/227/bba6f9ab2b0b9140af16e1f902975a0d/SN/steiniger_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361866#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Herbrand, Markus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526814/3x4/170/227/abf51b90bd0e9795af179af20514c0ee/iM/herbrand_markus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361868#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Cezanne, Jörg",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525614/3x4/170/227/76036b4a82c8e1ad5711e19ef8b1a0ac/jR/cezanne_joerg_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361869#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Müller-Gemmeke, Beate",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522146/3x4/170/227/11983373a107c1d127815b1e625dfe06/KJ/mueller_gemmeke_beate_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361871#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Schrodi, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530062/3x4/170/227/8b8ea36fb1b30ffe5e28104df19766a4/ga/schrodi_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361872#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Maizière, Dr. Thomas de",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521818/3x4/170/227/6fd1f6f2854e0d6d3a2e9fc75b262dc/Zy/maiziere_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361873#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Radwan, Alexander",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522772/3x4/170/227/ff962049980f948acd5233b7f51623b/Px/radwan_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361874#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361876#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
