@@ -6,9 +6,9 @@
     "id": "417",
     "date": "2016-09-22T00:00:00.000Z",
     "title": "CETA, Antrag Bündnis 90/Die Grünen 18/9621",
-    "topTitle": "190. Sitzung vom 22.09.2016, TOP 39 CETA-Abkommen",
+    "topTitle": "",
     "description": "Antrag der Fraktion Bündnis 90/Die Grünen zu dem Vorschlag für einen Beschluss des Rates über die Unterzeichnung - im Namen der Europäischen Union - des umfassenden Wirtschafts- und Handelsabkommens (CETA) zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits KOM (2016) 444 endg.; Ratsdok. 10968/16 und zu dem Vorschlag für einen Beschluss des Rates über die vorläufige Anwendung des umfassenden Wirtschafts- und Handelsabkommens (CETA) zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits KOM (2016) 470 endg.; Ratsdok. 10969/16 hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes Comprehensive Economic and Trade Agreement (CETA) ablehnen (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/096/1809621.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9621 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9621</a>)",
-    "detailedDescription": "a) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>zu dem Vorschlag für einen Beschluss des Rates über die Unterzeichnung – im Namen der Europäischen Union – des umfassenden Wirtschafts- und Handelsabkommens (CETA) zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits <br/>KOM(2016) 444 endg.; Ratsdok. 10968/16<br/>und<br/>zu dem Vorschlag für einen Beschluss des Rates über die vorläufige Anwendung des umfassenden Wirtschafts- und Handelsabkommens (CETA) zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits<br/>KOM(2016) 470 endg.; Ratsdok. 10969/16<br/>hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes<br/>Comprehensive Economic and Trade Agreement (CETA) ablehnen<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/096/1809621.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9621 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9621</a><br/><br/>c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss)<br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Dem CETA-Abkommen so nicht zustimmen<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/062/1806201.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6201 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6201</a>, 18/9701",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/096/1809621.pdf"
     ],
@@ -64,37 +64,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18190.pdf",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7006364",
-      "mediathekURL": "https://dbtg.tv/fvid/7006364",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7006364/7006364_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7006364/7006364_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7006364/7006364_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7006364/7006364_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7006366#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
