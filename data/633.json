@@ -126,13 +126,6 @@
         "party": null
       },
       {
-        "deputyName": "Scholz, Olaf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/509336/3x4/170/227/81a1555bd5aa89267399632fcabadacc/uM/scholz_olaf_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401417#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundesminister der Finanzen",
-        "party": null
-      },
-      {
         "deputyName": "Keuter, Stefan",
         "deputyImgURL": "https://www.bundestag.de/resource/image/529204/3x4/170/227/86ba5debb59aa710a162581c93449de7/vk/keuter_stefan_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401418#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -187,13 +180,6 @@
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401426#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kemmerich, Thomas L.",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530770/3x4/170/227/89a8cf8f01324a9816ce5ef96861dd5d/Hc/kemmerich_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7401427#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
       },
       {
         "deputyName": "Binding (Heidelberg), Lothar",
