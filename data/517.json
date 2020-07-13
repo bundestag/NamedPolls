@@ -6,9 +6,9 @@
     "id": "517",
     "date": "2018-06-14T00:00:00.000Z",
     "title": "Bundeswehreinsatz im Mittelmeer (EUNAVFOR MED)",
-    "topTitle": "",
+    "topTitle": "39. Sitzung vom 14.06.2018, TOP 5 Bundeswehreinsatz im Mittelmeer (EUNAVFOR MED)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an EUNAVFOR MED Operation SOPHIA (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/023/1902381.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2381 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2381</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/026/1902668.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2668 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2668</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an EUNAVFOR MED Operation SOPHIA <br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/023/1902381.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2381 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2381</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/026/1902668.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2668 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2668</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/027/1902735.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2735 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2735</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/023/1902381.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/026/1902668.pdf"
@@ -95,12 +95,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19039.pdf#P.3772",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7245685",
+      "mediathekURL": "https://dbtg.tv/fvid/7245685",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245685/7245685_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245685/7245685_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245685/7245685_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245685/7245685_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245688#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Özoguz, Aydan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522460/3x4/170/227/f5769dd18a8a449978ca089ecbe9af83/Tx/oezoguz_aydan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245689#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Nolte, Jan Ralf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522388/3x4/170/227/6b0788c1c259c6c420cccf90a22294fa/Ds/nolte_jan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245690#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245691#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Sauter, Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/d98ad46e6dffbdf854dc6f9bb0fa60fe/xc/sauter_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245692#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Brandt, Michel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529444/3x4/170/227/70077d764a8f57fda01e03218490d781/cE/brandt_michel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245694#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245695#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Motschmann, Elisabeth",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522130/3x4/170/227/5c5f7c8982e7d331a0b4194e9896b0dd/Mf/motschmann_elisabeth_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245698#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Möller, Siemtje",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245699#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ullrich, Dr. Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524210/3x4/170/227/50b690341cbf9bac4d588dc2c40a22f5/LT/ullrich_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245702#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245703#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
