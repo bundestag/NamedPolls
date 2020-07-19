@@ -6,9 +6,9 @@
     "id": "667",
     "date": "2020-05-07T00:00:00.000Z",
     "title": "Bundeswehreinsatz EUNAVFOR MED IRINI",
-    "topTitle": "158. Sitzung vom 07.05.2020, TOP 20 Bundeswehreinsatz EUNAVFOR MED IRINI",
+    "topTitle": "",
     "description": "Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten militärischen Krisenbewältigungsoperation im Mittelmeer EUNAVFOR MED IRINI (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/187/1918734.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18734 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18734</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18951 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18951</a>)",
-    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)<br/>zu dem Antrag der Bundesregierung<br/>Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäischen Union geführten militärischen Krisenbewältigungsoperation im Mittelmeer EUNAVFOR MED IRINI<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/187/1918734.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18734 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18734</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18951 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18951</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/190/1919018.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19018 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19018</a><br/><br/>namentliche Abstimmung",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/187/1918734.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf"
@@ -95,114 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19158.pdf#P.19622",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7444507",
-      "mediathekURL": "https://dbtg.tv/fvid/7444507",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7444507/7444507_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7444507/7444507_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7444507/7444507_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7444507/7444507_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Kubicki, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444512#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Heinrich, Gabriela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520236/3x4/170/227/e7fa8125324b90ccb146109ccf1f2975/kX/heinrich_gabriela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444513#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Nolte, Jan Ralf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522388/3x4/170/227/6b0788c1c259c6c420cccf90a22294fa/Ds/nolte_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444514#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Wadephul, Dr. Johann David",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444515#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Nolte, Jan Ralf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522388/3x4/170/227/6b0788c1c259c6c420cccf90a22294fa/Ds/nolte_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444516#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Strack-Zimmermann, Dr. Marie-Agnes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527426/3x4/170/227/61f8a9bbb895b999664257c031a6379/GC/strack_zimmermann_marie_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444517#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Neu, Dr. Alexander S.",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522324/3x4/170/227/ac1eb5153b265e488b9628f0ce8dfd49/iq/neu_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444518#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Brugger, Agnieszka",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444519#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Beyer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444520#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Möller, Siemtje",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444521#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Schmidt (Fürth), Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523324/3x4/170/227/b99d5f277d46aacfa96a52557ee36ddf/Yg/schmidt_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444522#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kubicki, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7444524#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

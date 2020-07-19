@@ -6,9 +6,9 @@
     "id": "48",
     "date": "2009-12-04T00:00:00.000Z",
     "title": "Wachstumsbeschleunigungsgesetz, Änderungsantrag der SPD",
-    "topTitle": "10. Sitzung vom 04.12.2009, TOP 13 Wachstumsbeschleunigungsgesetz",
+    "topTitle": "",
     "description": "Änderungsantrag der Fraktion der SPD (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700148.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/148 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/148</a>) abgelehnt",
-    "detailedDescription": "13.a) Zweite und dritte Beratung CDU/CSU, FDP\r<br/>Gesetz zur Beschleunigung des Wirtschaftswachstums (Wachstumsbeschleunigungsgesetz)\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/000/1700015.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/15 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/15</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700138.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/138 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/138</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700142.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/142 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/142</a> -\r<br/>13.b) Beratung BeschlEmpf u Ber (7. A)\r<br/>zum Antrag B90/GRÜNE \r<br/>Soziale Gerechtigkeit statt Klientelpolitik\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/000/1700016.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/16 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/16</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700138.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/138 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/138</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/001/1700148.pdf"
     ],
@@ -74,117 +74,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17010.pdf#P.727",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=416926",
-      "mediathekURL": "https://dbtg.tv/fvid/416926",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/416926/416926_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/416926/416926_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/416926/416926_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416928#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Michelbach, Dr. Hans",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522014/3x4/170/227/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/MD/michelbach_hans_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416929#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kressl, Nicolette",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416937#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Thiele, Carl-Ludwig",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416938#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Gysi, Dr. Gregor",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/815cd00fcb21a5295e8466536e067e55/CF/gysi_gregor_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416939#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Kuhn, Fritz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416941#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Gutting, Olav",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519976/3x4/170/227/f324ddc39f32be99338c3f543b03dfbd/EE/gutting_olav_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416942#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Binding (Heidelberg), Lothar",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518418/3x4/170/227/e7c1cbef5d0f4e3141ad805d308d5e89/Wv/binding_lothar_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416943#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Wissing, Dr. Volker",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416944#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Jasper, Dieter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416945#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Heil (Peine), Hubertus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520208/3x4/170/227/3675ad7aa802dd0610e6e58b921832a/iI/heil_hubertus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416946#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Dautzenberg, Leo",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416951#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=416954#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }

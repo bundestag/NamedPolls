@@ -6,9 +6,9 @@
     "id": "160",
     "date": "2009-12-03T00:00:00.000Z",
     "title": "Bundeswehreinsatz in Libanon (UNIFIL)",
-    "topTitle": "9. Sitzung vom 03.12.2009, TOP 10 Bundeswehreinsatz Libanon",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung über die Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Unitet Nations Interim Force in Lebanon (UNIFIL) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/000/1700040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/40 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/40</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700112.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/112 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/112</a> (neu))",
-    "detailedDescription": "10.) Beratung Beschlussempfehlung und Bericht (3.A)\r<br/>zum Antrag Bundesregierung\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der United Nations Interim Force in Lebanon (UNIFIL) auf Grundlage der Resolution 1701 (2006) vom 11.08.2006 und folgender Resolutionen, zuletzt 1884 (2009) vom 27.08.2009 des Sicherheitsrates der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/000/1700040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/40 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/40</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700112.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/112 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/112</a>, 17/... -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/000/1700040.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/001/1700112.pdf"
@@ -75,89 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17009.pdf#P.688",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=415180",
-      "mediathekURL": "https://dbtg.tv/fvid/415180",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/415180/415180_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/415180/415180_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/415180/415180_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415185#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Königshaus, Hellmut",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415186#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415187#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Gloser, Günter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415188#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Otte, Henning",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415189#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Höger, Inge",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241096/3x4/170/227/f939b8fc56ec6ee77f8dab2a1954daa/wZ/hoeger_inge_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415190#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Müller (Köln), Kerstin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415191#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Götzer, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415196#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415197#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      }
-    ]
+    "speeches": []
   }
 }

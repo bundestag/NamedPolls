@@ -6,9 +6,9 @@
     "id": "665",
     "date": "2020-03-13T00:00:00.000Z",
     "title": "Bundeswehreinsatz SEA GUARDIAN",
-    "topTitle": "153. Sitzung vom 13.03.2020, TOP ZP 21, ZP 22 Bundeswehreinsatz SEA GUARDIAN",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zum Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN im Mittelmeer (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/172/1917286.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17286 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17286</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/178/1917814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17814</a>)",
-    "detailedDescription": "ZP 21) - Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)<br/>zu dem Antrag der Bundesregierung<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN im Mittelmeer <br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/172/1917286.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17286 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17286</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/178/1917814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17814</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/178/1917848.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17848 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17848</a><br/><br/>ZP 22) Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Fraktion der AfD<br/>Beteiligung deutscher Streitkräfte an der Sicherheitsoperation SEA GUARDIAN im Mittelmeer beenden – Maßnahmen zur Evaluierung des Auslandseinsatzes ergreifen<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/175/1917529.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17529 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17529</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/178/1917815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17815</a><br/><br/>",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/172/1917286.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/178/1917814.pdf"
@@ -95,121 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19153.pdf#P.19064",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7434289",
-      "mediathekURL": "https://dbtg.tv/fvid/7434289",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7434289/7434289_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7434289/7434289_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7434289/7434289_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7434289/7434289_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434287#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "De Ridder, Dr. Daniela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522916/3x4/170/227/cbccf0f3d0d813f79fa3887497326b2c/DO/de_ridder_daniela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434288#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Nolte, Jan Ralf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522388/3x4/170/227/6b0788c1c259c6c420cccf90a22294fa/Ds/nolte_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434290#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Kiesewetter, Roderich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434291#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lechte, Ulrich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526790/3x4/170/227/6178136b55a7ab4be0bc5a7b943296e9/KQ/lechte_ulrich_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434292#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Vogler, Kathrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524286/3x4/170/227/f1bf283837a492236dbf48040b3d7ebb/Lz/vogler_kathrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434293#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Trittin, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524162/3x4/170/227/36e0074986224945a3eceb3aa288f5c2/ik/trittin_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434294#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Gädechens, Ingo",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519628/3x4/170/227/612e5b3ef55321b2ef2ad20f842b242e/XL/gaedechens_ingo_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434295#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Budde, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529828/3x4/170/227/6dd5e226990799dcbf4ab188cd2cdc10/gN/budde_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434296#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Brandl, Dr. Reinhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434297#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Vogler, Kathrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524286/3x4/170/227/f1bf283837a492236dbf48040b3d7ebb/Lz/vogler_kathrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434298#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Brandl, Dr. Reinhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434299#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434302#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

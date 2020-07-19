@@ -6,9 +6,9 @@
     "id": "227",
     "date": "2013-05-16T00:00:00.000Z",
     "title": "Abfälle der Rhein- und Binnenschifffahrt",
-    "topTitle": "240. Sitzung vom 16.05.2013, TOP 57 c Abfälle der Rhein- und Binnenschifffahrt",
+    "topTitle": "",
     "description": "Gesetzentwurf der Bundesregierung zur Änderung des Ausführungsgesetzes zu dem Übereinkommenvom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/130/1713030.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13030 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13030</a>)",
-    "detailedDescription": "57.c) Zweite und dritte Beratung BReg<br/>Ausführungsgesetz zu dem Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/130/1713030.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13030 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13030</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/133/1713348.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13348 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13348</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/133/1713348.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13348 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13348</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/130/1713030.pdf"
     ],
@@ -74,37 +74,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17240.pdf",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2364167",
-      "mediathekURL": "https://dbtg.tv/fvid/2364167",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2364167/2364167_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2364167/2364167_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2364167/2364167_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2364167/2364167_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2364169#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      }
-    ]
+    "speeches": []
   }
 }

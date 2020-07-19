@@ -6,9 +6,9 @@
     "id": "445",
     "date": "2016-12-15T00:00:00.000Z",
     "title": "Beschlussempfehlung Bundeswehreinsatz in Darfur (UNAMID)",
-    "topTitle": "209. Sitzung vom 15.12.2016, TOP 6 Bundeswehreinsatz in Darfur (UNAMID)",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU/UN-Hybrid- Operation in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des Sicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und folgender Resolutionen, zuletzt 2296 (2016) vom 29. Juni 2016 (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/101/1810189.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10189 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10189</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/105/1810549.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10549 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10549</a>)",
-    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU/UN-Hybrid-Operation in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des Sicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und folgender Resolutionen, zuletzt 2296 (2016) vom 29. Juni 2016<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/101/1810189.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10189 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10189</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/105/1810549.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10549 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10549</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/105/1810550.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10550 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10550</a><br/>- namentliche Abstimmung -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/101/1810189.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/105/1810549.pdf"
@@ -65,86 +65,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18209.pdf#P.20857",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7045560",
-      "mediathekURL": "https://dbtg.tv/fvid/7045560",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7045560/7045560_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7045560/7045560_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7045560/7045560_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7045560/7045560_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045563#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Coße, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/439688/3x4/170/227/93f95f3e73e9de3bb6dd39f0fdfae909/jL/cosse_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045566#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045567#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Buchholz, Christine",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045568#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Mosblech, Volker",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/384840/3x4/170/227/87309233edaeafedb02c1454f5148e8a/Au/mosblech_volker_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045573#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schmidt, Dr. Frithjof",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523338/3x4/170/227/7984d4028a33b58f906e594770965bd/XS/schmidt_frithjof_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045574#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Fabritius, Dr. Dr. h. c. Bernd",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240936/3x4/170/227/3fba935b13d4728d4afdc0c8a785b8a5/cU/fabritius_bernd_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045579#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7045580#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

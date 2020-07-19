@@ -6,9 +6,9 @@
     "id": "296",
     "date": "2014-07-03T00:00:00.000Z",
     "title": "Angleichung der Renten in Ostdeutschland an das Westniveau",
-    "topTitle": "46. Sitzung vom 03.07.2014, TOP 30 Renten in Ostdeutschland",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Ausschusses für Arbeit und Soziales zu dem Antrag der Fraktion Die Linke \"Angleichung der Renten in Ostdeutschland an das Westniveau sofort auf den Weg bringen\" (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/009/1800982.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/982 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/982</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/019/1801994.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1994 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1994</a>)",
-    "detailedDescription": "a) Beratung des Antrags der Fraktion DIE LINKE. <br/>Spezifische Altersarmut Ost durch Korrektur der Rentenüberleitung beheben<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/016/1801644.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1644 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1644</a> <br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE. <br/>Angleichung der Renten in Ostdeutschland an das Westniveau sofort auf den Weg bringen<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/009/1800982.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/982 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/982</a>, 18/1994",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/009/1800982.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/019/1801994.pdf"
@@ -65,93 +65,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18046.pdf#P.4209",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3595536",
-      "mediathekURL": "https://dbtg.tv/fvid/3595536",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3595536/3595536_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3595536/3595536_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3595536/3595536_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3595536/3595536_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595538#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Claus, Roland",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240846/3x4/170/227/edbb79346e9d7e629d520bb23a53914a/or/claus_roland_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595539#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Schimke, Jana",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523266/3x4/170/227/a193fe99dd151f8d9beb2eb2d522a401/hk/schimke_jana_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595735#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kurth, Markus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521420/3x4/170/227/6a3d6bef997261d8f4841a548d6f5013/Qm/kurth_markus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595737#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Kolbe, Daniela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521204/3x4/170/227/98326ffd410f8c12655390a7485a1b1e/Rf/kolbe_daniela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595742#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Weiß (Emmendingen), Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524512/3x4/170/227/9c0b26d9a3436cf004ef3d284bf44f47/Tq/weiss_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595743#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Wolff (Wolmirstedt), Waltraud",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241774/3x4/170/227/dea92b46e0821349bb1bb4fdee3311b8/ON/wolff_waltraud_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595786#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Strebl, Matthäus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241574/3x4/170/227/a14671bd269a23517c0255137bc1aa6b/Ol/strebl_matthaeus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595787#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3595791#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

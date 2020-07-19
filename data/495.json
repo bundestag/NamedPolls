@@ -6,9 +6,9 @@
     "id": "495",
     "date": "2017-12-13T00:00:00.000Z",
     "title": "Anpassungsverfahren § 11 des Abgeordnetengesetzes",
-    "topTitle": "5. Sitzung vom 13.12.2017, TOP ZP 5a Anpassungsverfahren § 11 des Abgeordnetengesetzes",
+    "topTitle": "",
     "description": "Antrag der Fraktionen CDU/CSU, SPD und FDP: Anpassungsverfahren gemäß § 11 Absatz 4 des Abgeordnetengesetzes (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/002/1900236.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/236 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/236</a>)",
-    "detailedDescription": "ZP 5a ) Beratung des Antrags der Fraktionen CDU/CSU, SPD und FDP<br/>Anpassungsverfahren gemäß § 11 Absatz 4 des Abgeordnetengesetzes<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/002/1900236.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/236 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/236</a>\t<br/>- Namentliche Abstimmung -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/002/1900236.pdf"
     ],
@@ -94,100 +94,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19005.pdf#P.365",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7181784",
-      "mediathekURL": "https://dbtg.tv/fvid/7181784",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7181784/7181784_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7181784/7181784_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7181784/7181784_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7181784/7181784_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181788#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Grosse-Brömer, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519890/3x4/170/227/3ca20154908357f7399925b204e62f6d/PV/grosse_broemer_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181789#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schneider (Erfurt), Carsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523398/3x4/170/227/e3f020a903aee30cbb1c985d82eff393/IT/schneider_carsten_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181790#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Keuter, Stefan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529204/3x4/170/227/86ba5debb59aa710a162581c93449de7/vk/keuter_stefan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181791#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Buschmann, Dr. Marco",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525312/3x4/170/227/79134ae0a18d2ae3bb4cd755049bd48a/QQ/buschmann_marco_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181794#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Korte, Jan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521240/3x4/170/227/ad12ad0b3d2e2533a92c86ab926952f3/yO/korte_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181795#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Haßelmann, Britta",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520130/3x4/170/227/37053cb5513f7938bd825c7b6a6857b7/YC/hasselmann_britta_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181800#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Baumann, Dr. Bernd",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518200/3x4/170/227/23c6d89b9f2c292068b2ae10c47d2bec/sA/baumann_bernd_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181801#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Haßelmann, Britta",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520130/3x4/170/227/37053cb5513f7938bd825c7b6a6857b7/YC/hasselmann_britta_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181802#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7181803#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

@@ -6,9 +6,9 @@
     "id": "678",
     "date": "2020-06-19T00:00:00.000Z",
     "title": "Verbot der Antifa (Beschlussempfehlung)",
-    "topTitle": "167. Sitzung vom 19.06.2020, TOP 27 Verbot der Antifa",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Ausschusses für Inneres und Heimat (4. Ausschuss) zu dem Antrag der Fraktion der AfD - Antiextremistischer Grundkonsens in Politik und Gesellschaft - Rechtsstaat und Demokratie schützen - Antifa ächten (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/135/1913521.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13521 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13521</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/171/1917197.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17197 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17197</a>)",
-    "detailedDescription": "a) Beratung des Antrags der Fraktion AfD<br/>Demokratie erhalten – Bundesweites Verbot der „Antifa“ prüfen<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/200/1920074.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20074 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20074</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss) <br/>zu dem Antrag der Fraktion der AfD<br/>Antiextremistischer Grundkonsens in Politik und Gesellschaft – Rechtsstaat und Demokratie schützen – Antifa ächten<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/135/1913521.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13521 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13521</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/171/1917197.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17197 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17197</a><br/><br/>namentliche Abstimmung<br/><br/>",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/135/1913521.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/171/1917197.pdf"
@@ -95,142 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19167.pdf#P.20897",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7453123",
-      "mediathekURL": "https://dbtg.tv/fvid/7453123",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7453123/7453123_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7453123/7453123_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7453123/7453123_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7453123/7453123_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453122#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Maier, Jens",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526754/3x4/170/227/dbdf8f231028b0e61e0fe191b834d171/pm/maier_jens_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453124#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Wendt, Marian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524536/3x4/170/227/f1c54aa80a09575be2b1f2fbfd0e0781/HA/wendt_marian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453125#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Teuteberg, Linda",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527244/3x4/170/227/28893e129fa510c4ae7781019c34a7ef/VA/teuteberg_linda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453126#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Grötsch, Uli",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519878/3x4/170/227/87c843bbb1d679149ac3d3bf7d87611e/YS/groetsch_uli_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453127#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Renner, Martina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522882/3x4/170/227/9ab3395026da99eab1f4748011e1a450/Xi/renner_martina_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453128#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Rottmann, Dr. Manuela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527406/3x4/170/227/212d18a347bbde35405196f9178f8f35/ku/rottmann_manuela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453129#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lindholz, Andrea",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521634/3x4/170/227/75b9ebbdc097813cee856261937f41f8/Ey/lindholz_andrea_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453130#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hess, Martin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520350/3x4/170/227/dcc3aa858b5f808eff6b53e79e321645/Do/hess_martin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453131#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Lehmann, Sylvia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526854/3x4/170/227/5d14d01e293539b7a78e82811d195122/mo/lehmann_sylvia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453132#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Müller, Axel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/532000/3x4/170/227/a0b42c499102c14e7546a9ea0a5d97c9/vS/mueller_axel_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453133#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lindh, Helge",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453134#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Irmer, Hans-Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520620/3x4/170/227/a3a58e6ee55512377794abc95ef45b27/Ty/irmer_hans_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453135#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Ehrhorn, Thomas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530002/3x4/170/227/5f46ddbcb3576f1d50e096ede81a681b/pk/ehrhorn_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453136#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Irmer, Hans-Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520620/3x4/170/227/a3a58e6ee55512377794abc95ef45b27/Ty/irmer_hans_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453137#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kubicki, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7453138#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

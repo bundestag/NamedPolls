@@ -6,9 +6,9 @@
     "id": "58",
     "date": "2011-11-10T00:00:00.000Z",
     "title": "Änderung des Staatsangehörigkeitsrechts",
-    "topTitle": "139. Sitzung vom 10.11.2011, TOP 4 Staatsangehörigkeitsrecht",
+    "topTitle": "",
     "description": "Gesetzentwurf der Fraktion der SPD (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/007/1700773.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/773 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/773</a>) gemäß Buchstabe a der Beschlussempfehlung des Innenausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/076/1707675.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7675 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7675</a>) abgelehnt",
-    "detailedDescription": "4.a) Zweite und dritte Beratung SPD, B90/GRÜNE\r<br/>Staatsangehörigkeitsrecht/Änd\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/007/1700773.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/773 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/773</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/034/1703411.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3411 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3411</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/076/1707675.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7675 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7675</a> -\r<br/>4.b) Beratung BeschlEmpf u Ber (4.A)\r<br/>zum Antrag DIE LINKE.\r<br/>Ausgrenzung beenden - Einbürgerungen umfassend erleichtern\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/023/1702351.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2351 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2351</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/076/1707675.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7675 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7675</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/007/1700773.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/076/1707675.pdf"
@@ -75,156 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17139.pdf#P.16469",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1409837",
-      "mediathekURL": "https://dbtg.tv/fvid/1409837",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1409837/1409837_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1409837/1409837_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1409837/1409837_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1409837/1409837_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409842#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schröder, Dr. Ole",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241702/3x4/170/227/627d37b03b8f0c90500be79a5b8122d6/um/schroeder_ole_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409850#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "PSts",
-        "party": null
-      },
-      {
-        "deputyName": "Ã–zoguz, Aydan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522460/3x4/170/227/f5769dd18a8a449978ca089ecbe9af83/Tx/oezoguz_aydan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409857#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Wolff (Rems-Murr), Hartfrid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409858#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Lötzsch, Dr. Gesine",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521684/3x4/170/227/f0abe0a5b92f3676a9a387e0796f8e56/ii/loetzsch_gesine_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409860#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Künast, Renate",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521390/3x4/170/227/d1362e180cd0401a16429603b8740ebc/JJ/kuenast_renate_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409861#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Mayer (Altötting), Stephan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521914/3x4/170/227/e672baeddcf0ac7e49f97481c3b68bec/Vm/mayer_stephan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409866#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Steinmeier, Dr. Frank-Walter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241582/3x4/170/227/37d414461e972647a9e87c4e142401d2/wX/steinmeier_frank_walter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409874#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Tören, Serkan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409875#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Dagdelen, Sevim",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409881#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Ströbele, Hans-Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241608/3x4/170/227/4d05d573dfd7afb85be8a7387460a2fd/yh/stroebele_hans_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409882#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Mayer (Altötting), Stephan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521914/3x4/170/227/e672baeddcf0ac7e49f97481c3b68bec/Vm/mayer_stephan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409883#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Dagdelen, Sevim",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409884#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Kilic, Memet",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409885#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Wellenreuther, Ingo",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524520/3x4/170/227/b574140a8270200518c4829e1ed607dc/Ih/wellenreuther_ingo_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409891#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Nouripour, Omid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409892#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Wellenreuther, Ingo",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524520/3x4/170/227/b574140a8270200518c4829e1ed607dc/Ih/wellenreuther_ingo_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409893#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1409912#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      }
-    ]
+    "speeches": []
   }
 }
