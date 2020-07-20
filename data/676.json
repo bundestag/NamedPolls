@@ -6,9 +6,9 @@
     "id": "676",
     "date": "2020-06-17T00:00:00.000Z",
     "title": "Bundeswehreinsatz Libanon (UNIFIL) (Beschlussempfehlung)",
-    "topTitle": "",
+    "topTitle": "165. Sitzung vom 17.06.2020, TOP 7 Bundeswehreinsatz in Libanon (UNIFIL)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung - Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der \"United Nations Interim Force in Lebanon\" (UNIFIL) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/190/1919003.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19003 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19003</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/195/1919588.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19588 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19588</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL)<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/190/1919003.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19003 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19003</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/195/1919588.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19588 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19588</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/196/1919607.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19607 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19607</a><br/><br/>namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/190/1919003.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/195/1919588.pdf"
@@ -95,12 +95,121 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19165.pdf#P.20577",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7452449",
+      "mediathekURL": "https://dbtg.tv/fvid/7452449",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7452449/7452449_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7452449/7452449_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7452449/7452449_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7452449/7452449_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452452#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "De Ridder, Dr. Daniela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522916/3x4/170/227/cbccf0f3d0d813f79fa3887497326b2c/DO/de_ridder_daniela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452453#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Elsner von Gronow, Berengar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530344/3x4/170/227/a7629ed00e35b0040523b2fe076865ae/ZF/elsner_von_gronow_berengar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452454#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452455#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Wadephul, Dr. Johann David",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452456#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lechte, Ulrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526790/3x4/170/227/6178136b55a7ab4be0bc5a7b943296e9/KQ/lechte_ulrich_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452457#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höhn, Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529200/3x4/170/227/c84ff94088bb0d8842137681b9ca8385/Bo/hoehn_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452458#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Lindner, Dr. Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452459#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Möller, Siemtje",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452460#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Elsner von Gronow, Berengar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530344/3x4/170/227/a7629ed00e35b0040523b2fe076865ae/ZF/elsner_von_gronow_berengar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452461#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Manderla, Gisela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521838/3x4/170/227/80af4d6e92d1a23cafee69b112371c26/ep/manderla_gisela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452462#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ullrich, Dr. Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524210/3x4/170/227/50b690341cbf9bac4d588dc2c40a22f5/LT/ullrich_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452464#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7452465#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

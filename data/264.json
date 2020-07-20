@@ -6,9 +6,9 @@
     "id": "264",
     "date": "2014-05-08T00:00:00.000Z",
     "title": "Transparenz bei Rüstungsexportentscheidungen",
-    "topTitle": "",
+    "topTitle": "33. Sitzung vom 08.05.2014, TOP 11, ZP 9, 10 Transparenz bei Rüstungsexportentscheidungen",
     "description": "Antrag der Fraktion Bündnis 90/Die Günen eine echte Transparenz und parlamentarische Beteiligung bei Rüstungsexportentscheidungen herzustellen (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/013/1801360.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1360 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1360</a> (neu))",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung des Antrags der Fraktionen der CDU/CSU und SPD<br/>Mehr Transparenz bei Rüstungsexportentscheidungen sicherstellen<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/013/1801334.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1334 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1334</a><br/><br/>ZP 9) Beratung des Antrags der Fraktion DIE LINKE.<br/>Für ein generelles Verbot des Exports von Kriegswaffen und sonstigen Rüstungsgütern<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/013/1801348.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1348 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1348</a><br/><br/>ZP 10) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Echte Transparenz und parlamentarische Beteiligung bei Rüstungsexportentscheidungen herstellen<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/013/1801360.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1360 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1360</a><br/><br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/013/1801360.pdf"
     ],
@@ -64,12 +64,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18033.pdf#P.2807",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3391295",
+      "mediathekURL": "https://dbtg.tv/fvid/3391295",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3391295/3391295_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3391295/3391295_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3391295/3391295_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3391295/3391295_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391298#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Willsch, Klaus-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524610/3x4/170/227/8504311081f9814ff50715d9f4f15741/wl/willsch_klaus_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391339#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Aken, Jan van",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240714/3x4/170/227/be23238d3921acf3e9fa694ab1ae41f8/Yu/aken_jan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391343#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Westphal, Bernd",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524558/3x4/170/227/4b04bf565b5b5b0d64f4bfe0e52af885/AF/westphal_bernd_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391344#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391347#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lämmel, Andreas G.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521444/3x4/170/227/cd7d3c07b792cbf6895da5e66ed62f3a/oV/laemmel_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391385#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Finckh-Krämer, Dr. Ute",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240944/3x4/170/227/f7d50e36276348306baa6fa2ea0862ac/uy/finckh-kraemer_ute_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391386#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391390#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
   }
 }

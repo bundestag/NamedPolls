@@ -6,9 +6,9 @@
     "id": "340",
     "date": "2015-05-21T00:00:00.000Z",
     "title": "Bundeswehreinsatz Operation Atalanta",
-    "topTitle": "",
+    "topTitle": "106. Sitzung vom 21.05.2015, TOP 12 Bundeswehreinsatz Operation Atalanta",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation Atalanta zur Bekämpfung der Piraterie vor der Küste Somalias auf Grundlage des Seerechtsübereinkommens der Vereinten Nationen (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/047/1804769.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4769 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4769</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/049/1804964.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4964 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4964</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation Atalanta zur Bekämpfung der Piraterie vor der Küste Somalias auf Grundlage des Seerechtsübereinkommens der Vereinten Nationen (VN) von 1982 und der Resolutionen 1814 (2008) vom 15. Mai 2008, 1816 (2008) vom 2. Juni 2008, 1838 (2008) vom 7. Oktober 2008, 1846 (2008) vom 2. Dezember 2008, 1851 (2008) vom 16. Dezember 2008, 1897 (2009) vom 30. November 2009, 1950 (2010) vom 23. November 2010, 2020 (2011) vom 22. November 2011, 2077 (2012) vom 21. November 2012, 2125 (2013) vom 18. November 2013, 2184 (2014) vom 12. November 2014 und nachfolgender Resolutionen des Sicherheitsrates der VN in Verbindung mit der Gemeinsamen Aktion 2008/851/GASP des Rates der Europäischen Union (EU) vom 10. November 2008, dem Beschluss 2009/907/GASP des Rates der EU vom 8. Dezember 2009, dem Beschluss 2010/437/GASP des Rates der EU vom 30. Juli 2010, dem Beschluss 2010/766/GASP des Rates der EU vom 7. Dezember 2010, dem Beschluss 2012/174/GASP des Rates der EU vom 23. März 2012 und dem Beschluss 2014/827/GASP vom 21. November 2014<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/047/1804769.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4769 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4769</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/049/1804964.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4964 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4964</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/049/1804976.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4976 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4976</a><br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/047/1804769.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/049/1804964.pdf"
@@ -65,12 +65,93 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18106.pdf#P.10149",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=5115578",
+      "mediathekURL": "https://dbtg.tv/fvid/5115578",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5115578/5115578_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5115578/5115578_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5115578/5115578_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5115578/5115578_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115581#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Freitag, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519524/3x4/170/227/fd619019471f6769c02bb2b79073d4a0/DE/freitag_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115582#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Vogler, Kathrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524286/3x4/170/227/f1bf283837a492236dbf48040b3d7ebb/Lz/vogler_kathrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115604#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Frei, Thorsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115614#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Wagner, Doris",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241762/3x4/170/227/6f19a7df0a0706e3791c38a8166bba46/fH/wagner_doris_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115615#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Wadephul, Dr. Johann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115675#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hellmich, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520268/3x4/170/227/59759fc155aafb3182ce9b7c2588a60b/Ek/hellmich_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115676#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Uhl, Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241724/3x4/170/227/6923e44a90d48ae0c844c743f8cfae8/au/uhl_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115696#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5115709#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

@@ -6,9 +6,9 @@
     "id": "548",
     "date": "2018-10-19T00:00:00.000Z",
     "title": "Jahresmittelgrenzwert für Stickoxid",
-    "topTitle": "",
+    "topTitle": "59. Sitzung vom 19.10.2018, TOP 30, ZP 5 Jahresmittelgrenzwert für Stickstoffdioxid",
     "description": "Beschlussempfehlung des Ausschusses für Umwelt, Naturschutz und nukleare Sicherheit (16. Ausschuss) zu dem Antrag der Abgeordneten Marc Bernhard, Karsten Hilse, Udo Theodor Hemmelgarn, weiterer Abgeordneter und der Fraktion der AfD: Überprüfung der EU-NO2-Grenzwerte, die seit 2010 in deutschen Städten zur Anwendung kommen (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/012/1901213.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1213 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1213</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/051/1905108.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5108 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5108</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung des Antrags der Fraktion der FDP<br/>Stickoxid-Grenzwert und Messverfahren auf den Prüfstand<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/050/1905054.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5054 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5054</a><br/><br/>ZP 5) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss) <br/>zu dem Antrag der Fraktion der AfD <br/>Überprüfung der EU-NO2-Grenzwerte, die seit 2010 in deutschen Städten zur Anwendung kommen<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/012/1901213.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1213 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1213</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/051/1905108.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5108 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5108</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/012/1901213.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/051/1905108.pdf"
@@ -95,12 +95,100 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19059.pdf#P.6664",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7283055",
+      "mediathekURL": "https://dbtg.tv/fvid/7283055",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7283055/7283055_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7283055/7283055_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7283055/7283055_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7283055/7283055_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283056#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Skudelny, Judith",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/531224/3x4/170/227/fa73971ab6e4254a0489281dab6f4389/uB/skudelny_judith_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283057#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Müller (Braunschweig), Carsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522164/3x4/170/227/7746e1b85b4a2cc30581dccffe1f2f73/SJ/mueller_carsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283059#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bernhard, Marc",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518348/3x4/170/227/fe9113653b7c9cd88dcde404890d99b9/MJ/bernhard_marc_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283060#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Pronold, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522718/3x4/170/227/214be5df27d7eca3d4a4f71b2b2a5ddd/je/pronold_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283062#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Parl. Staatssekretär für Umwelt, Naturschutz und nukleare Sicherheit",
+        "party": null
+      },
+      {
+        "deputyName": "Lenkert, Ralph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521570/3x4/170/227/c09f7031742992dc976e12bfad35a307/Qp/lenkert_ralph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283063#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Hoffmann, Dr. Bettina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520446/3x4/170/227/d11a9a6a5566c6834e03569328bc7274/IH/hoffmann_bettina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283066#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Grundmann, Oliver",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519938/3x4/170/227/d8e4f5000a4efcb718fb8be76050dd0e/kv/grundmann_oliver_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283067#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Nissen, Ulli",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522368/3x4/170/227/274889321c039ee9f1129def6bca4b9c/vI/nissen_ulli_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283070#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7283071#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
   }
 }

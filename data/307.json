@@ -6,9 +6,9 @@
     "id": "307",
     "date": "2014-11-13T00:00:00.000Z",
     "title": "Bund-Länder-Wissenschaftskooperation, Änderungsantrag Die Linke",
-    "topTitle": "",
+    "topTitle": "66. Sitzung vom 13.11.2014, TOP 7 Änderung des Grundgesetzes (Artikel 91b)",
     "description": "Änderungsantrag der Fraktion Die Linke zu dem Gesetzentwurf der Bundesregierung zur Änderung des Grundgesetzes (Artikel 91b) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/027/1802710.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2710 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2710</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/031/1803141.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3141 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3141</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/031/1803162.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3162 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3162</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines … Gesetzes zur Änderung des Grundgesetzes (Artikel 91b)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/027/1802710.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2710 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2710</a><br/> <br/>Beschlussempfehlung und Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/031/1803141.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3141 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3141</a> <br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) <br/>- zu dem Antrag der Fraktion DIE LINKE. <br/>Kooperationsverbot abschaffen – Gemeinschaftsaufgabe Bildung im Grundgesetz verankern<br/><br/>- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Kooperationsverbot kippen - Zusammenarbeit von Bund und Ländern für bessere Bildung und Wissenschaft ermöglichen<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/005/1800588.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/588 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/588</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/027/1802747.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2747 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2747</a>, 18/3141",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/027/1802710.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/031/1803141.pdf",
@@ -66,12 +66,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18066.pdf#P.6223",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=4105669",
+      "mediathekURL": "https://dbtg.tv/fvid/4105669",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4105669/4105669_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4105669/4105669_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4105669/4105669_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4105669/4105669_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4105673#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Wanka, Prof. Dr. Johanna",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/333712/3x4/170/227/316799ac1d524f0ea247de56341add1f/ah/wanka_johanna.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4105686#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesministerin für Bildung und Forschung",
+        "party": null
+      },
+      {
+        "deputyName": "Hein, Dr. Rosemarie",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241076/3x4/170/227/939b8598e682c3261cf151d4bfaf430/ZY/hein_rosemarie_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4105736#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Rossmann, Dr. Ernst Dieter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523024/3x4/170/227/d92edfbd4340c1e22a3f80468ef4a99f/Sf/rossmann_ernst_dieter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4105757#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Gehring, Kai",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519678/3x4/170/227/b0df8361d48be98b37d1fd2f2f60aacd/ur/gehring_kai_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4105758#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Schipanski, Tankred",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523276/3x4/170/227/99193cf267392ebdc6f13a952bf38fd9/CX/schipanski_tankred_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4105768#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schulz (Spandau), Swen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523532/3x4/170/227/f45866fae2ce9e2b8b2461ababec0928/Ej/schulz_swen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4105769#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4105851#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

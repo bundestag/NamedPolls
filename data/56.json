@@ -6,9 +6,9 @@
     "id": "56",
     "date": "2010-02-26T00:00:00.000Z",
     "title": "Mandatsverlängerung in Afghanistan (ISAF)",
-    "topTitle": "",
+    "topTitle": "25. Sitzung vom 26.02.2010, TOP 18 ISAF",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/008/1700816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/816</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/006/1700654.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/654 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/654</a>) angenommen",
-    "detailedDescription": "",
+    "detailedDescription": "18.) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an dem Einsatz der Internationalen Sicherheitsunterstützungstruppe in Afghanistan (International Security Assistance Force, ISAF) unter Führung der NATO auf Grundlage der Resolutionen 1386 (2001) und folgender Resolutionen, zuletzt Resolution 1890 (2009) des Sicherheitsrates der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/006/1700654.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/654 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/654</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/008/1700816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/816</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/008/1700816.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/006/1700654.pdf"
@@ -75,12 +75,145 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17025.pdf#P.2198",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=511241",
+      "mediathekURL": "https://dbtg.tv/fvid/511241",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/511241/511241_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/511241/511241_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/511241/511241_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511243#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Stinner, Dr. Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511244#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Steinmeier, Dr. Frank-Walter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241582/3x4/170/227/37d414461e972647a9e87c4e142401d2/wX/steinmeier_frank_walter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511246#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schockenhoff, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241554/3x4/170/227/6cadc3e0aa9c4c7ec0cb9c695b973a3c/wo/schockenhoff_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511247#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511248#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511249#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Künast, Renate",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521390/3x4/170/227/d1362e180cd0401a16429603b8740ebc/JJ/kuenast_renate_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511250#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Ströbele, Hans-Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241608/3x4/170/227/4d05d573dfd7afb85be8a7387460a2fd/yh/stroebele_hans_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511253#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511254#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hoff, Elke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511255#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Strässer, Christoph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241634/3x4/170/227/8df83a9788c2812658ee79cf7a223bde/wo/straesser_christoph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511256#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511257#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hahn, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511264#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511265#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Klingbeil, Lars",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521074/3x4/170/227/db3ffeed8f2196dd8b91cdb94a489497/VH/klingbeil_lars_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511267#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=511272#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }

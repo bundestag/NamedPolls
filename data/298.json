@@ -6,9 +6,9 @@
     "id": "298",
     "date": "2014-07-04T00:00:00.000Z",
     "title": "Lebensversicherungsreformgesetz",
-    "topTitle": "",
+    "topTitle": "47. Sitzung vom 04.07.2014, TOP 29 Lebensversicherungsreformgesetz",
     "description": "Beschlussempfehlung des Finanzausschusses zu dem Antrag der Fraktion Die Linke \"Lebensversicherungen auf den Prüfstand stellen - Kein Schnellverfahren zu Lasten der Versicherten\" (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/018/1801815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1815</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/020/1802016.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2016 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2016</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Absicherung stabiler und fairer Leistungen für Lebensversicherte (Lebensversicherungsreformgesetz – LVRG)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/017/1801772.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1772 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1772</a> <br/>Beschlussempfehlung und Bericht des Finanzausschusses (7. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/020/1802016.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2016 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2016</a> <br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE. <br/>Lebensversicherungen auf den Prüfstand stellen – Kein Schnellverfahren zu Lasten der Versicherten<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/018/1801815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1815</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/020/1802016.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2016 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2016</a><br/><br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/018/1801815.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/020/1802016.pdf"
@@ -65,12 +65,93 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18047.pdf#P.4391",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3597074",
+      "mediathekURL": "https://dbtg.tv/fvid/3597074",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3597074/3597074_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3597074/3597074_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3597074/3597074_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3597074/3597074_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597077#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Michelbach, Dr. h. c. Hans",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522014/3x4/170/227/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/MD/michelbach_hans_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597081#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Karawanskij, Susanna",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241264/3x4/170/227/195e918f87bac9f9b9ad3dbe9814dfbf/qf/karawanskij_susanna_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597114#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Zöllmer, Manfred",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/221368/3x4/170/227/f0f658b89351e1fe463ce0a9e4fbc466/kj/zoellmer_manfred_helmut.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597262#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schick, Dr. Gerhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523238/3x4/170/227/3a5389691e36bb1731840c4aa10b53f2/US/schick_gerhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597263#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Karliczek, Anja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520848/3x4/170/227/d3bf6a10ab083c93c603495fb4f44731/zm/karliczek_anja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597562#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Binding (Heidelberg), Lothar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518418/3x4/170/227/e7c1cbef5d0f4e3141ad805d308d5e89/Wv/binding_lothar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597598#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schick, Dr. Gerhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523238/3x4/170/227/3a5389691e36bb1731840c4aa10b53f2/US/schick_gerhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597599#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3597603#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

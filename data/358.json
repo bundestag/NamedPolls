@@ -6,9 +6,9 @@
     "id": "358",
     "date": "2015-10-01T00:00:00.000Z",
     "title": "Sanktionen bei Hartz IV und Sozialhilfe, Antrag Bündnis 90/Die Grünen",
-    "topTitle": "",
+    "topTitle": "127. Sitzung vom 01.10.2015, TOP 7 Sanktionen bei Hartz IV und Sozialhilfe",
     "description": "Beschlussempfehlung des Ausschusses für Arbeit und Soziales (11. Ausschuss) zu dem Antrag der Abgeordneten Dr. Wolfgang Strengmann-Kuhn, Beate Müller-Gemmeke, Markus Kurth, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Existenzminimum und Teilhabe sicherstellen - Sanktionsmoratorium jetzt (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/019/1801963.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1963 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1963</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/061/1806128.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6128 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6128</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) <br/>- zu dem Antrag der Fraktion DIE LINKE. <br/>Sanktionen bei Hartz IV und Leistungseinschränkungen bei der Sozialhilfe abschaffen<br/>- zu dem Antrag der Fraktion DIE LINKE.<br/>Gute Arbeit und eine sanktionsfreie Mindestsicherung statt Hartz IV<br/>- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Existenzminimum und Teilhabe sicherstellen – Sanktionsmoratorium jetzt<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/011/1801115.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1115 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1115</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/035/1803549.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3549 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3549</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/019/1801963.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1963 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1963</a>, 18/6128",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/019/1801963.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/061/1806128.pdf"
@@ -65,12 +65,121 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18127.pdf#P.12345",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=5891680",
+      "mediathekURL": "https://dbtg.tv/fvid/5891680",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5891680/5891680_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5891680/5891680_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5891680/5891680_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5891680/5891680_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891684#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Schmidt (Wetzlar), Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523328/3x4/170/227/8b8df014ddee0750f117da67aa67e28/tf/schmidt_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891741#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891742#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Kipping, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521010/3x4/170/227/dc9212f4a58dd4bbbf0482d6cb6c49d3/Fn/kipping_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891767#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Eckenbach, Jutta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/242078/3x4/170/227/ab9cfec3747035364e4d31cfcea1fb28/Ni/eckenbach_jutta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891780#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kipping, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521010/3x4/170/227/dc9212f4a58dd4bbbf0482d6cb6c49d3/Fn/kipping_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891781#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Eckenbach, Jutta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/242078/3x4/170/227/ab9cfec3747035364e4d31cfcea1fb28/Ni/eckenbach_jutta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891782#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Strengmann-Kuhn, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523942/3x4/170/227/d182a9cb9b94401749d242a41fe8049f/Np/strengmann_kuhn_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891847#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Strebl, Matthäus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241574/3x4/170/227/a14671bd269a23517c0255137bc1aa6b/Ol/strebl_matthaeus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891848#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bartke, Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518160/3x4/170/227/347fa14a02a3902de2ed31f19a379aa2/tn/bartke_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891866#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kipping, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521010/3x4/170/227/dc9212f4a58dd4bbbf0482d6cb6c49d3/Fn/kipping_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891867#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Bartke, Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518160/3x4/170/227/347fa14a02a3902de2ed31f19a379aa2/tn/bartke_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891868#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5891880#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

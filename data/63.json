@@ -6,9 +6,9 @@
     "id": "63",
     "date": "2010-06-10T00:00:00.000Z",
     "title": "Kernfusionsforschung kritisch überprüfen",
-    "topTitle": "",
+    "topTitle": "46. Sitzung vom 10.06.2010, TOP 16 Kernfusionforschung",
     "description": "Beschlussempfehlung des Auschusses für Bildung, Forschung und Technikfolgenabschätzung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/019/1701949.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1949 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1949</a>) angenommen, das bedeutet: Antrag der Fraktion Bündnis 90/Die Grünen abgelehnt",
-    "detailedDescription": "",
+    "detailedDescription": "16.) Beratung Beschlussempfehlung und Bericht (18. A)\r<br/>zum Antrag B90/GRÜNE\r<br/>Kernfusionsforschung kritisch überprüfen - ITER-Vertrag kündigen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/014/1701433.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1433 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1433</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/019/1701949.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1949 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1949</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/019/1701949.pdf"
     ],
@@ -74,12 +74,89 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17046.pdf#P.4672",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=650409",
+      "mediathekURL": "https://dbtg.tv/fvid/650409",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/650409/650409_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/650409/650409_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/650409/650409_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650413#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kaufmann, Dr. Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520900/3x4/170/227/a71da25f936686ee3b0b682eef4f52e4/es/kaufmann_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650414#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650415#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Röspel, RenÃ©",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522990/3x4/170/227/94717c543c39352d5303c4768bafecec/Qd/roespel_rene_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650418#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Neumann (Lausitz), Dr. Martin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526758/3x4/170/227/12c654d2a4d8f4f4bd62862544c2e32d/Pq/neumann_martin_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650424#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Sitte, Dr. Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523706/3x4/170/227/fd614bf037038fe6b2209df00e159f09/Op/sitte_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650425#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Kotting-Uhl, Sylvia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521254/3x4/170/227/b685ec27a271c8400b84310b6a1be90c/Cw/kotting_uhl_sylvia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650426#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Murmann, Dr. Philipp",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241340/3x4/170/227/37b78bee2e36398a694e1c2586fc19b3/iV/murmann_philip_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650427#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=650432#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
   }
 }

@@ -6,9 +6,9 @@
     "id": "223",
     "date": "2013-04-18T00:00:00.000Z",
     "title": "Quote in Führungsgremien",
-    "topTitle": "",
+    "topTitle": "234. Sitzung vom 18.04.2013, TOP 4 Quote in Führungsgremien",
     "description": "Gesetzentwurf des Bundesrates zur Förderung gleichberechtigter Teilhabe von Frauen und Männern in Führungsgremien (GITeilhG) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/112/1711270.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11270 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11270</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/127/1712784.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12784 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12784</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "4.a) Beratung Antrag B90/GRÜNE\r<br/>Verbindliche Quoten für Aufsichtsräte einführen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/130/1713094.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13094 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13094</a> -\r<br/>4.b) Zweite und dritte Beratung BR\r<br/>Förderung gleichberechtigter Teilhabe von Frauen und Männern in Führungsgremien (GlTeilhG)\r<br/>Zweite und dritte Beratung SPD\r<br/>Förderung der Chancengleichheit von Männern und Frauen in Wirtschaftsunternehmen (ChGlFöG)\r<br/>Zweite und dritte Beratung SPD, B90/GRÜNE\r<br/>Förderung gleichberechtigter Teilhabe von Frauen und Männern in Führungsgremien (GlTeilhG)\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/112/1711270.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11270 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11270</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/088/1708878.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8878 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8878</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711139.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11139 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11139</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/127/1712784.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12784 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12784</a> -\r<br/>4.c) Beratung BeschlEmpf u Ber (6.A)\r<br/>zum Antrag B90/GRÜNE\r<br/>Quote für Aufsichtsgremien börsennotierter Unternehmen einführen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/007/1700797.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/797 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/797</a>, 171274 -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/112/1711270.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/127/1712784.pdf"
@@ -75,12 +75,177 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17234.pdf#P.29193",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2298076",
+      "mediathekURL": "https://dbtg.tv/fvid/2298076",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2298076/2298076_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2298076/2298076_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2298076/2298076_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2298076/2298076_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298072#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298077#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kauder, Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520886/3x4/170/227/bc85d69c1ceedac5ded1231ed6cd3f58/QF/kauder_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298080#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Beck (Köln), Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298081#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kauder, Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520886/3x4/170/227/bc85d69c1ceedac5ded1231ed6cd3f58/QF/kauder_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298082#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Steinmeier, Dr. Frank-Walter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241582/3x4/170/227/37d414461e972647a9e87c4e142401d2/wX/steinmeier_frank_walter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298087#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Bracht-Bendt, Nicole",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298088#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Gysi, Dr. Gregor",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/815cd00fcb21a5295e8466536e067e55/CF/gysi_gregor_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298092#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schröder (Wiesbaden), Dr. Kristina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241250/3x4/170/227/736736906fa11ead45c329e94612aedb/Ub/schroeder_kristina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298094#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "BMin",
+        "party": null
+      },
+      {
+        "deputyName": "Högl, Dr. Eva",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520416/3x4/170/227/905d68713deb4b7e181860634cc7cabe/Yo/hoegl_eva_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298108#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Buschmann, Marco",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525312/3x4/170/227/79134ae0a18d2ae3bb4cd755049bd48a/QQ/buschmann_marco_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298109#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höll, Dr. Barbara",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298110#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Deligöz, Ekin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518992/3x4/170/227/dd92647b6570e05c078bee0e7e8d61bd/bQ/deligoez_ekin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298111#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298116#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Marks, Caren",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521860/3x4/170/227/1571a38eac13a829c8752086b597f35b/Us/marks_caren_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298117#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Winkelmeier-Becker, Elisabeth",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524616/3x4/170/227/d78fbff7395810fd94e87030a364e79b/gR/winkelmeier_becker_elisabeth_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298122#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pawelski, Rita",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298123#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Luczak, Dr. Jan-Marco",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521728/3x4/170/227/7d25c3d1df5330d6664b19001598c93a/fG/luczak_jan_marco_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298127#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oswald, Eduard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298131#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/d0de1bee18b37589440127070e6febf5/Al/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298132#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Oswald, Eduard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2298137#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }
