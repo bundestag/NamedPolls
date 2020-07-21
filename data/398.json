@@ -6,9 +6,9 @@
     "id": "398",
     "date": "2016-05-12T00:00:00.000Z",
     "title": "Bundeswehreinsatz vor Somalia (EU NAVFOR Atalanta)",
-    "topTitle": "",
+    "topTitle": "170. Sitzung vom 12.05.2016, TOP 13 Bundeswehreinsatz vor Somalia (EU NAVFOR Atalanta)",
     "description": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EU NAVFOR Atalanta zur Bekämpfung der Piraterie vor der Küste Somalias auf Grundlage des Seerechtsübereinkommens der Vereinten Nationen (VN) von 1982 und der Resolutionen 1814 (2008) vom 15. Mai 2008 und weiterer Resolutionen, zuletzt 2246 (2015) vom 10. November 2015 und nachfolgender Resolutionen des Sicherheitsrates der VN in Verbindung mit der Gemeinsamen Aktion 2008/851/GASP des Rates der Europäischen Union (EU) vom 10. November 2008, dem Beschluss 2009/907/GASP des Rates der EU vom 8. Dezember 2009 und weiterer Beschlüsse, zuletzt dem Beschluss 2014/827/GASP vom 21. November 2014 (Drs. <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/080/1808091.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8091 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8091</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/082/1808286.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8286 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8286</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EU NAVFOR Atalanta zur Bekämpfung der Piraterie vor der Küste Somalias auf Grundlage des Seerechtsübereinkommens der Vereinten Nationen (VN) von 1982 und der Resolutionen 1814 (2008) vom 15. Mai 2008 und weiterer Resolutionen, zuletzt 2246 (2015) vom 10. November 2015 und nachfolgender Resolutionen des Sicherheitsrates der VN in Verbindung mit der Gemeinsamen Aktion 2008/851/GASP des Rates der Europäischen Union (EU) vom 10. November 2008, dem Beschluss 2009/907/GASP des Rates der EU vom 8. Dezember 2009 und weiterer Beschlüsse, zuletzt dem Beschluss 2014/827/GASP vom 21. November 2014<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/080/1808091.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8091 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8091</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/082/1808286.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8286 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8286</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache 18/8287",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/080/1808091.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/082/1808286.pdf"
@@ -65,12 +65,79 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18170.pdf#P.16819",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6831995",
+      "mediathekURL": "https://dbtg.tv/fvid/6831995",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6831995/6831995_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6831995/6831995_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6831995/6831995_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6831995/6831995_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831996#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Ilgen, Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/242042/3x4/170/227/3a2971e37b3cb0682f446eeb542310e1/hv/ilgen_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831997#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Dagdelen, Sevim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6831999#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6832000#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6832004#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Obermeier, Julia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6832005#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6832065#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }

@@ -6,9 +6,9 @@
     "id": "432",
     "date": "2016-12-01T00:00:00.000Z",
     "title": "Seefischereigesetz",
-    "topTitle": "",
+    "topTitle": "206. Sitzung vom 01.12.2016, TOP 13 Änderung des Seefischereigesetzes",
     "description": "Gesetzentwurf der Bundesregierung Entwurf eines Dritten Gesetzes zur Änderung des Seefischereigesetzes (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/094/1809466.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9466 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9466</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/104/1810496.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10496 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10496</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Dritten Gesetzes zur Änderung des Seefischereigesetzes<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/094/1809466.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9466 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9466</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/104/1810496.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10496 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10496</a><br/>- namentliche Abstimmung -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/094/1809466.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/104/1810496.pdf"
@@ -65,12 +65,79 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18206.pdf#P.20606",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7038783",
+      "mediathekURL": "https://dbtg.tv/fvid/7038783",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7038787#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Pahlmann, Ingrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522526/3x4/170/227/4e9a378734ee9e7f717d450826eec5e7/sK/pahlmann_ingrid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7038789#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Menz, Birgit",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/367166/3x4/170/227/d3eeac4ff1b2b9ee2741707375a9cfc5/ar/menz_birgit_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7038790#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Saathoff, Johann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523106/3x4/170/227/580359fcb73bb1ecef36b1bfc8d2bd14/Tw/saathoff_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7038798#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ostendorff, Friedrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522480/3x4/170/227/2051bc6d93c7126520a959892b0a055f/TU/ostendorff_friedrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7038802#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kovac, Kordula",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/242596/3x4/170/227/1a0300471ae82ef9d3b715cbfa7bbc99/BL/kovac_kordula_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7038803#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7038806#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }

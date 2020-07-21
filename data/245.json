@@ -6,9 +6,9 @@
     "id": "245",
     "date": "2013-06-28T00:00:00.000Z",
     "title": "Änderung des Betreuungsgeldgesetzes",
-    "topTitle": "",
+    "topTitle": "251. Sitzung vom 28.06.2013, TOP ZP 22, 72 Betreuungsgeld",
     "description": "Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu dem Gesetzentwurf der Fraktionen der CDU/CSU und FDP zur Ergänzung des Betreuungsgeldgesetzes (Betreuungsgeldergänzungsgesetz) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/113/1711315.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11315 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11315</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/141/1714198.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14198 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14198</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/142/1714211.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14211 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14211</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "ZP.) Zweite und dritte Beratung\r<br/>CDU/CSU, FDP\r<br/>Betreuungsgeldergänzungsgesetz\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/113/1711315.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11315 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11315</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/141/1714198.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14198 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14198</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/142/1714208.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14208 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14208</a> -\r<br/>72.) Erste Beratung BR\r<br/>Aufhebung des Betreuungsgeldgesetzes\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/131/1713112.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13112 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13112</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/113/1711315.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/141/1714198.pdf",
@@ -76,12 +76,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17251.pdf#P.32504",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2482671",
+      "mediathekURL": "https://dbtg.tv/fvid/2482671",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2482671/2482671_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2482671/2482671_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2482671/2482671_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2482671/2482671_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482667#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Bär, Dorothee",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518094/3x4/170/227/53f62356d66500d2b61ba3ee4e21e9ca/kL/baer_dorothee_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482668#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Marks, Caren",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521860/3x4/170/227/1571a38eac13a829c8752086b597f35b/Us/marks_caren_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482672#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Gruß, Miriam",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482673#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Golze, Diana",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240988/3x4/170/227/be1017fb6c22c7b8c898a4ee718451f9/jk/golze_diana_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482676#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Dörner, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519084/3x4/170/227/9d5a92468e16eb69cdc2a6f754a2680e/pI/doerner_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482677#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Grübel, Markus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519920/3x4/170/227/450a9d5c6e84c053564d6ad7bb8c7583/Ql/gruebel_markus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482697#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482698#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Burchardt, Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482700#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Geis, Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482702#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2482724#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      }
+    ]
   }
 }

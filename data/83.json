@@ -6,9 +6,9 @@
     "id": "83",
     "date": "2010-11-12T00:00:00.000Z",
     "title": "Einführung der dreistufigen Volksgesetzgebung in das Grundgesetz",
-    "topTitle": "",
+    "topTitle": "72. Sitzung vom 12.11.2010, TOP 33 Dreistufige Volksgesetzgebung",
     "description": "Gesetzentwurf der Fraktion Die Linke (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/011/1701199.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1199 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1199</a>) abgelehnt",
-    "detailedDescription": "",
+    "detailedDescription": "33.) Zweite u dritte Beratung DIE LINKE<br/>Änderung des Grundgesetzes (Einführung der dreistufigen Volksgesetzgebung in das Grundgesetz)<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/011/1701199.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1199 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1199</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/036/1703609.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3609 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3609</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/011/1701199.pdf"
     ],
@@ -74,12 +74,117 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17072.pdf#P.7883",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=857441",
+      "mediathekURL": "https://dbtg.tv/fvid/857441",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/857441/857441_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/857441/857441_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/857441/857441_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857443#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Wellenreuther, Ingo",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524520/3x4/170/227/b574140a8270200518c4829e1ed607dc/Ih/wellenreuther_ingo_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857444#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Fograscher, Gabriele",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240916/3x4/170/227/34fcfd86c64f22e2d698b36160e97a45/kt/fograscher_gabriele_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857445#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schulz, Jimmy",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527024/3x4/170/227/174d82bec246dcf3fed8f693cfdc5e7f/ZL/schulz_jimmy_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857447#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Mast, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521888/3x4/170/227/ee4cd9564c11c73681d210b40e709035/Kq/mast_katja_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857448#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schulz, Jimmy",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527024/3x4/170/227/174d82bec246dcf3fed8f693cfdc5e7f/ZL/schulz_jimmy_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857450#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Wawzyniak, Halina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241804/3x4/170/227/8abaf6ea82c4b48348ddefe9ed8461b4/Mq/wawzyniak_halina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857451#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Hönlinger, Ingrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857455#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Frieser, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519568/3x4/170/227/e473c79e181339fa4187f228b746f0dc/Qs/frieser_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857462#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kolbe (Leipzig), Daniela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521204/3x4/170/227/98326ffd410f8c12655390a7485a1b1e/Rf/kolbe_daniela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857463#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Thomae, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527112/3x4/170/227/29806502e5fe3ed62679c6d434c70c5d/pS/thomae_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857465#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Hagemann, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857466#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=857467#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      }
+    ]
   }
 }

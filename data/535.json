@@ -6,9 +6,9 @@
     "id": "535",
     "date": "2018-10-18T00:00:00.000Z",
     "title": "Änderung des Asylgesetzes - Änderungsantrag FDP",
-    "topTitle": "",
+    "topTitle": "58. Sitzung vom 18.10.2018, TOP 5, ZP 1 Änderung des Asylgesetzes",
     "description": "Änderungsantrag der Abgeordneten Stefan Thomae, Renata Alt, Jens Beeck, weiteren Abgeordneten und der Fraktion der FDP zu der zweiten Beratung des Gesetzentwurfs der Abgeordneten Christian Lindner, Dr. Marco Buschmann, Katrin Helling-Plahr, weiteren Abgeordneten und der Fraktion der FDP Entwurf eines Gesetzes zur Änderung des Asylgesetzes - Einstufung der Demokratischen Volksrepublik Algerien, des Königreichs Marokko und der Tunesischen Republik als sichere Herkunftsstaaten (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/009/1900957.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/957 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/957</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/049/1904979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4979</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/050/1905079.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5079 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5079</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Zweite und dritte Beratung der Fraktion der FDP <br/>eingebrachten Entwurfs eines Gesetzes zur Änderung des Asylgesetzes – Einstufung der Demokratischen Volksrepublik Algerien, des Königreichs  Marokko und der Tunesischen Republik als sichere Herkunftsstaaten<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/009/1900957.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/957 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/957</a><br/><br/>Beschlussempfehlung und Bericht des Innenausschusses (4. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/049/1904979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4979</a><br/><br/>ZP 1) Beratung der Beschlussempfehlung und des Berichts des Innenausschusses (4. Ausschuss) <br/>zu dem Antrag der Fraktion der AfD <br/>Sechs-Punkte-Plan – Abkommen zur Förderung der Rückkehr syrischer Flüchtlinge<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/000/1900048.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/48 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/48</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/014/1901411.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1411 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1411</a><br/><br/>Namentliche Abstimmungen<br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/009/1900957.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/049/1904979.pdf",
@@ -96,12 +96,128 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19058.pdf#P.6338",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7282460",
+      "mediathekURL": "https://dbtg.tv/fvid/7282460",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282460/7282460_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282460/7282460_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282460/7282460_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282460/7282460_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282464#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Seif, Detlef",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523636/3x4/170/227/f9faa7ebda363c7b0f7f76b6b820748d/EH/seif_detlef_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282466#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Herrmann, Lars",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529282/3x4/170/227/601fa69cd54fbc61d81816a806732957/Qa/herrmann_lars_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282467#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Lindh, Helge",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282469#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ruppert, Dr. Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527064/3x4/170/227/1a39acb087ee87db88d46031145bf55d/CN/ruppert_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282475#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Jelpke, Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282477#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Amtsberg, Luise",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517910/3x4/170/227/5512c5f16ee362daf1579bf53c7597c6/WM/amtsberg_luise_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282478#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brauksiepe, Dr. Ralf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518626/3x4/170/227/1437f66930b8b3613f7b6fd9445985a4/YY/brauksiepe_ralf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282479#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kleinwächter, Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530016/3x4/170/227/882e8320e4f7b832706f41325907d958/Dg/kleinwaechter_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282480#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Heinrich, Gabriela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520236/3x4/170/227/e7fa8125324b90ccb146109ccf1f2975/kX/heinrich_gabriela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282481#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Teuteberg, Linda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527244/3x4/170/227/28893e129fa510c4ae7781019c34a7ef/VA/teuteberg_linda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282482#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Kuffer, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529172/3x4/170/227/fe3d34fa91b636c24c421a546a892d1d/LV/kuffer_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282484#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Irmer, Hans-Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520620/3x4/170/227/a3a58e6ee55512377794abc95ef45b27/Ty/irmer_hans_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282486#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282490#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }

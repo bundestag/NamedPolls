@@ -6,9 +6,9 @@
     "id": "2",
     "date": "2010-12-02T00:00:00.000Z",
     "title": "Mandatsverlängerung der NATO-Operation Active Endeavour",
-    "topTitle": "",
+    "topTitle": "78. Sitzung vom 02.12.2010, TOP 15 NATO-Operation Active Endeavour im Mittelmeer",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4050</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/036/1703690.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3690 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3690</a>) angenommen",
-    "detailedDescription": "",
+    "detailedDescription": "15.) Beratung Beschlussempfehlung und Bericht (3. A)\r<br/>zum Antrag Bundesregierung\r<br/>Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte bei der Unterstützung der gemeinsamen Reaktion auf terroristische Angriffe gegen die USA auf Grundlage des Artikels 51 der Satzung der Vereinten Nationen und des Artikels 5 des Nordatlantikvertrages sowie der Resolutionen 1368 (2001) und 1373 (2001) des Sicherheitsrates der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/036/1703690.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3690 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3690</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4050</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704057.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4057 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4057</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/040/1704050.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/036/1703690.pdf"
@@ -75,12 +75,117 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17078.pdf#P.8635",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=885917",
+      "mediathekURL": "https://dbtg.tv/fvid/885917",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885917/885917_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885917/885917_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885917/885917_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885920#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Spatz, Joachim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885926#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885927#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Mützenich, Dr. Rolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885928#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Götzer, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885932#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Liebich, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521616/3x4/170/227/ce1b18ced91ec1bfcb224101ea1bcf7e/PM/liebich_stefan_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885933#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885934#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Spatz, Joachim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885935#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885940#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885941#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Arnold, Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240720/3x4/170/227/591732dde823711479c2956b4139698c/AO/arnold_rainer_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885942#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885943#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885944#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }

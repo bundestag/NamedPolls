@@ -6,9 +6,9 @@
     "id": "43",
     "date": "2010-12-03T00:00:00.000Z",
     "title": "Stuttgart 21 - Bau- und Vergabestopp",
-    "topTitle": "",
+    "topTitle": "79. Sitzung vom 03.12.2010, TOP 35 Stuttgart 21",
     "description": "Antrag der Fraktion Die Linke (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/039/1703992.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3992 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3992</a>) abgelehnt",
-    "detailedDescription": "",
+    "detailedDescription": "35.) Beratung Antrag DIE LINKE.\r<br/>Stuttgart 21 - Bau- und Vergabestopp\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/039/1703992.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3992 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3992</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/039/1703992.pdf"
     ],
@@ -74,12 +74,33 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17079.pdf",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=888918",
+      "mediathekURL": "https://dbtg.tv/fvid/888918",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/888918/888918_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/888918/888918_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/888918/888918_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=888921#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }

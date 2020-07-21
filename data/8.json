@@ -6,9 +6,9 @@
     "id": "8",
     "date": "2012-01-26T00:00:00.000Z",
     "title": "Entschließungsantrag zur Mandatsverlängerung in Afghanistan (ISAF)",
-    "topTitle": "",
+    "topTitle": "155. Sitzung vom 26.01.2012, TOP 7 Afghanistan-Einsatz (ISAF)",
     "description": "Entschließungsantrag der Fraktion Die Linke (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/084/1708465.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8465 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8465</a>) abgelehnt",
-    "detailedDescription": "",
+    "detailedDescription": "7.) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an dem Einsatz der Internationalen Sicherheitsunterstützungstruppe in Afghanistan (International Security Assistance Force, ISAF) unter Führung der NATO auf Grundlage der Resolution 1386 (2001) und folgender Resolutionen, zuletzt Resolution 2011 (2011) vom 12. Oktober 2011 des Sicherheitsrates der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/081/1708166.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8166 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8166</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/083/1708393.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8393 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8393</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/083/1708394.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8394 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8394</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/084/1708465.pdf"
     ],
@@ -74,12 +74,149 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17155.pdf#P.18559",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1528396",
+      "mediathekURL": "https://dbtg.tv/fvid/1528396",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1528396/1528396_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1528396/1528396_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1528396/1528396_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1528396/1528396_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528400#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Stinner, Dr. Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528359#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Rebmann, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241508/3x4/170/227/fe250b0feadfe5a99a6e484f68bd867c/eb/rebmann_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528360#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Polenz, Ruprecht",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528367#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schäfer (Köln), Paul",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528375#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schmidt, Dr. Frithjof",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523338/3x4/170/227/7984d4028a33b58f906e594770965bd/XS/schmidt_frithjof_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528376#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hoff, Elke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528384#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Mützenich, Dr. Rolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528392#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528401#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lamers (Heidelberg), Dr. Karl A.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521464/3x4/170/227/a0d315ea383ec19e1da6e3808d9d75f0/ih/lamers_karl_a__gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528405#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hänsel, Heike",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520018/3x4/170/227/7406458d6d10f279c60fea756a4ff7d/Ww/haensel_heike_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528406#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Ströbele, Hans-Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241608/3x4/170/227/4d05d573dfd7afb85be8a7387460a2fd/yh/stroebele_hans_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528419#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hahn, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528420#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528424#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Dittrich, Heidrun",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528425#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schlecht, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241604/3x4/170/227/eb359cbf4b8f69384002fe78816333b3/sW/schlecht_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528426#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Thierse, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1528427#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      }
+    ]
   }
 }

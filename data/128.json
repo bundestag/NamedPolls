@@ -6,9 +6,9 @@
     "id": "128",
     "date": "2012-10-25T00:00:00.000Z",
     "title": "Änderungsantrag der SPD zum Jahressteuergesetz 2013",
-    "topTitle": "",
+    "topTitle": "201. Sitzung vom 25.10.2012, TOP 15 Jahressteuergesetz 2013",
     "description": "Änderungsantrag der Fraktion der SPD zum Gesetzentwurf der Bundesregierung - Jahressteuergesetzes 2013 (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/100/1710000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10000</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/106/1710604.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10604 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10604</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711190.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11190 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11190</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711193.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11193 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11193</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "15.a) Zweite und dritte Beratung BReg<br/>Jahressteuergesetz 2013<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/100/1710000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10000</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/106/1710604.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10604 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10604</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711190.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11190 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11190</a>, 17/..., <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711191.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11191 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11191</a> -<br/>15.b) Zweite und dritte Beratung BReg<br/>Verkehrssteueränderungsgesetz/VerkehrStÄndG<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/100/1710039.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10039 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10039</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/104/1710424.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10424 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10424</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711183.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11183 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11183</a>, 17/..., <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711187.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11187 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11187</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/100/1710000.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/106/1710604.pdf",
@@ -77,12 +77,114 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17201.pdf#P.24352",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1975820",
+      "mediathekURL": "https://dbtg.tv/fvid/1975820",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1975820/1975820_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1975820/1975820_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1975820/1975820_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1975820/1975820_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975822#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Gutting, Olav",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519976/3x4/170/227/f324ddc39f32be99338c3f543b03dfbd/EE/gutting_olav_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975826#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Binding (Heidelberg), Lothar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518418/3x4/170/227/e7c1cbef5d0f4e3141ad805d308d5e89/Wv/binding_lothar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975827#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Volk, Dr. Daniel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975833#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höll, Dr. Barbara",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975834#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Paus, Lisa",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522566/3x4/170/227/b75c2290dab406198f047c8f578dc185/uG/paus_lisa_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975842#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lips, Patricia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521662/3x4/170/227/4dab05c17ebef2485fc873a4e5af530c/EN/lips_patricia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975843#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bätzing-Lichtenthäler, Sabine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240742/3x4/170/227/9b2175a728aecc184e48024dfca45eca/BH/baetzing_sabine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975846#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975847#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Beck (Köln), Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240752/3x4/170/227/ad8ed97844d41ad6aea1ef6e8db7a2ef/Vp/beck_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975848#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kauch, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975850#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Lammert, Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975852#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }

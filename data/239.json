@@ -6,9 +6,9 @@
     "id": "239",
     "date": "2013-06-27T00:00:00.000Z",
     "title": "Erhebung einer Vermögensabgabe",
-    "topTitle": "",
+    "topTitle": "250. Sitzung vom 27.06.2013, TOP 10 Bekämpfung der Steuerflucht und Vermögensabgabe",
     "description": "Gesetzentwurf der Fraktion Bündnis 90/Die Grünen zur Erhebung einer Vermögensabgabe (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/107/1710770.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10770 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10770</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/138/1713803.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13803 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13803</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "10.a) Beratung Antrag B90/GRÜNE\r<br/>Steuerflucht durch Wohnsitzverlagerung verhindern - Steuerpflicht an die Staatsbürgerschaft knüpfen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/141/1714133.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14133 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14133</a> -\r<br/>10.b) Zweite und dritte Beratung B90/GRÜNE\r<br/>Erhebung einer Vermögensabgabe\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/107/1710770.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10770 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10770</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/138/1713803.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13803 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13803</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/107/1710770.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/138/1713803.pdf"
@@ -75,12 +75,100 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17250.pdf#P.32011",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2480265",
+      "mediathekURL": "https://dbtg.tv/fvid/2480265",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2480265/2480265_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2480265/2480265_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2480265/2480265_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2480265/2480265_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480258#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Paus, Lisa",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522566/3x4/170/227/b75c2290dab406198f047c8f578dc185/uG/paus_lisa_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480267#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Stetten, Christian Frhr. von",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523880/3x4/170/227/26a7f6bb5dc39a5ac48ac55df572fb69/BD/stetten_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480268#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Sieling, Dr. Carsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/577598/3x4/170/227/cff64131726e5415c5d0f1dc6d630877/rS/sieling_carsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480291#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Wissing, Dr. Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480298#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höll, Dr. Barbara",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480299#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Middelberg, Dr. Mathias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522024/3x4/170/227/762a58d3d0b7840af46301903f5057d7/Yb/Middelberg_Mathias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480308#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Zöllmer, Manfred",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/221368/3x4/170/227/f0f658b89351e1fe463ce0a9e4fbc466/kj/zoellmer_manfred_helmut.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480309#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2480334#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      }
+    ]
   }
 }

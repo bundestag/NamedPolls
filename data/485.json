@@ -6,9 +6,9 @@
     "id": "485",
     "date": "2017-06-29T00:00:00.000Z",
     "title": "Bundeswehreinsatz \"United Nations Interim Force in Lebanon\" (UNIFIL)",
-    "topTitle": "",
+    "topTitle": "243. Sitzung vom 29.06.2017, TOP 16 Bundeswehreinsatz im Libanon (UNIFIL)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der \"United Nations Interim Force in Lebanon\" (UNIFIL) (Drs. <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/124/1812492.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12492 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12492</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/128/1812866.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12866 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12866</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL)<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/124/1812492.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12492 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12492</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/128/1812866.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12866 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12866</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/128/1812867.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/12867 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/12867</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/124/1812492.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/128/1812866.pdf"
@@ -65,12 +65,79 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18243.pdf#P.25006",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7125657",
+      "mediathekURL": "https://dbtg.tv/fvid/7125657",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7125657/7125657_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7125657/7125657_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7125657/7125657_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7125657/7125657_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Noll, Michaela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522380/3x4/170/227/62e85b2ca60a9c169cf8bbf890a50a0a/VY/noll_michaela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7125660#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Annen, Niels",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517942/3x4/170/227/6bdac247e634d39fe7820ff75a1697cc/FK/annen_niels_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7125662#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Groth, Annette",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240990/3x4/170/227/b5e0d8670acf41cc606186434bd91e12/YJ/groth_annette_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7125663#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Wadephul, Dr. Johann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/8b19f895037bd76c3cfa6a993b88828d/IQ/wadephul_johann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7125666#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7125667#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7125670#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Noll, Michaela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522380/3x4/170/227/62e85b2ca60a9c169cf8bbf890a50a0a/VY/noll_michaela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7125671#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

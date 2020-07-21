@@ -6,9 +6,9 @@
     "id": "55",
     "date": "2010-12-02T00:00:00.000Z",
     "title": "Mandatsverlängerung der EU-Operation Atalanta",
-    "topTitle": "",
+    "topTitle": "78. Sitzung vom 02.12.2010, TOP 11 EU-Operation Atalanta vor Somalia",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704048.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4048 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4048</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/036/1703691.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3691 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3691</a>) angenommen",
-    "detailedDescription": "",
+    "detailedDescription": "11.) Beratung Beschlussempfehlung und Bericht (3. A)\r<br/>zum Antrag Bundesregierung\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation Atalanta zur Bekämpfung der Piraterie vor der Küste Somalias auf Grundlage des Seerechtsübereinkommens der Vereinten Nationen von 1982 und der Resolutionen 1814 (2008) vom 15.05.08, 1816 (2008) vom 2.6.08,1838(2008) vom 7.10.08, 1846 (2008) vom 2.12.08,1897(2009) vom 30. November 2009 und nachfolgender Resolutionen des Sicherheitsrates der Vereinten Nationen in Verbindung mit der Gemeinsamen Aktion 2008/851/GASP des Rates der Europäischen Union vom 10.11.08, dem Beschluss 009/907/GASP\r<br/>des Rates der Europäischen Union vom 8.12.09, dem Beschluss 2010/437/GASP des Rates der Europäischen Union vom 30.07.2010 und dem erwarteten Beschluss des Rates der Europäischen Union vom 13.12.2010\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/036/1703691.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3691 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3691</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704048.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4048 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4048</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704055.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4055 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4055</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/040/1704048.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/036/1703691.pdf"
@@ -75,12 +75,96 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17078.pdf#P.8617",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=885862",
+      "mediathekURL": "https://dbtg.tv/fvid/885862",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885862/885862_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885862/885862_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885862/885862_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885865#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Müller-Sönksen, Burkhardt",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885866#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Meßmer, Ullrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885871#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885872#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Aken, Jan van",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/240714/3x4/170/227/be23238d3921acf3e9fa694ab1ae41f8/Yu/aken_jan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885873#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller (Köln), Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885877#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885878#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller (Köln), Kerstin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885879#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Gädechens, Ingo",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519628/3x4/170/227/612e5b3ef55321b2ef2ad20f842b242e/XL/gaedechens_ingo_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885891#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885892#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }
