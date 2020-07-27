@@ -6,9 +6,9 @@
     "id": "247",
     "date": "2013-11-28T00:00:00.000Z",
     "title": "Bundeswehreinsatz in Darfur",
-    "topTitle": "3. Sitzung vom 28.11.2013, TOP 7 Bundeswehreinsatz in Darfur (UNAMID)",
+    "topTitle": "",
     "description": "Antrag der Bundesregierung auf Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU/UN Hybrid-Operation in Darfur (UNAMID) (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/000/1800072.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/72 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/72</a>)",
-    "detailedDescription": "7.) Beratung Antrag BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der AU/UN-Hybrid-Operation in Darfur (UNAMID) auf Grundlage der Resolution 1769 (2007) des Sicherheitsrates der Vereinten Nationen vom 31. Juli 2007 und folgender Resolutionen, zuletzt 2113 (2013) vom 30. Juli 2013\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/000/1800072.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/72 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/72</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/000/1800072.pdf"
     ],
@@ -64,93 +64,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18003.pdf#P.146",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2903928",
-      "mediathekURL": "https://dbtg.tv/fvid/2903928",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2903928/2903928_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2903928/2903928_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2903928/2903928_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2903928/2903928_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903931#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Mißfelder, Philipp",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241362/3x4/170/227/44b82cfd74668946391edf63449e6471/UM/missfelder_philipp_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903932#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Arnold, Rainer",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/240720/3x4/170/227/591732dde823711479c2956b4139698c/AO/arnold_rainer_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903939#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Vogler, Kathrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524286/3x4/170/227/f1bf283837a492236dbf48040b3d7ebb/Lz/vogler_kathrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903948#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Keul, Katja",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903949#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Hahn, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903974#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Raabe, Dr. Sascha",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522748/3x4/170/227/78e1dfed266e0c0ba2101cdcb18b88ad/Nd/raabe_sascha_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903975#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Selle, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523644/3x4/170/227/94f1d626e4780848d0fe092647b1118c/iO/Selle_Johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903985#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2903986#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
