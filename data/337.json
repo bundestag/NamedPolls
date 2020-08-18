@@ -6,9 +6,9 @@
     "id": "337",
     "date": "2015-03-27T00:00:00.000Z",
     "title": "Liegenschaftspolitik des Bundes, Gesetzentwurf Die Linke",
-    "topTitle": "",
+    "topTitle": "98. Sitzung vom 27.03.2015, TOP 22 Liegenschaftspolitik des Bundes",
     "description": "Gesetzentwurf der Fraktion Die Linke zur Reform der Liegenschaftsveräußerungen (Liegenschaftsveräußerungsreformgesetz) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/028/1802882.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2882 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2882</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3873 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3873</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung des Antrags der Fraktion DIE LINKE.<br/>Privatisierung von Bundesliegenschaften stoppen – Liegenschaftspolitik des Bundes nachhaltig reformieren<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/044/1804419.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4419 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4419</a><br/><br/>b) Zweite und dritte Beratung der Fraktion DIE LINKE. <br/>eingebrachten Entwurfs eines Gesetzes zur Reform der Liegenschaftsveräußerungen (Liegenschaftsveräußerungsreformgesetz)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/028/1802882.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2882 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2882</a><br/>Beschlussempfehlung und Bericht des Haushaltsausschusses (8. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3873 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3873</a><br/><br/>c) Beratung der Beschlussempfehlung und des Berichts des Haushaltsausschusses (8. Ausschuss) <br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Für eine nachhaltige und zukunftsweisende Liegenschaftspolitik des Bundes<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/030/1803044.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3044 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3044</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3873 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3873</a><br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/028/1802882.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/038/1803873.pdf"
@@ -65,12 +65,100 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18098.pdf#P.9373",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=4816992",
+      "mediathekURL": "https://dbtg.tv/fvid/4816992",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4816992/4816992_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4816992/4816992_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4816992/4816992_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4816992/4816992_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4816996#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Lötzsch, Dr. Gesine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521684/3x4/170/227/f0abe0a5b92f3676a9a387e0796f8e56/ii/loetzsch_gesine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4816997#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Berghegger, Dr. André",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518330/3x4/170/227/a54c45e5916c788743d7ab9799494989/Hd/berghegger_andre_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4817058#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lindner, Dr. Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4817237#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hinz (Essen), Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241120/3x4/170/227/dc3fd04c53f78abbe9aee950023e6a72/Yz/hinz_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4817238#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lindner, Dr. Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4817253#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hinz (Essen), Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241120/3x4/170/227/dc3fd04c53f78abbe9aee950023e6a72/Yz/hinz_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4817254#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Rainer, Alois",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522780/3x4/170/227/8183cdd8144739fbbeaca122fdc4866e/Ph/rainer_alois_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4817309#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Mindrup, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522044/3x4/170/227/ffa05a0aaabe6bbfe87dd2e119c549c1/GS/mindrup_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4817310#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4817328#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
