@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=683"
+  },
+  "data": {
+    "id": "683",
+    "date": "2020-09-10T00:00:00.000Z",
+    "title": " Abstrakte Normenkontrolle - Düngeverordnung (Beschlussempfehlung)",
+    "topTitle": "173. Sitzung vom 10.09.2020, TOP ZP 11, ZP 12 Abstrakte Normenkontrolle – Düngeverordnung",
+    "description": "Beschlussempfehlung des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) zu dem Antrag der Fraktion der AfD - Antrag auf abstrakte Normenkontrolle beim Bundesverfassungsgericht gemäß Artikel 93 Absatz 1 Nummer 2 des Grundgesetzes wegen der Verordnung zur Änderung der Düngeverordnung und anderer Vorschriften (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/191/1919158.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19158 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19158</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/202/1920235.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20235 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20235</a>)",
+    "detailedDescription": "Beratung des Antrags der Fraktion der AfD<br/>Antrag auf abstrakte Normenkontrolle beim Bundesverfassungsgericht gemäß Artikel 93 Absatz 1 Nummer 2 des Grundgesetzes wegen der Verordnung zur Änderung der Düngeverordnung und anderer Vorschriften<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/191/1919158.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19158 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19158</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/202/1920235.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20235 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20235</a><br/><br/>ZP 12) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss) <br/>zu dem Antrag der Fraktion der FDP<br/>Praxisgerechte Düngeverordnung für echten Umweltschutz <br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/111/1911109.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11109 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11109</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/136/1913642.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13642 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13642</a> <br/><br/>Namentliche Abstimmung<br/><br/>",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/191/1919158.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/202/1920235.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=683&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 545,
+        "no": 80,
+        "abstain": 2,
+        "na": 82
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 224,
+            "no": 1,
+            "abstain": 0,
+            "na": 21
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 137,
+            "no": 0,
+            "abstain": 0,
+            "na": 15
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 89,
+            "yes": 1,
+            "no": 77,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 70,
+            "no": 0,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 53,
+            "no": 0,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 59,
+            "no": 0,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 6,
+            "yes": 1,
+            "no": 2,
+            "abstain": 2,
+            "na": 1
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19173.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7469266",
+      "mediathekURL": "https://dbtg.tv/fvid/7469266",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7469266/7469266_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7469266/7469266_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7469266/7469266_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7469266/7469266_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469268#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Röring, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522978/3x4/170/227/9192ca5b27f5eac19b73f380423ecb0b/Is/roering_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469269#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Protschka, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527022/3x4/170/227/3861b1b3181414edaecb6359e52ed6d3/bo/protschka_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469270#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Spiering, Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523772/3x4/170/227/26de5ece5022bb61d622b25cdbaecc15/Mb/spiering_rainer_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469271#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Konrad, Carina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529140/3x4/170/227/acce558ffc9d831467b91fd4fa19709e/nj/konrad_carina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469272#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Lenkert, Ralph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521570/3x4/170/227/c09f7031742992dc976e12bfad35a307/Qp/lenkert_ralph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469273#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Ostendorff, Friedrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522480/3x4/170/227/2051bc6d93c7126520a959892b0a055f/TU/ostendorff_friedrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469274#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Auernhammer, Artur",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518008/3x4/170/227/89cf0614f39be9949ede6c320fc9472d/UL/auernhammer_artur_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469275#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7469276#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}
