@@ -6,9 +6,9 @@
     "id": "253",
     "date": "2014-02-20T00:00:00.000Z",
     "title": "Militärische Ausbildungsmission in Mali",
-    "topTitle": "",
+    "topTitle": "17. Sitzung vom 20.02.2014, TOP 6 Bundeswehreinsatz in Mali (EUTM Mali)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Ausbildungsmission EUTM Mali (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/004/1800437.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/437 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/437</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/006/1800603.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/603 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/603</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "6.a) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag der BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten militärischen Ausbildungsmission EUTM Mali auf Grundlage des Ersuchens der malischen Regierung sowie der Beschlüsse 2013/34/GASP und\r<br/>2013/87/GASP des Rates der Europäischen Union (EU) vom 17. Januar 2013 und vom 18. Februar 2013 in Verbindung mit den Resolutionen 2071 (2012), 2085 (2012) und 2100 (20139 des Sicherheitsrates der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/004/1800437.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/437 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/437</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/006/1800603.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/603 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/603</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/006/1800616.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/616 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/616</a> -\r<br/>6.b) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag B90/Grüne\r<br/>zu der Abgabe einer Regierungserklärung durch die Bundeskanzlerin zum Europäischen Rat am 19./20. Dezember 2013 in Brüssel\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/001/1800196.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/196 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/196</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/005/1800531.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/531 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/531</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/004/1800437.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/006/1800603.pdf"
@@ -65,12 +65,93 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18017.pdf#P.1294",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3147005",
+      "mediathekURL": "https://dbtg.tv/fvid/3147005",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3147005/3147005_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3147005/3147005_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3147005/3147005_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3147005/3147005_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147001#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Annen, Niels",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517942/3x4/170/227/6bdac247e634d39fe7820ff75a1697cc/FK/annen_niels_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147006#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147030#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Nick, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147031#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Özdemir, Cem",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522450/3x4/170/227/3c6d8b352b5f96f793ef03e61ccec77c/ge/oezdemir_cem_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147042#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Weber, Gabi",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524446/3x4/170/227/6cf8adc760f6f3aec378b0c56d59baae/ae/weber_gabriele_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147043#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Vietz, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/241736/3x4/170/227/9388512e0a7ea8ea12b118b32b23d2ee/TI/vietz_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147049#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hahn, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147050#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3147074#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
