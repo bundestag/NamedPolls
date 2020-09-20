@@ -6,9 +6,9 @@
     "id": "585",
     "date": "2019-03-14T00:00:00.000Z",
     "title": "Deutsche und europäische Israelpolitik",
-    "topTitle": "",
+    "topTitle": "86. Sitzung vom 14.03.2019, TOP 15 Deutsche und europäische Israelpolitik",
     "description": "Antrag der Abgeordneten Frank Müller-Rosentritt, Bijan Djir-Sarai, Alexander Graf Lambsdorff, weiterer Abgeordneter und der Fraktion der FDP: Deutsches und europäisches Abstimmungsverhalten in Bezug auf Israel bei den Vereinten Nationen neu ausrichten (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/075/1907560.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7560 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7560</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung des Antrags der Fraktion der FDP <br/>Deutsches und europäisches Abstimmungsverhalten in Bezug auf Israel bei den Vereinten Nationen neu ausrichten<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/075/1907560.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7560 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7560</a><br/><br/>namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/075/1907560.pdf"
     ],
@@ -94,12 +94,114 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19086.pdf#P.10198",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7335359",
+      "mediathekURL": "https://dbtg.tv/fvid/7335359",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7335359/7335359_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7335359/7335359_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7335359/7335359_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7335359/7335359_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335362#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Müller-Rosentritt, Frank",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527344/3x4/170/227/c55dac7434b12599ec3bd26c3b8a36c9/Em/mueller_rosentritt_frank_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335365#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/a61285530be0a47ef19f2010914b43c0/XA/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335366#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friesen, Dr. Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530346/3x4/170/227/feaa3ae04208acbe717c24bae3bad0da/hx/friesen_anton_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335369#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Schmid, Dr. Nils",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527066/3x4/170/227/5499615c6f46017d09a87ca22a55480c/EV/schmid_nils_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335370#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Liebich, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521616/3x4/170/227/ce1b18ced91ec1bfcb224101ea1bcf7e/PM/liebich_stefan_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335373#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Nouripour, Omid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335374#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Nick, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335375#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schwabe, Frank",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523556/3x4/170/227/80a7923a30d0f7f56560f7dbebe65d5f/nb/schwabe_frank_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335376#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Mieruch, Mario",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530218/3x4/170/227/fba40e2ddc0770bd9cf4063ab58267a4/Uk/mieruch_mario_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335377#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Schmidt (Fürth), Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523324/3x4/170/227/b99d5f277d46aacfa96a52557ee36ddf/Yg/schmidt_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335378#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7335382#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
