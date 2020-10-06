@@ -6,9 +6,9 @@
     "id": "377",
     "date": "2015-12-03T00:00:00.000Z",
     "title": "Umsetzung des Aktionsprogramms Klimaschutz 2020",
-    "topTitle": "",
+    "topTitle": "143. Sitzung vom 03.12.2015, TOP 4 Klimaschutz",
     "description": "Entschließungsantrag der Abgeordneten Annalena Baerbock, Bärbel Höhn, Oliver Krischer, weiterer Abgeordneter und der Fraktion Bündnis 90/Die Grünen zu der Beratung der Antwort der Bundesregierung auf die Große Anfrage der Abgeordneten Bärbel Höhn, Oliver Krischer, Annalena Baerbock, weiterer Abgeordneter und der Fraktion Bündnis 90/Die Grünen: Umsetzung des Aktionsprogramms Klimaschutz 2020 (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/054/1805489.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5489 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5489</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/067/1806763.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6763 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6763</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/069/1806900.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6900 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6900</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung der Antwort der Bundesregierung auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Umsetzung des Aktionsprogramms Klimaschutz 2020<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/054/1805489.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5489 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5489</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/067/1806763.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/6763 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/6763</a><br/><br/>b) Beratung der Unterrichtung durch die Bundesregierung<br/>Klimaschutzbericht 2015<br/>Drucksache 18/6840",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/054/1805489.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/067/1806763.pdf",
@@ -66,12 +66,128 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18143.pdf#P.13949",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6244516",
+      "mediathekURL": "https://dbtg.tv/fvid/6244516",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6244516/6244516_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6244516/6244516_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6244516/6244516_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6244516/6244516_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244519#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Höhn, Bärbel",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241100/3x4/170/227/b6f10f9400bbc9d31b25f9fdcafcb858/vB/hoehn_baerbel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244527#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Göppel, Josef",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241006/3x4/170/227/64d2c1e8132a488816768558073c3178/Xs/goeppel_josef_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244579#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bulling-Schröter, Eva",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240754/3x4/170/227/f9e431beca301086a252287ea3cd01ab/lX/bulling_schroeter_eva_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244580#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schwarzelühr-Sutter, Rita",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523570/3x4/170/227/2524d15fd69daa8868d4683d094d8f1b/AM/schwarzeluehr_sutter_rita_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244597#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Parl. Staatssekretärin für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+        "party": null
+      },
+      {
+        "deputyName": "Müller (Braunschweig), Carsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522164/3x4/170/227/7746e1b85b4a2cc30581dccffe1f2f73/SJ/mueller_carsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244607#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Leidig, Sabine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521546/3x4/170/227/c3376ecb0ec3bc69bff9cd7e7d339d59/Fu/leidig_sabine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244670#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Mindrup, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522044/3x4/170/227/ffa05a0aaabe6bbfe87dd2e119c549c1/GS/mindrup_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244671#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Krischer, Oliver",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521320/3x4/170/227/9d0652608f931457c84c330f2c228c6d/EG/krischer_oliver_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244697#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Grundmann, Oliver",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519938/3x4/170/227/d8e4f5000a4efcb718fb8be76050dd0e/kv/grundmann_oliver_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244701#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Klare, Arno",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521032/3x4/170/227/e2be4c5dbee267e600e5b87b3c6a145/Rm/klare_arno_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244757#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Auernhammer, Artur",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518008/3x4/170/227/89cf0614f39be9949ede6c320fc9472d/UL/auernhammer_artur_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244758#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Groß, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519904/3x4/170/227/5fb2501b6121b6c1c67796999433cde9/Ug/gross_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244774#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6244775#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
