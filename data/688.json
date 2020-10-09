@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=688"
+  },
+  "data": {
+    "id": "688",
+    "date": "2020-10-08T00:00:00.000Z",
+    "title": "Bundeswahlgesetz (Größe des Bundestages)",
+    "topTitle": "183. Sitzung vom 08.10.2020, TOP 16 Bundeswahlgesetz (Größe des Bundestages)",
+    "description": "Gesetzentwurf der Fraktionen der CDU/CSU und SPD: Entwurf eines Gesetzes zur Änderung des Bundeswahlgesetzes (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/225/1922504.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22504 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22504</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/231/1923187.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23187 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23187</a>)",
+    "detailedDescription": "- Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD<br/>eingebrachten Entwurfs eines … Gesetzes zur Änderung des Bundeswahlgesetzes<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/225/1922504.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22504 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22504</a><br/>- Zweite und dritte Beratung des von der Fraktion der AfD <br/>eingebrachten Entwurfs eines … Gesetzes zur Änderung des Bundeswahlgesetzes<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/228/1922894.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22894 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22894</a><br/>- Zweite und dritte Beratung des von den Fraktionen FDP, DIE LINKE. und BÜNDNIS 90/DIE GRÜNEN <br/>eingebrachten Entwurfs eines … Gesetzes zur Änderung des Bundeswahlgesetzes<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/146/1914672.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14672 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14672</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Inneres und Heimat (4. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/231/1923187.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23187 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23187</a><br/><br/>namentliche Abstimmungen",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/225/1922504.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/231/1923187.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=688&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 362,
+        "no": 281,
+        "abstain": 8,
+        "na": 58
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 227,
+            "no": 0,
+            "abstain": 7,
+            "na": 12
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 135,
+            "no": 0,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 89,
+            "yes": 0,
+            "no": 79,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 77,
+            "abstain": 0,
+            "na": 3
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 57,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 64,
+            "abstain": 0,
+            "na": 3
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 6,
+            "yes": 0,
+            "no": 4,
+            "abstain": 1,
+            "na": 1
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19183.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7475822",
+      "mediathekURL": "https://dbtg.tv/fvid/7475822",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7475822/7475822_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7475822/7475822_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7475822/7475822_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7475822/7475822_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475825#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Frieser, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519568/3x4/170/227/e473c79e181339fa4187f228b746f0dc/Qs/frieser_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475826#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Glaser, Albrecht",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519744/3x4/170/227/5bd3ddc224eab3c2117a397cb1f6bda4/ea/glaser_albrecht_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475827#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Özdemir (Duisburg), Mahmut",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522454/3x4/170/227/cf2abc16b1736b1bff7b48a1d41a5bba/PC/oezdemir_mahmut_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475828#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kuhle, Konstantin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527228/3x4/170/227/1c66ab840da659a53b077e9be4ff3f94/SW/kuhle_konstantin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475829#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Straetmanns, Friedrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525508/3x4/170/227/6bb307b65660f6267700e1efbf0adf77/Oo/straetmanns_friedrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475830#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Haßelmann, Britta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520130/3x4/170/227/37053cb5513f7938bd825c7b6a6857b7/YC/hasselmann_britta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475831#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Bülow, Marco",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518778/3x4/170/227/d5fa648db487ed3f3992ffa54d9aa58c/mr/buelow_marco_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475832#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Mieruch, Mario",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530218/3x4/170/227/fba40e2ddc0770bd9cf4063ab58267a4/Uk/mieruch_mario_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475833#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Amthor, Philipp",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526146/3x4/170/227/92ba2f0f0562c715e4fe5b99ad7be278/IJ/amthor_philipp_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475834#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7475836#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}
