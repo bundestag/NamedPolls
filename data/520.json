@@ -6,9 +6,9 @@
     "id": "520",
     "date": "2018-06-14T00:00:00.000Z",
     "title": "Bundeswehreinsatz in Kosovo (KFOR)",
-    "topTitle": "",
+    "topTitle": "39. Sitzung vom 14.06.2018, TOP 9 Bundeswehreinsatz in Kosovo (KFOR)",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung: Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo (KFOR) auf der Grundlage der Resolution 1244 (1999) des Sicherheitsrates der Vereinten Nationen vom 10. Juni 1999 (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/023/1902384.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2384 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2384</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/026/1902670.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2670 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2670</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo (KFOR) auf der Grundlage der Resolution 1244 (1999) des Sicherheitsrates der Vereinten Nationen vom 10. Juni 1999<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/023/1902384.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2384 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2384</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/026/1902670.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2670 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2670</a><br/><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/027/1902737.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2737 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2737</a><br/><br/>Namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/023/1902384.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/026/1902670.pdf"
@@ -95,12 +95,107 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19039.pdf#P.3840",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7245793",
+      "mediathekURL": "https://dbtg.tv/fvid/7245793",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245793/7245793_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245793/7245793_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245793/7245793_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7245793/7245793_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245795#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Weber, Gabi",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524446/3x4/170/227/6cf8adc760f6f3aec378b0c56d59baae/ae/weber_gabriele_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245796#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Friesen, Dr. Anton",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530346/3x4/170/227/feaa3ae04208acbe717c24bae3bad0da/hx/friesen_anton_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245797#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Löbel, Nikolas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521674/3x4/170/227/a475ad9aca234d3bc9b2ade9827b8ff5/RE/loebel_nikolas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245799#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Alt, Renata",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526344/3x4/170/227/384009adfc8045cfa77865d0f2243bac/uv/alt_renata_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245800#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Nastic, Zaklin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/532812/3x4/170/227/afa7cf9e9dee9501be91d97dd3bf623c/RU/nastic_zaklin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245802#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Keul, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245803#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Juratovic, Josip",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520756/3x4/170/227/b3922a9a62ba535a367ffd6bca9abaea/qY/juratovic_josip_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245806#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Erndl, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530764/3x4/170/227/5d3aff41993755235996e27129f9ada2/gH/erndl_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245807#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Gnodtke, Eckhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529946/3x4/170/227/5ecd9a2df1e241573a9882293e8ef6ae/OQ/gnodtke_eckhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245812#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245813#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
