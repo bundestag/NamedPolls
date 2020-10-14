@@ -4,29 +4,188 @@
   },
   "data": {
     "id": "145",
-    "date": null,
-    "title": "",
-    "topTitle": "",
-    "description": "",
-    "detailedDescription": "",
-    "documents": [],
-    "deputyVotesURL": "",
+    "date": "2009-12-03T00:00:00.000Z",
+    "title": "Bundeswehreinsatz Enduring Freedom (OEF)",
+    "topTitle": "9. Sitzung vom 03.12.2009, TOP 11 Bundeswehreinsatz Enduring Freedom",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung über die Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte bei der Unterstützung der gemeinsamen Reaktion auf terroristische Angriffe gegen die USA (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/000/1700038.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/38 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/38</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700110.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/110 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/110</a>)",
+    "detailedDescription": "11.) Beratung Beschlussempfehlung und Bericht (3.A)\r<br/>zum Antrag Bundesregierung\r<br/>Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte bei der Unterstützung der gemeinsamen Reaktion auf terroristische Angriffe gegen die USA auf Grundlage des Artikels 51 der Satzung der Vereinten Nationen und des Artikels 5 des Nordatlantikvertrags sowie der Resolutionen 1368 (2001) und 1373 (2001) des Sicherheitsrats der Vereinten Nationen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/000/1700038.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/38 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/38</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700110.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/110 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/110</a>, 17/... -",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/17/000/1700038.pdf",
+      "https://dip21.bundestag.de/dip21/btd/17/001/1700110.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=145&ajax=true",
     "votes": {
       "all": {
-        "total": null,
-        "yes": null,
-        "no": null,
-        "abstain": null,
-        "na": null
+        "total": 622,
+        "yes": 322,
+        "no": 266,
+        "abstain": 0,
+        "na": 34
       },
-      "parties": []
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 239,
+            "yes": 231,
+            "no": 2,
+            "abstain": 0,
+            "na": 6
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 0,
+            "no": 128,
+            "abstain": 0,
+            "na": 18
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 91,
+            "no": 0,
+            "abstain": 0,
+            "na": 2
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 0,
+            "no": 69,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 0,
+            "no": 67,
+            "abstain": 0,
+            "na": 1
+          }
+        }
+      ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17009.pdf#P.699",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=415195",
+      "mediathekURL": "https://dbtg.tv/fvid/415195",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/415195/415195_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/415195/415195_h264_720_400_2000kb_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/415195/415195_h264_512_288_514kb_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Solms, Dr. Hermann Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415198#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Stinner, Dr. Rainer",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415199#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Groschek, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415200#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415201#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Wellmann, Karl-Georg",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241806/3x4/170/227/f9f505382f1dc3fa0666f970720a98fc/Cu/wellmann_karl_georg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415202#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Gehrcke, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240998/3x4/170/227/2ff52a617213aa02c7babe74e0972263/dP/gehrcke_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415203#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Wellmann, Karl-Georg",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241806/3x4/170/227/f9f505382f1dc3fa0666f970720a98fc/Cu/wellmann_karl_georg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415204#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Liebich, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521616/3x4/170/227/ce1b18ced91ec1bfcb224101ea1bcf7e/PM/liebich_stefan_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415206#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Keul, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415207#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Silberhorn, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523690/3x4/170/227/171361ff2ce0daeade87efbbc7457a46/GP/silberhorn_thomas_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415208#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Arnold, Rainer",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240720/3x4/170/227/591732dde823711479c2956b4139698c/AO/arnold_rainer_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415209#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Silberhorn, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523690/3x4/170/227/171361ff2ce0daeade87efbbc7457a46/GP/silberhorn_thomas_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415210#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hasselfeldt, Gerda",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=415211#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      }
+    ]
   }
 }
