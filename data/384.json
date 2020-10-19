@@ -6,9 +6,9 @@
     "id": "384",
     "date": "2016-02-17T00:00:00.000Z",
     "title": "Regierungserklärung zum Europäischen Rat - Entschließungsantrag",
-    "topTitle": "154. Sitzung vom 17.02.2016, TOP 1 Regierungserklärung zum Europäischen Rat am 18./19. Februar 2016 in Brüssel",
+    "topTitle": "",
     "description": "Entschließungsantrag der Fraktion DIE LINKE. zu der Abgabe einer Regierungserklärung durch die Bundeskanzlerin zum Europäischen Rat am 18./19. Februar 2016 in Brüssel (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/075/1807543.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7543 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7543</a>)",
-    "detailedDescription": "Abgabe einer Regierungserklärung durch die Bundeskanzlerin<br/>zum Europäischen Rat am 18./19. Februar 2016 in Brüssel",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/075/1807543.pdf"
     ],
@@ -64,121 +64,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18154.pdf#P.15129",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6561444",
-      "mediathekURL": "https://dbtg.tv/fvid/6561444",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6561444/6561444_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6561444/6561444_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6561444/6561444_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6561444/6561444_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Prof. Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561446#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Merkel, Dr. Angela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521966/3x4/170/227/5b540b9f5294257c2163925e6cb288fb/Sv/merkel_angela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561504#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundeskanzlerin",
-        "party": null
-      },
-      {
-        "deputyName": "Wagenknecht, Dr. Sahra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524344/3x4/170/227/c9dc1c532d7f830e8276d7e3a88b90e3/VG/wagenknecht_sahra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561527#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Oppermann, Thomas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561600#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561778#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Kauder, Volker",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520886/3x4/170/227/bc85d69c1ceedac5ded1231ed6cd3f58/QF/kauder_volker_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561841#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hänsel, Heike",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520018/3x4/170/227/7406458d6d10f279c60fea756a4ff7d/Ww/haensel_heike_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561842#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Schäfer (Bochum), Axel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523164/3x4/170/227/25cabc57035d9d31cee98b8c40f77977/rd/schaefer_axel_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561862#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hasselfeldt, Gerda",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561865#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Sarrazin, Manuel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523124/3x4/170/227/fc35e15e20cbd26a18019f7e6420fb43/qg/sarrazin_manuel_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561866#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Krichbaum, Gunther",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521308/3x4/170/227/21a6b69654a85663feefbd3dd3646120/DE/krichbaum_gunther_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561944#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Frei, Thorsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561945#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hintze, Peter",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6561972#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
