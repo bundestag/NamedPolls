@@ -6,9 +6,9 @@
     "id": "302",
     "date": "2014-10-16T00:00:00.000Z",
     "title": "Entschließungsantrag zu der Regierungserklärung durch die Bundeskanzlerin",
-    "topTitle": "",
+    "topTitle": "60. Sitzung vom 16.10.2014, TOP 3 Regierungserklärung zum ASEM- und Euro-Gipfel und zum Europäischen Rat",
     "description": "Entschließungsantrag der Fraktion Bündnis 90/Die Grünen zu der Abgabe einer Regierungserklärung durch die Bundeskanzlerin zum ASEM-Gipfel am 16./17. Oktober 2014, zum Europäischen Rat am 23./24. Oktober 2014 und zum Euro-Gipfel am 24. Oktober 2014 in Brüssel (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/028/1802895.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2895 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2895</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Abgabe einer Regierungserklärung durch die Bundeskanzlerin<br/>zum ASEM-Gipfel am 16./17. Oktober 2014, zum Europäischen Rat am 23./24. Oktober 2014 und zum Euro-Gipfel am 24. Oktober 2104 in Brüssel<br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/028/1802895.pdf"
     ],
@@ -64,12 +64,128 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18060.pdf#P.5483",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3990822",
+      "mediathekURL": "https://dbtg.tv/fvid/3990822",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3990822/3990822_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3990822/3990822_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3990822/3990822_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3990822/3990822_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Lammert, Prof. Dr. Norbert",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990824#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Merkel, Dr. Angela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521966/3x4/170/227/5b540b9f5294257c2163925e6cb288fb/Sv/merkel_angela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990863#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundeskanzlerin",
+        "party": null
+      },
+      {
+        "deputyName": "Gysi, Dr. Gregor",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/500eb465292720b942ecb17c6c46619c/Kd/gysi_gregor_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990865#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990905#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Göring-Eckardt, Katrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990910#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990913#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Westphal, Bernd",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524558/3x4/170/227/4b04bf565b5b5b0d64f4bfe0e52af885/AF/westphal_bernd_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990950#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ulrich, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524214/3x4/170/227/69f349a34c2ee66d76193894e57c5000/An/ulrich_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990955#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Marschall, Matern von",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518400/3x4/170/227/20beffde779d325bd0ffec26b392a35f/Sk/von_marschall_matern_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990958#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Baerbock, Annalena",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518088/3x4/170/227/e94a261f5908e95191d875ec06c48e4a/mo/baerbock_annalena_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990959#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Poß, Joachim",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241454/3x4/170/227/e4d09a24973ce095911bfeb8342f99f9/OK/poss_joachim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990994#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Beermann, Maik",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518262/3x4/170/227/8e63b728bd5aa8ee7c728557d08fbbd5/ob/beermann_maik_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3990997#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Mißfelder, Philipp",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241362/3x4/170/227/44b82cfd74668946391edf63449e6471/UM/missfelder_philipp_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3991001#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3991002#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
