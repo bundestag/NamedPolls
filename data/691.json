@@ -6,9 +6,9 @@
     "id": "691",
     "date": "2020-10-09T00:00:00.000Z",
     "title": "Finanzielle Lasten der Migrationspolitik umfassend offenlegen",
-    "topTitle": "",
+    "topTitle": "184. Sitzung vom 09.10.2020, TOP 31 Finanzielle Lasten der Migrationspolitik",
     "description": "Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der Abgeordneten Dr. Gottfried Curio, Dr. Bernd Baumann, Jochen Haug, weiterer Abgeordneter und der Fraktion der AfD: Finanzielle Lasten der Migrationspolitik umfassend offenlegen (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/164/1916488.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16488 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16488</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/231/1923183.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23183 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23183</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung der Antwort der Bundesregierung auf die Große Anfrage der Fraktion der AfD <br/>Die fiskalischen Lasten der Zuwanderung<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/117/1911733.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11733 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11733</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/183/1918352.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18352 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18352</a><br/>b) Beratung der Beschlussempfehlung und des Berichts des Haushaltsausschusses (8. Ausschuss) <br/>zu dem Antrag der Fraktion der AfD<br/>Finanzielle Lasten der Migrationspolitik umfassend offenlegen <br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/164/1916488.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16488 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16488</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/231/1923183.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23183 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23183</a><br/><br/>namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/164/1916488.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/231/1923183.pdf"
@@ -95,12 +95,128 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19184.pdf#P.23197",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7476739",
+      "mediathekURL": "https://dbtg.tv/fvid/7476739",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7476739/7476739_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7476739/7476739_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7476739/7476739_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7476739/7476739_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476738#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Keuter, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529204/3x4/170/227/86ba5debb59aa710a162581c93449de7/vk/keuter_stefan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476740#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Widmann-Mauz, Annette",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524578/3x4/170/227/9260df422fe4fc0809c7c1c037b20eaa/Fs/widmann_mauz_annette_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476741#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Staatsministerin für Migration, Flüchtlinge und Integration",
+        "party": null
+      },
+      {
+        "deputyName": "Springer, René",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525550/3x4/170/227/8c88f95ec5db42d681ce84b55e2a7eea/cl/springer_rene_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476742#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Widmann-Mauz, Annette",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524578/3x4/170/227/9260df422fe4fc0809c7c1c037b20eaa/Fs/widmann_mauz_annette_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476743#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Staatsministerin für Migration, Flüchtlinge und Integration",
+        "party": null
+      },
+      {
+        "deputyName": "Meyer, Christoph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521994/3x4/170/227/80479c0c8ab95cefb84773c7d63513a6/tF/meyer_christoph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476744#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Lindh, Helge",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476745#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lötzsch, Dr. Gesine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521684/3x4/170/227/f0abe0a5b92f3676a9a387e0796f8e56/ii/loetzsch_gesine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476746#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Polat, Filiz",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526706/3x4/170/227/2ffd270243dabf83de8f194c7982c250/sG/polat_filiz_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476747#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Ehrhorn, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530002/3x4/170/227/5f46ddbcb3576f1d50e096ede81a681b/pk/ehrhorn_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476748#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Polat, Filiz",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526706/3x4/170/227/2ffd270243dabf83de8f194c7982c250/sG/polat_filiz_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476749#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Seif, Detlef",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523636/3x4/170/227/f9faa7ebda363c7b0f7f76b6b820748d/EH/seif_detlef_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476750#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Karl, Alois",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520852/3x4/170/227/3dc856a8bd7b4df367d045ca678af129/Eq/karl_alois_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476751#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7476752#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
