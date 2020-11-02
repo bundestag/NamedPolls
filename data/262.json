@@ -64,7 +64,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18033.pdf#P.2774",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18033.pdf",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3391056",
       "mediathekURL": "https://dbtg.tv/fvid/3391056",
@@ -87,63 +87,6 @@
         }
       ]
     },
-    "speeches": [
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391059#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Kotting-Uhl, Sylvia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521254/3x4/170/227/b685ec27a271c8400b84310b6a1be90c/Cw/kotting_uhl_sylvia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391064#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Motschmann, Elisabeth",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522130/3x4/170/227/5c5f7c8982e7d331a0b4194e9896b0dd/Mf/motschmann_elisabeth_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391099#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Zdebel, Hubertus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524738/3x4/170/227/b164585fddf6ff336810c90f4a3f11fc/NC/zdebel_hubertus_josef_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391100#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Scheer, Dr. Nina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523198/3x4/170/227/e03bb1f31df605768b23842d3eaeada4/uM/scheer_nina_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391138#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391139#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Lengsfeld, Dr. Philipp",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/242030/3x4/170/227/630ff5a0469dfd87b3f27db0921eec98/oK/lengsfeld_philipp_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391140#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3391147#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
