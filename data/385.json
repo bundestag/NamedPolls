@@ -6,9 +6,9 @@
     "id": "385",
     "date": "2016-02-18T00:00:00.000Z",
     "title": "Rüstungsexportkontrollgesetz",
-    "topTitle": "",
+    "topTitle": "155. Sitzung vom 18.02.2016, TOP 20 Rüstungsexportkontrolle",
     "description": "Antrag der Abgeordneten Agnieszka Brugger, Katja Keul, Katharina Dröge und der Fraktion Bündnis 90/Die Grünen: Rüstungsexportkontrollgesetz vorlegen (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/075/1807546.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7546 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7546</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "a) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Rüstungsexportkontrollgesetz vorlegen<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/075/1807546.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7546 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7546</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss) zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Eckpunkte für ein Rüstungsexportkontrollgesetz<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/049/1804940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4940</a>, 18/7030",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/075/1807546.pdf"
     ],
@@ -64,12 +64,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18155.pdf#P.15290",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6566632",
+      "mediathekURL": "https://dbtg.tv/fvid/6566632",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6566632/6566632_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6566632/6566632_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6566632/6566632_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6566632/6566632_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6566635#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6566658#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Willsch, Klaus-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524610/3x4/170/227/7ad49799ff0786466da7ce24822040e7/Gu/willsch_klaus_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6566677#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Aken, Jan van",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240714/3x4/170/227/be23238d3921acf3e9fa694ab1ae41f8/Yu/aken_jan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6566678#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Ilgen, Matthias",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/242042/3x4/170/227/3a2971e37b3cb0682f446eeb542310e1/hv/ilgen_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6566748#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Manderla, Gisela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521838/3x4/170/227/3a66c27ef6439747f36b48de87c04470/Zc/manderla_gisela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6566774#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brunner, Dr. Karl-Heinz",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518732/3x4/170/227/e7293292805c93024ac9b7e12ff57e90/qJ/brunner_karlheinz_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6566775#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6566784#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
