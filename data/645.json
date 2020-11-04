@@ -6,9 +6,9 @@
     "id": "645",
     "date": "2019-12-19T00:00:00.000Z",
     "title": "Föderale Sicherheitsarchitektur",
-    "topTitle": "",
+    "topTitle": "137. Sitzung vom 19.12.2019, TOP 9 Föderale Sicherheitsarchitektur",
     "description": "Beschlussempfehlung des Ausschusses für Inneres und Heimat (4. Ausschuss) zu dem Antrag der Abgeordneten Benjamin Strasser, Konstantin Kuhle, Stephan Thomae, weiterer Abgeordneter und der Fraktion der FDP: Terrorismus effektiv bekämpfen, Verantwortlichkeiten klären - Einsetzung einer Kommission zur Reform der föderalen Sicherheitsarchitektur (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/074/1907424.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7424 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7424</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/151/1915129.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15129 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15129</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss) <br/>zu dem Antrag der Fraktion der FDP<br/>Terrorismus effektiv bekämpfen, Verantwortlichkeiten klären – Einsetzung einer Kommission zur Reform der föderalen Sicherheitsarchitektur – Föderalismuskommission III<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/074/1907424.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7424 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7424</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/151/1915129.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15129 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15129</a><br/><br/>namentliche Abstimmung<br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/074/1907424.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/151/1915129.pdf"
@@ -95,12 +95,121 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19137.pdf#P.17059",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7408236",
+      "mediathekURL": "https://dbtg.tv/fvid/7408236",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7408236/7408236_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7408236/7408236_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7408236/7408236_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7408236/7408236_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408233#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Schuster (Weil am Rhein), Armin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523550/3x4/170/227/70f28d753d7e5c384c125aadbde3ebc4/dc/schuster_armin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408234#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Wirth, Dr. Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530406/3x4/170/227/a2c363f15e2ce5b4d620d27859659369/qw/wirth_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408237#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Grötsch, Uli",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519878/3x4/170/227/87c843bbb1d679149ac3d3bf7d87611e/YS/groetsch_uli_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408239#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Strasser, Benjamin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529146/3x4/170/227/c60cbef823a4432af3b8f8fa9e059ca/BF/strasser_benjamin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408240#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Hahn, Dr. André",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520040/3x4/170/227/120e4bf0b63bb0232a216a91e056878f/Xq/hahn_andre_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408241#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Mihalic, Dr. Irene",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522034/3x4/170/227/8802aef4b3cf432a958a6bbc33d69ee7/Ww/mihalic_irene_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408243#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Vries, Christoph de",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524316/3x4/170/227/e4e8bc6d266bb86cc022cc5da221a94b/mb/vries_christopher_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408244#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Mittag, Susanne",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522056/3x4/170/227/9b5045b27a5edbcc3371bb00ff778d1/Qx/mittag_susanne_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408245#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kuhle, Konstantin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527228/3x4/170/227/1c66ab840da659a53b077e9be4ff3f94/SW/kuhle_konstantin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408246#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Amthor, Philipp",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526146/3x4/170/227/92ba2f0f0562c715e4fe5b99ad7be278/IJ/amthor_philipp_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408247#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kuffer, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529172/3x4/170/227/fe3d34fa91b636c24c421a546a892d1d/LV/kuffer_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408248#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7408249#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
