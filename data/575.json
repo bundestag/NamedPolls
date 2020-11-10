@@ -6,9 +6,9 @@
     "id": "575",
     "date": "2019-02-21T00:00:00.000Z",
     "title": "Gefahr Wolf - Unkontrollierte Population stoppen",
-    "topTitle": "83. Sitzung vom 21.02.2019, TOP ZP  8 Wolfsmanagement und -monitoring",
+    "topTitle": "",
     "description": "Buchstabe b der Beschlussempfehlung des Ausschusses für Umwelt, Naturschutz und nukleare Sicherheit (16. Ausschuss) zu dem Antrag der Abgeordneten Karlheinz Busen, Dr. Gero Clemens Hocker, Carina Konrad, weiterer Abgeordneter und der Fraktion der FDP (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/005/1900584.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/584 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/584</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/030/1903034.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3034 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3034</a>)",
-    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss) <br/>- zu dem Antrag der Fraktion der AfD<br/>Herdenschutz und Schutz des Menschen im ländlichen Raum – Wolfspopulation intelligent regulieren<br/>- zu dem Antrag der Fraktion der FDP<br/>Gefahr Wolf – Unkontrollierte Population stoppen<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/005/1900594.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/594 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/594</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/005/1900584.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/584 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/584</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/030/1903034.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3034 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3034</a> Buchstabe a und Buchstabe b<br/><br/>namentliche Abstimmung",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/005/1900584.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/030/1903034.pdf"
@@ -95,100 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19083.pdf#P.9725",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7328913",
-      "mediathekURL": "https://dbtg.tv/fvid/7328913",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7328913/7328913_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7328913/7328913_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7328913/7328913_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7328913/7328913_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328916#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Träger, Carsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524142/3x4/170/227/5e7732d3501134ac50911c00c62598a/rx/traeger_carsten_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328918#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hilse, Karsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530362/3x4/170/227/429df60c014737d62bd9d44e2c3698a0/Ya/hilse_karsten_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328919#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Damerow, Astrid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526784/3x4/170/227/87356d1c42ae54634df8df929a1ad70a/JO/damerow_astrid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328921#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Busen, Karlheinz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525954/3x4/170/227/d7117ca8382388ffa50557095ed02f27/qM/busen_karlheinz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328922#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Tackmann, Dr. Kirsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524008/3x4/170/227/ab648f9304846531be0fda13ec74ee79/gv/tackmann_kirsten_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328923#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Ebner, Harald",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519192/3x4/170/227/66825d04a784b3ece7aa8a2708c36f0b/GR/ebner_harald_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328924#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Auernhammer, Artur",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518008/3x4/170/227/fe9b09d5fceb879e17feb8ebd68f0ffa/iF/auernhammer_artur_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328927#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schulze, Dr. Klaus-Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523518/3x4/170/227/179d5f27eddf35a8bb02a5b6e58fd10a/Bk/schulze_klaus-peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328928#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kubicki, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328931#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
