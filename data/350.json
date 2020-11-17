@@ -6,9 +6,9 @@
     "id": "350",
     "date": "2015-07-02T00:00:00.000Z",
     "title": "Subventionen für Atomkraftwerke in der EU, Beschlussempfehlung zum Antrag Die Linke",
-    "topTitle": "",
+    "topTitle": "115. Sitzung vom 02.07.2015, TOP 18 Subventionen für Atomkraftwerke in der EU",
     "description": "Beschlussempfehlung des Ausschusses für Wirtschaft und Energie (9. Ausschuss) zu dem Antrag der Abgeordneten Eva Bulling-Schröter, Caren Lay, Dr. Dietmar Bartsch, weiterer Abgeordneter und der Fraktion Die Linke: Aktiv gegen Subventionen für den Neubau von Atomkraftwerken in der EU (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/042/1804215.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4215 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4215</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/054/1805417.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5417 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5417</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss) <br/>- zu dem Antrag der Fraktion DIE LINKE. <br/>Aktiv gegen Subventionen für den Neubau von Atomkraftwerken in der EU<br/>- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Subventionen für britisches Atomkraftwerk Hinkley Point C stoppen und rechtliche Schritte einlegen<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/042/1804215.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4215 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4215</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/043/1804316.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4316 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4316</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/054/1805417.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5417 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5417</a><br/>",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/042/1804215.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/054/1805417.pdf"
@@ -65,12 +65,72 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18115.pdf#P.11171",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=5350865",
+      "mediathekURL": "https://dbtg.tv/fvid/5350865",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5350865/5350865_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5350865/5350865_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5350865/5350865_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/5350865/5350865_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5350867#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Scheer, Dr. Nina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523198/3x4/170/227/e03bb1f31df605768b23842d3eaeada4/uM/scheer_nina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5350874#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Zdebel, Hubertus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524738/3x4/170/227/b164585fddf6ff336810c90f4a3f11fc/NC/zdebel_hubertus_josef_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5350875#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Koeppen, Jens",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521168/3x4/170/227/f42976ad2f015b3192996b4e63d114b3/BM/koeppen_jens_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5350879#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kotting-Uhl, Sylvia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521254/3x4/170/227/b685ec27a271c8400b84310b6a1be90c/Cw/kotting_uhl_sylvia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5350880#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=5350948#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

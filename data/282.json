@@ -70,7 +70,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18042.pdf",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18042.pdf#P.3764",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3565369",
       "mediathekURL": "https://dbtg.tv/fvid/3565369",
@@ -93,6 +93,140 @@
         }
       ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565372#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Movassat, Niema",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522134/3x4/170/227/f342dae5c2a506d0f487e50c17230165/TV/movassat_niema_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565408#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Klein, Volkmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521068/3x4/170/227/dff05b8d283cf5701904340f172992bd/Xz/klein_volkmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565410#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hajduk, Anja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520050/3x4/170/227/3897b4f069677d473164fdc9b856ec52/ME/hajduk_anja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565411#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kofler, Dr. Bärbel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521196/3x4/170/227/e9861ae3a9452951102828e706a375c3/St/kofler_baerbel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565446#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pfeiffer, Sibylle",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241434/3x4/170/227/1bf63ff3c5fc54e20e636384dfdb5379/WY/pfeiffer_sibylle_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565454#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hajduk, Anja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520050/3x4/170/227/3897b4f069677d473164fdc9b856ec52/ME/hajduk_anja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565455#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Pfeiffer, Sibylle",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241434/3x4/170/227/1bf63ff3c5fc54e20e636384dfdb5379/WY/pfeiffer_sibylle_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565456#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Leutert, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521592/3x4/170/227/d68862a38507d4ef8970f6417523ed4e/zT/leutert_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565457#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schäfer (Bochum), Axel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523164/3x4/170/227/25cabc57035d9d31cee98b8c40f77977/rd/schaefer_axel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565492#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kekeritz, Uwe",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520916/3x4/170/227/f6bbfcec216ee8350c898b67207089e9/um/kekeritz_uwe_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565494#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Pfeiffer, Sibylle",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241434/3x4/170/227/1bf63ff3c5fc54e20e636384dfdb5379/WY/pfeiffer_sibylle_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565495#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kekeritz, Uwe",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520916/3x4/170/227/f6bbfcec216ee8350c898b67207089e9/um/kekeritz_uwe_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565496#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Wöhrl, Dagmar G.",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241756/3x4/170/227/a6de45a6e31c43d4bc43a30d94577b0/RJ/woehrl_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565500#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Steffen, Sonja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523822/3x4/170/227/ddd38de948da7f9a1798f8e51a01b3e8/gx/steffen_sonja_amalie_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565536#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Hajduk, Anja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520050/3x4/170/227/3897b4f069677d473164fdc9b856ec52/ME/hajduk_anja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565537#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kippels, Dr. Georg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521006/3x4/170/227/70c5aaf8ca86605680598e0da9ca596/vP/kippels_georg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565543#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Zech, Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524742/3x4/170/227/a61901b69c29e56ca35fee87ced42fab/Dl/zech_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565578#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hintze, Peter",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3565582#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }

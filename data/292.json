@@ -66,7 +66,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18046.pdf",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18046.pdf#P.4091",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3594346",
       "mediathekURL": "https://dbtg.tv/fvid/3594346",
@@ -89,6 +89,133 @@
         }
       ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594348#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Nahles, Andrea",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522262/3x4/170/227/471276d4b82d1dee736b876a032f930c/xf/nahles_andrea_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594351#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesministerin für Arbeit und Soziales",
+        "party": null
+      },
+      {
+        "deputyName": "Ernst, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519308/3x4/170/227/5bce7b8e1daaac7a1a9e25b82ee53d7c/rr/ernst_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594386#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schiewerling, Karl",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241534/3x4/170/227/e670f5acffde29fcf19114880b4146de/Qh/Schiewerling_Karl_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594389#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schlecht, Michael",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241604/3x4/170/227/eb359cbf4b8f69384002fe78816333b3/sW/schlecht_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594390#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schiewerling, Karl",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241534/3x4/170/227/e670f5acffde29fcf19114880b4146de/Qh/Schiewerling_Karl_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594391#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pothmer, Brigitte",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241464/3x4/170/227/adf804508ace38e86254fa78454ffaec/lO/pothmer_brigitte_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594430#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Mast, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521888/3x4/170/227/ee4cd9564c11c73681d210b40e709035/Kq/mast_katja_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594431#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Zimmermann (Zwickau), Sabine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524802/3x4/170/227/c862b011f3f3c2e78dfdb207ec9b3d5f/KD/zimmermann_sabine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594432#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Stracke, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523924/3x4/170/227/4549745f6e23c962d8fb06f23741d400/iA/stracke_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594470#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Müller-Gemmeke, Beate",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522146/3x4/170/227/11983373a107c1d127815b1e625dfe06/KJ/mueller_gemmeke_beate_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594471#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Reimann, Dr. Carola",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522852/3x4/170/227/84cd45844a99e1d33260bfde2e0508ac/oK/reimann_carola_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594475#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Zimmer, Prof. Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524808/3x4/170/227/e9251b199c2d1dd96dd617691d98f78/xI/zimmer_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594476#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Rützel, Bernd",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523074/3x4/170/227/383c4e9c340cb954fc749891e3885bdf/st/ruetzel_bernd_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594509#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Oellers, Wilfried",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522442/3x4/170/227/5539a6b7de473c1c0f620854710754d6/Te/oellers_wilfried_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594510#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pfeiffer, Dr. Joachim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522614/3x4/170/227/ca2d9df770ddc5b942ad4054dbfeaafe/tk/pfeiffer_joachim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594512#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Weiß (Emmendingen), Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524512/3x4/170/227/9c0b26d9a3436cf004ef3d284bf44f47/Tq/weiss_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594514#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3594551#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

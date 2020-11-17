@@ -6,9 +6,9 @@
     "id": "450",
     "date": "2017-01-19T00:00:00.000Z",
     "title": "Dragoner-Areal dem Land Berlin zum Kauf anbieten",
-    "topTitle": "",
+    "topTitle": "212. Sitzung vom 19.01.2017, TOP 10 Dragoner-Areal in Berlin",
     "description": "Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der Abgeordneten Caren Lay, Dr. Gesine Lötzsch, Halina Wawzyniak, weiterer Abgeordneter und der Fraktion Die Linke: Dragoner-Areal dem Land Berlin zum Kauf anbieten (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/097/1809790.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9790 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9790</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/106/1810658.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10658 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10658</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der Fraktion DIE LINKE. <br/>Dragoner-Areal dem Land Berlin zum Kauf anbieten<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/097/1809790.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9790 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9790</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/106/1810658.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10658 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10658</a><br/>- Namentliche Abstimmung -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/097/1809790.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/106/1810658.pdf"
@@ -65,12 +65,72 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18212.pdf#P.21290",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7061435",
+      "mediathekURL": "https://dbtg.tv/fvid/7061435",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7061435/7061435_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7061435/7061435_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7061435/7061435_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7061435/7061435_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7061437#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Gröhler, Klaus-Dieter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519872/3x4/170/227/126eba765fc1687f260cafbd27772116/ST/groehler_klaus_dieter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7061442#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lay, Caren",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521510/3x4/170/227/2a98dd41cbb84339ac088340cd07572c/SI/lay_caren_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7061443#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Kahrs, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520782/3x4/170/227/60a3e62dc1c5cbcf96917b84dde19b14/PS/kahrs_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7061444#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Paus, Lisa",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522566/3x4/170/227/feb71a073603b7fb96570f3350e74ffb/sG/paus_lisa_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7061445#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7061449#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }

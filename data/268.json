@@ -6,9 +6,9 @@
     "id": "268",
     "date": "2014-05-22T00:00:00.000Z",
     "title": "Gentechnikfreiheit im Pflanzenbau",
-    "topTitle": "",
+    "topTitle": "36. Sitzung vom 22.05.2014, TOP 9, ZP 6 Gentechnikfreiheit im Pflanzenbau in Europa",
     "description": "Antrag der Fraktion Bündnis 90/Die Günen und der Fraktion Die Linke die Vorbehalte der Bevölkerung gegenüber der Argo-Gentechnik anzuerkennen - Gentechnikfreiheit im Pflanzenbau dauerhaft sichern (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/014/1801453.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1453 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1453</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN, DIE LINKE.<br/>zu dem Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2001/18/EG betreffend die den Mitgliedstaaten eingeräumte Möglichkeit, den Anbau von GVO auf ihrem Hoheitsgebiet zu beschränken oder zu untersagen<br/>KOM(2010) 375 endg.; Ratsdok. 12371/10 Add. 1<br/>hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 2 des Grundgesetzes<br/>Vorbehalte der Bevölkerung gegenüber der Agro-Gentechnik anerkennen – Gentechnikfreiheit im Pflanzenbau dauerhaft sichern<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/014/1801453.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1453 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1453</a><br/><br/>ZP 6 Beratung des Antrags der Fraktionen der CDU/CSU, SPD <br/>Grüne Gentechnik – Sorgen und Vorbehalte der Menschen ernst nehmen, Selbstbestimmung stärken, Wahlfreiheit ermöglichen<br/>Drucksache 18/1450",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/014/1801453.pdf"
     ],
@@ -64,12 +64,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18036.pdf#P.3028",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3440339",
+      "mediathekURL": "https://dbtg.tv/fvid/3440339",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3440339/3440339_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3440339/3440339_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3440339/3440339_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3440339/3440339_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Schmidt (Aachen), Ulla",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440341#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Ebner, Harald",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519192/3x4/170/227/66825d04a784b3ece7aa8a2708c36f0b/GR/ebner_harald_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440342#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Schmidt (Fürth), Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523324/3x4/170/227/b99d5f277d46aacfa96a52557ee36ddf/Yg/schmidt_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440349#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister für Ernährung und Landwirtschaft",
+        "party": null
+      },
+      {
+        "deputyName": "Tackmann, Dr. Kirsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524008/3x4/170/227/ab648f9304846531be0fda13ec74ee79/gv/tackmann_kirsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440350#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Drobinski-Weiß, Elvira",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240860/3x4/170/227/7ebf0b18647d956c536a4a0ae37d2098/Fe/drobinski_weiss_elvira_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440386#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Vries, Kees de",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524320/3x4/170/227/bec3c373c50020039b1a7f95b44bbe2d/RG/de_vries_kees_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440387#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Miersch, Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522028/3x4/170/227/2adb849a5885929a95a0d01f4f5d6451/Fm/miersch_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440391#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3440395#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
