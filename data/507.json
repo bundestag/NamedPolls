@@ -95,7 +95,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19023.pdf#P.2083",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19023.pdf",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7213174",
       "mediathekURL": "https://dbtg.tv/fvid/7213174",
@@ -118,84 +118,6 @@
         }
       ]
     },
-    "speeches": [
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213177#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Möller, Siemtje",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213180#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213181#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Nolte, Jan Ralf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522388/3x4/170/227/daa1a611437a13ae4bba111acdf32dbf/td/nolte_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213183#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Kiesewetter, Roderich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/e24a69365808bad047240f9c478e591/fg/kiesewetter_roderich_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213184#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Sauter, Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527258/3x4/170/227/d98ad46e6dffbdf854dc6f9bb0fa60fe/xc/sauter_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213186#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Brandt, Michel",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529444/3x4/170/227/70077d764a8f57fda01e03218490d781/cE/brandt_michel_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213187#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Lindner, Dr. Tobias",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213188#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Beyer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213189#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Zeulner, Emmi",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524760/3x4/170/227/37a57a9d6a5615fae924ae1df442691c/wh/zeulner_emmi_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213191#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7213192#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
