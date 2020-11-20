@@ -127,6 +127,13 @@
         "party": null
       },
       {
+        "deputyName": "Lauterbach, Prof. Dr. Karl",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521506/3x4/170/227/aa22ff8650cb5286d4a2446638688c17/Dc/lauterbach_karl_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328933#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
         "deputyName": "Kubicki, Wolfgang",
         "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328935#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
@@ -139,6 +146,13 @@
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328936#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "Die Linke"
+      },
+      {
+        "deputyName": "Lauterbach, Prof. Dr. Karl",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521506/3x4/170/227/aa22ff8650cb5286d4a2446638688c17/Dc/lauterbach_karl_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328937#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
       },
       {
         "deputyName": "Kubicki, Wolfgang",
@@ -183,11 +197,25 @@
         "party": "Bündnis 90/Die Grünen"
       },
       {
+        "deputyName": "Jung, Ingmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520746/3x4/170/227/f75d92c41958975f14481912c7c763d4/SV/jung_ingmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328947#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
         "deputyName": "Schmidt (Aachen), Ulla",
         "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328948#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "SPD"
+      },
+      {
+        "deputyName": "Schauws, Ulle",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523194/3x4/170/227/d5830ccb70322cb8e82f5754c7c9464c/YG/schauws_ulle_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7328949#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
       },
       {
         "deputyName": "Schmidt (Aachen), Ulla",
