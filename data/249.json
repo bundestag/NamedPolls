@@ -6,9 +6,9 @@
     "id": "249",
     "date": "2014-01-29T00:00:00.000Z",
     "title": "Bundeswehreinsatz OAE",
-    "topTitle": "",
+    "topTitle": "10. Sitzung vom 29.01.2014, TOP 3 Bundeswehr-Einsatz OAE",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO geführten Operation Active Endeavour im gesamten Mittelmeer (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/002/1800263.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/263 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/263</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/003/1800348.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/348 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/348</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "3. Beratung BeschlEmpf u Ber (3.A)<br/>zum Antrag BReg<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Operation Active Endevour im gesamten Mittelmeer<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/002/1800263.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/263 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/263</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/003/1800348.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/348 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/348</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/003/1800383.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/383 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/383</a> -",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/002/1800263.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/003/1800348.pdf"
@@ -65,12 +65,100 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18010.pdf#P.618",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3084078",
+      "mediathekURL": "https://dbtg.tv/fvid/3084078",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3084078/3084078_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3084078/3084078_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3084078/3084078_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3084078/3084078_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084080#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Annen, Niels",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517942/3x4/170/227/83689be23d13a9feeefb53e87f230591/hs/annen_niels_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084081#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084082#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Neu, Dr. Alexander S.",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522324/3x4/170/227/ac1eb5153b265e488b9628f0ce8dfd49/iq/neu_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084086#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Beyer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084104#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lindner, Dr. Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084105#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Bartz, Julia",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084111#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Liebich, Stefan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521616/3x4/170/227/ce1b18ced91ec1bfcb224101ea1bcf7e/PM/liebich_stefan_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084112#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Bartz, Julia",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084113#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3084114#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
