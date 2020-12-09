@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=704"
+  },
+  "data": {
+    "id": "704",
+    "date": "2020-12-08T00:00:00.000Z",
+    "title": "Beschluss gemäß Artikel 115 Absatz 2 des Grundgesetzes (Beschlussempfehlung Haushaltsausschuss)",
+    "topTitle": "197. Sitzung vom 08.12.2020, TOP I.4, II., ZP 1 Finanzen, Bundesrechnungshof, Beschluss Art. 115 II GG",
+    "description": "Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der Fraktionen der CDU/CSU und SPD - Beschluss des Deutschen Bundestages gemäß Artikel 115 Absatz 2 Satz 6 und 7 des Grundgesetzes (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22887</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24940</a>)",
+    "detailedDescription": "a) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 08<br/>Bundesministerium der Finanzen<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/233/1923324.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23324 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23324</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/233/1923325.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23325 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23325</a><br/><br/>b) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 20<br/>Bundesrechnungshof<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/233/1923325.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23325 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23325</a><br/><br/>TOP II.) Beratung der Beschlussempfehlung und des Berichts des Haushaltsausschusses (8. Ausschuss)<br/>zu dem Antrag der Fraktionen der CDU/CSU und SPD <br/>Beschluss des Bundestages gemäß Artikel 115 Absatz 2 Satz 6 und 7 des Grundgesetzes<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22887</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24940</a><br/><br/>ZP 1) Beratung des Antrags der Fraktion der FDP<br/>Beschluss des Bundestages gemäß Artikel 115 Absatz 2 Satz 6 und 7 des Grundgesetzes<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/249/1924969.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24969 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24969</a><br/><br/>namentliche Abstimmung",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=704&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 374,
+        "no": 73,
+        "abstain": 187,
+        "na": 75
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 231,
+            "no": 0,
+            "abstain": 0,
+            "na": 15
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 142,
+            "no": 0,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 89,
+            "yes": 0,
+            "no": 70,
+            "abstain": 0,
+            "na": 19
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 0,
+            "abstain": 72,
+            "na": 8
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 0,
+            "abstain": 56,
+            "na": 13
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 1,
+            "no": 0,
+            "abstain": 59,
+            "na": 7
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 6,
+            "yes": 0,
+            "no": 3,
+            "abstain": 0,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19197.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7488363",
+      "mediathekURL": "https://dbtg.tv/fvid/7488363",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7488363/7488363_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7488363/7488363_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7488363/7488363_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7488363/7488363_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488364#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Boehringer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518512/3x4/170/227/c6636fc7e47f81c7e76fb72091abfa5a/vj/boehringer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488365#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Rohde, Dennis",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523004/3x4/170/227/dea6ea01c95d644510e29c65c89a5167/lJ/rohde_dennis_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488366#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Dürr, Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526836/3x4/170/227/ab1636595e71a6d852ae634fd3c370de/Bq/duerr_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488367#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Rehberg, Eckhardt",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522824/3x4/170/227/61a30183e35ddaeecb6a2488f86ad345/VM/rehberg_eckhardt_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488368#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lötzsch, Dr. Gesine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521684/3x4/170/227/f0abe0a5b92f3676a9a387e0796f8e56/ii/loetzsch_gesine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488369#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Kindler, Sven-Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520998/3x4/170/227/e78871466578255361b017edcac92f0c/qQ/kindler_sven_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488370#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Scholz, Olaf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/509336/3x4/170/227/81a1555bd5aa89267399632fcabadacc/uM/scholz_olaf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488371#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister der Finanzen",
+        "party": null
+      },
+      {
+        "deputyName": "Hollnagel, Dr. Bruno",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527118/3x4/170/227/4fa55b3cfa1600da5d077c171ee245ad/sH/hollnagel_bruno_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488372#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Jung, Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520738/3x4/170/227/2632f92b914f576353b7659f2d28d116/oh/jung_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488373#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Fricke, Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525440/3x4/170/227/8bd0a696d28f88942e75b3a6bbbdeaee/OK/fricke_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488374#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "De Masi, Fabio",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521882/3x4/170/227/c30c396d3e595bddd63dc7c437c11c7b/fY/de_masi_fabio_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488375#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Deligöz, Ekin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518992/3x4/170/227/dd92647b6570e05c078bee0e7e8d61bd/bQ/deligoez_ekin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488376#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Michelbach, Dr. h. c. (Univ Kyiv) Hans",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522014/3x4/170/227/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/MD/michelbach_hans_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488377#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kiziltepe, Cansel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521020/3x4/170/227/bb0b8e4f1e7b208a59abc636ea1ebb02/Qj/kiziltepe_cansel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488378#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Uhl, Markus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524196/3x4/170/227/51a93e320d318c41d0b571fa8ca4948b/Yz/uhl_markus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488380#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7488381#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      }
+    ]
+  }
+}

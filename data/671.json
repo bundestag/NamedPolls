@@ -6,9 +6,9 @@
     "id": "671",
     "date": "2020-05-14T00:00:00.000Z",
     "title": "Bereitstellung des ESM-Instruments ECCL Pandemic Crisis Support",
-    "topTitle": "",
+    "topTitle": "160. Sitzung vom 14.05.2020, TOP 11, ZP 13 Vorsorgliche Kreditlinie des ESM",
     "description": "Antrag des Bundesministers der Finanzen - Bereitstellung des ESM-Instruments ECCL Pandemic Crisis Support (PCSI); Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 4 Abs. 1 ESMFinanzierungsgesetz (ESMFinG) (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/191/1919110.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19110 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19110</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Beratung des Antrags des Bundesministeriums der Finanzen<br/>Bereitstellung des ESM-Instruments ECCL Pandemic Crisis Support (PCSI)<br/>hier: \tEinholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 4 Abs. 1 ESM-Finanzierungsgesetzes (ESMFinG)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/191/1919110.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19110 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19110</a><br/><br/>ZP 13) Beratung des Antrags der Fraktion der AfD <br/>Abwicklung der Europäischen Finanzstabilisierungsfazilität und des Europäischen Stabilitätsmechanismus <br/>hier:\tStellungnahme des Deutschen Bundestages nach § 8 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/191/1919153.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19153 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19153</a><br/><br/>namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/191/1919110.pdf"
     ],
@@ -94,12 +94,156 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19160.pdf#P.19836",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7445973",
+      "mediathekURL": "https://dbtg.tv/fvid/7445973",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7445973/7445973_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7445973/7445973_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7445973/7445973_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7445973/7445973_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445971#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Scholz, Olaf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/509336/3x4/170/227/81a1555bd5aa89267399632fcabadacc/uM/scholz_olaf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445974#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister der Finanzen",
+        "party": null
+      },
+      {
+        "deputyName": "Boehringer, Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518512/3x4/170/227/c6636fc7e47f81c7e76fb72091abfa5a/vj/boehringer_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445975#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445977#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Rehberg, Eckhardt",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522824/3x4/170/227/61a30183e35ddaeecb6a2488f86ad345/VM/rehberg_eckhardt_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445978#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hollnagel, Dr. Bruno",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527118/3x4/170/227/4fa55b3cfa1600da5d077c171ee245ad/sH/hollnagel_bruno_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445979#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Rehberg, Eckhardt",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522824/3x4/170/227/61a30183e35ddaeecb6a2488f86ad345/VM/rehberg_eckhardt_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445981#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Fricke, Otto",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525440/3x4/170/227/8bd0a696d28f88942e75b3a6bbbdeaee/OK/fricke_otto_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445982#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "De Masi, Fabio",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521882/3x4/170/227/c30c396d3e595bddd63dc7c437c11c7b/fY/de_masi_fabio_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445983#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445984#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Kindler, Sven-Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520998/3x4/170/227/e78871466578255361b017edcac92f0c/qQ/kindler_sven_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445985#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Rohde, Dennis",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523004/3x4/170/227/dea6ea01c95d644510e29c65c89a5167/lJ/rohde_dennis_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445986#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Berghegger, Dr. André",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518330/3x4/170/227/a54c45e5916c788743d7ab9799494989/Hd/berghegger_andre_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445987#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445988#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Schäffler, Frank",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527272/3x4/170/227/af570d235bb6fa532cb2738a15cdfc76/al/schaeffler_frank_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445989#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Oßner, Florian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522476/3x4/170/227/b4e7d3fafdd4f9d428042f718251d9a6/Jc/ossner_florian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445990#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Leikert, Dr. Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521552/3x4/170/227/816f4809be2c73b2b87fbc0616c0dcf3/hB/leikert_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445991#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7445992#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
