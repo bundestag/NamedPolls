@@ -6,9 +6,9 @@
     "id": "325",
     "date": "2015-01-29T00:00:00.000Z",
     "title": "Bundeswehreinsatz Operation Active Fence (Türkei)",
-    "topTitle": "82. Sitzung vom 29.01.2015, TOP 8 Bundeswehreinsatz Operation Active Fence (Türkei)",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Fortsetzung der Entsendung bewaffneter deutscher Streitkräfte zur Verstärkung der Integrierten Luftverteidigung der NATO auf Ersuchen der Türkei und auf Grundlage des Rechts auf kollektive Selbstverteidigung (Artikel 51 der Charta der Vereinten Nationen) sowie des Beschlusses des Nordatlantikrates vom 4.Dezember 2012 (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/036/1803698.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3698 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3698</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/038/1803859.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3859 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3859</a>)",
-    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung<br/>Fortsetzung der Entsendung bewaffneter deutscher Streitkräfte zur Verstärkung der integrierten Luftverteidigung der NATO auf Ersuchen der Türkei und auf Grundlage des Rechts auf kollektive Selbstverteidigung (Artikel 51 der Charta der Vereinten Nationen) sowie des Beschlusses des Nordatlantikrates vom 4. Dezember 2012<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/036/1803698.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3698 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3698</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/038/1803859.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3859 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3859</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/038/1803860.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3860 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3860</a><br/>",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/036/1803698.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/038/1803859.pdf"
@@ -65,93 +65,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18082.pdf#P.7832",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=4511784",
-      "mediathekURL": "https://dbtg.tv/fvid/4511784",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4511784/4511784_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4511784/4511784_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4511784/4511784_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/4511784/4511784_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Singhammer, Johannes",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511789#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Annen, Niels",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/517942/3x4/170/227/83689be23d13a9feeefb53e87f230591/hs/annen_niels_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511807#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Kunert, Katrin",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241228/3x4/170/227/31b20d7a4e07dde793c5a4eec5a7ccfa/nX/kunert_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511808#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Nick, Dr. Andreas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511816#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Nouripour, Omid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511870#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Hellmich, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520268/3x4/170/227/59759fc155aafb3182ce9b7c2588a60b/Ek/hellmich_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511871#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Lamers (Heidelberg), Prof. h. c. Dr. Karl A.",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521464/3x4/170/227/a0d315ea383ec19e1da6e3808d9d75f0/ih/lamers_karl_a__gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511895#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Brandl, Dr. Reinhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511915#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hintze, Peter",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=4511916#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

@@ -6,9 +6,9 @@
     "id": "400",
     "date": "2016-06-23T00:00:00.000Z",
     "title": "Bundeswehreinsatz in Kosovo (KFOR)",
-    "topTitle": "179. Sitzung vom 23.06.2016, TOP 10 Bundeswehreinsatz in Kosovo (KFOR)",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung auf Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo auf der Grundlage der Resolution 1244 (1999) des Sicherheitsrates der Vereinten Nationen vom 10. Juni 1999 und des Militärisch-Technischen Abkommens zwischen der internationalen Sicherheitspräsenz (KFOR) und den Regierungen der Bundesrepublik Jugoslawien (jetzt Republik Serbien) und der Republik Serbien vom 9. Juni 1999 (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/086/1808623.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8623 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8623</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/087/1808760.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8760 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8760</a>)",
-    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung<br/>Fortsetzung der deutschen Beteiligung an der internationalen Sicherheitspräsenz in Kosovo auf der Grundlage der Resolution 1244 (1999) des Sicherheitsrates der Vereinten Nationen vom 10. Juni 1999 und des Militärisch-Technischen Abkommens zwischen der internationalen Sicherheitspräsenz (KFOR) und den Regierungen der Bundesrepublik Jugoslawien (jetzt: Republik Serbien) und der Republik Serbien vom 9. Juni 1999<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/086/1808623.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8623 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8623</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/087/1808760.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8760 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8760</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/087/1808761.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8761 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8761</a><br/>",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/086/1808623.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/087/1808760.pdf"
@@ -65,79 +65,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18179.pdf#P.17663",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6947060",
-      "mediathekURL": "https://dbtg.tv/fvid/6947060",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6947060/6947060_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6947060/6947060_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6947060/6947060_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6947060/6947060_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Schmidt (Aachen), Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947063#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Juratovic, Josip",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520756/3x4/170/227/b3922a9a62ba535a367ffd6bca9abaea/qY/juratovic_josip_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947066#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Dagdelen, Sevim",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947067#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Beyer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947069#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Beck (Bremen), Marieluise",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240838/3x4/170/227/66e83c9287feaafaa159f46ffcdec93a/rt/beck_marieluise_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947070#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Obermeier, Julia",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947129#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947132#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
