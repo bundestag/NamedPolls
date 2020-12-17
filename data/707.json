@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=707"
+  },
+  "data": {
+    "id": "707",
+    "date": "2020-12-16T00:00:00.000Z",
+    "title": "Arbeitsschutzkontrollgesetz",
+    "topTitle": "201. Sitzung vom 16.12.2020, TOP 4 Arbeitsschutz in der Fleischindustrie",
+    "description": "Gesetzentwurf der Bundesregierung: Entwurf eines Gesetzes zur Verbesserung des Vollzugs im Arbeitsschutz (Arbeitsschutzkontrollgesetz) - (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/219/1921978.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/21978 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/21978</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/227/1922772.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22772 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22772</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/251/1925141.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25141 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25141</a>)",
+    "detailedDescription": "a) Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Verbesserung des Vollzugs im Arbeitsschutz (Arbeitsschutzkontrollgesetz)<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/219/1921978.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/21978 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/21978</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/227/1922772.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22772 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22772</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/230/1923054.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23054 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23054</a> Nr. 3<br/>Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales (11. Ausschuss)<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/251/1925141.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25141 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25141</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) <br/>- zu dem Antrag der Fraktion der AfD<br/>Mehr Redlichkeit in der Fleischwirtschaft und faire Löhne für Leiharbeiter<br/>- zu dem Antrag der Fraktion DIE LINKE.<br/>Arbeitsschutzkontrollgesetz nachbessern und Ausbeutung in der Fleischindustrie beenden<br/>- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Faire Arbeitsbedingungen und angemessener Gesundheitsschutz für Beschäftigte in der Fleischbranche und Saisonarbeitskräfte in der Landwirtschaft<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/229/1922923.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22923 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22923</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/224/1922488.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22488 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22488</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/195/1919551.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19551 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19551</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/251/1925141.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25141 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25141</a><br/><br/>Namentliche Abstimmung<br/>",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/219/1921978.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/227/1922772.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/251/1925141.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=707&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 473,
+        "no": 152,
+        "abstain": 5,
+        "na": 79
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 228,
+            "no": 3,
+            "abstain": 1,
+            "na": 14
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 132,
+            "no": 0,
+            "abstain": 0,
+            "na": 20
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 0,
+            "no": 71,
+            "abstain": 2,
+            "na": 15
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 76,
+            "abstain": 0,
+            "na": 4
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 51,
+            "no": 0,
+            "abstain": 0,
+            "na": 18
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 62,
+            "no": 0,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 7,
+            "yes": 0,
+            "no": 2,
+            "abstain": 2,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19201.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7490607",
+      "mediathekURL": "https://dbtg.tv/fvid/7490607",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7490607/7490607_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7490607/7490607_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7490607/7490607_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7490607/7490607_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/405919d8dfcdf0ae25546eff4f70e387/jc/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490610#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Heil (Peine), Hubertus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520208/3x4/170/227/3675ad7aa802dd0610e6e58b921832a/iI/heil_hubertus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490611#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesminister für Arbeit und Soziales",
+        "party": null
+      },
+      {
+        "deputyName": "Witt, Uwe",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530408/3x4/170/227/b37d68fec18c330dec754510fe6e9861/zF/witt_uwe_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490612#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Gröhe, Hermann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519868/3x4/170/227/8c7ca66e1ea7bec2e0d229faa9e7fa78/Rk/groehe_hermann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490613#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Cronenberg, Carl-Julius",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527122/3x4/170/227/6ede9b0aeb20582a07b2f13204a0459/dy/cronenberg_carlo_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490614#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Krellmann, Jutta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521294/3x4/170/227/1adcc7c2c8c1732c822a33c887eb961a/WM/krellmann_jutta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490615#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller-Gemmeke, Beate",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522146/3x4/170/227/11983373a107c1d127815b1e625dfe06/KJ/mueller_gemmeke_beate_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490616#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Mast, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521888/3x4/170/227/ee4cd9564c11c73681d210b40e709035/Kq/mast_katja_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490617#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Stracke, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523924/3x4/170/227/4549745f6e23c962d8fb06f23741d400/iA/stracke_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490618#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Weiß (Emmendingen), Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524512/3x4/170/227/9c0b26d9a3436cf004ef3d284bf44f47/Tq/weiss_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490619#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/405919d8dfcdf0ae25546eff4f70e387/jc/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7490620#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}
