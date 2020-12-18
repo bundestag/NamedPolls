@@ -6,9 +6,9 @@
     "id": "664",
     "date": "2020-03-13T00:00:00.000Z",
     "title": "Bundeswehreinsatz in Afghanistan",
-    "topTitle": "153. Sitzung vom 13.03.2020, TOP ZP 20 Bundeswehreinsatz in Afghanistan",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zum Antrag der Bundesregierung: Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/172/1917287.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17287 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17287</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/178/1917816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17816</a>)",
-    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)<br/>zu dem Antrag der Bundesregierung<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/172/1917287.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17287 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17287</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/178/1917816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17816</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/178/1917847.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17847 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17847</a><br/>",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/172/1917287.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/178/1917816.pdf"
@@ -95,114 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19153.pdf#P.19056",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7434276",
-      "mediathekURL": "https://dbtg.tv/fvid/7434276",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7434276/7434276_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7434276/7434276_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7434276/7434276_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7434276/7434276_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434274#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Özoguz, Aydan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522460/3x4/170/227/d3c16e944d9ca5339bb6af918fcbb0f/bP/oezoguz_aydan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434275#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Kestner, Jens",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530388/3x4/170/227/5b49bfa46615ee9c883367c7c46d812/Dj/kestner_jens_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434277#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Wadephul, Dr. Johann David",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/cbeae6b0e8cb7107a695a1555b6b07d9/Ro/wadephul_johann_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434278#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Faber, Dr. Marcus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527352/3x4/170/227/2c59fb29730d253663646ecb9d91e24e/BD/faber_marcus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434279#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Pflüger, Tobias",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/533896/3x4/170/227/814e291a4a5fb7253eb0a6394fa7d218/kh/pflueger_tobias_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434280#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Nouripour, Omid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434281#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Felgentreu, Dr. Fritz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519404/3x4/170/227/beb3581d1a74abdd73f1833491d6cfd7/aG/felgentreu_fritz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434282#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hänsel, Heike",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520018/3x4/170/227/7406458d6d10f279c60fea756a4ff7d/Ww/haensel_heike_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434283#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Felgentreu, Dr. Fritz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519404/3x4/170/227/beb3581d1a74abdd73f1833491d6cfd7/aG/felgentreu_fritz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434284#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Erndl, Thomas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530764/3x4/170/227/5d3aff41993755235996e27129f9ada2/gH/erndl_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434285#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7434286#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
