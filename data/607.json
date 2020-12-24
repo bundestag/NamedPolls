@@ -96,7 +96,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19105.pdf#P.12873",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19105.pdf",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7362240",
       "mediathekURL": "https://dbtg.tv/fvid/7362240",
@@ -119,126 +119,6 @@
         }
       ]
     },
-    "speeches": [
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362245#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Seehofer, Horst",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/547290/3x4/170/227/129cb0f3adff90bdecb0f6c4c015a3e7/ya/seehofer_horst_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362246#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundesminister des Innern, für Bau und Heimat",
-        "party": null
-      },
-      {
-        "deputyName": "Baumann, Dr. Bernd",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518200/3x4/170/227/23c6d89b9f2c292068b2ae10c47d2bec/sA/baumann_bernd_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362247#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Högl, Dr. Eva",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520416/3x4/170/227/905d68713deb4b7e181860634cc7cabe/Yo/hoegl_eva_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362249#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Teuteberg, Linda",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527244/3x4/170/227/28893e129fa510c4ae7781019c34a7ef/VA/teuteberg_linda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362250#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Jelpke, Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362251#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Notz, Dr. Konstantin von",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522398/3x4/170/227/658f1c8b9ec11c3b0ae29fc4db632ab3/da/notz_konstantin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362252#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Frei, Thorsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362253#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Curio, Dr. Gottfried",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525748/3x4/170/227/d301a73e32fe67399d453669dd421c43/VD/curio_gottfried_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362255#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Lindh, Helge",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362256#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Thomae, Stephan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527112/3x4/170/227/29806502e5fe3ed62679c6d434c70c5d/pS/thomae_stephan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362257#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Polat, Filiz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526706/3x4/170/227/2ffd270243dabf83de8f194c7982c250/sG/polat_filiz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362258#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lindholz, Andrea",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521634/3x4/170/227/69086b00b6913a3cc1f07a97964779e4/JG/lindholz_andrea_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362259#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Polat, Filiz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526706/3x4/170/227/2ffd270243dabf83de8f194c7982c250/sG/polat_filiz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362260#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lindholz, Andrea",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521634/3x4/170/227/69086b00b6913a3cc1f07a97964779e4/JG/lindholz_andrea_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362261#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Throm, Alexander",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526850/3x4/170/227/93f9dcc24c1067432d283c544feb5665/Pr/throm_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362263#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7362266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

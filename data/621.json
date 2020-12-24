@@ -6,9 +6,9 @@
     "id": "621",
     "date": "2019-10-17T00:00:00.000Z",
     "title": "Entschließungsantrag Die Linke zur Regierungserklärung",
-    "topTitle": "118. Sitzung vom 17.10.2019, TOP 6 Regierungserklärung zum Europäischen Rat",
+    "topTitle": "",
     "description": "Entschließungsantrag der Fraktion DIE LINKE. zu der Abgabe einer Regierungserklärung durch die Bundeskanzlerin zum Europäischen Rat am 17./18. Oktober 2019 in Brüssel (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/141/1914109.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14109 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14109</a>)",
-    "detailedDescription": "Abgabe einer Regierungserklärung durch die Bundeskanzlerin <br/>zum Europäischen Rat am 17./18. Oktober 2019 in Brüssel<br/><br/>namentliche Abstimmung",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/141/1914109.pdf"
     ],
@@ -94,142 +94,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19118.pdf#P.14384",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7395026",
-      "mediathekURL": "https://dbtg.tv/fvid/7395026",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7395026/7395026_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7395026/7395026_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7395026/7395026_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7395026/7395026_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395030#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Merkel, Dr. Angela",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521966/3x4/170/227/5b540b9f5294257c2163925e6cb288fb/Sv/merkel_angela_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395032#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundeskanzlerin",
-        "party": null
-      },
-      {
-        "deputyName": "Gauland, Dr. Alexander",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519652/3x4/170/227/a8e470e03a85e25b09610ae9ba24fcd4/Xc/gauland_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395033#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Mützenich, Dr. Rolf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522236/3x4/170/227/8adcfae90293fba1bab06d37a6211cbe/Ak/muetzenich_rolf_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395034#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Lindner, Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525066/3x4/170/227/58b49fb7af6c863309dc5626870b02a3/JY/lindner_christian_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395035#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Brinkhaus, Ralph",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518688/3x4/170/227/2e4f5d2fc645f27211d3d5d008b780cc/DG/brinkhaus_ralph_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395036#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Bartsch, Dr. Dietmar",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518172/3x4/170/227/379310a277ec5642d23bd5e597b3f3f6/ac/bartsch_dietmar_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395037#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Hofreiter, Dr. Anton",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520474/3x4/170/227/564f6d447a10d765f4224f8a80aa33ce/ab/hofreiter_anton_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395038#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Schulz, Martin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526778/3x4/170/227/2f5a4fb70573175bce48954fe3881c0d/Gw/schulz_martin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395039#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Bystron, Petr",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530322/3x4/170/227/73e2a29b9eee04d05982f87ff4c9f786/xy/bystran_petr_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395040#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Schulz, Martin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526778/3x4/170/227/2f5a4fb70573175bce48954fe3881c0d/Gw/schulz_martin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395041#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Dobrindt, Alexander",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519074/3x4/170/227/1b48868d158e23fc94a67dc417400c49/KO/dobrindt_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395042#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Brantner, Dr. Franziska",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518620/3x4/170/227/b8a3cd7caea4001d6a5051dad0d183a6/rm/brantner_Franziska_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395043#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Seif, Detlef",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523636/3x4/170/227/f9faa7ebda363c7b0f7f76b6b820748d/EH/seif_detlef_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395044#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hardt, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395045#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7395046#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
