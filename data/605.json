@@ -96,7 +96,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19104.pdf",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19104.pdf#P.12680",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7361857",
       "mediathekURL": "https://dbtg.tv/fvid/7361857",
@@ -119,6 +119,84 @@
         }
       ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361861#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Arndt-Brauer, Ingrid",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/517970/3x4/170/227/9fbc1e9b2e61249b0c4c5d501018be93/Mi/arndt_brauer_ingrid_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361863#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Gottschalk, Kay",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527512/3x4/170/227/a3c23ffb83de17a04d9dae2926c76de2/Kd/gottschalk_kay_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361864#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Steiniger, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523858/3x4/170/227/bba6f9ab2b0b9140af16e1f902975a0d/SN/steiniger_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361866#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Herbrand, Markus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526814/3x4/170/227/abf51b90bd0e9795af179af20514c0ee/iM/herbrand_markus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361868#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Cezanne, Jörg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525614/3x4/170/227/76036b4a82c8e1ad5711e19ef8b1a0ac/jR/cezanne_joerg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361869#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Müller-Gemmeke, Beate",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522146/3x4/170/227/11983373a107c1d127815b1e625dfe06/KJ/mueller_gemmeke_beate_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361871#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Schrodi, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530062/3x4/170/227/8b8ea36fb1b30ffe5e28104df19766a4/ga/schrodi_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361872#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Maizière, Dr. Thomas de",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521818/3x4/170/227/6fd1f6f2854e0d6d3a2e9fc75b262dc/Zy/maiziere_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361873#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Radwan, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522772/3x4/170/227/ff962049980f948acd5233b7f51623b/Px/radwan_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361874#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7361876#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
