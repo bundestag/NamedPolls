@@ -6,9 +6,9 @@
     "id": "693",
     "date": "2020-10-29T00:00:00.000Z",
     "title": "Bundeswehreinsatz im Irak (Beschlussempfehlung)",
-    "topTitle": "",
+    "topTitle": "186. Sitzung vom 29.10.2020, TOP 17 Bundeswehreinsatz im Irak",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung - Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte - Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung fördern in Irak und Syrien (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/222/1922207.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22207 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22207</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/232/1923212.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23212 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23212</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte – Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung fördern in Irak und Syrien<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/222/1922207.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22207 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22207</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/232/1923212.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23212 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23212</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/232/1923213.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23213 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23213</a><br/><br/>namentliche Abstimmung",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/222/1922207.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/232/1923212.pdf"
@@ -95,12 +95,114 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19186.pdf#P.23458",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7480506",
+      "mediathekURL": "https://dbtg.tv/fvid/7480506",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7480506/7480506_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7480506/7480506_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7480506/7480506_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7480506/7480506_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480504#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Schmid, Dr. Nils",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527066/3x4/170/227/5499615c6f46017d09a87ca22a55480c/EV/schmid_nils_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480505#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Otten, Gerold",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529626/3x4/170/227/7a3206a21a5e0332791e059d208b16d2/NC/otten_gerold_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480507#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480508#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480509#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Müller, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522150/3x4/170/227/6d766d980d934ec1cacb23a0637968ea/Oy/mueller_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480511#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Dagdelen, Sevim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518948/3x4/170/227/70b5bd201bf7c51166d4445041034a98/TU/dagdelen_sevim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480512#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Lindner, Dr. Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480513#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Kiesewetter, Roderich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520988/3x4/170/227/e24a69365808bad047240f9c478e591/fg/kiesewetter_roderich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480514#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Möller, Siemtje",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527378/3x4/170/227/598b9a39a3616a0d1d2fa5604c0af8e8/Bz/moeller_siemtje_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480515#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480516#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7480517#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
