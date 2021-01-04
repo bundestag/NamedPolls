@@ -65,7 +65,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18179.pdf#P.17680",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18179.pdf",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6947253",
       "mediathekURL": "https://dbtg.tv/fvid/6947253",
@@ -88,56 +88,6 @@
         }
       ]
     },
-    "speeches": [
-      {
-        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947254#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Felgentreu, Dr. Fritz",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519404/3x4/170/227/beb3581d1a74abdd73f1833491d6cfd7/aG/felgentreu_fritz_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947255#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Höger, Inge",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241096/3x4/170/227/f939b8fc56ec6ee77f8dab2a1954daa/wZ/hoeger_inge_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947427#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Wadephul, Dr. Johann",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524330/3x4/170/227/cbeae6b0e8cb7107a695a1555b6b07d9/Ro/wadephul_johann_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947431#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Nouripour, Omid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522402/3x4/170/227/a308e57e2b9639a4f79a58d771bfba18/sS/nouripour_omid_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947432#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Brandl, Dr. Reinhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947488#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Bulmahn, Dr. h. c. Edelgard",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240810/3x4/170/227/a1528f4d9d1514955faf8898643b8383/Qh/bulmahn_edelgard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6947489#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
