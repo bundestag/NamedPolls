@@ -95,7 +95,7 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19039.pdf#P.3821",
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19039.pdf#P.3817",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7245756",
       "mediathekURL": "https://dbtg.tv/fvid/7245756",
@@ -119,6 +119,48 @@
       ]
     },
     "speeches": [
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245759#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Hendricks, Dr. Barbara",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520274/3x4/170/227/d2d846d433c29e3914cb286546b82139/gr/hendricks_barbara_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245760#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Bystron, Petr",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530322/3x4/170/227/73e2a29b9eee04d05982f87ff4c9f786/xy/bystran_petr_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245761#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245762#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Djir-Sarai, Bijan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527266/3x4/170/227/2878e5fccebe31320a4f6522d83adbaa/FE/djir_sarai_bijan_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245763#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Höhn, Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529200/3x4/170/227/c84ff94088bb0d8842137681b9ca8385/Bo/hoehn_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7245764#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
       {
         "deputyName": "Lindner, Dr. Tobias",
         "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
