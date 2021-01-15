@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=709"
+  },
+  "data": {
+    "id": "709",
+    "date": "2021-01-14T00:00:00.000Z",
+    "title": "Bundeswahlgesetz (Antrag zu Feststellung gemäß § 52 Absatz 4 Satz 1)\n      \n    ",
+    "topTitle": "",
+    "description": "Antrag der Fraktionen der CDU/CSU und SPD - Feststellung gemäß § 52 Absatz 4 Satz 1 des Bundeswahlgesetzes (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/258/1925816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25816</a>)",
+    "detailedDescription": "",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/258/1925816.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=709&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 486,
+        "no": 73,
+        "abstain": 21,
+        "na": 129
+      },
+      "parties": []
+    },
+    "plenarProtocolURL": "",
+    "media": {
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
+    },
+    "speeches": []
+  }
+}
