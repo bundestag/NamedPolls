@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=711"
+  },
+  "data": {
+    "id": "711",
+    "date": "2021-01-28T00:00:00.000Z",
+    "title": "Covid-19-Wahlbewerber-Aufstellungsverordnung (Beschlussempfehlung)\n      \n    ",
+    "topTitle": "206. Sitzung vom 28.01.2021, TOP 21 COVID-19-Wahlbewerberaufstellungsverordnung",
+    "description": "Beschlussempfehlung des Ausschusses für Inneres und Heimat (4. Ausschuss) zu der Verordnung des Bundesministeriums des Innern, für Bau und Heimat Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie (Covid-19-Wahlbewerberaufstellungsverordnung) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/260/1926009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26009</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/262/1926244.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26244 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26244</a>)",
+    "detailedDescription": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss)<br/>zu der Verordnung des Bundesministeriums des Innern, für Bau und Heimat<br/>Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie (COVID-19-Wahlbewerber-aufstellungsverordnung)<br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/260/1926009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26009</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/262/1926244.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26244 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26244</a><br/><br/>Namentliche Abstimmung",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/260/1926009.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/262/1926244.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=711&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 357,
+        "no": 84,
+        "abstain": 170,
+        "na": 98
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 222,
+            "no": 0,
+            "abstain": 0,
+            "na": 24
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 135,
+            "no": 0,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 0,
+            "no": 72,
+            "abstain": 1,
+            "na": 15
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 0,
+            "abstain": 72,
+            "na": 8
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 9,
+            "abstain": 41,
+            "na": 19
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 0,
+            "abstain": 55,
+            "na": 12
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 7,
+            "yes": 0,
+            "no": 3,
+            "abstain": 1,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19206.pdf#P.25903",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7499186",
+      "mediathekURL": "https://dbtg.tv/fvid/7499186",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499186/7499186_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499186/7499186_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499186/7499186_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499186/7499186_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499190#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Krings, Dr. Günter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521316/3x4/170/227/b3f448923cd6199b2ed41e81b62e9cc7/Fa/krings_guenter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499191#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Parlamentarischer Staatssekretär des Innern, für Bau und Heimat",
+        "party": null
+      },
+      {
+        "deputyName": "Jacobi, Fabian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530384/3x4/170/227/9162c876bf411f49be07ae4c7f3de028/tb/jacobi_fabian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499192#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Özdemir (Duisburg), Mahmut",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522454/3x4/170/227/cf2abc16b1736b1bff7b48a1d41a5bba/PC/oezdemir_mahmut_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499193#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kuhle, Konstantin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527228/3x4/170/227/1c66ab840da659a53b077e9be4ff3f94/SW/kuhle_konstantin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499194#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Straetmanns, Friedrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525508/3x4/170/227/6bb307b65660f6267700e1efbf0adf77/Oo/straetmanns_friedrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499195#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Haßelmann, Britta",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520130/3x4/170/227/37053cb5513f7938bd825c7b6a6857b7/YC/hasselmann_britta_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499196#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Heveling, Ansgar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520358/3x4/170/227/12bec54edaf456ec01e87d0621dec982/ix/heveling_ansgar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499197#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Frieser, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519568/3x4/170/227/e473c79e181339fa4187f228b746f0dc/Qs/frieser_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499198#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499199#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

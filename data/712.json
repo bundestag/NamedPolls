@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=712"
+  },
+  "data": {
+    "id": "712",
+    "date": "2021-01-29T00:00:00.000Z",
+    "title": "Normenkontrolle Bevölkerungsschutzgesetz (Antrag)\n      \n    ",
+    "topTitle": "207. Sitzung vom 29.01.2021, TOP 26 Normenkontrolle Bevölkerungsschutzgesetz",
+    "description": "Antrag der Fraktion der AfD - Antrag auf abstrakte Normenkontrolle beim Bundesverfassungsgericht gemäß Artikel 93 Absatz 1 Nummer 2 des Grundgesetzes wegen des Dritten Bevölkerungsschutzgesetzes (Änderung des Infektionsschutzgesetzes) - (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/262/1926239.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26239 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26239</a>)",
+    "detailedDescription": "Beratung des Antrags der Fraktion der AfD<br/>Antrag auf abstrakte Normenkontrolle beim Bundesverfassungsgericht gemäß Artikel 93 Absatz 1 Nr. 2 des Grundgesetzes wegen des 3. Bevölkerungsschutzgesetzes <br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/262/1926239.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26239 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26239</a><br/><br/>Namentliche Abstimmung",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/262/1926239.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=712&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 81,
+        "no": 531,
+        "abstain": 1,
+        "na": 96
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 0,
+            "no": 223,
+            "abstain": 0,
+            "na": 23
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 0,
+            "no": 131,
+            "abstain": 0,
+            "na": 21
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 79,
+            "no": 0,
+            "abstain": 0,
+            "na": 9
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 68,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 52,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 55,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 7,
+            "yes": 2,
+            "no": 2,
+            "abstain": 1,
+            "na": 2
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19207.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7499257",
+      "mediathekURL": "https://dbtg.tv/fvid/7499257",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499257/7499257_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499257/7499257_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499257/7499257_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499257/7499257_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499260#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Brandner, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518600/3x4/170/227/a7750e40078400dcaa7f49099174ac4c/vp/brandner_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499261#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Luczak, Dr. Jan-Marco",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521728/3x4/170/227/7d25c3d1df5330d6664b19001598c93a/fG/luczak_jan_marco_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499262#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schinnenburg, Dr. Wieland",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526694/3x4/170/227/8ce24136a618c0aea6d42121bbec591a/Za/schinnenburg_wieland_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499264#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Franke, Dr. Edgar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519496/3x4/170/227/47c80d2002cf1dc0e3ac3a6ae17a6eb5/Hc/franke_edgar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499265#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Movassat, Niema",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522134/3x4/170/227/f342dae5c2a506d0f487e50c17230165/TV/movassat_niema_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499266#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Rottmann, Dr. Manuela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527406/3x4/170/227/212d18a347bbde35405196f9178f8f35/ku/rottmann_manuela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499267#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Heveling, Ansgar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520358/3x4/170/227/12bec54edaf456ec01e87d0621dec982/ix/heveling_ansgar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499268#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Martens, Dr. Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527116/3x4/170/227/a7585109e163596bbd761c42f58ffde1/vZ/martens_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499269#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Ullrich, Dr. Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524210/3x4/170/227/50b690341cbf9bac4d588dc2c40a22f5/LT/ullrich_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499270#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Baehrens, Heike",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518082/3x4/170/227/3cededdb7f146c9512bc43a1de13ba59/Tm/baehrens_heike_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499271#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Henke, Rudolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520292/3x4/170/227/6a8e99a7e0be6e9e17a5eadca240384/hB/henke_rudolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499272#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/405919d8dfcdf0ae25546eff4f70e387/jc/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499273#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Brandner, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518600/3x4/170/227/a7750e40078400dcaa7f49099174ac4c/vp/brandner_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499274#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/405919d8dfcdf0ae25546eff4f70e387/jc/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7499276#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}
