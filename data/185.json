@@ -6,9 +6,9 @@
     "id": "185",
     "date": "2011-12-01T00:00:00.000Z",
     "title": "EU-Operation ALTHEA\n      \n    ",
-    "topTitle": "146. Sitzung vom 01.12.2011, TOP 10 EU-Operation ALTHEA",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung über die Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation ALTHEA (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/075/1707577.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7577 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7577</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/079/1707997.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7997 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7997</a>)",
-    "detailedDescription": "10.) Beratung Antrag BReg\r<br/>Forts. der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation ALTHEA zur weiteren Stabilisierung des Friedensprozesses in Bosnien und Herzegowina im Rahmen der Implementierung der Annexe 1-A und 2 der Dayton-Friedensvereinbarung sowie an dem NATO-Hauptquartier Sarajevo und seine Aufgaben, auf Grundlage der Resolution des Sicherheitsrates der Vereinten Nationen 1575 (2004) und Folgeresolutionen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/075/1707577.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7577 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7577</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/079/1707997.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7997 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7997</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/079/1707999.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7999 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7999</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/075/1707577.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/079/1707997.pdf"
@@ -75,86 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17146.pdf#P.17414",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1443550",
-      "mediathekURL": "https://dbtg.tv/fvid/1443550",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443550/1443550_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443550/1443550_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443550/1443550_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1443550/1443550_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443552#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Stinner, Dr. Rainer",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443553#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Groschek, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443556#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Mißfelder, Philipp",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241362/3x4/170/227/44b82cfd74668946391edf63449e6471/UM/missfelder_philipp_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443559#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Groth, Annette",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240990/3x4/170/227/b5e0d8670acf41cc606186434bd91e12/YJ/groth_annette_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443560#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Beck (Bremen), Marieluise",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240838/3x4/170/227/66e83c9287feaafaa159f46ffcdec93a/rt/beck_marieluise_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443570#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Beyer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443571#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1443574#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      }
-    ]
+    "speeches": []
   }
 }

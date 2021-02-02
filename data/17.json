@@ -6,9 +6,9 @@
     "id": "17",
     "date": "2012-05-24T00:00:00.000Z",
     "title": "Änderung Grundgesetz (Art. 93)\n      \n    ",
-    "topTitle": "181. Sitzung vom 24.05.2012, TOP 9 Rechtsschutz im Wahlrecht",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/097/1709733.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9733 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9733</a>) angenommen",
-    "detailedDescription": "9.a) Zweite und dritte Beratung\r<br/>CDU/CSU, SPD, FDP, B90/GRÜNE\r<br/>Grundgesetz (Artikel 93)/Änd\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/093/1709392.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9392 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9392</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/097/1709733.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9733 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9733</a> -\r<br/>9.b) Zweite und dritte Beratung\r<br/>CDU/CSU, SPD, FDP, B90/GRÜNE\r<br/>Verbesserung des Rechtsschutzes in Wahlsachen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/093/1709391.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9391 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9391</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/097/1709733.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9733 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9733</a> -\r<br/>9.c) Zweite und dritte Beratung \r<br/>DIE LINKE.\r<br/>Stärkung des Rechtsschutzes im Wahlrecht durch Einführung der Sonneborn-Regelung\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/078/1707848.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/7848 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/7848</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/097/1709748.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9748 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9748</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/097/1709733.pdf"
     ],
@@ -74,93 +74,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17181.pdf#P.21470",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1714773",
-      "mediathekURL": "https://dbtg.tv/fvid/1714773",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1714773/1714773_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1714773/1714773_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1714773/1714773_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1714773/1714773_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1714774#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Krings, Dr. Günter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521316/3x4/170/227/b3f448923cd6199b2ed41e81b62e9cc7/Fa/krings_guenter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1714775#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Wiefelspütz, Dr. Dieter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1714776#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Ruppert, Dr. Stefan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527064/3x4/170/227/1a39acb087ee87db88d46031145bf55d/CN/ruppert_stefan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1714777#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Wawzyniak, Halina",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241804/3x4/170/227/8abaf6ea82c4b48348ddefe9ed8461b4/Mq/wawzyniak_halina_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1714779#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Montag, Jerzy",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1714780#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Strobl (Heilbronn), Thomas",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241672/3x4/170/227/9d0553b8fa7c1f74dc9a3b70c5afea07/kO/strobl_thomas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1714782#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Steffen, Sonja",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523822/3x4/170/227/ddd38de948da7f9a1798f8e51a01b3e8/gx/steffen_sonja_amalie_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1714783#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Lammert, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1715085#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }

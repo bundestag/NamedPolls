@@ -6,9 +6,9 @@
     "id": "200",
     "date": "2012-12-14T00:00:00.000Z",
     "title": "Bundeswehreinsatz in der Türkei\n      \n    ",
-    "topTitle": "215. Sitzung vom 14.12.2012, TOP 43 Bundeswehreinsatz Türkei",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zum Antrag der Bundesregierung über die Entsendung bewaffneter deutscher Streitkräfte zur Verstärkung der integrierten Luftverteidigung der NATO auf Ersuchen der Türkei (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/117/1711783.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11783 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11783</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/118/1711892.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11892 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11892</a>)",
-    "detailedDescription": "43.) Beratung BeschlEmpf u Ber (3.A)\r<br/>zum Antrag BReg\r<br/>Entsendung bewaffneter deutscher Streitkräfte zur Verstärkung der integrierten Luftverteidigung der NATO (NATINADS) auf Ersuchen der Türkei und auf Grundlage des Rechts auf kollektive Selbstverteidigung (Artikel 51 der Charta der Vereinten Nationen) sowie des Beschlusses des Nordatlantikrates vom 4. Dezember 2012\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/117/1711783.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11783 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11783</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/118/1711892.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11892 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11892</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/118/1711893.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11893 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11893</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/117/1711783.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/118/1711892.pdf"
@@ -75,86 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17215.pdf#P.26553",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2066221",
-      "mediathekURL": "https://dbtg.tv/fvid/2066221",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2066221/2066221_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2066221/2066221_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2066221/2066221_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2066221/2066221_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2066217#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hoff, Elke",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2066222#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Arnold, Rainer",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240720/3x4/170/227/591732dde823711479c2956b4139698c/AO/arnold_rainer_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2066224#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Mißfelder, Philipp",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241362/3x4/170/227/44b82cfd74668946391edf63449e6471/UM/missfelder_philipp_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2066225#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Gysi, Dr. Gregor",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519980/3x4/170/227/500eb465292720b942ecb17c6c46619c/Kd/gysi_gregor_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2066228#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Müller (Köln), Kerstin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2066233#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Brandl, Dr. Reinhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2066234#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2066240#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      }
-    ]
+    "speeches": []
   }
 }

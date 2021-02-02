@@ -6,9 +6,9 @@
     "id": "1",
     "date": "2012-03-29T00:00:00.000Z",
     "title": "Strom aus Solarenergie (erneuerbare Energiengesetz)\n      \n    ",
-    "topTitle": "172. Sitzung vom 29.03.2012, TOP 7 Änderungen im Recht der erneuerbaren Energien",
+    "topTitle": "",
     "description": "Gesetzentwurf der Fraktionen der CDU/CSU und FDP (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/088/1708877.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8877 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8877</a>) in der Fassung des Buchstaben a der Beschlussempfehlung des Ausschusses für Umwelt, Naturschutz, Reaktorsicherheit (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/091/1709152.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9152 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9152</a>) angenommen",
-    "detailedDescription": "7.a) Zweite und dritte Beratung CDU/CSU, FDP\r<br/>Gesetz zur Änderung des Rechtsrahmens für Strom aus solarer Strahlungsenergie und zu weiteren Änderungen im Recht der erneuerbaren Energien\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/088/1708877.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8877 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8877</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/091/1709152.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9152 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9152</a> -\r<br/>7.b) Beratung BeschlEmpf u Ber (16.A)\r<br/>Mut zum Aufbruch ins solare Zeitalter\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/088/1708892.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8892 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8892</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/091/1709152.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9152 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9152</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/088/1708877.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/091/1709152.pdf"
@@ -75,121 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17172.pdf#P.20294",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1627984",
-      "mediathekURL": "https://dbtg.tv/fvid/1627984",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1627984/1627984_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1627984/1627984_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1627984/1627984_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1627984/1627984_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1627987#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Flachsbarth, Dr. Maria",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519464/3x4/170/227/c7e30a1a8437509fccb65715a644e527/fk/flachsbarth_maria_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1627993#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Machnig, Matthias",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1627998#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "LMin TH",
-        "party": null
-      },
-      {
-        "deputyName": "Kauch, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628003#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Menzner, Dorothee",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628004#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Fell, Hans-Josef",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628011#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Röttgen, Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522998/3x4/170/227/87d7e0005b8fc642e951b54ac51360e0/XL/roettgen_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628024#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "BMin",
-        "party": null
-      },
-      {
-        "deputyName": "Becker, Dirk",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240746/3x4/170/227/be35ffa0bb974dd6c2784d1719093b46/BX/becker_dirk_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628026#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Breil, Klaus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628027#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Korte, Jan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521240/3x4/170/227/ad12ad0b3d2e2533a92c86ab926952f3/yO/korte_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628031#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Höhn, Bärbel",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241100/3x4/170/227/b6f10f9400bbc9d31b25f9fdcafcb858/vB/hoehn_baerbel_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628032#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Nüßlein, Dr. Georg",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522418/3x4/170/227/ad15824b58a43e1580aca4db95005550/dR/nuesslein_georg_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628035#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1628039#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      }
-    ]
+    "speeches": []
   }
 }

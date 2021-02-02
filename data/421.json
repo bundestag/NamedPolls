@@ -6,9 +6,9 @@
     "id": "421",
     "date": "2016-09-29T00:00:00.000Z",
     "title": "Bundeswehreinsatz SEA GUARDIAN im Mittelmeer\n      \n    ",
-    "topTitle": "193. Sitzung vom 29.09.2016, TOP 13 Bundeswehreinsatz SEA GUARDIAN im Mittelmeer",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses zu dem Antrag der Bundesregierung Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN im Mittelmeer (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/096/1809632.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9632 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9632</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/097/1809793.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9793 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9793</a>)",
-    "detailedDescription": "–\tBeratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung<br/>Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN im Mittelmeer <br/>Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/096/1809632.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9632 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9632</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/097/1809793.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9793 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9793</a><br/>–\tBericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/098/1809844.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9844 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9844</a><br/>",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/096/1809632.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/097/1809793.pdf"
@@ -65,79 +65,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18193.pdf#P.19261",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7010398",
-      "mediathekURL": "https://dbtg.tv/fvid/7010398",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7010398/7010398_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7010398/7010398_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7010398/7010398_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7010398/7010398_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Schmidt (Aachen), Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7010400#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Juratovic, Josip",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520756/3x4/170/227/b3922a9a62ba535a367ffd6bca9abaea/qY/juratovic_josip_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7010401#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Neu, Dr. Alexander S.",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522324/3x4/170/227/ac1eb5153b265e488b9628f0ce8dfd49/iq/neu_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7010403#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Hardt, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7010404#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lindner, Dr. Tobias",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521642/3x4/170/227/bdfce3bd5aba26b54ec65c126ba53708/Lu/lindner_tobias_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7010414#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Obermeier, Julia",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240824/3x4/170/227/e124c7095faf438220ead8df913cb373/Ao/obermeier_julia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7010415#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schmidt (Aachen), Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523372/3x4/170/227/a61897892223d52a77d8b891dc5b3a3b/zF/schmidt_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7010418#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

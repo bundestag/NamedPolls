@@ -6,9 +6,9 @@
     "id": "151",
     "date": "2011-02-24T00:00:00.000Z",
     "title": "Massentierhaltung im Außenbereich\n      \n    ",
-    "topTitle": "93. Sitzung vom 24.02.2011, TOP 9 Massentierhaltung im Außenbereich",
+    "topTitle": "",
     "description": "Gesetzentwurf der Fraktion Bündnis 90/Die Grünen zur Änderung der Baugesetzbuchs-Beschränkung der Massentierhaltung im Außenbereich (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/015/1701582.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1582 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1582</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/047/1704724.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4724 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4724</a>)",
-    "detailedDescription": "9.) Zweite und dritte Beratung B90/GRÜNE\r<br/>Baugesetzbuch/1. Ändnderung - Beschränkung der Massentierhaltung im Außenbereich\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/015/1701582.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1582 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1582</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/047/1704724.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4724 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4724</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/015/1701582.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/047/1704724.pdf"
@@ -75,89 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17093.pdf#P.10535",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1012288",
-      "mediathekURL": "https://dbtg.tv/fvid/1012288",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012288/1012288_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012288/1012288_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012288/1012288_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012291#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Götz, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012292#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hacker, Hans-Joachim",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012295#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Müller (Aachen), Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012302#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Süßmair, Alexander",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012303#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Ostendorff, Friedrich",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522480/3x4/170/227/2051bc6d93c7126520a959892b0a055f/TU/ostendorff_friedrich_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012304#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lehmer, Dr. Max",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012308#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Goldmann, Hans-Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012309#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012317#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      }
-    ]
+    "speeches": []
   }
 }

@@ -6,9 +6,9 @@
     "id": "33",
     "date": "2010-06-17T00:00:00.000Z",
     "title": "Wehrrechtsänderungsgesetz 2010\n      \n    ",
-    "topTitle": "49. Sitzung vom 17.06.2010, TOP 11 Wehrrechtsänderungsgesetz 2010",
+    "topTitle": "",
     "description": "Gesetzentwurf der Fraktionen der CDU/CSU und FDP (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/019/1701953.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1953 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1953</a>) in der Fassung des Buchstaben a der Beschlussempfehlung des Verteidigungsausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/021/1702174.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2174 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2174</a>) angenommen",
-    "detailedDescription": "11.a) Zweite und dritte Beratung CDU/CSU, FDP\r<br/>Änderung wehr- und zivildienstrechtlicher Vorschriften 2010 (Wehrrechtsänderungsgesetz 2010 - WehrRÄndG 2010)\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/019/1701953.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1953 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1953</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/021/1702174.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2174 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2174</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/021/1702180.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2180 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2180</a> -\r<br/>11.b) Beratung Beschlussempfehlung und Bericht (12. A)\r<br/>zum Antrag DIE LINKE.\r<br/>Abschaffung der Wehrpflicht\r<br/>zum Antrag B90/GRÜNE\r<br/>Wehrpflicht beenden\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/017/1701736.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1736 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1736</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/014/1701431.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/1431 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/1431</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/021/1702174.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2174 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2174</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/019/1701953.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/021/1702174.pdf"
@@ -75,103 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17049.pdf#P.5061",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=659986",
-      "mediathekURL": "https://dbtg.tv/fvid/659986",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659986/659986_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659986/659986_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/659986/659986_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Hasselfeldt, Gerda",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659990#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Grübel, Markus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519920/3x4/170/227/450a9d5c6e84c053564d6ad7bb8c7583/Ql/gruebel_markus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659994#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Rix, Sönke",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522960/3x4/170/227/f83a24a96ee643dd6f30b91d697960b7/lm/rix_soenke_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659995#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=659996#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Spatz, Joachim",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=660002#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Schäfer (Köln), Paul",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=660003#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Malczak, Agnes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/221372/3x4/170/227/133931997e98caa3495eb644648d9173/KZ/brugger_agnieszka.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=660004#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Brandl, Dr. Reinhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=660005#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=660006#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Klingbeil, Lars",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521074/3x4/170/227/db3ffeed8f2196dd8b91cdb94a489497/VH/klingbeil_lars_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=660007#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=660014#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      }
-    ]
+    "speeches": []
   }
 }

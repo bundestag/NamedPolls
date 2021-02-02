@@ -6,9 +6,9 @@
     "id": "87",
     "date": "2011-02-11T00:00:00.000Z",
     "title": "Regelbedarf - Änderung des Sozialgesetzbuches\n      \n    ",
-    "topTitle": "91. Sitzung vom 11.02.2011, TOP ZP 8 Vermittlungsergebnis zu Hartz IV",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Vermittlungsausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/047/1704719.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4719 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4719</a>) angenommen, das bedeutet: Das vom Bundestag in seiner 79. Sitzung beschlossene Gesetz wird geändert",
-    "detailedDescription": "ZP 8) Beratung Beschlussempfehlung und Bericht (VermA)\r<br/>Ermittlung von Regelbedarfen und Änderung SGB II und SGB XII\r<br/>- Drs. <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/034/1703404.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3404 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3404</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/039/1703958.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3958 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3958</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/039/1703982.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3982 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3982</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704032.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4032 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4032</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704058.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4058 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4058</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4095</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/043/1704303.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4303 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4303</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/043/1704304.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4304 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4304</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/047/1704719.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4719 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4719</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/047/1704719.pdf"
     ],
@@ -74,33 +74,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17091.pdf",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=992002",
-      "mediathekURL": "https://dbtg.tv/fvid/992002",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/992002/992002_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/992002/992002_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/992002/992002_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Thierse, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=992005#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      }
-    ]
+    "speeches": []
   }
 }

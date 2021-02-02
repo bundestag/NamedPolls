@@ -6,9 +6,9 @@
     "id": "46",
     "date": "2010-12-02T00:00:00.000Z",
     "title": "Mandatsverlängerung der EU-Operation ALTHEA\n      \n    ",
-    "topTitle": "78. Sitzung vom 02.12.2010, TOP 13 EU-Operation ALTHEA in Bosnien und Herzegowina",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704049.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4049 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4049</a>) angenommen, das bedeutet: Antrag der Bundesregierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/036/1703692.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3692 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3692</a>) angenommen",
-    "detailedDescription": "13.) Beratung Beschlussempfehlung und Bericht (3. A)\r<br/>zum Antrag Bundesregierung\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation ALTHEA zur weiteren Stabilisierung des Friedensprozesses in Bosnien und Herzegowina im Rahmen der Implementierung der Annexe 1-A und 2 der Dayton-Friedensvereinbarung sowie an dem NATO-Hauptquartier Sarajevo und seinen Aufgaben, auf Grundlage der Resolution des Sicherheitrates der Vereinten Nationen 1575 (2004) und Folgeresolutionen\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/036/1703692.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3692 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3692</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704049.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4049 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4049</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/040/1704056.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/4056 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/4056</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/040/1704049.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/036/1703692.pdf"
@@ -75,89 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17078.pdf#P.8626",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=885890",
-      "mediathekURL": "https://dbtg.tv/fvid/885890",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885890/885890_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885890/885890_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/885890/885890_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Hasselfeldt, Gerda",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885893#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Stinner, Dr. Rainer",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885902#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Körper, Fritz Rudolf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885903#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Beyer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518392/3x4/170/227/61679a5fe467aed619d8432a42abec38/bY/beyer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885910#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hasselfeldt, Gerda",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885911#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Höger, Inge",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241096/3x4/170/227/f939b8fc56ec6ee77f8dab2a1954daa/wZ/hoeger_inge_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885912#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Beck (Bremen), Marieluise",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240838/3x4/170/227/66e83c9287feaafaa159f46ffcdec93a/rt/beck_marieluise_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885913#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Hahn, Florian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520044/3x4/170/227/5c44c823156e6b3d5063768b84d5dfb9/Wm/hahn_florian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885918#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hasselfeldt, Gerda",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241062/3x4/170/227/9d0a97ccc14004cfc663f11bb04e49a/Al/hasselfeldt_gerda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=885919#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      }
-    ]
+    "speeches": []
   }
 }

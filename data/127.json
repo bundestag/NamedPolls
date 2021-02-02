@@ -6,9 +6,9 @@
     "id": "127",
     "date": "2012-10-25T00:00:00.000Z",
     "title": "Stärkung der deutschen Finanzaufsicht\n      \n    ",
-    "topTitle": "201. Sitzung vom 25.10.2012, TOP 11 Stärkung der deutschen Finanzaufsicht",
+    "topTitle": "",
     "description": "Änderungsantrag der Fraktion Bündnis 90/Die Grünen zum Gesetzentwurf der Bundesregierung zur Stärkung der deutschen Finanzaufsicht (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711172.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11172 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11172</a>)",
-    "detailedDescription": "11.) Zweite und dritte Beratung BReg\r<br/>Stärkung der deutschen Finanzaufsicht\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/100/1710040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10040 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10040</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/102/1710252.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/10252 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/10252</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/111/1711119.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/11119 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/11119</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/111/1711172.pdf"
     ],
@@ -74,93 +74,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17201.pdf#P.24334",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1975756",
-      "mediathekURL": "https://dbtg.tv/fvid/1975756",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1975756/1975756_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1975756/1975756_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1975756/1975756_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1975756/1975756_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975752#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Aumer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527254/3x4/170/227/3f465eff73507b5836fbcd6e1f4629d/ru/aumer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975753#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Zöllmer, Manfred",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/221368/3x4/170/227/f69f024e1f74f6bcd90bd09c58d342d/vu/zoellmer_manfred_helmut.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975757#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Sänger, Björn",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975760#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Troost, Dr. Axel",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241712/3x4/170/227/858baabd34b54883f082c86aad6700f9/gT/troost_axel_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975761#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Schick, Dr. Gerhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523238/3x4/170/227/3a5389691e36bb1731840c4aa10b53f2/US/schick_gerhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975762#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Brinkhaus, Ralph",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518688/3x4/170/227/2e4f5d2fc645f27211d3d5d008b780cc/DG/brinkhaus_ralph_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975766#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Tack, Kerstin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524012/3x4/170/227/dca5c9abc22bfb379dfc23ceaf7dd348/ti/tack_kerstin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975769#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1975780#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      }
-    ]
+    "speeches": []
   }
 }

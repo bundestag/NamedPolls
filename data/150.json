@@ -6,9 +6,9 @@
     "id": "150",
     "date": "2011-02-24T00:00:00.000Z",
     "title": "Privatisierung von Äckern, Seen und Wäldern\n      \n    ",
-    "topTitle": "93. Sitzung vom 24.02.2011, TOP 34 Abschließende Beratungen ohne Aussprache",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Haushaltsausschusses zu dem Antrag der Fraktion Die Linke über keine Privatisierung von Äckern, Seen und Wäldern (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/002/1700239.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/239 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/239</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/005/1700587.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/587 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/587</a>)",
-    "detailedDescription": "34) Abschließende Beratungen ohne Aussprache",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/002/1700239.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/005/1700587.pdf"
@@ -75,33 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17093.pdf",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=1012152",
-      "mediathekURL": "https://dbtg.tv/fvid/1012152",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012152/1012152_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012152/1012152_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/1012152/1012152_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Solms, Dr. Hermann Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525136/3x4/170/227/6fab1885dabd737a7e7d2b1d7db7ddac/xm/solms_hermann_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=1012154#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      }
-    ]
+    "speeches": []
   }
 }

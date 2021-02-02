@@ -6,9 +6,9 @@
     "id": "64",
     "date": "2009-12-17T00:00:00.000Z",
     "title": "Mandatsverlängerung Piraten-Bekämpfung vor Somalia\n      \n    ",
-    "topTitle": "12. Sitzung vom 17.12.2009, TOP 11 Atalanta",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Auswärtigen Ausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/002/1700274.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/274 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/274</a>) angenommen, das bedeutet: Antrag der Bundesregierung (<a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700179.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/179 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/179</a>) angenommen",
-    "detailedDescription": "11.) Beratung BeschlEmpf u Ber (3. A)\r<br/>zum Antrag BReg\r<br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Operation Atalanta zur Bekämpfung der Piraterie vor der Küste Somalias auf Grundlage des Seerechtsübereinkommens der Vereinten Nationen von 1982 und der Resolutionen 1814 (2008) vom 15.05.2008, 1816 (2008) vom 02.06.2008, 1838 (2008) vom 07.10.2008, 1846 (2008) vom 02.12.2008, 1897 (2009) vom 30.11.2009 und nachfolgender Resolutionen des Sicherheitsrates der Vereinten Nationen in Verbindung mit der Gemeinsamen Aktion 2008/851/GASP des Rates der Europäischen Union vom 10.11.2008 und dem Beschluss 2009/907/GASP des Rates der Europäischen Union vom 08.12.2009\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/001/1700179.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/179 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/179</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/002/1700274.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/274 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/274</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/002/1700276.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/276 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/276</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/002/1700274.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/001/1700179.pdf"
@@ -75,117 +75,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17012.pdf#P.999",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=431807",
-      "mediathekURL": "https://dbtg.tv/fvid/431807",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/431807/431807_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/431807/431807_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/431807/431807_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431810#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Spatz, Joachim",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431811#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Klingbeil, Lars",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521074/3x4/170/227/db3ffeed8f2196dd8b91cdb94a489497/VH/klingbeil_lars_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431812#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Grübel, Markus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519920/3x4/170/227/450a9d5c6e84c053564d6ad7bb8c7583/Ql/gruebel_markus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431813#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Buchholz, Christine",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431817#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Müller (Köln), Kerstin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431818#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Westerwelle, Dr. Guido",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/242904/3x4/170/227/f4e257686fb03e7818663a12f2711250/zO/westerwelle_guido_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431819#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Müller (Köln), Kerstin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431820#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Fischer (Göttingen), Hartwig",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451040/3x4/170/227/e4de578fad7a1bd7ded6b040ad6a94b1/xy/nn_bild_m.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431821#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Roth (Esslingen), Karin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431822#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431823#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Silberhorn, Thomas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523690/3x4/170/227/171361ff2ce0daeade87efbbc7457a46/GP/silberhorn_thomas_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431826#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=431827#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      }
-    ]
+    "speeches": []
   }
 }

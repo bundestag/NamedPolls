@@ -6,9 +6,9 @@
     "id": "234",
     "date": "2013-06-14T00:00:00.000Z",
     "title": "Umsetzung der Verbraucherrechterichtlinie\n      \n    ",
-    "topTitle": "247. Sitzung vom 14.06.2013, TOP TOP 32 Umsetzung der Verbraucherrechterichtlinie",
+    "topTitle": "",
     "description": "Änderungsantrag der Fraktion der SPD zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/126/1712637.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12637 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12637</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/139/1713951.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13951 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13951</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/139/1713966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13966</a>)",
-    "detailedDescription": "TOP 32.)Zweite und dritte Beratung BReg<br/>GesEntw zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/126/1712637.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/12637 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/12637</a> -<br/>BeschlEmpf und Ber (6. A)<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/139/1713951.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/13951 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/13951</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/126/1712637.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/139/1713951.pdf",
@@ -76,86 +76,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17247.pdf#P.31691",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=2439638",
-      "mediathekURL": "https://dbtg.tv/fvid/2439638",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2439638/2439638_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2439638/2439638_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2439638/2439638_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/2439638/2439638_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2439632#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Ruppert, Dr. Stefan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527064/3x4/170/227/1a39acb087ee87db88d46031145bf55d/CN/ruppert_stefan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2440917#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Schieder (Schwandorf), Marianne",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523242/3x4/170/227/44a1b8004c6aeabbc20f562aa735982b/no/schieder_marianne_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2439639#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Wanderwitz, Marco",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524414/3x4/170/227/d5722c77167a12afff9f1fbf2bb9e87e/FH/wanderwitz_marco_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2439658#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Binder, Karin",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/240780/3x4/170/227/6ff20e751280926a5ac31061fb24f49c/SG/binder_karin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2439659#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Hönlinger, Ingrid",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451038/3x4/170/227/2c4981506ec6d37abf08eebeef6f19ea/YF/nn_bild_f.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2439661#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Bartol, Sören",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518166/3x4/170/227/7c2e083a96405d409ffb7af4c6539e94/sj/bartol_soeren_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2439662#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=2439666#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      }
-    ]
+    "speeches": []
   }
 }

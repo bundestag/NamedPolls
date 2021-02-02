@@ -6,9 +6,9 @@
     "id": "156",
     "date": "2010-11-26T00:00:00.000Z",
     "title": "Änderungsantrag zum Haushaltsgesetz 2011\n      \n    ",
-    "topTitle": "76. Sitzung vom 26.11.2010, TOP I Haushaltsgesetz 2011",
+    "topTitle": "",
     "description": "Änderungsantrag der Fraktion der SPD zu dem Gesetzentwurf der Bundesregierung über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2011 (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/025/1702500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2500</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/025/1702502.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/2502 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/2502</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/035/1703524.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3524 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3524</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/035/1703525.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3525 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3525</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/038/1703870.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3870 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3870</a>)",
-    "detailedDescription": "I) Beschlussempfehlung u Bericht (8. A)\r<br/>hier: Haushaltsgesetz 2011, Finanzplan 2010 - 2014\r<br/>- Drs <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/035/1703524.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3524 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3524</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/035/1703525.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/3525 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/3525</a> -",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/17/025/1702500.pdf",
       "https://dip21.bundestag.de/dip21/btd/17/025/1702502.pdf",
@@ -78,33 +78,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/17/17076.pdf",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=874260",
-      "mediathekURL": "https://dbtg.tv/fvid/874260",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/874260/874260_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/874260/874260_h264_720_400_2000kb_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/874260/874260_h264_512_288_514kb_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=874262#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      }
-    ]
+    "speeches": []
   }
 }
