@@ -8,7 +8,7 @@
     "title": "Transparenz von Entgeltstrukturen\n      \n    ",
     "topTitle": "Marginalspalte",
     "description": "Änderungsantrag der Abgeordneten Beate Müller-Gemmeke, Ulle Schauws, Kerstin Andreae, weiterer Angeordneter und der Fraktion Bündnis 90/Die Grünen zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung Entwurf eines Gesetzes zur Förderung der Transparenz von Entgeltstrukturen (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/111/1811133.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11133 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11133</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/117/1811727.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11727 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11727</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/117/1811733.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11733 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11733</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/117/1811756.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11756 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11756</a>)",
-    "detailedDescription": "<a class=\"linkIntern\" href=\"/services/impressum/impressum-196472\" target=\"_self\">Deutscher Bundestag, Online-Dienste</a>",
+    "detailedDescription": "&copy;&nbsp;Johannes Singhammer / Stella von Saldern",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/111/1811133.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/117/1811727.pdf",
@@ -90,6 +90,70 @@
         }
       ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Singhammer, Johannes",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241654/3x4/170/227/7223748588d33fd59a74887cdc626691/mI/singhammer_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093007#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Schwesig, Manuela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/335364/3x4/170/227/8e066559f7b97a68c75df567a7851609/sb/schwesig_manuela.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093008#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesministerin für Familie, Senioren, Frauen und Jugend",
+        "party": null
+      },
+      {
+        "deputyName": "Zimmermann (Zwickau), Sabine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524802/3x4/170/227/c862b011f3f3c2e78dfdb207ec9b3d5f/KD/zimmermann_sabine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093177#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schön (St. Wendel), Nadine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523426/3x4/170/227/53e3b1910e80e240017a9603cf1759f4/YE/schoen_nadine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093181#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schauws, Ulle",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523194/3x4/170/227/d5830ccb70322cb8e82f5754c7c9464c/YG/schauws_ulle_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093182#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Reimann, Dr. Carola",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522852/3x4/170/227/84cd45844a99e1d33260bfde2e0508ac/oK/reimann_carola_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093187#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Groden-Kranich, Ursula",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519864/3x4/170/227/185b8699f40dfb1407e8cd54dd65f395/BE/groden-kranich_ursula_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093192#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lehrieder, Paul",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521540/3x4/170/227/4b26a502627f19240b2ec7352948988f/NV/lehrieder_paul_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093193#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7093198#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
   }
 }
