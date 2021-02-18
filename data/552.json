@@ -6,9 +6,9 @@
     "id": "552",
     "date": "2018-11-08T00:00:00.000Z",
     "title": "Familienentlastungsgesetz - Änderungsantrag der Fraktion der FDP\n      \n    ",
-    "topTitle": "",
+    "topTitle": "Marginalspalte",
     "description": "Änderungsantrag der Abgeordneten Dr. Florian Toncar, Christian Dürr, Grigorios Aggelidis, weiterer Abgeordneter und der Fraktion der FDP zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung: Entwurf eines Gesetzes zur steuerlichen Entlastung der Familien sowie zur Anpassung weiterer steuerlicher Regelungen (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/047/1904723.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4723 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4723</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/055/1905583.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5583 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5583</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/056/1905607.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5607 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5607</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Wolfgang Kubicki",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/047/1904723.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/055/1905583.pdf",
@@ -96,12 +96,100 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289599/7289599_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7289599",
+      "mediathekURL": "https://dbtg.tv/fvid/7289599",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289599/7289599_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289599/7289599_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289599/7289599_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7289599/7289599_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289602#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Schrodi, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530062/3x4/170/227/8b8ea36fb1b30ffe5e28104df19766a4/ga/schrodi_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289603#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Gottschalk, Kay",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527512/3x4/170/227/a3c23ffb83de17a04d9dae2926c76de2/Kd/gottschalk_kay_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289604#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Steiniger, Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523858/3x4/170/227/bba6f9ab2b0b9140af16e1f902975a0d/SN/steiniger_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289607#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Herbrand, Markus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526814/3x4/170/227/abf51b90bd0e9795af179af20514c0ee/iM/herbrand_markus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289608#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Cezanne, Jörg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525614/3x4/170/227/76036b4a82c8e1ad5711e19ef8b1a0ac/jR/cezanne_joerg_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289610#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Paus, Lisa",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522566/3x4/170/227/feb71a073603b7fb96570f3350e74ffb/sG/paus_lisa_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289611#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Esdar, Dr. Wiebke",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530048/3x4/170/227/22d43c9fbb4fd77d8ef4b52b436103c8/FP/esdar_wiebke_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289612#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Michelbach, Dr. h. c. (Univ Kyiv) Hans",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522014/3x4/170/227/1a8d5eb7e10b3d1d7d2d0b4f3f5535dd/MD/michelbach_hans_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289613#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7289617#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
