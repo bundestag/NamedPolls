@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=714"
+  },
+  "data": {
+    "id": "714",
+    "date": "2021-03-03T00:00:00.000Z",
+    "title": "Bundeswehreinsatz in Südsudan (UNMISS) - Beschlussempfehlung\n      \n    ",
+    "topTitle": "Marginalspalte",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in der Republik Südsudan (UNMISS) - (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/265/1926557.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26557 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26557</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/270/1927015.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27015 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27015</a>)",
+    "detailedDescription": "Hans-Peter Friedrich",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/265/1926557.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/270/1927015.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=714&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 571,
+        "no": 67,
+        "abstain": 2,
+        "na": 69
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 226,
+            "no": 0,
+            "abstain": 0,
+            "na": 20
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 138,
+            "no": 0,
+            "abstain": 0,
+            "na": 14
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 67,
+            "no": 9,
+            "abstain": 1,
+            "na": 11
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 75,
+            "no": 0,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 56,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 63,
+            "no": 1,
+            "abstain": 0,
+            "na": 3
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 7,
+            "yes": 2,
+            "no": 1,
+            "abstain": 1,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7505920/7505920_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7505920",
+      "mediathekURL": "https://dbtg.tv/fvid/7505920",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7505920/7505920_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7505920/7505920_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7505920/7505920_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7505920/7505920_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505922#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Matschie, Christoph",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526440/3x4/170/227/ab4e42f580fdb4ec6dbf74d3b2ebb5a4/md/matschie_christoph_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505923#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Otten, Gerold",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529626/3x4/170/227/7a3206a21a5e0332791e059d208b16d2/NC/otten_gerold_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505924#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Nick, Dr. Andreas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522334/3x4/170/227/3591764a6d995d60b65060b2ce580bcd/cQ/nick_andreas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505925#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Faber, Dr. Marcus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527352/3x4/170/227/2c59fb29730d253663646ecb9d91e24e/BD/faber_marcus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505926#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Pflüger, Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/533896/3x4/170/227/814e291a4a5fb7253eb0a6394fa7d218/kh/pflueger_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505927#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Trittin, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524162/3x4/170/227/36e0074986224945a3eceb3aa288f5c2/ik/trittin_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505928#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Steffel, Frank",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523818/3x4/170/227/fb18bd8160d7e10e27eb0efcf8b79f1c/qY/steffel_frank_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505929#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brecht, Dr. Eberhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518646/3x4/170/227/ab86a978bf768d98b10164f5105196cb/ix/brecht_eberhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505930#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Erndl, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530764/3x4/170/227/5d3aff41993755235996e27129f9ada2/gH/erndl_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505931#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505932#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Pflüger, Tobias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/533896/3x4/170/227/814e291a4a5fb7253eb0a6394fa7d218/kh/pflueger_tobias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505933#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/b4437cbe5d24855554518124d0d92be/Pw/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7505934#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}
