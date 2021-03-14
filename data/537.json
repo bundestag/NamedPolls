@@ -6,9 +6,9 @@
     "id": "537",
     "date": "2018-10-18T00:00:00.000Z",
     "title": "Brückenteilzeit - Änderungsantrag Bündnis 90/Die Grünen",
-    "topTitle": "Marginalspalte",
+    "topTitle": "",
     "description": "Änderungsantrag der Abgeordneten Beate Müller-Gemmeke, Ulle Schauws, Anja Hajduk, weiterer Abgeordneter und der Fraktion Bündnis 90/Die Grünen zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung Entwurf eines Gesetzes zur Weiterentwicklung des Teilzeitrechts - Einführung einer Brückenteilzeit (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/034/1903452.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3452 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3452</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/050/1905097.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5097 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5097</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/051/1905104.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5104 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5104</a>)",
-    "detailedDescription": "Wolfgang Kubicki",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/034/1903452.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/050/1905097.pdf",
@@ -96,100 +96,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282544/7282544_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7282544",
-      "mediathekURL": "https://dbtg.tv/fvid/7282544",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282544/7282544_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282544/7282544_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282544/7282544_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282544/7282544_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Kubicki, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282546#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Heil (Peine), Hubertus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520208/3x4/170/227/3675ad7aa802dd0610e6e58b921832a/iI/heil_hubertus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282547#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundesminister für Arbeit und Soziales",
-        "party": null
-      },
-      {
-        "deputyName": "Pohl, Jürgen",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522672/3x4/170/227/90858205f2293c6fb0c88f8819f2be85/Dg/pohl_juergen_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282549#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Oellers, Wilfried",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522442/3x4/170/227/5539a6b7de473c1c0f620854710754d6/Te/oellers_wilfried_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282550#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Mansmann, Till",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526490/3x4/170/227/a788ae3054839690afbbfafe007efa0c/XC/mansmann_till_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282552#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Ferschl, Susanne",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519420/3x4/170/227/ba4c88da581907cf43559529d45d8daf/Hn/ferschl_susanne_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282553#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Müller-Gemmeke, Beate",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522146/3x4/170/227/11983373a107c1d127815b1e625dfe06/KJ/mueller_gemmeke_beate_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282554#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Mast, Katja",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521888/3x4/170/227/ee4cd9564c11c73681d210b40e709035/Kq/mast_katja_gross.png",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282555#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Straubinger, Max",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523938/3x4/170/227/c52a77996ca6d7c3decec07e5907d244/xb/straubinger_max_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282557#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Kubicki, Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282561#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

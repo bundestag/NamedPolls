@@ -6,9 +6,9 @@
     "id": "541",
     "date": "2018-10-18T00:00:00.000Z",
     "title": "Kindergeld für im Ausland lebende Kinder",
-    "topTitle": "Marginalspalte",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Finanzausschusses (7. Ausschuss) zu dem Antrag der Abgeordneten René Springer, Norbert Kleinwächter, Dr. Birgit Malsack-Winkemann, weiterer Abgeordneter und der Fraktion der AfD: Kindergeld für im Ausland lebende Kinder indexieren - Anpassung des Kindergeldes für nicht in Deutschland lebende Kinder von EU-Bürgern an die Lebenshaltungskosten am Wohnort des Kindes (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/029/1902999.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2999 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2999</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/048/1904883.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4883 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4883</a>)",
-    "detailedDescription": "Claudia Roth",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/029/1902999.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/048/1904883.pdf"
@@ -95,100 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282645/7282645_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7282645",
-      "mediathekURL": "https://dbtg.tv/fvid/7282645",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282645/7282645_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282645/7282645_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282645/7282645_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7282645/7282645_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282648#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Schrodi, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530062/3x4/170/227/8b8ea36fb1b30ffe5e28104df19766a4/ga/schrodi_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282649#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Harder-Kühnel, Mariana Iris",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520102/3x4/170/227/c3669e8c258df8c3fa66ff84c0d047ed/iK/harder_kuehnel_mariana_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282650#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Steiniger, Johannes",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523858/3x4/170/227/bba6f9ab2b0b9140af16e1f902975a0d/SN/steiniger_johannes_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282652#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Herbrand, Markus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526814/3x4/170/227/abf51b90bd0e9795af179af20514c0ee/iM/herbrand_markus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282653#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Cezanne, Jörg",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525614/3x4/170/227/76036b4a82c8e1ad5711e19ef8b1a0ac/jR/cezanne_joerg_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282654#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Brantner, Dr. Franziska",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518620/3x4/170/227/b8a3cd7caea4001d6a5051dad0d183a6/rm/brantner_Franziska_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282655#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Esdar, Dr. Wiebke",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530048/3x4/170/227/22d43c9fbb4fd77d8ef4b52b436103c8/FP/esdar_wiebke_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282656#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Rainer, Alois",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522780/3x4/170/227/174451e55817aede5ec5f7edf0798b3e/or/rainer_alois_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282657#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7282833#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

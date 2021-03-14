@@ -6,9 +6,9 @@
     "id": "687",
     "date": "2020-09-18T00:00:00.000Z",
     "title": "Konsequenzen aus dem Brand in Moria ziehen - Antrag 19/22279",
-    "topTitle": "Marginalspalte",
+    "topTitle": "",
     "description": "Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN: Nach dem Brand von Moria - Für schnelle Nothilfe und einen menschenrechtsbasierten Neustart der europäischen Flüchtlingspolitik (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/226/1922679.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22679 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22679</a>)",
-    "detailedDescription": "Claudia Roth",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/226/1922679.pdf"
     ],
@@ -94,100 +94,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7470927/7470927_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7470927",
-      "mediathekURL": "https://dbtg.tv/fvid/7470927",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7470927/7470927_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7470927/7470927_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7470927/7470927_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7470927/7470927_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Roth (Augsburg), Claudia",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7470926#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Throm, Alexander",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526850/3x4/170/227/93f9dcc24c1067432d283c544feb5665/Pr/throm_alexander_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7470928#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Baumann, Dr. Bernd",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518200/3x4/170/227/23c6d89b9f2c292068b2ae10c47d2bec/sA/baumann_bernd_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7470929#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Lindh, Helge",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7470932#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Teuteberg, Linda",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527244/3x4/170/227/28893e129fa510c4ae7781019c34a7ef/VA/teuteberg_linda_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7470933#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Jelpke, Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7471116#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7471117#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Kuffer, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529172/3x4/170/227/fe3d34fa91b636c24c421a546a892d1d/LV/kuffer_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7471118#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Castellucci, Prof. Dr. Lars",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518860/3x4/170/227/9052d26e24685af4ed86972e90c51ce8/CK/castelluci_lars_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7471119#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7471120#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
