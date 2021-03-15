@@ -6,9 +6,9 @@
     "id": "680",
     "date": "2020-07-02T00:00:00.000Z",
     "title": "Corona-Konjunkturpaket (Entschließungsantrag 19/20739)",
-    "topTitle": "Marginalspalte",
+    "topTitle": "",
     "description": "Entschließungsantrag der Fraktion der AfD zu der dritten Beratung des Gesetzentwurfs der Bundesregierung (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/020/1902000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2000</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/206/1920600.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20600 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20600</a>) Entwurf eines Gesetzes über die Feststellung eines Zweiten Nachtrags zum Bundeshaushaltsplan für das Haushaltsjahr 2020 (Zweites Nachtragshaushaltsgesetz 2020) und zu der dritten Beratung des Gesetzentwurfs der Fraktionen der CDU/CSU und SPD (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/200/1920057.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20057 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20057</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/207/1920717.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20717 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20717</a>) Entwurf eines Gesetzes über begleitende Maßnahmen zur Umsetzung des Konjunktur- und Krisenbewältigungspakets und zu der Beratung der Beschlussempfehlung und des Haushaltsausschusses (8. Ausschuss) zu dem Antrag der Fraktionen der CDU/CSU und SPD (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/201/1920128.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20128 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20128</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/207/1920716.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20716 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20716</a>) Beschluss des Bundestages gemäß Artikel 115 Absatz 2 Satz 6 und 7 des Grundgesetzes (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/207/1920739.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20739 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20739</a>)",
-    "detailedDescription": "Dr. Wolfgang Schäuble",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/020/1902000.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/206/1920600.pdf",
@@ -100,174 +100,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19170.pdf#P.21138",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7455429",
-      "mediathekURL": "https://dbtg.tv/fvid/7455429",
+      "iTunesURL": "",
+      "mediathekURL": "",
       "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455432#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Scholz, Olaf",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/509336/3x4/170/227/81a1555bd5aa89267399632fcabadacc/uM/scholz_olaf_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455433#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundesminister der Finanzen",
-        "party": null
-      },
-      {
-        "deputyName": "Boehringer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518512/3x4/170/227/c6636fc7e47f81c7e76fb72091abfa5a/vj/boehringer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455434#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Rehberg, Eckhardt",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522824/3x4/170/227/61a30183e35ddaeecb6a2488f86ad345/VM/rehberg_eckhardt_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455435#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Dürr, Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526836/3x4/170/227/ab1636595e71a6d852ae634fd3c370de/Bq/duerr_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455436#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Lötzsch, Dr. Gesine",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521684/3x4/170/227/f0abe0a5b92f3676a9a387e0796f8e56/ii/loetzsch_gesine_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455437#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Kindler, Sven-Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520998/3x4/170/227/e78871466578255361b017edcac92f0c/qQ/kindler_sven_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455439#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Rohde, Dennis",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523004/3x4/170/227/dea6ea01c95d644510e29c65c89a5167/lJ/rohde_dennis_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455440#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Boehringer, Peter",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518512/3x4/170/227/c6636fc7e47f81c7e76fb72091abfa5a/vj/boehringer_peter_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455441#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Rohde, Dennis",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523004/3x4/170/227/dea6ea01c95d644510e29c65c89a5167/lJ/rohde_dennis_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455442#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Bühl, Marcus",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518772/3x4/170/227/6a5b11d3abb29063a91e4478599d2674/Ss/buehl_marcus_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455443#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Jung, Andreas",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520738/3x4/170/227/2632f92b914f576353b7659f2d28d116/oh/jung_andreas_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455444#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Fricke, Otto",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/525440/3x4/170/227/8bd0a696d28f88942e75b3a6bbbdeaee/OK/fricke_otto_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455445#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Deligöz, Ekin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518992/3x4/170/227/dd92647b6570e05c078bee0e7e8d61bd/bQ/deligoez_ekin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455446#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Steffen, Sonja Amalie",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523822/3x4/170/227/ddd38de948da7f9a1798f8e51a01b3e8/gx/steffen_sonja_amalie_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455447#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Klein, Karsten",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529944/3x4/170/227/d61f1ae5a3d09b0545c448a157b5ca24/si/klein_karsten_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455448#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Brandl, Dr. Reinhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455449#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Daldrup, Bernhard",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518960/3x4/170/227/fcde0357d0982d2ff6204597c739afcb/fG/daldrup_bernhard_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455450#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Petry, Dr. Frauke",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526780/3x4/170/227/8af489b12cc3b683caf03eea54d7c69a/LM/petry_frauke_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455451#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "fraktionslos "
-      },
-      {
-        "deputyName": "Haase, Christian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519994/3x4/170/227/b0ce7b1d32219eb3cb06e789b21e1c2b/gP/haase_christian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455452#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Bülow, Marco",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/518778/3x4/170/227/d5fa648db487ed3f3992ffa54d9aa58c/mr/buelow_marco_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455453#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "fraktionslos "
-      },
-      {
-        "deputyName": "Rief, Josef",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522928/3x4/170/227/65067cdf5ee6293d69d63cf1f3082d73/MS/rief_josef_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455454#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Schäuble, Dr. Wolfgang",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7455457#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }

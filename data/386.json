@@ -6,9 +6,9 @@
     "id": "386",
     "date": "2016-02-25T00:00:00.000Z",
     "title": "Einführung beschleunigter Asylverfahren - Gesetzentwurf",
-    "topTitle": "Marginalspalte",
+    "topTitle": "",
     "description": "Gesetzentwurf der Fraktionen der CDU/CSU und SPD: Entwurf eines Gesetzes zur Einführung beschleunigter Asylverfahren (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/075/1807538.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7538 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7538</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/076/1807645.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7645 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7645</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/076/1807685.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7685 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7685</a>)",
-    "detailedDescription": "&copy;&nbsp;Deutscher Bundestag / Achim Melde",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/075/1807538.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/076/1807645.pdf",
@@ -66,121 +66,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6593787/6593787_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=6593787",
-      "mediathekURL": "https://dbtg.tv/fvid/6593787",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6593787/6593787_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6593787/6593787_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6593787/6593787_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/6593787/6593787_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Lammert, Prof. Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6593789#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      },
-      {
-        "deputyName": "Schröder, Dr. Ole",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241702/3x4/170/227/627d37b03b8f0c90500be79a5b8122d6/um/schroeder_ole_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6593916#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Parlamentarischer Staatssekretär des Innern",
-        "party": null
-      },
-      {
-        "deputyName": "Korte, Jan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521240/3x4/170/227/ad12ad0b3d2e2533a92c86ab926952f3/yO/korte_jan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594035#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Gall, Reinhold",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/451042/3x4/170/227/7cf1d210369889ea7a2072dea29fbf8e/Um/nn_bild_neutral.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594060#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Innenminister, Baden-Württemberg",
-        "party": null
-      },
-      {
-        "deputyName": "Göring-Eckardt, Katrin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519780/3x4/170/227/8caec0b17d0ec4852f2fee9c064ea3b3/LS/goering_eckardt_katrin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594061#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Warken, Nina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524430/3x4/170/227/cda76d1674034aacb91843a86ba9ac76/YU/warken_nina_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594115#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Jelpke, Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594116#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Özoguz, Aydan",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522460/3x4/170/227/d3c16e944d9ca5339bb6af918fcbb0f/bP/oezoguz_aydan_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594295#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Staatsministerin für Migration, Flüchtlinge und Integration",
-        "party": null
-      },
-      {
-        "deputyName": "Dörner, Katja",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/519084/3x4/170/227/9d5a92468e16eb69cdc2a6f754a2680e/pI/doerner_katja_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594302#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Lindholz, Andrea",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/521634/3x4/170/227/69086b00b6913a3cc1f07a97964779e4/JG/lindholz_andrea_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594363#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Hartmann, Sebastian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520116/3x4/170/227/2772d9cc4d633e4845eed3ea5a53b339/sx/hartmann_sebastian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594364#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Eckenbach, Jutta",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/242078/3x4/170/227/ab9cfec3747035364e4d31cfcea1fb28/Ni/eckenbach_jutta_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594384#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lammert, Prof. Dr. Norbert",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241286/3x4/170/227/5992fbdae53451b687acd822838f6ac6/pI/lammert_norbert_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=6594458#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagspräsident",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
