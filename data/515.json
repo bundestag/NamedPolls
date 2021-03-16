@@ -6,9 +6,9 @@
     "id": "515",
     "date": "2018-06-07T00:00:00.000Z",
     "title": "Mietpreispolitik",
-    "topTitle": "",
+    "topTitle": "Linke kritisiert Blockadehaltung der Union",
     "description": "Gesetzentwurf der Fraktion Die Linke Entwurf eines Gesetzes zur Erweiterung der Auskunftspflicht der Vermieterinnen und Vermieter und zur Abschaffung der Rügepflicht der Mieterinnen und Mieter (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/002/1900258.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/258 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/258</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/019/1901907.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1907 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1907</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "Breiten Raum in der Diskussion nahm der aus der Presse bekannt gewordene Referentenentwurf für ein Gesetz zur Reform der Mietpreisbremse aus dem von <strong>Dr.</strong> <strong>Katarina Barley (SPD)</strong> geführten Justizministerium ein. Nach dem Entwurf sollen Vermieter unter anderem im Rahmen einer vorvertraglichen Auskunftspflicht Mietern künftig von sich aus mitteilen, dass sie eine höhere als die gesetzlich zulässige Miethöhe verlangen sowie den Grund hierfür.",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/002/1900258.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/019/1901907.pdf"
@@ -95,12 +95,128 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7243219/7243219_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7243219",
+      "mediathekURL": "https://dbtg.tv/fvid/7243219",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7243219/7243219_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7243219/7243219_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7243219/7243219_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7243219/7243219_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243223#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Lay, Caren",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521510/3x4/170/227/2a98dd41cbb84339ac088340cd07572c/SI/lay_caren_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243227#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Luczak, Dr. Jan-Marco",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521728/3x4/170/227/7d25c3d1df5330d6664b19001598c93a/fG/luczak_jan_marco_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243229#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Maier, Jens",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526754/3x4/170/227/dbdf8f231028b0e61e0fe191b834d171/pm/maier_jens_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243230#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Fechner, Dr. Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519370/3x4/170/227/363bb4254ecc86a482aa9791447b045b/AP/fechner_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243231#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Kloke, Katharina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526390/3x4/170/227/bc4e18f36029d979d295e4a3264d0d0/vl/willkomm_katharina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243233#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Kühn (Tübingen), Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521380/3x4/170/227/1dbaa31873f9634d46e8fca633b26cca/HK/kuehn_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243234#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hoffmann, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520438/3x4/170/227/30e2cc4f715e5128f12fca5e21683eed/Mo/hoffmann_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243236#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Föst, Daniel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527434/3x4/170/227/39e67e58d30f7a765332f0f31b8b1635/wX/foest_daniel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243237#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Nissen, Ulli",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522368/3x4/170/227/274889321c039ee9f1129def6bca4b9c/vI/nissen_ulli_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243238#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Bayram, Canan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525600/3x4/170/227/d3ada55f2e0a1e7b73b9bdc3158e4204/qv/bayram_canan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243239#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Mieruch, Mario",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530218/3x4/170/227/fba40e2ddc0770bd9cf4063ab58267a4/Uk/mieruch_mario_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243241#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "fraktionslos "
+      },
+      {
+        "deputyName": "Mindrup, Klaus",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522044/3x4/170/227/ffa05a0aaabe6bbfe87dd2e119c549c1/GS/mindrup_klaus_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243242#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Oppermann, Thomas",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522470/3x4/170/227/6610a5826abaa23c1928020faa6a676b/Uw/oppermann_thomas_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7243243#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
