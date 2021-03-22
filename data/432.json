@@ -65,11 +65,28 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/18/18206.pdf#P.20606",
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
     "media": {
       "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7038783",
       "mediathekURL": "https://dbtg.tv/fvid/7038783",
-      "videoURLs": []
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7038783/7038783_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
     "speeches": [
       {
@@ -109,7 +126,7 @@
       },
       {
         "deputyName": "Kovac, Kordula",
-        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/242596/3x4/170/227/1a0300471ae82ef9d3b715cbfa7bbc99/BL/kovac_kordula_gross.jpg",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521258/3x4/170/227/61887e52b9e7999069b8f33e8f0deddc/VX/kovac_kordula_gross.jpg",
         "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7038803#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
         "function": null,
         "party": "CDU/CSU"
