@@ -6,9 +6,9 @@
     "id": "256",
     "date": "2014-03-13T00:00:00.000Z",
     "title": "EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)",
-    "topTitle": "",
+    "topTitle": "Marginalspalte",
     "description": "Beschlussempfehlung des Ausschusses für Ernährung und Landwirtschaft zu dem Antrag der Fraktion Bündnis 90/Die Grünen zu dem Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2001/110/EG des Rates über Honig Kom(2012) 530 endg.; Ratsdok. 13957/12 hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes \"Wahlfreiheit für Verbraucherinnen und Verbraucher herstellen - Honig mit gentechnisch veränderten Bestandteilen kennzeichnen\" (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/578 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/578</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/792 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/792</a>)",
-    "detailedDescription": "",
+    "detailedDescription": "&copy;&nbsp;DBT/Stella von Saldern",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf",
       "https://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf"
@@ -65,12 +65,86 @@
         }
       ]
     },
-    "plenarProtocolURL": "",
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3209932/3209932_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
     "media": {
-      "iTunesURL": "",
-      "mediathekURL": "",
-      "videoURLs": []
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=3209932",
+      "mediathekURL": "https://dbtg.tv/fvid/3209932",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3209932/3209932_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3209932/3209932_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3209932/3209932_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/3209932/3209932_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
     },
-    "speeches": []
+    "speeches": [
+      {
+        "deputyName": "Hintze, Peter",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3209936#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Vries, Kees de",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524320/3x4/170/227/bec3c373c50020039b1a7f95b44bbe2d/RG/de_vries_kees_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3209937#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Tackmann, Dr. Kirsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524008/3x4/170/227/ab648f9304846531be0fda13ec74ee79/gv/tackmann_kirsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3209938#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Miersch, Dr. Matthias",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522028/3x4/170/227/2adb849a5885929a95a0d01f4f5d6451/Fm/miersch_matthias_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3209972#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ebner, Harald",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519192/3x4/170/227/66825d04a784b3ece7aa8a2708c36f0b/GR/ebner_harald_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3209975#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Rainer, Alois",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522780/3x4/170/227/174451e55817aede5ec5f7edf0798b3e/or/rainer_alois_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3209976#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hagl-Kehl, Rita",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520036/3x4/170/227/edefdc2c6f19dafe8eb55e52d3ca87c5/Js/hagl-kehl_rita_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3210001#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Hintze, Peter",
+        "deputyImgURL": "https://www.bundestag.dehttps://www.bundestag.de/resource/image/241056/3x4/170/227/1dd6f570004e2c628e4344e157ee4b6c/vc/hintze_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=3210004#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
   }
 }
