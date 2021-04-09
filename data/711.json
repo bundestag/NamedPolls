@@ -16,13 +16,84 @@
     "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=711&ajax=true",
     "votes": {
       "all": {
-        "total": null,
-        "yes": null,
-        "no": null,
-        "abstain": null,
-        "na": null
+        "total": 709,
+        "yes": 357,
+        "no": 84,
+        "abstain": 170,
+        "na": 98
       },
-      "parties": []
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 246,
+            "yes": 222,
+            "no": 0,
+            "abstain": 0,
+            "na": 24
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 135,
+            "no": 0,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 0,
+            "no": 72,
+            "abstain": 1,
+            "na": 15
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 0,
+            "abstain": 72,
+            "na": 8
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 9,
+            "abstain": 41,
+            "na": 19
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 0,
+            "abstain": 55,
+            "na": 12
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 7,
+            "yes": 0,
+            "no": 3,
+            "abstain": 1,
+            "na": 3
+          }
+        }
+      ]
     },
     "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7499186/7499186_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
     "media": {
