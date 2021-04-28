@@ -17,10 +17,10 @@
     "votes": {
       "all": {
         "total": 709,
-        "yes": 371,
+        "yes": 370,
         "no": 78,
         "abstain": 184,
-        "na": 76
+        "na": 77
       },
       "parties": [
         {
@@ -37,10 +37,10 @@
           "name": "SPD",
           "votes": {
             "total": 152,
-            "yes": 141,
+            "yes": 140,
             "no": 0,
             "abstain": 0,
-            "na": 11
+            "na": 12
           }
         },
         {
