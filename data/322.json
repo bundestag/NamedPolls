@@ -17,13 +17,54 @@
     "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=322&ajax=true",
     "votes": {
       "all": {
-        "total": null,
-        "yes": null,
-        "no": null,
-        "abstain": null,
-        "na": null
+        "total": 629,
+        "yes": 110,
+        "no": 456,
+        "abstain": 0,
+        "na": 63
       },
-      "parties": []
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 310,
+            "yes": 0,
+            "no": 281,
+            "abstain": 0,
+            "na": 29
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 192,
+            "yes": 0,
+            "no": 175,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 64,
+            "yes": 51,
+            "no": 0,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 63,
+            "yes": 59,
+            "no": 0,
+            "abstain": 0,
+            "na": 4
+          }
+        }
+      ]
     },
     "plenarProtocolURL": "",
     "media": {
