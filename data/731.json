@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=731"
+  },
+  "data": {
+    "id": "731",
+    "date": "2021-05-06T00:00:00.000Z",
+    "title": "Bevölkerungsschutzgesetz – Normenkontrolle",
+    "topTitle": "Marginalspalte",
+    "description": "Antrag der Abgeordneten Stephan Brandner, Fabian Jacobi, Jens Maier, weiterer Abgeordneter und der Fraktion der AfD: Antrag auf abstrakte Normenkontrolle beim Bundesverfassungsgericht gemäß Artikel 93 Absatz 1 Nummer 2 des Grundgesetzes wegen des Vierten Gesetzes zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/293/1929309.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29309 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29309</a>)",
+    "detailedDescription": "Dr. Wolfgang Schäuble",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/293/1929309.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=731&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 84,
+        "no": 563,
+        "abstain": 1,
+        "na": 61
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 245,
+            "yes": 0,
+            "no": 227,
+            "abstain": 0,
+            "na": 18
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 0,
+            "no": 141,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 82,
+            "no": 0,
+            "abstain": 0,
+            "na": 6
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 72,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 58,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 63,
+            "abstain": 0,
+            "na": 4
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 8,
+            "yes": 2,
+            "no": 2,
+            "abstain": 1,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519455/7519455_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7519455",
+      "mediathekURL": "https://dbtg.tv/fvid/7519455",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519455/7519455_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519455/7519455_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519455/7519455_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519455/7519455_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Schäuble, Dr. Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523182/3x4/170/227/f77019de782ec7a1ace13538341f4879/do/schaeuble_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519458#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagspräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Brandner, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518600/3x4/170/227/a7750e40078400dcaa7f49099174ac4c/vp/brandner_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519459#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Warken, Nina",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524430/3x4/170/227/cda76d1674034aacb91843a86ba9ac76/YU/warken_nina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519460#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Schinnenburg, Dr. Wieland",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526694/3x4/170/227/8ce24136a618c0aea6d42121bbec591a/Za/schinnenburg_wieland_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519644#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Franke, Dr. Edgar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519496/3x4/170/227/47c80d2002cf1dc0e3ac3a6ae17a6eb5/Hc/franke_edgar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519645#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Movassat, Niema",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522134/3x4/170/227/f342dae5c2a506d0f487e50c17230165/TV/movassat_niema_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519646#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Dahmen, Dr. Janosch",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/815306/3x4/170/227/3b484c9d3be004504bf534a06211ec28/gt/dahmen_janosch_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519647#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Henke, Rudolf",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520292/3x4/170/227/6a8e99a7e0be6e9e17a5eadca240384/hB/henke_rudolf_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519649#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Wirth, Dr. Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530406/3x4/170/227/a2c363f15e2ce5b4d620d27859659369/qw/wirth_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519650#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Lindh, Helge",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519651#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Thomae, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527112/3x4/170/227/29806502e5fe3ed62679c6d434c70c5d/pS/thomae_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519652#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Keul, Katja",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520976/3x4/170/227/558a92b61b4c13d78d16ec5a3d55a609/EA/keul_katja_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519653#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Müller (Braunschweig), Carsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522164/3x4/170/227/7746e1b85b4a2cc30581dccffe1f2f73/SJ/mueller_carsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519654#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519655#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Krauß, Alexander",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530800/3x4/170/227/52956c7d3084fbe9ba26be259c76fc2f/AE/krauss_alexander_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519656#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519657#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

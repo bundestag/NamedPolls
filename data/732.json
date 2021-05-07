@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=732"
+  },
+  "data": {
+    "id": "732",
+    "date": "2021-05-06T00:00:00.000Z",
+    "title": "COVID-19-Schutzmaßnahmen- Ausnahmenverordnung",
+    "topTitle": "Marginalspalte",
+    "description": "Gesetzentwurf der Bundesregierung in der Ausschussfassung: Entwurf eines Gesetzes zur Verbesserung des Schutzes von Gerichtsvollziehern vor Gewalt sowie zur Änderung weiterer zwangsvollstreckungsrechtlicher Vorschriften (Gerichtsvollzieherschutzgesetz - GvSchuG) hier: Artikel 6 - Änderung des Infektionsschutzgesetzes (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/276/1927636.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27636 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27636</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/292/1929246.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29246 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29246</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/293/1929398.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29398 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29398</a>)",
+    "detailedDescription": "Wolfgang Kubicki",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/276/1927636.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/292/1929246.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/293/1929398.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=732&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 482,
+        "no": 81,
+        "abstain": 70,
+        "na": 76
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 245,
+            "yes": 223,
+            "no": 0,
+            "abstain": 0,
+            "na": 22
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 139,
+            "no": 0,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 0,
+            "no": 80,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 0,
+            "abstain": 68,
+            "na": 12
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 56,
+            "no": 0,
+            "abstain": 1,
+            "na": 12
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 62,
+            "no": 0,
+            "abstain": 0,
+            "na": 5
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 8,
+            "yes": 2,
+            "no": 1,
+            "abstain": 1,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519675/7519675_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7519675",
+      "mediathekURL": "https://dbtg.tv/fvid/7519675",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519675/7519675_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519675/7519675_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519675/7519675_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519675/7519675_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519673#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Lambrecht, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521458/3x4/170/227/eb137a528acce58436765126c7f8e2a5/zm/lambrecht_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519676#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundesministerin der Justiz und für Verbraucherschutz",
+        "party": null
+      },
+      {
+        "deputyName": "Oehme, Ulrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526492/3x4/170/227/6af4f24bf97028f259e37fb62a01abc7/OC/oehme_ulrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519677#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Frei, Thorsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519530/3x4/170/227/43c509e7e61d011442b0c69484a882fd/ln/frei_thorsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519678#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Aschenberg-Dugnus, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526698/3x4/170/227/b415e7276b9699efb9fd8f9cffe13c41/UL/aschenberg_dugnus_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519679#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Ferschl, Susanne",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519420/3x4/170/227/ba4c88da581907cf43559529d45d8daf/Hn/ferschl_susanne_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519680#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Rottmann, Dr. Manuela",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527406/3x4/170/227/212d18a347bbde35405196f9178f8f35/ku/rottmann_manuela_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519681#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Fechner, Dr. Johannes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519370/3x4/170/227/363bb4254ecc86a482aa9791447b045b/AP/fechner_johannes_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519682#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Luczak, Dr. Jan-Marco",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521728/3x4/170/227/7d25c3d1df5330d6664b19001598c93a/fG/luczak_jan_marco_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519683#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Stracke, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523924/3x4/170/227/e0f247959fdab57dd0971594286dbe33/er/stracke_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519685#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Pau, Petra",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519686#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

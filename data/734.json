@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=734"
+  },
+  "data": {
+    "id": "734",
+    "date": "2021-05-06T00:00:00.000Z",
+    "title": "Patente für Impfstoffe freigeben (Beschlussempfehlung)",
+    "topTitle": "Marginalspalte",
+    "description": "Beschlussempfehlung des Ausschusses für Gesundheit (14. Ausschuss) zu dem Antrag der Fraktion DIE LINKE. - Patente für Impfstoffe freigeben - Weder wirtschaftliche noch nationale Interessen dürfen die Bekämpfung der Pandemie beeinträchtigen (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/257/1925787.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25787 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25787</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/288/1928832.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28832 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28832</a>)",
+    "detailedDescription": "Claudia Roth",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/257/1925787.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/288/1928832.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=734&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 498,
+        "no": 117,
+        "abstain": 1,
+        "na": 93
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 245,
+            "yes": 220,
+            "no": 1,
+            "abstain": 0,
+            "na": 24
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 136,
+            "no": 1,
+            "abstain": 1,
+            "na": 14
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 73,
+            "no": 1,
+            "abstain": 0,
+            "na": 14
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 66,
+            "no": 0,
+            "abstain": 0,
+            "na": 14
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 53,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 60,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 8,
+            "yes": 3,
+            "no": 1,
+            "abstain": 0,
+            "na": 4
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519800/7519800_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7519800",
+      "mediathekURL": "https://dbtg.tv/fvid/7519800",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519800/7519800_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519800/7519800_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519800/7519800_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519800/7519800_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519803#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Flachsbarth, Dr. Maria",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519464/3x4/170/227/c7e30a1a8437509fccb65715a644e527/fk/flachsbarth_maria_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519804#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Parl. Staatssekretärin für wirtschaftliche Zusammenarbeit und Entwicklung",
+        "party": null
+      },
+      {
+        "deputyName": "Spangenberg, Detlev",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529618/3x4/170/227/2fac2aae3eb8f18d9dd0393dcdf51e37/Gt/spangenberg_detlev_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519805#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Baehrens, Heike",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518082/3x4/170/227/3cededdb7f146c9512bc43a1de13ba59/Tm/baehrens_heike_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519806#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ullmann, Prof. Dr. Andrew",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527000/3x4/170/227/6012744490bb7283862cfefa8d2fdfc3/HW/ullmann_andrew_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519807#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Kessler, Dr. Achim",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520970/3x4/170/227/ec1272fc31b77ffc77062986dacdd3b9/MT/kessler_achim_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519808#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Schulz-Asche, Kordula",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523512/3x4/170/227/13a9113bb2a6daff2ffe59156e4a0832/Mp/schulz-asche_kordula_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519809#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Hennrich, Michael",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520298/3x4/170/227/b8c8cbe5be9d036f9e3aa99d8ff44f17/iU/hennrich_michael_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519810#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Röspel, René",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522990/3x4/170/227/94717c543c39352d5303c4768bafecec/Qd/roespel_rene_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519811#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Irlstorfer, Erich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520616/3x4/170/227/63228ef20a858edb33573fcb2a8601ed/Xj/irlstorfer_erich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519812#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519814#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

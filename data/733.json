@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=733"
+  },
+  "data": {
+    "id": "733",
+    "date": "2021-05-06T00:00:00.000Z",
+    "title": "Ablösung der Staatsleistungen",
+    "topTitle": "Marginalspalte",
+    "description": "Gesetzentwurf der Fraktionen FDP, DIE LINKE. und BÜNDNIS 90/DIE GRÜNEN - Entwurf eines Grundsätzegesetzes zur Ablösung der Staatsleistungen (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/192/1919273.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19273 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19273</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/290/1929000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29000</a>)",
+    "detailedDescription": "Claudia Roth",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/192/1919273.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/290/1929000.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=733&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 179,
+        "no": 443,
+        "abstain": 3,
+        "na": 84
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 245,
+            "yes": 0,
+            "no": 224,
+            "abstain": 0,
+            "na": 21
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 0,
+            "no": 141,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 0,
+            "no": 76,
+            "abstain": 1,
+            "na": 11
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 67,
+            "no": 0,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 52,
+            "no": 0,
+            "abstain": 0,
+            "na": 17
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 59,
+            "no": 0,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 8,
+            "yes": 1,
+            "no": 2,
+            "abstain": 2,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519774/7519774_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7519774",
+      "mediathekURL": "https://dbtg.tv/fvid/7519774",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519774/7519774_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519774/7519774_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519774/7519774_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519774/7519774_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519777#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Amthor, Philipp",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526146/3x4/170/227/92ba2f0f0562c715e4fe5b99ad7be278/IJ/amthor_philipp_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519778#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Münz, Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522232/3x4/170/227/2edd4dfb89ccd01815e1d3f8faea4ad1/PH/muenz_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519779#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Castellucci, Prof. Dr. Lars",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518860/3x4/170/227/9052d26e24685af4ed86972e90c51ce8/CK/castelluci_lars_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519780#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Strasser, Benjamin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529146/3x4/170/227/c60cbef823a4432af3b8f8fa9e059ca/BF/strasser_benjamin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519781#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Buchholz, Christine",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518752/3x4/170/227/a7aafdcb09cda47ba2821c224de4ef39/uG/buchholz_christine_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519782#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Notz, Dr. Konstantin von",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522398/3x4/170/227/658f1c8b9ec11c3b0ae29fc4db632ab3/da/notz_konstantin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519783#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Henrichmann, Marc",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520302/3x4/170/227/4c4211d692b2616cf3a949356f1e9ceb/md/henrichmann_marc_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519784#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hendricks, Dr. Barbara",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520274/3x4/170/227/d2d846d433c29e3914cb286546b82139/gr/hendricks_barbara_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519785#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Ullrich, Dr. Volker",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524210/3x4/170/227/50b690341cbf9bac4d588dc2c40a22f5/LT/ullrich_volker_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519786#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Roth (Augsburg), Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523036/3x4/170/227/abcbbda78aa2e43e5c5a5eff85f0211c/QK/roth_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519787#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

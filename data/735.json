@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=735"
+  },
+  "data": {
+    "id": "735",
+    "date": "2021-05-07T00:00:00.000Z",
+    "title": "Mobilisierung von Bauland",
+    "topTitle": "Marginalspalte",
+    "description": "Änderungsantrag der Abgeordneten Christian Kühn (Tübingen), Daniela Wagner, Britta Haßelmann, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN zu der zweiten Beratung des Gesetzentwurfs der Bundesregierung (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/248/1924838.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24838 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24838</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/260/1926023.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26023 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26023</a>, <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/293/1929396.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29396 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29396</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/294/1929409.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29409 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29409</a>): Entwurf eines Gesetzes zur Mobilisierung von Bauland (Baulandmobilisierungsgesetz)",
+    "detailedDescription": "Wolfgang Kubicki",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/248/1924838.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/260/1926023.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/293/1929396.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/294/1929409.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=735&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 114,
+        "no": 431,
+        "abstain": 66,
+        "na": 98
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 245,
+            "yes": 0,
+            "no": 222,
+            "abstain": 0,
+            "na": 23
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 0,
+            "no": 128,
+            "abstain": 0,
+            "na": 24
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 0,
+            "no": 77,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 0,
+            "abstain": 66,
+            "na": 14
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 53,
+            "no": 0,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 60,
+            "no": 0,
+            "abstain": 0,
+            "na": 7
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 8,
+            "yes": 1,
+            "no": 4,
+            "abstain": 0,
+            "na": 3
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519926/7519926_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7519926",
+      "mediathekURL": "https://dbtg.tv/fvid/7519926",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519926/7519926_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519926/7519926_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519926/7519926_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519926/7519926_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519925#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      },
+      {
+        "deputyName": "Schweiger, Torsten",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523594/3x4/170/227/52c3c2bb4eb1fc8f3e80a8c901bbc347/Su/schweiger_torsten_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519927#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Hemmelgarn, Udo Theodor",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/530368/3x4/170/227/15e77680037870ddcab10f635f819b08/mU/hemmelgarn_udo_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519928#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Bartol, Sören",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518166/3x4/170/227/7c2e083a96405d409ffb7af4c6539e94/sj/bartol_soeren_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519929#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Föst, Daniel",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527434/3x4/170/227/39e67e58d30f7a765332f0f31b8b1635/wX/foest_daniel_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519930#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Lay, Caren",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521510/3x4/170/227/2a98dd41cbb84339ac088340cd07572c/SI/lay_caren_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519931#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Kühn (Tübingen), Christian",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521380/3x4/170/227/1dbaa31873f9634d46e8fca633b26cca/HK/kuehn_christian_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7519932#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lange, Ulrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521484/3x4/170/227/193c9556c3c439ee361a2c19b3cf30eb/Du/lange_ulrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7520118#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Bayram, Canan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/525600/3x4/170/227/d3ada55f2e0a1e7b73b9bdc3158e4204/qv/bayram_canan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7520119#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Lange, Ulrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/521484/3x4/170/227/193c9556c3c439ee361a2c19b3cf30eb/Du/lange_ulrich_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7520120#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Tausend, Claudia",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524034/3x4/170/227/d265bde378711c0bd27f598d838f49b2/Sa/tausend_claudia_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7520121#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Heil, Mechthild",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520212/3x4/170/227/871bada21c1d8213d4dd83484311576a/Ma/heil_mechthild_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7520122#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Kubicki, Wolfgang",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526982/3x4/170/227/356e0f18dc3f3cd335daa7094f6902f7/TW/kubicki_wolfgang_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7520123#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}
