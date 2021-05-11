@@ -117,6 +117,10 @@
         {
           "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519926/7519926_mp3_128kb_stereo_de_128.mp3?fdl=1",
           "description": "Audio (MP3)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7519926/7519926.srt",
+          "description": "Untertitel (SRT)"
         }
       ]
     },
