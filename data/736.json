@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=736"
+  },
+  "data": {
+    "id": "736",
+    "date": "2021-05-19T00:00:00.000Z",
+    "title": "Mali (MINUSMA) (Beschlussempfehlung)",
+    "topTitle": "Marginalspalte",
+    "description": "Beschlussempfehlung des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA) (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/288/1928803.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28803 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28803</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/294/1929431.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29431 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29431</a>)",
+    "detailedDescription": "Dagmar Ziegler",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/288/1928803.pdf",
+      "https://dip21.bundestag.de/dip21/btd/19/294/1929431.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=736&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 499,
+        "no": 147,
+        "abstain": 3,
+        "na": 60
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 245,
+            "yes": 229,
+            "no": 1,
+            "abstain": 0,
+            "na": 15
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 138,
+            "no": 2,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 0,
+            "no": 78,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 73,
+            "no": 0,
+            "abstain": 1,
+            "na": 6
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 58,
+            "abstain": 0,
+            "na": 11
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 58,
+            "no": 2,
+            "abstain": 2,
+            "na": 5
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 8,
+            "yes": 1,
+            "no": 6,
+            "abstain": 0,
+            "na": 1
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522456/7522456_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7522456",
+      "mediathekURL": "https://dbtg.tv/fvid/7522456",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522456/7522456_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522456/7522456_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522456/7522456_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522456/7522456_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522456/7522456.srt",
+          "description": "Untertitel (SRT)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/405919d8dfcdf0ae25546eff4f70e387/jc/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522459#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Schmid, Dr. Nils",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527066/3x4/170/227/5499615c6f46017d09a87ca22a55480c/EV/schmid_nils_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522460#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Lucassen, Rüdiger",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529134/3x4/170/227/2bcb123102469a2d0927ee7ab2ba6a8f/aH/lucassen_ruediger_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522461#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Hardt, Jürgen",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520108/3x4/170/227/2f9b71ae4c47085a876adaf6dcbccf4d/QO/hardt_juergen_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522462#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Lechte, Ulrich",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526790/3x4/170/227/6178136b55a7ab4be0bc5a7b943296e9/KQ/lechte_ulrich_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522463#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Vogler, Kathrin",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524286/3x4/170/227/f1bf283837a492236dbf48040b3d7ebb/Lz/vogler_kathrin_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522464#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Brugger, Agnieszka",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518718/3x4/170/227/952b19bd98a708533bb56bce8a190e19/rc/brugger_agnieszka_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522465#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Otte, Henning",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/522504/3x4/170/227/6440cc4c379611fef3849dd10e184e74/Vl/otte_henning_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522466#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brecht, Dr. Eberhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518646/3x4/170/227/ab86a978bf768d98b10164f5105196cb/ix/brecht_eberhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522467#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brandl, Dr. Reinhard",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518594/3x4/170/227/82abdb74dbcb7c91361ff26035632768/Cx/brandl_reinhard_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522468#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/405919d8dfcdf0ae25546eff4f70e387/jc/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522470#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}

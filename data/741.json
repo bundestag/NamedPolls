@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=741"
+  },
+  "data": {
+    "id": "741",
+    "date": "2021-05-20T00:00:00.000Z",
+    "title": "Einspruch des Abg. Lucassen gegen Ordnungsruf",
+    "topTitle": "Marginalspalte",
+    "description": "Einspruch gemäß Paragraf 39 der Geschäftsordnung des Abgeordneten Rüdiger Lucassen gegen einen in der letzten Sitzung erteilten Ordnungsruf",
+    "detailedDescription": "Hans-Peter Friedrich",
+    "documents": [],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=741&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 73,
+        "no": 534,
+        "abstain": 8,
+        "na": 94
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 245,
+            "yes": 0,
+            "no": 211,
+            "abstain": 6,
+            "na": 28
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 0,
+            "no": 136,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 72,
+            "no": 0,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 0,
+            "no": 71,
+            "abstain": 1,
+            "na": 8
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 0,
+            "no": 53,
+            "abstain": 0,
+            "na": 16
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 0,
+            "no": 59,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 8,
+            "yes": 1,
+            "no": 4,
+            "abstain": 1,
+            "na": 2
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://dipbt.bundestag.de/dip21/btp/19/19230.pdf",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7522786",
+      "mediathekURL": "https://dbtg.tv/fvid/7522786",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522786/7522786_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522786/7522786_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522786/7522786_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522786/7522786_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Friedrich (Hof), Dr. Hans-Peter",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/519558/3x4/170/227/84986d675a6727fe078fa567841f9145/Gx/friedrich_hans_peter_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522789#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsident",
+        "party": null
+      }
+    ]
+  }
+}

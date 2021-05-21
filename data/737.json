@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=737"
+  },
+  "data": {
+    "id": "737",
+    "date": "2021-05-19T00:00:00.000Z",
+    "title": "Geschlechtliche Selbstbestimmung (Gesetzentwurf FDP)",
+    "topTitle": "Marginalspalte",
+    "description": "Gesetzentwurf der Fraktion der FDP - Entwurf eines Gesetzes zur Stärkung der geschlechtlichen Selbstbestimmung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/200/1920048.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20048 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20048</a>)",
+    "detailedDescription": "Dagmar Ziegler",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/19/200/1920048.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=737&ajax=true",
+    "votes": {
+      "all": {
+        "total": 709,
+        "yes": 186,
+        "no": 452,
+        "abstain": 11,
+        "na": 60
+      },
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 245,
+            "yes": 1,
+            "no": 229,
+            "abstain": 0,
+            "na": 15
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 152,
+            "yes": 1,
+            "no": 138,
+            "abstain": 1,
+            "na": 12
+          }
+        },
+        {
+          "name": "AfD",
+          "votes": {
+            "total": 88,
+            "yes": 2,
+            "no": 76,
+            "abstain": 0,
+            "na": 10
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 80,
+            "yes": 65,
+            "no": 1,
+            "abstain": 7,
+            "na": 7
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 69,
+            "yes": 53,
+            "no": 4,
+            "abstain": 2,
+            "na": 10
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 67,
+            "yes": 61,
+            "no": 0,
+            "abstain": 1,
+            "na": 5
+          }
+        },
+        {
+          "name": "fraktionslose",
+          "votes": {
+            "total": 8,
+            "yes": 3,
+            "no": 4,
+            "abstain": 0,
+            "na": 1
+          }
+        }
+      ]
+    },
+    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522469/7522469_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "media": {
+      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7522469",
+      "mediathekURL": "https://dbtg.tv/fvid/7522469",
+      "videoURLs": [
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522469/7522469_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+          "description": "hoch (5000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522469/7522469_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
+          "description": "mittel (2000 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522469/7522469_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
+          "description": "niedrig (514 kb)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522469/7522469_mp3_128kb_stereo_de_128.mp3?fdl=1",
+          "description": "Audio (MP3)"
+        },
+        {
+          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7522469/7522469.srt",
+          "description": "Untertitel (SRT)"
+        }
+      ]
+    },
+    "speeches": [
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/405919d8dfcdf0ae25546eff4f70e387/jc/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522471#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      },
+      {
+        "deputyName": "Lehmann, Sven",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527402/3x4/170/227/c97139c67c217eb94e38e4b4118ccc7f/ZV/lehmann_sven_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522472#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Bündnis 90/Die Grünen"
+      },
+      {
+        "deputyName": "Wiesmann, Bettina Margarethe",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527224/3x4/170/227/d70f20d40a7bf396a7a6d8dc19b8de58/HC/wiesmann_bettina_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522473#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Storch, Beatrix von",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523914/3x4/170/227/780da440e3da5d4966b84377b3900272/fn/storch_beatrix_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522474#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Rüthrich, Susann",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523070/3x4/170/227/8dd6a3e39a723d0c0388567cdc263ddf/lQ/ruethrich_susann_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522475#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Brandenburg (Rhein-Neckar), Dr. Jens",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518582/3x4/170/227/9d1bd5c2a7f89b21225c46a7b660d640/Yp/brandenburg_jens_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522476#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Achelwilm, Doris",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/526142/3x4/170/227/ee875f542984d08ba149023f7abc4d81/sP/achelwilm_doris_gross.png",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522477#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "Die Linke"
+      },
+      {
+        "deputyName": "Henrichmann, Marc",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/520302/3x4/170/227/4c4211d692b2616cf3a949356f1e9ceb/md/henrichmann_marc_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522478#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Brunner, Dr. Karl-Heinz",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/518732/3x4/170/227/e7293292805c93024ac9b7e12ff57e90/qJ/brunner_karlheinz_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522479#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "SPD"
+      },
+      {
+        "deputyName": "Pilsinger, Stephan",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/529384/3x4/170/227/5a66e18bec6098440c9babcc3769ddeb/JJ/pilsinger_stephan_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522480#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "CDU/CSU"
+      },
+      {
+        "deputyName": "Strack-Zimmermann, Dr. Marie-Agnes",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/527426/3x4/170/227/61f8a9bbb895b999664257c031a6379/GC/strack_zimmermann_marie_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522481#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "FDP"
+      },
+      {
+        "deputyName": "Storch, Beatrix von",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/523914/3x4/170/227/780da440e3da5d4966b84377b3900272/fn/storch_beatrix_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522482#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": null,
+        "party": "AfD"
+      },
+      {
+        "deputyName": "Ziegler, Dagmar",
+        "deputyImgURL": "https://www.bundestag.de/resource/image/524768/3x4/170/227/405919d8dfcdf0ae25546eff4f70e387/jc/ziegler_dagmar_gross.jpg",
+        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7522484#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
+        "function": "Bundestagsvizepräsidentin",
+        "party": null
+      }
+    ]
+  }
+}
