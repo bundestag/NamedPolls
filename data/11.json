@@ -4,22 +4,76 @@
   },
   "data": {
     "id": "11",
-    "date": null,
-    "title": "",
+    "date": "2012-03-29T00:00:00.000Z",
+    "title": "Abbau der kalten Progression",
     "topTitle": "",
-    "description": "",
+    "description": "Gesetzentwurf der Bundesregierung (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/086/1708683.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/8683 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/8683</a>) in der Fassung der Beschlussempfehlung des Finanzausschusses (Drucksache <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/17/092/1709201.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/9201 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/9201</a>) angenommen",
     "detailedDescription": "",
-    "documents": [],
-    "deputyVotesURL": "",
+    "documents": [
+      "https://dip21.bundestag.de/dip21/btd/17/086/1708683.pdf",
+      "https://dip21.bundestag.de/dip21/btd/17/092/1709201.pdf"
+    ],
+    "deputyVotesURL": "https://www.bundestag.de/apps/na/na/namensliste.form?id=11&ajax=true",
     "votes": {
       "all": {
-        "total": null,
-        "yes": null,
-        "no": null,
-        "abstain": null,
-        "na": null
+        "total": 620,
+        "yes": 310,
+        "no": 243,
+        "abstain": 0,
+        "na": 67
       },
-      "parties": []
+      "parties": [
+        {
+          "name": "CDU/CSU",
+          "votes": {
+            "total": 237,
+            "yes": 225,
+            "no": 0,
+            "abstain": 0,
+            "na": 12
+          }
+        },
+        {
+          "name": "SPD",
+          "votes": {
+            "total": 146,
+            "yes": 0,
+            "no": 118,
+            "abstain": 0,
+            "na": 28
+          }
+        },
+        {
+          "name": "FDP",
+          "votes": {
+            "total": 93,
+            "yes": 85,
+            "no": 0,
+            "abstain": 0,
+            "na": 8
+          }
+        },
+        {
+          "name": "DIE LINKE.",
+          "votes": {
+            "total": 76,
+            "yes": 0,
+            "no": 63,
+            "abstain": 0,
+            "na": 13
+          }
+        },
+        {
+          "name": "B90/GRÜNE",
+          "votes": {
+            "total": 68,
+            "yes": 0,
+            "no": 62,
+            "abstain": 0,
+            "na": 6
+          }
+        }
+      ]
     },
     "plenarProtocolURL": "",
     "media": {
