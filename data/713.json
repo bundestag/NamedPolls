@@ -6,9 +6,9 @@
     "id": "713",
     "date": "2021-02-25T00:00:00.000Z",
     "title": "Verein Indymedia verbieten (Beschlussempfehlung)",
-    "topTitle": "Marginalspalte",
+    "topTitle": "",
     "description": "Beschlussempfehlung des Ausschusses für Inneres und Heimat (4. Ausschuss) - zu dem Antrag der Fraktion der AfD - Verein Indymedia verbieten (Drucksachen <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/206/1920682.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20682 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20682</a> und <a target='_blank' href=\"https://dip21.bundestag.de/dip21/btd/19/241/1924123.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24123 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24123</a>)",
-    "detailedDescription": "Petra Pau",
+    "detailedDescription": "",
     "documents": [
       "https://dip21.bundestag.de/dip21/btd/19/206/1920682.pdf",
       "https://dip21.bundestag.de/dip21/btd/19/241/1924123.pdf"
@@ -95,146 +95,12 @@
         }
       ]
     },
-    "plenarProtocolURL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7504646/7504646_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
+    "plenarProtocolURL": "",
     "media": {
-      "iTunesURL": "itpc://webtv.bundestag.de/player/macros/bttv/podcast/video/auswahl.xml?contentIds=7504646",
-      "mediathekURL": "https://dbtg.tv/fvid/7504646",
-      "videoURLs": [
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7504646/7504646_h264_1920_1080_5000kb_baseline_de_5000.mp4?fdl=1",
-          "description": "hoch (5000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7504646/7504646_h264_720_400_2000kb_baseline_de_2192.mp4?fdl=1",
-          "description": "mittel (2000 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7504646/7504646_h264_512_288_514kb_baseline_de_514.mp4?fdl=1",
-          "description": "niedrig (514 kb)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7504646/7504646_mp3_128kb_stereo_de_128.mp3?fdl=1",
-          "description": "Audio (MP3)"
-        },
-        {
-          "URL": "https://cldf-od.r53.cdn.tv1.eu/1000153copo/ondemand/app144277506/145293313/7504646/7504646.srt",
-          "description": "Untertitel (SRT)"
-        }
-      ]
+      "iTunesURL": "",
+      "mediathekURL": "",
+      "videoURLs": []
     },
-    "speeches": [
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504645#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      },
-      {
-        "deputyName": "Bernstiel, Christoph",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/526766/3x4/170/227/394b347f4aa0a5de46fdc25c0dd2513/YR/bernstiel_christoph_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504647#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Storch, Beatrix von",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523914/3x4/170/227/780da440e3da5d4966b84377b3900272/fn/storch_beatrix_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504648#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Rüthrich, Susann",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523070/3x4/170/227/8dd6a3e39a723d0c0388567cdc263ddf/lQ/ruethrich_susann_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504649#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Hess, Martin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520350/3x4/170/227/dcc3aa858b5f808eff6b53e79e321645/Do/hess_martin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504650#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "AfD"
-      },
-      {
-        "deputyName": "Rüthrich, Susann",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523070/3x4/170/227/8dd6a3e39a723d0c0388567cdc263ddf/lQ/ruethrich_susann_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504651#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Kuhle, Konstantin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527228/3x4/170/227/1c66ab840da659a53b077e9be4ff3f94/SW/kuhle_konstantin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504652#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Jelpke, Ulla",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/520692/3x4/170/227/4789dd977bce743925929e09f37f3b2c/kM/jelpke_ulla_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504653#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Die Linke"
-      },
-      {
-        "deputyName": "Mihalic, Dr. Irene",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522034/3x4/170/227/8802aef4b3cf432a958a6bbc33d69ee7/Ww/mihalic_irene_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504654#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "Bündnis 90/Die Grünen"
-      },
-      {
-        "deputyName": "Wendt, Marian",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/524536/3x4/170/227/f1c54aa80a09575be2b1f2fbfd0e0781/HA/wendt_marian_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504655#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Lindh, Helge",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/530054/3x4/170/227/d2e2e23cc8f94c63b9ab3db8a1df0493/DO/lindh_helge_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504656#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Kuffer, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529172/3x4/170/227/fe3d34fa91b636c24c421a546a892d1d/LV/kuffer_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504657#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Scheer, Dr. Nina",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/523198/3x4/170/227/e03bb1f31df605768b23842d3eaeada4/uM/scheer_nina_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504658#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "SPD"
-      },
-      {
-        "deputyName": "Kuhle, Konstantin",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/527228/3x4/170/227/1c66ab840da659a53b077e9be4ff3f94/SW/kuhle_konstantin_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504659#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "FDP"
-      },
-      {
-        "deputyName": "Kuffer, Michael",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/529172/3x4/170/227/fe3d34fa91b636c24c421a546a892d1d/LV/kuffer_michael_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504660#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": null,
-        "party": "CDU/CSU"
-      },
-      {
-        "deputyName": "Pau, Petra",
-        "deputyImgURL": "https://www.bundestag.de/resource/image/522570/3x4/170/227/690e5ffe0e26124762b6746d4e63d4d4/HN/pau_petra_gross.jpg",
-        "mediathekURL": "https://www.bundestag.de/mediathek?videoid=7504662#url=L21lZGlhdGhla292ZXJsYXk=&mod=mod536668",
-        "function": "Bundestagsvizepräsidentin",
-        "party": null
-      }
-    ]
+    "speeches": []
   }
 }
